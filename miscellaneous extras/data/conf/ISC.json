@@ -1,0 +1,486 @@
+{
+    "key": "ISC_17",
+    "conference": "ISC High Performance",
+    "organization": [],
+    "country": "DE",
+    "postdate": "2017-06-18",
+    "last_deadline": "2016-12-02",
+    "review_days": 73,
+    "submissions": 66,
+    "min_reviews": 3,
+    "total_reviews": "",
+    "double_blind": true,
+    "rebuttal": true,
+    "open_access": false,
+    "age": 31,
+    "past_papers": "",
+    "past_citations": "",
+    "h5_index": "",
+    "h5_median": "",
+    "notes": "Accepted papers are published in the LNCS series. The conference dates back to 1986, but hasn't always had a research paper track.",
+    "pc_chairs": [
+        "Pavan Balaji (anl.gov)",
+        "David E. Keyes (KAUST)"
+    ],
+    "pc_members": [
+        "Hans Eberle (NVIDIA, USA)",
+        "Holger Fr\u00f6ning (University of Heidelberg, Germany)",
+        "Pedro Javier Garcia (University of Castilla-La Mancha, Spain)",
+        "Wolfgang Karl (Karlsruhe Institute of Technology, Germany)",
+        "S\u00e9bastien Rumley (Columbia University, USA)",
+        "Federico Silla (Technical University of Valencia, Spain)",
+        "Tor Skeie (Simula Labs & University of Oslo, Norway)",
+        "Carsten Trinitis (TU M\u00fcnchen, Germany)",
+        "Peter Ziegenhein (Institute of Cancer Research, UK)",
+        "Ilkay Altintas (San Diego Supercomputing Center, USA)",
+        "Yuefan Deng (Stony Brook University, USA)",
+        "Vassil Dimitrov (University of Calgary, Canada)",
+        "Jacek Kitowski (AGH University of Science & Technology, Poland)",
+        "Scott Klasky (Oak Ridge National Laboratory, USA)",
+        "Axel Klawonn (Universit\u00e4t zu K\u00f6ln, Germany)",
+        "Marek Michalewicz (ICM, University of Warsaw, Poland)",
+        "Gabriel Noaje (HPE-SGI, Singapore)",
+        "Lena Oden (Argonne National Laboratory, USA)",
+        "Ulrich R\u00fcde (Friedrich-Alexander University Erlangen-Nuremberg, Germany)",
+        "Sven-Bodo Scholz (Heriot-Watt University Edinburgh, UK)",
+        "Thomas Sterling (Indiana University, USA)",
+        "Antonino Tumeo (Pacific Northwest National Laboratory, USA)",
+        "Marian Vajtersic (University of Salzburg, Austria)",
+        "Ana Lucia Varbanescu (University of Amsterdam, The Netherlands)",
+        "Priya Vashishta (University of Southern California, USA)",
+        "Thomas B\u00f6nisch (High Performance Computing Center Stuttgart, Germany)",
+        "Mahdi Bohlouli (University of Siegen, Germany)",
+        "Luc Boug\u00e9 (ENS Rennes, France)",
+        "Andr\u00e9 Brinkmann (Johannes Gutenberg-Universit\u00e4t Mainz, Germany)",
+        "Matthieu Dorier (Argonne National Laboratory, USA)",
+        "Steffen Frey (University of Stuttgart, Germany)",
+        "Dean Hildebrand (IBM, USA)",
+        "Hideyuki Kawashima (University of Tsukuba, Japan)",
+        "Jay Lofstead (Sandia National Laboratory, USA)",
+        "Kathryn Mohror (Lawrence Livermore National Laboratory, USA)",
+        "Maria S. Perez (Universidad Politecnica de Madrid, Spain)",
+        "Judy Qiu (Indiana University, USA)",
+        "Shinji Sumimoto (Fujitsu, Japan)",
+        "Ryousei Takano (AIST, Japan)",
+        "Osamu Tatebe (University of Tsukuba, Japan)",
+        "Abdelhalim Amer (Argonne National Laboratory, USA)",
+        "Sunita Chandrasekaran (University of Delaware, USA)",
+        "Adrian Jackson (EPCC, UK)",
+        "Guido Juckeland (HZDR, Germany)",
+        "Michael Klemm (Intel, Germany)",
+        "Arthur Maccabe (Oak Ridge National Laboratory, USA)",
+        "Naoya Maruyama (RIKEN AICS, Japan)",
+        "Simon McIntosh-Smith (University of Bristol, UK)",
+        "Chris J. Newburn (NVIDIA, USA)",
+        "Will Sawyer (CSCS, Switzerland)",
+        "Sangmin Seo (Argonne National Laboratory, USA)",
+        "Martin Schulz (Lawrence Livermore National Laboratory, USA)",
+        "Michela Taufer (University of Delaware, USA)",
+        "Christian Terboven (RWTH Aachen University, Germany)",
+        "Sandra Wienke (RWTH Aachen University, Germany)"
+    ],
+    "keynote_speakers": [
+        "Jennifer Tour Chayes (Microsoft)",
+        "Peter Bauer (ECMWF)",
+        "Haohuan Fu (NSC at Wuxi)",
+        "Andrew Jones (Amazon)",
+        "Thomas Sterling (Indiana University)",
+        "Thomas Breuel (NVIDIA)",
+        "Zeynep Akata (AMLab)"
+    ],
+    "session_chairs": [
+        "Jack Dongarra",
+        "Steve Conway",
+        "Vincent Moureau",
+        "Rosa M. Badia",
+        "Pavan Balaji",
+        "Jack Dongarra",
+        "Stephen Pawlowski",
+        "Satoshi Matsuoka",
+        "Dieter Kranzlm\u00fcller (LMU & LRZ)",
+        "Kristel Michielsen",
+        "Thomas Schulthess",
+        "Janis Keuper",
+        "Brian Chol Soo Standen",
+        "Pavan Balaji",
+        "Thomas Ludwig",
+        "Chris J. Newburn",
+        "Marek T. Michalewicz",
+        "Sunita Chandrasekaran",
+        "Osamu Tatebe",
+        "Alfred Geiger",
+        "Marie-Christine Sawley",
+        "Gerd B\u00fcttner",
+        "Chris Johnson",
+        "Sarah Neuwirth",
+        "Franck Cappello",
+        "Georg Hager",
+        "Kengo Nakajima",
+        "John Shalf",
+        "David E. Keyes",
+        "Frank Baetke",
+        "Janis Keuper",
+        "Janis Keuper",
+        "Ren\u00e9 Wies",
+        "Damian Borth",
+        "Mahdi Bohlouli",
+        "Simon McIntosh-Smith",
+        "Michela Taufer",
+        "Satoshi Matsuoka",
+        "Satoshi Matsuoka",
+        "Satoshi Matsuoka"
+    ],
+    "panelists": [
+        "Jan Eitzinger (RRZE)",
+        "Sebastian Hack (Universit\u00e4t des Saarlandes)",
+        "Paul Kelly (Imperial College London)",
+        "Harald K\u00f6stler, University of Erlangen-Nuremberg)",
+        "Louis-Noel Pouchet ( Ohio State University)",
+        "Michael Wolfe (NVIDIA/PGI)",
+        "Georg Hager (RRZE)",
+        "Gerhard Wellein (RRZE)",
+        "John Danskin (NVIDIA)",
+        "Bronis R. de Supinski (LLNL)",
+        "Al Gara (Intel)",
+        "Satoshi Matsuoka (Tokyo Institute of Technology)",
+        "Simon McIntosh-Smith (University of Bristol)",
+        "Teresa M. Quinn (LLNL)",
+        "Gerd B\u00fcttner (Airbus Operation)",
+        "Martin Kaiser (MAN Diesel & Turbo SE)",
+        "Wim Slagter (ANSYS)",
+        "Jan Wender (Atos)",
+        "Bj\u00f6rn Willenberg (GNS Systems)",
+        "Felix Wolfheimer (Dassault Systems)",
+        "Jonathan Eastep (Intel)",
+        "Daniel Hackenberg (TU Dresden)",
+        "Martin Schulz (LLNL)",
+        "Torsten Wilde (LRZ)",
+        "Mich\u00e8le Weiland (EPCC)",
+        "Jussi Kukkonen (Penguin Computing)",
+        "Bill Mannel (HPE)",
+        "Depei Qian (Sun Yat-Sen University & Beihang University)",
+        "Rick Stevens (University of Chicago & ANL)",
+        "Addison Snell"
+    ],
+    "papers": [
+        {
+            "key": "ISC_17_001",
+            "title": "Fully Resolved Simulations of Dune Formation in Riverbeds",
+            "authors": [
+                "Cristoph Rettinger",
+                "Christian Godenschwager",
+                "Sebastian Eibl",
+                "Tobias Preclik",
+                "Tobias Schruff",
+                "Roy Frings",
+                "Ulrich R\u00fcde"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "ISC_17_002",
+            "title": "Tile Low Rank Cholesky Factorization for Climate/Weather Modeling Applications on Manycore Architectures",
+            "authors": [
+                "Kadir Akbudak",
+                "Hatem Ltaief",
+                "Aleksandr Mikhalev",
+                "David E. Keyes"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "ISC_17_003",
+            "title": "EDGE: Extreme Scale Fused Seismic Simulations with the Discontinuous Galerkin Method",
+            "authors": [
+                "Alexander Breuer",
+                "Alexander Heinecke",
+                "Yifeng Cui"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "ISC_17_004",
+            "title": "LAMMPS\u2019PPPM Long-Range Solver for the Second Generation Xeon Phi",
+            "authors": [
+                "William McDoniel",
+                "Markus H\u00f6hnerbach",
+                "Rodrigo Canales",
+                "Ahmed E. Ismail",
+                "Paolo Bientinesi"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "ISC_17_005",
+            "title": "Communication Reducing Algorithms for Distributed Hierarchical N-Body Problems with Boundary Distributions",
+            "authors": [
+                "Mustafa Abduljabbar",
+                "George S. Markomanolis",
+                "Huda Ibeid",
+                "Rio Yokota",
+                "David E. Keyes"
+            ],
+            "topics": [
+                "HPC",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ISC_17_006",
+            "title": "EvoGraph: On-the-Fly Efficient Mining of Evolving Graphs on GPU",
+            "authors": [
+                "Dipanjan Sengupta",
+                "Shuaiwen Leon Song"
+            ],
+            "topics": [
+                "HPC",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ISC_17_007",
+            "title": "High-Performance Incremental SVM Learning on Intel\u00aeXeon Phi\u2122 Processors",
+            "authors": [
+                "Dipanjan Sengupta",
+                "Yida Wang",
+                "Narayanan Sundaram",
+                "Theodore L. Willke"
+            ],
+            "topics": [
+                "HPC",
+                "Data"
+            ]
+        },
+        {
+            "key": "ISC_17_008",
+            "title": "Accelerating Seismic Simulations Using the Intel Xeon Phi Knight sLanding Processor",
+            "authors": [
+                "Josh Tobin",
+                "Alexander Breuer",
+                "Alexander Heinecke",
+                "Charles Yount",
+                "Yifeng Cui"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "ISC_17_009",
+            "title": "A Framework for Out of Memory SVD Algorithms",
+            "authors": [
+                "Khairul Kabir",
+                "Azzam Haidar",
+                "Stanimire Tomov",
+                "Aurelien Bouteiller",
+                "Jack Dongarra"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "ISC_17_010",
+            "title": "Neuromapp: A mini-application Framework to Improve Neural Simulators",
+            "authors": [
+                "Timoth\u00e9e Ewart",
+                "Judit Planas",
+                "Francesco Cremonesi",
+                "Kai Langen",
+                "Felix Sch\u00fcrmann",
+                "Fabien Delalondre"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "ISC_17_011",
+            "title": "gearshifft\u2013The FFT Benchmark Suite for Heterogeneous Platforms",
+            "authors": [
+                "Peter Steinbach",
+                "Matthias Werner"
+            ],
+            "topics": [
+                "HPC",
+                "GPGPU",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "ISC_17_012",
+            "title": "An Overview of MPI Characteristics of Exascale Proxy Applications",
+            "authors": [
+                "Benjamin Klenk",
+                "Holger Fr\u00f6ning"
+            ],
+            "topics": [
+                "HPC",
+                "Network"
+            ],
+            "award": true
+        },
+        {
+            "key": "ISC_17_013",
+            "title": "Fast Matrix-Free Discontinuous Galerkin Kernels on Modern Computer Architectures",
+            "authors": [
+                "Martin Kronbichler",
+                "Katharina Kormann",
+                "Igor Pasichnyk",
+                "Momme Allalen"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "ISC_17_014",
+            "title": "A New Parallel Research Kernel to Expand Research on Dynamic Load-Balancing Capabilities",
+            "authors": [
+                "Rob F. Van der Wijngaart",
+                "Evangelos Georganas",
+                "Timothy G. Mattson",
+                "Andrew Wissink"
+            ],
+            "topics": [
+                "HPC",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "ISC_17_015",
+            "title": "Extreme Event Analysis in Next Generation Simulation Architectures",
+            "authors": [
+                "Stephen Hamilton",
+                "Randal Burns",
+                "Charles Meneveau",
+                "Perry Johnson",
+                "Peter Lindstrom",
+                "John Patchett",
+                "Alexander S. Szalay"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "ISC_17_016",
+            "title": "An Analysis of Core- and Chip-Level Architectural Features in Four Generations of Intel Server Processors",
+            "authors": [
+                "Johannes Hofmann",
+                "Georg Hager",
+                "Gerhard Wellein",
+                "Dietmar Fey"
+            ],
+            "topics": [
+                "HPC",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISC_17_017",
+            "title": "Alleviating I/O Interference Through Workload-Aware Striping and Load-Balancing on Parallel File Systems",
+            "authors": [
+                "Yuichi Tsujita",
+                "Tatsuhiko Yoshizaki",
+                "Keiji Yamamoto",
+                "Fumichika Sueyasu",
+                "Ryoji Miyazaki",
+                "Atsuya Uno"
+            ],
+            "topics": [
+                "Storage",
+                "HPC"
+            ]
+        },
+        {
+            "key": "ISC_17_018",
+            "title": "Designing Dynamic and Adaptive MPI Point-to-point Communication Protocols for Efficient Overlap of Computation and Communication",
+            "authors": [
+                "Hari Subramoni",
+                "Sourav Chakraborty",
+                "Dhabaleswar K. Panda"
+            ],
+            "topics": [
+                "HPC",
+                "Network"
+            ],
+            "award": true
+        },
+        {
+            "key": "ISC_17_019",
+            "title": "Diagnosing Performance Variations in HPC Applications Using Machine Learning",
+            "authors": [
+                "Ozan Tuncer (bu.edu)",
+                "Emre Ates (bu.edu)",
+                "Yijia Zhang (bu.edu)",
+                "Ata Turk (bu.edu)",
+                "Jim Brandt (sandia.gov)",
+                "Vitus J. Leung (sandia.gov)",
+                "Manuel Egele (bu.edu)",
+                "Ayse K. Coskun (bu.edu)"
+            ],
+            "topics": [
+                "HPC"
+            ],
+            "award": true
+        },
+        {
+            "key": "ISC_17_020",
+            "title": "The Investigation of the ARMv7 and Intel Haswell Architectures Suitability for Performance and Energy-Aware Computing",
+            "authors": [
+                "Vojtech Nikl",
+                "Michal Hradecky",
+                "Jakub Keleceni",
+                "Jiri Jaros"
+            ],
+            "topics": [
+                "HPC",
+                "Architecture",
+                "Energy"
+            ]
+        },
+        {
+            "key": "ISC_17_021",
+            "title": "Global Extensible Open Power Manager: A Vehicle for HPC Community Collaboration on Co-Designed Energy Management Solutions",
+            "authors": [
+                "Jonathan Eastep",
+                "Steve Sylvester",
+                "Christopher Cantalupo",
+                "Brad Geltz",
+                "Federico Ardanaz",
+                "Asma Al-Rawi",
+                "Kelly Livingston",
+                "Fuat Keceli",
+                "Matthias Maiterth",
+                "Siddhartha Jana"
+            ],
+            "topics": [
+                "HPC",
+                "Energy"
+            ]
+        },
+        {
+            "key": "ISC_17_022",
+            "title": "Metrics for Energy-Aware Software Optimisation",
+            "authors": [
+                "Stephen I. Roberts",
+                "Steven A. Wright",
+                "Suhaib A. Fahmy",
+                "Stephen A. Jarvis"
+            ],
+            "topics": [
+                "HPC",
+                "Energy"
+            ]
+        }
+    ]
+}

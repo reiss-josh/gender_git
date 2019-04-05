@@ -1,0 +1,591 @@
+{
+    "key": "CIDR_17",
+    "conference": "The biennial Conference on Innovative Data Systems Research",
+    "organization": [],
+    "country": "US",
+    "postdate": "2017-01-08",
+    "last_deadline": "2016-08-21",
+    "review_days": 53,
+    "submissions": 78,
+    "min_reviews": 5,
+    "total_reviews": "",
+    "double_blind": false,
+    "rebuttal": "",
+    "open_access": true,
+    "age": 8,
+    "past_papers": 293,
+    "past_citations": "",
+    "h5_index": 30,
+    "h5_median": 53,
+    "notes": "Only one paper allowed per author; each paper received at least two PC chair reviews; emphasis on non-incremental work; limited attendance capacity",
+    "pc_chairs": [
+        "Donald Kossmann (Microsoft)",
+        "Magdalena Balazinska (University of Washington)",
+        "Michael Stonebraker (MIT)"
+    ],
+    "pc_members": [
+        "Daniel J. Abadi (Yale University)",
+        "Rakesh Agrawal (Microsoft)",
+        "Shivnath Babu (Duke University)",
+        "Jose Blakeley (Microsoft)",
+        "Philippe Bonnet (University of Copenhagen)",
+        "Mike Caffarella (University of Michigan)",
+        "Brian Cooper (Google)",
+        "Sudipto Das (Microsoft)",
+        "Anhai Doan (University of Wisconsin-Madison)",
+        "Jennie Duggan (Northwestern University)",
+        "Aaron J. Elmore (University of Chicago)",
+        "Alan Fekete (University of Sydney)",
+        "Shel Finkelstein (UC Santa Cruz)",
+        "Stratos Idreos (Harvard University)",
+        "Tim Kraska (Brown University)",
+        "Harumi Kuno (HP)",
+        "David Lomet (Microsoft)",
+        "Sergey Melnik (Google)",
+        "Barzan Mozafari (University of Michigan)",
+        "Thomas Neumann (Technical University of Munich)",
+        "Fatma Ozcan (IBM)",
+        "Ippokratis Pandis (Amazon)",
+        "Olga Papaemmanouil (Brandeis University)",
+        "Jignesh M. Patel (University of Wisconsin-Madison)",
+        "Andrew Pavlo (CMU)",
+        "Christopher Re (Stanford University)",
+        "Eric Sedlar (Oracle)",
+        "Pinar Tozun (IBM)",
+        "Daisy Zhe Wang (University of Florida)",
+        "Gerhard Weikum (MPI)"
+    ],
+    "keynote_speakers": [
+        "Emily Galt (GE)",
+        "Sam Maddem (MIT)"
+    ],
+    "session_chairs": [
+        "Olga Papaemmanouil",
+        "Zachary G. Ives",
+        "Ippokratis Pandis",
+        "Jennie Duggan",
+        "David Dewitt",
+        "Andrew Pavlo",
+        "Barzan Mozafari",
+        "Ziawasch Abedjan",
+        "Alan Fekete",
+        "Pinar Tozun",
+        "Michael Stonebraker",
+        "Andrew Pavlo",
+        "Fatma Ozcan"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "CIDR_17_001",
+            "title": "Data Ingestion for the Connected World",
+            "authors": [
+                "John Meehan",
+                "Cansu Aslantas",
+                "Stan Zdonik",
+                "Nesime Tatbul"
+            ],
+            "topics": [
+                "Data",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CIDR_17_002",
+            "title": "Evolving Databases for New-Gen Big Data Applications",
+            "authors": [
+                "Ronald Barber",
+                "Christian Garcia-Arellano",
+                "Ronen Grosman",
+                "Rene Mueller",
+                "Vijayshankar Raman",
+                "Richard Sidle",
+                "Matt Spilchen",
+                "Adam Storm",
+                "Yuanyuan Tian",
+                "Pinar Tozun",
+                "Daniel Zilio",
+                "Matt Huras",
+                "Guy Lohman",
+                "Chandrasekaran Mohan",
+                "Fatma Ozcan",
+                "Hamid Pirahesh"
+            ],
+            "topics": [
+                "Data",
+                "DB"
+            ]
+        },
+        {
+            "key": "CIDR_17_003",
+            "title": "SnappyData: A Unified Cluster for Streaming, Transactions and Interactice Analytics",
+            "authors": [
+                "Barzan Mozafari",
+                "Jags Ramnarayan",
+                "Sudhir Menon",
+                "Yogesh Mahajan",
+                "Soubhik Chakraborty",
+                "Hemant Bhanawat",
+                "Kishor Bachhav"
+            ],
+            "topics": [
+                "Cloud",
+                "Data"
+            ]
+        },
+        {
+            "key": "CIDR_17_004",
+            "title": "Macrobase: Prioritizing Attention in fast data",
+            "authors": [
+                "Peter Bailis",
+                "Edward Gan",
+                "Kexin Rong",
+                "Sahaana Suri"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "CIDR_17_005",
+            "title": "The Data Civilizer System",
+            "authors": [
+                "Dong Deng",
+                "Raul Castro Fernandez",
+                "Ziawasch Abedjan",
+                "Sibo Wang",
+                "Michael Stonebraker",
+                "Ahmed Elmagarmid",
+                "Ihab Ilyas",
+                "Samuel Madden",
+                "Mourad Ouzzani",
+                "Nan Tang"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "CIDR_17_006",
+            "title": "Ground: A Data Context Service",
+            "authors": [
+                "Joseph M. Hellerstein",
+                "Vikram Sreekanti",
+                "Joseph E. Gonzales",
+                "Sudhansku Arora",
+                "Arka Bhattacharyya",
+                "Shirshanka Das",
+                "Akon Dey",
+                "Mark Donsky",
+                "Gabriel Fierro",
+                "Sreyashi Nag",
+                "Krishna Ramachandran",
+                "Chang She",
+                "Eric Sun",
+                "Carl Steinbach",
+                "Venkat Subramanian"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "CIDR_17_007",
+            "title": "Adaptive Schema Databases",
+            "authors": [
+                "William Spoth",
+                "Bahareh Sadat Arab",
+                "Eric S. Chan",
+                "Dieter Gawlick",
+                "Adel Ghoneimy",
+                "Boris Glavic",
+                "Beda Hammerschmidt",
+                "Oliver Kennedy",
+                "Seokki Lee",
+                "Zhen Hua Liu",
+                "Xing Niu",
+                "Ying Yang"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "CIDR_17_008",
+            "title": "The Case For Heterogeneous HTAP",
+            "authors": [
+                "Raja Appuswamy",
+                "Manos Karpathiotakis",
+                "Danica Porobic",
+                "Anastasia Ailamaki"
+            ],
+            "topics": [
+                "DB",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "CIDR_17_009",
+            "title": "Cardinality Estimation Done Right: Index-Based Join Sampling",
+            "authors": [
+                "Viktor Leis",
+                "Bernharde Radke",
+                "Andrey Gubichev",
+                "Alfons Kempner",
+                "Thomas Neumann"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "CIDR_17_010",
+            "title": "Indexing in an Actor-Oriented Database",
+            "authors": [
+                "Philip A. Bernstein",
+                "Mohammad Dashti",
+                "Tim Kiefer",
+                "David Maier"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "CIDR_17_011",
+            "title": "Data Provenance at Internet Scale: Architecture, Experiences, and the Road Ahead",
+            "authors": [
+                "Ang Chen",
+                "Yang Wu",
+                "Andreas Haeberlen",
+                "Boon Thau Loo",
+                "Wenchao Zhou"
+            ],
+            "topics": [
+                "DB",
+                "Network"
+            ]
+        },
+        {
+            "key": "CIDR_17_012",
+            "title": "The Myria Big Data Management and Analytics System and Cloud Services",
+            "authors": [
+                "Jingjing Wang",
+                "Tobin Baker",
+                "Magdalena Balazinska",
+                "Daniel Halperin",
+                "Brandon Hayes",
+                "Bill Howe",
+                "Dylan Hutchinson",
+                "Shrainik Jain",
+                "Ryan Maas",
+                "Parmita Mehta",
+                "Dominik Moritz",
+                "Brandon Myers",
+                "Jennifer Ortiz",
+                "Dan Suciu",
+                "Andrew Whittaker",
+                "Shengliang Xu"
+            ],
+            "topics": [
+                "Cloud",
+                "Data"
+            ]
+        },
+        {
+            "key": "CIDR_17_013",
+            "title": "Demonstrating the BigDAWG Polystore System for Ocean Metagenomics Analysis",
+            "authors": [
+                "Timothy G. Mattson",
+                "Vijay Gadepally",
+                "Zuohao She",
+                "Adam Dziedzic",
+                "Jeff Parkhurst"
+            ],
+            "topics": [
+                "Data",
+                "Storage"
+            ]
+        },
+        {
+            "key": "CIDR_17_014",
+            "title": "Self-Driving Database Management Systems",
+            "authors": [
+                "Andrew Pavlo",
+                "Gustavo Angulo",
+                "Joy Arulraj",
+                "Haibin Lin",
+                "Jiexi Lin",
+                "Lin Ma",
+                "Prashanth Menon",
+                "Todd C. Mowry",
+                "Matthew Perron",
+                "Ian Quah",
+                "Siddharth Santurkar",
+                "Anthony Tomasic",
+                "Skye Toor",
+                "Dana Van Aken",
+                "Ziqi Wang",
+                "Yingjun Wu",
+                "Ran Xian",
+                "Tieying Zhang"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "CIDR_17_015",
+            "title": "Fast-Forwarding to Desired Visualizations with Zenvisage",
+            "authors": [
+                "Tarique Siddiqui",
+                "John Lee",
+                "Albert Kim",
+                "Edward Xue",
+                "Xiaofo Yu",
+                "Sean Zou",
+                "Lijin Guo",
+                "Changfeng Liu",
+                "Chaoran Wang",
+                "Karrie Karahalios",
+                "Aditya Parameswaran"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "CIDR_17_016",
+            "title": "Combining Design and Performance in a Data Visualization Management System",
+            "authors": [
+                "Eugene Wu",
+                "Fotis Psallidas",
+                "Zhengjie Miao",
+                "Haoci Zhang",
+                "Laura Rettig"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "CIDR_17_017",
+            "title": "Ava: From Data to Insights Through Conversations",
+            "authors": [
+                "Rogers Jeffrey Leo John",
+                "Navneet Potti",
+                "Jignesh M. Patel"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "CIDR_17_018",
+            "title": "Dependency-Driven Analytics: A Compass for Uncharted Data Oceans",
+            "authors": [
+                "Ruslan Mavlyutov",
+                "Carlo Curino",
+                "Boris Asipov",
+                "Phil Cudre-Mauroux"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "CIDR_17_019",
+            "title": "Database Forensic Analysis with DBCarver",
+            "authors": [
+                "James Wagner",
+                "Alexander Rasin",
+                "Tanu Malik",
+                "Karen Heart",
+                "Hugo Jehle",
+                "Jonathan Grier"
+            ],
+            "topics": [
+                "DB",
+                "Security"
+            ]
+        },
+        {
+            "key": "CIDR_17_020",
+            "title": "A Model for Fine-Grained Data Citation",
+            "authors": [
+                "Susan Davidson",
+                "Daniel Deutch",
+                "Tova Milo",
+                "Gianmaria Silvello"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "CIDR_17_021",
+            "title": "Latch-free Synchronization in Database Systems: Silver Bullet or Fool\u2019s Gold?",
+            "authors": [
+                "Jose M. Faleiro",
+                "Daniel J. Abadi"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "CIDR_17_022",
+            "title": "Adaptive Concurrency Control: Despite the Looking Glass, One Concurrency Control Does Not Fit All",
+            "authors": [
+                "Dixin Tang",
+                "Hao Jiang",
+                "Aaron J. Elmore"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "CIDR_17_023",
+            "title": "My Weak Consistency is Strong",
+            "authors": [
+                "Zechao Shang",
+                "Jeffrey Xu Yu"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "CIDR_17_024",
+            "title": "Toward Sustainable Insights, or Why Polygamy is Bad for You",
+            "authors": [
+                "Carsten Binnig",
+                "Lorenzo De Stefani",
+                "Tim Kraska",
+                "Eli Upfal",
+                "Emanuel Zgraggen",
+                "Zheguang Zhao"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "CIDR_17_025",
+            "title": "SPOOF: Sum-Product Optimization and Operator Fusion for Large-Scale Machine Learning",
+            "authors": [
+                "Tarek Elgamal",
+                "Shangyu Luo",
+                "Mattias Boehm",
+                "Alexandre V. Evfimievski",
+                "Shirish Tatikonda",
+                "Berthold Reinwald",
+                "Prithviraj Sen"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "CIDR_17_026",
+            "title": "Janus: Transaction Processing of Navigation and Analytic Graph Queries on Many-core Servers",
+            "authors": [
+                "Hideaki Kimura",
+                "Alkis Simitsis",
+                "Kevin Wilkinson"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "CIDR_17_027",
+            "title": "Weld: A Common Runtime for High Performance Data Analysis",
+            "authors": [
+                "Shoumik Palkar",
+                "James J. Thomas",
+                "Anil Shanbhag",
+                "Deepak Narayanan",
+                "Holger Pirk",
+                "Malte Schwarzkopt",
+                "Saman Amarasinghe",
+                "Matei Zaharia"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "CIDR_17_028",
+            "title": "A Database System with Amnesia",
+            "authors": [
+                "Martin Kersten",
+                "Lefteris Sidirourgos"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "CIDR_17_029",
+            "title": "Releasing Cloud Databases for the Chains of Performance Prediction Models",
+            "authors": [
+                "Ryan Marcus",
+                "Olga Papaemmanouil"
+            ],
+            "topics": [
+                "Cloud",
+                "DB"
+            ]
+        },
+        {
+            "key": "CIDR_17_030",
+            "title": "Optimizing Space Amplification in RocksDB",
+            "authors": [
+                "Siying Dong",
+                "Mark Callaghan",
+                "Leonidas Galanis",
+                "Dhruba Borthakur",
+                "Tony Savor",
+                "Michael Strum"
+            ],
+            "topics": [
+                "Cloud",
+                "Data",
+                "Storage"
+            ]
+        },
+        {
+            "key": "CIDR_17_031",
+            "title": "Cosette: An Automated Prover for SQL",
+            "authors": [
+                "Shumo Chu",
+                "Chenglong Wang",
+                "Konstantin Weitz",
+                "Alvin Cheung"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "CIDR_17_032",
+            "title": "READY: Completeness is in the Eye of the Beholder",
+            "authors": [
+                "Badrish Chandramouli",
+                "Johannes Gehrke",
+                "Jonathan Goldstein",
+                "Donald Kossmann",
+                "Justin Levandoski",
+                "Renato Marroquin",
+                "WenLei Xie"
+            ],
+            "topics": [
+                "DB"
+            ]
+        }
+    ]
+}

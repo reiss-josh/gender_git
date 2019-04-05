@@ -1,0 +1,470 @@
+{
+    "key": "FAST_17",
+    "conference": "USENIX Conference on File and Storage Technologies",
+    "organization": [
+        "USENIX"
+    ],
+    "country": "US",
+    "postdate": "2017-02-27",
+    "last_deadline": "2016-09-27",
+    "review_days": 76,
+    "submissions": 116,
+    "min_reviews": 3,
+    "total_reviews": 479,
+    "double_blind": true,
+    "rebuttal": false,
+    "open_access": true,
+    "age": 15,
+    "past_papers": 168,
+    "past_citations": 2651,
+    "h5_index": 41,
+    "h5_median": 72,
+    "notes": "116 papers received, but 4 or so automatically rejected; All papers saw 3+ reviews, and in the 2nd phase, 68 papers saw 2+ more reviews; PC chairs did not review papers themselves. FAST values more highly papers that clearly defines assets not previously available, such as traces, data, source code, or tools",
+    "pc_chairs": [
+        "Geoff Kuenning (Harvey Mudd College)",
+        "Carl Waldspurger (CloudPhysics)"
+    ],
+    "pc_members": [
+        "Nitin Agrawal (Samsung Research)",
+        "Irfan Ahmad (CachePhysics)",
+        "Remzi Arpaci-Dusseau (University of Wisconsin-Madison)",
+        "Mahesh Balakrishnan (Yale University)",
+        "Andr\u00e9 Brinkmann (Johannes Gutenberg University Mainz)",
+        "Haibo Chen (Shanghai Jiao Tong University)",
+        "Peter Desnoyers (Northeastern University)",
+        "Ashvin Goel (University of Toronto)",
+        "Ajay Gulati (ZeroStack)",
+        "Danny Harnik (IBM)",
+        "Kimberly Keeton (Hewlett Packard Labs)",
+        "Ricardo Koller (IBM Research)",
+        "Sungjin Lee (Inha University)",
+        "Tudor Marian (Google)",
+        "Marshall Kirk McKusick (McKusick Consultancy)",
+        "Arif Merchant (Google)",
+        "Brad Morrey (Google)",
+        "Sam H. Noh (UNIST (Ulsan National Institute of Science and Technology))",
+        "Raju Rangaswami (Florida International University)",
+        "Erik Riedel (Dell Technologies)",
+        "Jiri Schindler (Simplivity)",
+        "Bianca Schroeder (University of Toronto)",
+        "Philip Shilane (Dell EMC)",
+        "Keith A. Smith (NetApp)",
+        "Swaminathan Sundararaman (Parallel Machines)",
+        "Vasily Tarasov (IBM Research)",
+        "Eno Thereska (Confluent)",
+        "An-I Andy Wang (Florida State University)",
+        "Hakim Weatherspoon (Cornell University)",
+        "Sage Weil (Red Hat)",
+        "Theodore M. Wong (Human Longevity, Inc.)",
+        "Gala Yadgar (Technion)",
+        "Erez Zadok (Stony Brook University)",
+        "Ming Zhao (Arizona State University)"
+    ],
+    "keynote_speakers": [
+        "Kimberly Keeton"
+    ],
+    "session_chairs": [
+        "Nitin Agrawal",
+        "Ming Zhao",
+        "Swaminathan Sundararaman",
+        "Vasily Tarasov",
+        "Danny Harnik",
+        "Philip Shilane",
+        "Tudor Marian",
+        "Irfan Ahmad"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "FAST_17_001",
+            "title": "Algorithms and Data Structures for Efficient Free Space Reclamation in WAFL",
+            "authors": [
+                "Ram Kesavan",
+                "Rohit Singh",
+                "Travis Grusecki",
+                "Yuvraj Patel"
+            ],
+            "topics": [
+                "Storage"
+            ],
+            "award": true
+        },
+        {
+            "key": "FAST_17_002",
+            "title": "Tiny-Tail Flash: Near-Perfect Elimination of Garbage Collection Tail Latencies in NAND SSDs",
+            "authors": [
+                "Shiqin Yan",
+                "Huaicheng Li",
+                "Mingzhe Hao",
+                "Michael Hao Tong",
+                "Swaminathan Sundararaman",
+                "Andrew A. Chien",
+                "Haryadi Gunawi"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "FAST_17_003",
+            "title": "The Logic of Physical Garbage Collection in Deduplicating Storage",
+            "authors": [
+                "Fred Douglis",
+                "Abhinav Duggal",
+                "Philip Shilane",
+                "Tony Wong",
+                "Shiqin Yan",
+                "Fabiano Botelho"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "FAST_17_004",
+            "title": "File Systems Fated for Senescence? Nonsense, Says Science!",
+            "authors": [
+                "Alex Conway",
+                "Ainesh Bakshi",
+                "Yizheng Jiao",
+                "Yang Zhan",
+                "Michael A. Bender",
+                "William Jannen",
+                "Rob Johnson",
+                "Bradley Kuszmaul",
+                "Donald E. Porter",
+                "Jun Yuan",
+                "Martin Farach-Colton"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "FAST_17_005",
+            "title": "To FUSE or Not to FUSE: Performance of User-Space File Systems",
+            "authors": [
+                "Bharath Kumar Reddy Vangoor",
+                "Vasily Tarasov",
+                "Erez Zadok"
+            ],
+            "topics": [
+                "Storage",
+                "OS"
+            ]
+        },
+        {
+            "key": "FAST_17_006",
+            "title": "Knockoff: Cheap Versions in the Cloud",
+            "authors": [
+                "Xianzheng Dou",
+                "Peter M. Chen",
+                "Jason Flinn"
+            ],
+            "topics": [
+                "Storage",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "FAST_17_007",
+            "title": "HopsFS: Scaling Hierarchical File System Metadata Using NewSQL Databases",
+            "authors": [
+                "Salman Niazi",
+                "Mahmoud Ismail",
+                "Seif Haridi",
+                "Jim Dowling",
+                "Steffen Grohsschmiedt",
+                "Mikael Ronstr\u00f6m"
+            ],
+            "topics": [
+                "Storage",
+                "DB"
+            ]
+        },
+        {
+            "key": "FAST_17_008",
+            "title": "Evolving Ext4 for Shingled Disks",
+            "authors": [
+                "Abutalib Aghayev",
+                "Theodore Ts\u2019o",
+                "Garth Gibson",
+                "Peter Desnoyers"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "FAST_17_009",
+            "title": "SMaRT: An Approach to Shingled Magnetic Recording Translation",
+            "authors": [
+                "Weiping He",
+                "David H.C. Du"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "FAST_17_010",
+            "title": "Facilitating Magnetic Recording Technology Scaling for Data Center Hard Disk Drives through Filesystem-Level Transparent Local Erasure Coding",
+            "authors": [
+                "Yin Li",
+                "Hao Wang",
+                "Xuebin Zhang",
+                "Ning Zheng",
+                "Shafa Dahandeh",
+                "Tong Zhang"
+            ],
+            "topics": [
+                "Storage",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "FAST_17_011",
+            "title": "Redundancy Does Not Imply Fault Tolerance: Analysis of Distributed Storage Reactions to Single Errors and Corruptions",
+            "authors": [
+                "Aishwarya Ganesan",
+                "Ramnatthan Alagappan",
+                "Andrea Arpaci-Dusseau",
+                "Remzi Arpaci-Dusseau"
+            ],
+            "topics": [
+                "Storage",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "FAST_17_012",
+            "title": "Omid, Reloaded: Scalable and Highly-Available Transaction Processing",
+            "authors": [
+                "Ohad Shacham",
+                "Francisco Perez-Sorrosal",
+                "Edward Bortnikov",
+                "Eshcar Hillel",
+                "Idit Keidar",
+                "Ivan Kelly",
+                "Matthieu Morel",
+                "Sameer Paranjpye"
+            ],
+            "topics": [
+                "Storage",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "FAST_17_013",
+            "title": "Application Crash Consistency and Performance with CCFS",
+            "authors": [
+                "Thanumalayan Sankaranarayana Pillai",
+                "Ramnatthan Alagappan",
+                "Lanyue Lu",
+                "Vijay Chidambaram",
+                "Andrea Arpaci-Dusseau",
+                "Remzi Arpaci-Dusseau"
+            ],
+            "topics": [
+                "Storage"
+            ],
+            "award": true
+        },
+        {
+            "key": "FAST_17_014",
+            "title": "High Performance Metadata Integrity Protection in the WAFL Copy-on-Write File System",
+            "authors": [
+                "Harendra Kumar",
+                "Yuvraj Patel",
+                "Ram Kesavan",
+                "Sumith Makam"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "FAST_17_015",
+            "title": "Mirador: An Active Control Plane for Datacenter Storage",
+            "authors": [
+                "Jake Wires",
+                "Andrew Warfield"
+            ],
+            "topics": [
+                "Storage",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "FAST_17_016",
+            "title": "Chronix: Long Term Storage and Retrieval Technology for Anomaly Detection in Operational Data",
+            "authors": [
+                "Florian Lautenschlager",
+                "Michael Philippsen",
+                "Andreas Kumlehn",
+                "Josef Adersberger"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "FAST_17_017",
+            "title": "Crystal: Software-Defined Storage for Multi-Tenant Object Stores",
+            "authors": [
+                "Ra\u00fal Gracia-Tinedo",
+                "Josep Samp\u00e9",
+                "Edgar Zamora",
+                "Marc S\u00e1nchez-Artigas",
+                "Pedro Garc\u00eda-L\u00f3pez",
+                "Yosef Moatti",
+                "Eran Rom"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "FAST_17_018",
+            "title": "WORT: Write Optimal Radix Tree for Persistent Memory Storage Systems",
+            "authors": [
+                "Se Kwon Lee",
+                "K. Hyun Lim",
+                "Hyunsub Song",
+                "Beomseok Nam",
+                "Sam H. Noh"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "FAST_17_019",
+            "title": "SHRD: Improving Spatial Locality in Flash Storage Accesses by Sequentializing in Host and Randomizing in Device",
+            "authors": [
+                "Hyukjoong Kim",
+                "Dongkun Shin",
+                "Yun Ho Jeong",
+                "Kyung Ho Kim"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "FAST_17_020",
+            "title": "Graphene: Fine-Grained IO Management for Graph Computing",
+            "authors": [
+                "Hang Liu",
+                "H. Howie Huang"
+            ],
+            "topics": [
+                "Storage",
+                "Data"
+            ]
+        },
+        {
+            "key": "FAST_17_021",
+            "title": "vNFS: Maximizing NFS Performance with Compounds and Vectorized I/O",
+            "authors": [
+                "Ming Chen",
+                "Dean Hildebrand",
+                "Henry Nelson",
+                "Jasmit Saluja",
+                "Ashok Sankar Harihara Subramony",
+                "Erez Zadok"
+            ],
+            "topics": [
+                "Storage",
+                "Network"
+            ]
+        },
+        {
+            "key": "FAST_17_022",
+            "title": "On the Accuracy and Scalability of Intensive I/O Workload Replay",
+            "authors": [
+                "Alireza Haghdoost",
+                "Weiping He",
+                "Jerry Fredin",
+                "David H.C. Du"
+            ],
+            "topics": [
+                "Benchmark",
+                "Storage"
+            ]
+        },
+        {
+            "key": "FAST_17_023",
+            "title": "On the Performance Variation in Modern Storage Stacks",
+            "authors": [
+                "Zhen Cao",
+                "Vasily Tarasov",
+                "Hari Prasath Raman",
+                "Dean Hildebrand",
+                "Erez Zadok"
+            ],
+            "topics": [
+                "Benchmark",
+                "Storage"
+            ]
+        },
+        {
+            "key": "FAST_17_024",
+            "title": "Enlightening the I/O Path: A Holistic Approach for Application Performance",
+            "authors": [
+                "Sangwook Kim",
+                "Hwanju Kim",
+                "Joonwon Lee",
+                "Jinkyu Jeong"
+            ],
+            "topics": [
+                "Benchmark",
+                "Storage"
+            ]
+        },
+        {
+            "key": "FAST_17_025",
+            "title": "LightNVM: The Linux Open-Channel SSD Subsystem",
+            "authors": [
+                "Matias Bj\u00f8rling",
+                "Javier Gonzalez",
+                "Philippe Bonnet"
+            ],
+            "topics": [
+                "Storage",
+                "OS"
+            ]
+        },
+        {
+            "key": "FAST_17_026",
+            "title": "FlashBlox: Achieving Both Performance Isolation and Uniform Lifetime for Virtualized SSDs",
+            "authors": [
+                "Jian Huang",
+                "Anirudh Badam",
+                "Laura Caulfield",
+                "Suman Nath",
+                "Sudipta Sengupta",
+                "Bikash Sharma",
+                "Moinuddin Qureshi"
+            ],
+            "topics": [
+                "Storage",
+                "VM"
+            ]
+        },
+        {
+            "key": "FAST_17_027",
+            "title": "DIDACache: A Deep Integration of Device and Application for Flash Based Key-Value Caching",
+            "authors": [
+                "Zhaoyan Shen",
+                "Feng Chen",
+                "Yichen Jia",
+                "Zili Shao"
+            ],
+            "topics": [
+                "Storage",
+                "DB"
+            ]
+        }
+    ]
+}

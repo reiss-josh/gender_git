@@ -1,0 +1,817 @@
+{
+    "key": "HPCA_17",
+    "conference": "The IEEE Symposium on High Performance Computer Architecture",
+    "organization": [
+        "IEEE"
+    ],
+    "country": "US",
+    "postdate": "2017-02-04",
+    "last_deadline": "2016-08-01",
+    "review_days": 72,
+    "submissions": 224,
+    "min_reviews": 4,
+    "total_reviews": 1114,
+    "double_blind": false,
+    "rebuttal": "",
+    "open_access": false,
+    "age": 22,
+    "past_papers": 822,
+    "past_citations": 14853,
+    "h5_index": 42,
+    "h5_median": 61,
+    "notes": "",
+    "pc_chairs": [
+        "Daniel A. Jimenez (Texas A&M University)"
+    ],
+    "pc_members": [
+        "Valeria Bertacco (Michigan)",
+        "Abhishek Bhattacharjee (Rutgers)",
+        "Reetuparna Das (Michigan)",
+        "Hadi Esmaeilzadeh (Georgia Tech)",
+        "Yoav Etsion (Technion)",
+        "Babak Falsafi (EPFL)",
+        "Michael Ferdman (Stony Brook University)",
+        "Antonio Gonzalez (UPC)",
+        "Paul V. Gratz (Texas A&M)",
+        "Nikos Hardavellas (Northwestern University)",
+        "Kei Hiraki (University of Tokyo)",
+        "Jaehyuk Huh (KAIST)",
+        "Engin Ipek (Rochester)",
+        "David R. Kaeli (Northeastern)",
+        "Samira Khan (UVA)",
+        "Hyesoon Kim (Georgia Tech)",
+        "Benjamin C. Lee (Duke University)",
+        "Tao Li (Florida and NSF)",
+        "Calvin Lin (UT Austin)",
+        "Gabriel H. Loh (AMD)",
+        "Shih-Lien Lu (TSMC)",
+        "Pierre Michaud (Inria)",
+        "Timothy N. Miller (Binghamton University (SUNY))",
+        "Miquel Moreto (BSC and UPC)",
+        "Andreas Moshovos (Toronto)",
+        "Trevor Mudge (Michigan)",
+        "Onur Mutlu (ETH Zurich & CMU)",
+        "Abdullah Muzahid (UT San Antonio)",
+        "Vijay Nagarajan (University of Edinburgh)",
+        "Soner Onder (Michigan Tech)",
+        "Yale Patt (UT Austin)",
+        "Miquel Pericas (Chalmers University of Technology)",
+        "Alex Ramirez (NVIDIA)",
+        "Karthikeyan Sankaralingam (Wisconsin)",
+        "Yan Solihin (NCSU and NSF)",
+        "Yingying Tian (AMD)",
+        "Mohit Tiwari (UT Austin)",
+        "Josep Torrellas (UIUC)",
+        "Thomas F. Wenisch (Michigan)",
+        "David Wentzlaff (Princeton)",
+        "Carole-Jean Wu (ASU)",
+        "Yuan Xie (UCSB)",
+        "Mohamed Zahran (NYU)",
+        "Antonia Zhai (Minnesota)",
+        "Lixin Zhang (Institute of Computing Technology, CAS)",
+        "Huiyang Zhou (NCSU)"
+    ],
+    "keynote_speakers": [],
+    "session_chairs": [
+        "Daniel A. Jimenez",
+        "Yale N. Patt",
+        "Chris Wilkerson",
+        "Paul Gratz",
+        "Benjamin C. Lee (Duke University)",
+        "Michael Ferdman",
+        "Vijay Nagarajan",
+        "Calvin Lin",
+        "Samira Khan",
+        "Miquel Pericas (Chalmers University of Technology)",
+        "Carole-Jean Wu",
+        "Daniel A. Jimenez",
+        "Akanksha Jain",
+        "David R. Kaeli",
+        "Nam Sung Kim",
+        "Abdullah Muzahid (UT San Antonio)",
+        "Daniel A. Jimenez"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "HPCA_17_001",
+            "title": "Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures",
+            "authors": [
+                "Mingcong Song",
+                "Yang Hu",
+                "Huixiang Chen",
+                "Tao Li"
+            ],
+            "topics": [
+                "GPGPU",
+                "Data"
+            ],
+            "award": true
+        },
+        {
+            "key": "HPCA_17_002",
+            "title": "Near-Optimal Access Partitioning for Memory Hierarchies with Multiple Heterogeneous Bandwidth Sources",
+            "authors": [
+                "Jayesh Gaur",
+                "Mainak Chaudhuri",
+                "Pradeep Ramachandran",
+                "Sreenivas Subramoney"
+            ],
+            "topics": [
+                "Concurrency"
+            ],
+            "award": true
+        },
+        {
+            "key": "HPCA_17_003",
+            "title": "NCAP: Network-Driven, Packet Context-Aware Power Management for Client-Server Architecture",
+            "authors": [
+                "Mohammad Alian",
+                "Ahmed Abulila",
+                "Lokesh Jindal",
+                "Daehoon Kim",
+                "Nam Sung Kim"
+            ],
+            "topics": [
+                "Network",
+                "Energy"
+            ],
+            "award": true
+        },
+        {
+            "key": "HPCA_17_004",
+            "title": "Supporting Address Translation for Accelerator-Centric Architectures",
+            "authors": [
+                "Yuchen Hao",
+                "Zhenman Fang",
+                "Glenn Reinman",
+                "Jason Cong"
+            ],
+            "topics": [
+                "GPGPU"
+            ],
+            "award": true
+        },
+        {
+            "key": "HPCA_17_005",
+            "title": "Maximizing Cache Performance Under Uncertainty",
+            "authors": [
+                "Nathan Beckmann",
+                "Daniel Sanchez"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_006",
+            "title": "SWAP: Effective Fine-Grain Management of Shared Last-Level Caches with Minimum Hardware Support",
+            "authors": [
+                "Xiaodong Wang",
+                "Shuang Chen",
+                "Jeff Setter",
+                "Jos\u00e9 F. Mart\u00ednez"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_007",
+            "title": "A Split Cache Hierarchy for Enabling Data-oriented Optimizations",
+            "authors": [
+                "Andreas Sembrant",
+                "David Black-Schaffer",
+                "Erik Hagersten"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_008",
+            "title": "Fast and Accurate Exploration of Multi-Level Caches Using Hierarchical Reuse Distance",
+            "authors": [
+                "Rafael K. V. Maeda",
+                "Qiong Cai",
+                "Jiang Xu",
+                "Zhe Wang",
+                "Zhongyuan Tian"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_009",
+            "title": "Enabling Effective Module-oblivious Power Gating for Embedded Processors",
+            "authors": [
+                "Hari Cherupalli",
+                "Henry Duwe",
+                "Weidong Ye",
+                "Rakesh Kumar",
+                "John Sartori"
+            ],
+            "topics": [
+                "Architecture",
+                "Energy"
+            ]
+        },
+        {
+            "key": "HPCA_17_010",
+            "title": "Application-Specific Performance-Aware Energy Optimization on Android Mobile Device",
+            "authors": [
+                "Karthik Rao",
+                "Jun Wang",
+                "Sudhakar Yalamanchili",
+                "Yorai Wardi",
+                "Handong Ye"
+            ],
+            "topics": [
+                "Energy"
+            ]
+        },
+        {
+            "key": "HPCA_17_011",
+            "title": "Fast Decentralized Power Capping for Server Clusters",
+            "authors": [
+                "Reza Azimi",
+                "Masoud Badiei",
+                "Xin Zhan",
+                "Na Li",
+                "Sherief Reda"
+            ],
+            "topics": [
+                "Energy",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "HPCA_17_012",
+            "title": "Random Folded Clos Topologies for Datacenter Networks",
+            "authors": [
+                "Crist\u00f3bal Camarero",
+                "Carmen Mart\u00ednez",
+                "Ram\u00f3n Beivide"
+            ],
+            "topics": [
+                "Cloud",
+                "Network"
+            ]
+        },
+        {
+            "key": "HPCA_17_013",
+            "title": "Tiny Directory: Efficient Shared Memory in Many-core Systems with Ultra-low-overhead Coherence Tracking",
+            "authors": [
+                "Sudhanshu Shukla",
+                "Mainak Chaudhuri"
+            ],
+            "topics": [
+                "Concurrency",
+                "Energy"
+            ]
+        },
+        {
+            "key": "HPCA_17_014",
+            "title": "Partial Row Activation for Low-Power DRAM System",
+            "authors": [
+                "Yebin Lee",
+                "Hyeonggyu Kim",
+                "Seokin Hong",
+                "Soontae Kim"
+            ],
+            "topics": [
+                "Energy",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_015",
+            "title": "Understanding and Optimizing Power Consumption in Memory Networks",
+            "authors": [
+                "Xun Jian",
+                "Pavan Kumar Hanumolu",
+                "Rakesh Kumar"
+            ],
+            "topics": [
+                "Energy"
+            ]
+        },
+        {
+            "key": "HPCA_17_016",
+            "title": "SoftMC: A Flexible and Practical Open-Source Infrastructure for Enabling Experimental DRAM Studies",
+            "authors": [
+                "Hasan Hassan",
+                "Nandita Vijaykumar",
+                "Samira Khan",
+                "Saugata Ghose",
+                "Kevin R. Chang",
+                "Gennady Pekhimenko",
+                "Donghyuk Lee",
+                "Oguz Ergin",
+                "Onur Mutlu"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_017",
+            "title": "Static Bubble: A Framework for Deadlock-free Irregular On-chip Topologies",
+            "authors": [
+                "Aniruddh Ramrakhyani",
+                "Tushar Krishna"
+            ],
+            "topics": [
+                "Architecture",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "HPCA_17_018",
+            "title": "Designing Low-power, Low-latency Networks-on-Chip by Optimally Combining Electrical and Optical Links",
+            "authors": [
+                "Sebastian Werner",
+                "Javier Navaridas",
+                "Mikel Luj\u00e1n"
+            ],
+            "topics": [
+                "Energy",
+                "Network",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_019",
+            "title": "Near-Ideal Networks-on-Chip for Servers",
+            "authors": [
+                "Pejman Lotfi-Kamran",
+                "Mehdi Modarressi",
+                "Hamid Sarbazi-Azad"
+            ],
+            "topics": [
+                "Network",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_020",
+            "title": "Design and Evaluation of AWGR-based Photonic NoC Architectures for 2.5D Inegrated High Performance Computing Systems",
+            "authors": [
+                "Paolo Grani",
+                "Venkatesh Akella",
+                "Roberto Proietti",
+                "S. J. Ben Yoo"
+            ],
+            "topics": [
+                "Network",
+                "Architecture",
+                "HPC"
+            ]
+        },
+        {
+            "key": "HPCA_17_021",
+            "title": "Secure Dynamic Memory Scheduling Against Timing Channel Attacks",
+            "authors": [
+                "Yao Wang",
+                "Benjamin Wu",
+                "Edward Suh"
+            ],
+            "topics": [
+                "Architecture",
+                "Security",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "HPCA_17_022",
+            "title": "Cold Boot Attacks are Still Hot: Security Analysis of Memory Scramblers in Modern Procesors",
+            "authors": [
+                "Salessawi Ferede Yitbarek",
+                "Misiker Tadesse Aga",
+                "Reetuparna Das",
+                "Todd Austin"
+            ],
+            "topics": [
+                "Security",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_023",
+            "title": "Cooperative Path-ORAM for Effective Memory Bndwidth Sharing in Server Settings",
+            "authors": [
+                "Rujia Wang",
+                "Youtao Zhang",
+                "Jun Yang"
+            ],
+            "topics": [
+                "Architecture",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "HPCA_17_024",
+            "title": "Camouflage: Memory Traffic Shaping to Mitigate Timing Attacks",
+            "authors": [
+                "Yanqi Zhou",
+                "Sameer Wagh",
+                "Prateek Mittal",
+                "David Wentzlaff"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "HPCA_17_025",
+            "title": "SILC-FM: Subblocked InterLeaved Cache-Like Flat Memory Organization",
+            "authors": [
+                "Jee Ho Ryoo",
+                "Mitesh R. Meswani",
+                "Andreas Prodromou",
+                "Lizy K. John"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_026",
+            "title": "ATOM: Atomic Durability in Non-volatile Memory through Hardware Logging",
+            "authors": [
+                "Arpit Joshi",
+                "Vijay Nagarajan",
+                "Stratis Viglas",
+                "Marcelo Cintra"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_027",
+            "title": "KAML: A Flexible, High-Performance Key-Value SSD",
+            "authors": [
+                "Yanqin Jin",
+                "Hung-Wei Tseng",
+                "Steven Swanson",
+                "Yannis Papakonstantinou"
+            ],
+            "topics": [
+                "DB",
+                "Storage"
+            ]
+        },
+        {
+            "key": "HPCA_17_028",
+            "title": "Balancing Performance and Lifetime of MLC PCM by Using a Region Retention Monitor",
+            "authors": [
+                "Mingzhe Zhang",
+                "Lunkai Zhang",
+                "Lei Jiang",
+                "Zhiyong Liu",
+                "Fred Chong"
+            ],
+            "topics": [
+                "Architecture",
+                "Storage"
+            ]
+        },
+        {
+            "key": "HPCA_17_029",
+            "title": "Reliability-Aware Scheduling on Heterogeneous Multicore Processors",
+            "authors": [
+                "Ajeya Naithani",
+                "Stijn Eyerman",
+                "Lieven Eeckhout"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "HPCA_17_030",
+            "title": "Hipster: Hybrid Task Manager for Latency-Critical Cloud Workloads",
+            "authors": [
+                "Rajiv Nishtala",
+                "Paul Carpenter",
+                "Xavier Martorell",
+                "Vinicius Petrucci"
+            ],
+            "topics": [
+                "Concurrency",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "HPCA_17_031",
+            "title": "Cooper: Task Colocation with Cooperative Games",
+            "authors": [
+                "Qiuyun Llull",
+                "Songchun Fan",
+                "Seyed Majid Zahedi",
+                "Benjamin C. Lee"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "HPCA_17_032",
+            "title": "MemPod: A Clustered Architecture for Efficient and Scalable Migration in Flat Address Space Multi-Level Memories",
+            "authors": [
+                "Andreas Prodromou",
+                "Mitesh R. Meswani",
+                "Nuwan Jayasena",
+                "Gabriel H. Loh",
+                "Dean Tullsen"
+            ],
+            "topics": [
+                "Architecture",
+                "DB"
+            ]
+        },
+        {
+            "key": "HPCA_17_033",
+            "title": "Exploring Hyperdimensional Associative Memory",
+            "authors": [
+                "Mohsen Imani",
+                "Abbas Rahimi",
+                "Deqian Kong",
+                "Tajana S. Rosing",
+                "Jan M. Rabaey"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_034",
+            "title": "GraphPIM: Enabling Instruction-Level PIM Offloading in Graph Computing Frameworks",
+            "authors": [
+                "Lifeng Nai",
+                "Ramyad Hadidi",
+                "Jaewoong Sim",
+                "Hyojong Kim",
+                "Pranith Kumar",
+                "Hyesoon Kim"
+            ],
+            "topics": [
+                "Architecture",
+                "Data"
+            ]
+        },
+        {
+            "key": "HPCA_17_035",
+            "title": "High-Bandwidth Low-Latency Approximate Interconnection Networks",
+            "authors": [
+                "Daichi Fujiki",
+                "Kiyo Ishii",
+                "Ikki Fujiwara",
+                "Hiroki Matsutani",
+                "Hideharu Amano",
+                "Henri Casanova",
+                "Michihiro Koibuchi"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "HPCA_17_036",
+            "title": "\"Compute Caches\"",
+            "authors": [
+                "Shaizeen Aga",
+                "Supreet Jeloka",
+                "Arun Subramaniyan",
+                "Satish Narayanasamy",
+                "David Blaauw",
+                "Reetuparna Das"
+            ],
+            "topics": [
+                "Architecture",
+                "Data",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "HPCA_17_037",
+            "title": "Boomerang: A Metadata-Free Architecture for Control Flow Delivery",
+            "authors": [
+                "Rakesh Kumar",
+                "Cheng-Chieh Huang",
+                "Boris Grot",
+                "Vijay Nagarajan"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_038",
+            "title": "PABST: Proportionally Allocated Bandwidth at the Source and Target",
+            "authors": [
+                "Derek R. Hower",
+                "Harold W. Cain",
+                "Carl Waldspurger"
+            ],
+            "topics": [
+                "Architecture",
+                "Network"
+            ]
+        },
+        {
+            "key": "HPCA_17_039",
+            "title": "SOUP-N-SALAD: Allocation-oblivious Access Latency Reduction with Asymmetric DRAM Microarchitectures",
+            "authors": [
+                "Yuhwan Ro",
+                "Hyunyoon Cho",
+                "Eojin Lee",
+                "Daejin Jung",
+                "Young Hoon Son",
+                "Jung Ho Ahn",
+                "Jae W. Lee"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_040",
+            "title": "Transparent and Efficient CFI Enforcement with Intel Processor Trace",
+            "authors": [
+                "Yutao Liu",
+                "Peitao Shi",
+                "Xinran Wang",
+                "Haibo Chen",
+                "Binyu Zang",
+                "Haibing Guan"
+            ],
+            "topics": [
+                "Architecture",
+                "Security"
+            ]
+        },
+        {
+            "key": "HPCA_17_041",
+            "title": "PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Larning",
+            "authors": [
+                "Linghao Song",
+                "Xuehai Qian",
+                "Hai Li",
+                "Yiran Chen"
+            ],
+            "topics": [
+                "Architecture",
+                "Data"
+            ]
+        },
+        {
+            "key": "HPCA_17_042",
+            "title": "FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks",
+            "authors": [
+                "Wenyan Lu",
+                "Guihai Yan",
+                "Jiajun Li",
+                "Shijun Gong",
+                "Yinhe Han",
+                "Xiaowei Li"
+            ],
+            "topics": [
+                "Data",
+                "GPGPU",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_043",
+            "title": "Needle : Leveraging Program Analysis to Analyze and Extract Accelerators from Whole Programs",
+            "authors": [
+                "Snehasish Kumar",
+                "Nick Sumner",
+                "Vijaylakshmi Srinivasan",
+                "Steven Margerm",
+                "Arrvindh Shriraman"
+            ],
+            "topics": [
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "HPCA_17_044",
+            "title": "Radiation-Induced Error Criticality in Modern HPC Parallel Accelerators",
+            "authors": [
+                "Daniel Oliveira",
+                "La\u00e9rcio Pilla",
+                "Mauricio Hanzich",
+                "Vin\u00edcius Fratin",
+                "Fernando Fernandes",
+                "Caio Lunardi",
+                "Jos\u00e9 Mar\u00eda Cela",
+                "Philippe Navaux",
+                "Luigi Carro",
+                "Paolo Rech"
+            ],
+            "topics": [
+                "HPC",
+                "GPGPU",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_045",
+            "title": "Pilot Register File: Energy Efficient Partitioned Register File for GPUs",
+            "authors": [
+                "Mohammad Abdel-Majeed",
+                "Hyeran Jeon",
+                "Alireza Shafaei",
+                "Murali Annavaram",
+                "Massoud Pedram"
+            ],
+            "topics": [
+                "Energy",
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "HPCA_17_046",
+            "title": "G-Scalar: Cost-Effective Generalized Scalar Execution Architecture fo Power-Efficient GPUs",
+            "authors": [
+                "Zhenhong Liu",
+                "Syed Gilani",
+                "Murali Annavaram",
+                "Nam Sung Kim"
+            ],
+            "topics": [
+                "Architecture",
+                "Energy",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "HPCA_17_047",
+            "title": "Dynamic GPGPU Power Management using Adaptive Model Predictive Control",
+            "authors": [
+                "Abhinandan Majumdar",
+                "Leonardo Piga",
+                "Indrani Paul",
+                "Joseph L. Greathouse",
+                "Wei Huang (AMD)"
+            ],
+            "topics": [
+                "GPGPU",
+                "Energy",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_048",
+            "title": "Efficient Sequential Consistency in GPUs via Relativistic Cache Coherence",
+            "authors": [
+                "Xiaowei Ren",
+                "Mieszko Lis"
+            ],
+            "topics": [
+                "GPGPU",
+                "DB",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCA_17_049",
+            "title": "Processing-in-Memory Enabled Graphics Processors for 3D Rendering",
+            "authors": [
+                "Chenhao Xie",
+                "Shuaiwen Leon Song",
+                "Jing Wang",
+                "Weigong Zhang",
+                "Xin Fu"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "HPCA_17_050",
+            "title": "Controlled Kernel Launch for Dynamic Parallelism in GPUs",
+            "authors": [
+                "Xulong Tang",
+                "Ashutosh Pattnaik",
+                "Huaipan Jiang",
+                "Onur Kayiran",
+                "Adwait Jog",
+                "Sreepathi Pai",
+                "Mohamed Ibrahim",
+                "Mahmut T. Kandemir"
+            ],
+            "topics": [
+                "GPGPU",
+                "Concurrency"
+            ]
+        }
+    ]
+}

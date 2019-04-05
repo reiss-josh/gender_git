@@ -1,0 +1,812 @@
+{
+    "key": "EuroPar_17",
+    "conference": "International European Conference on Parallel and Distributed Computing",
+    "organization": [],
+    "country": "ES",
+    "postdate": "2017-08-30",
+    "last_deadline": "2017-02-16",
+    "review_days": 69,
+    "submissions": 176,
+    "min_reviews": 3,
+    "total_reviews": 691,
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 23,
+    "past_papers": "",
+    "past_citations": "",
+    "h5_index": 24,
+    "h5_median": 33,
+    "notes": "The PC is divided into 12 sub-areas, each one with its own chair, local chair, and about 6-8 members. Total reveiwers were 317. 19 papers got 3 reviews, 151 got 4, and 6 got 5.",
+    "pc_chairs": [
+        "Francisco F. Rivera",
+        "Tom\u00e1s F. Pena",
+        "Jos\u00e9 C. Cabaleiro",
+        "Dora B. Heras"
+    ],
+    "pc_members": [
+        "Matthias M\u00fcller (RWTH Aachen University, Germany)",
+        "Martin Schulz (Lawrence Livermore National Laboratory, Livermore, USA)",
+        "Olivier Richard (LIG/INRIA, France)",
+        "Jo\u00e3o M. P. Cardoso (University of Porto, Portugal)",
+        "Tomas Margalef (Universitat Autonoma de Barcelona, Spain)",
+        "Michael Gerndt (Technische Universit\u00e4t M\u00fcnchen, Germany)",
+        "Petr T\u016fma (Charles University, Czech Republic)",
+        "Ana Lucia Varbanescu (University of Amsterdam, the Netherlands)",
+        "Denis Barthou (Inria, France)",
+        "Lizy K. John (University of Texas, USA)",
+        "Marc Gonzalez Tallada (Universitat Polit\u00e8cnica de Catalunya, Spain)",
+        "Andreas Kn\u00fcpfer (T.U. Dresden, Germany)",
+        "Diwakar Krishnamurthy (Univ. Calgary, Canada)",
+        "Florina Ciorba (University of Basel, Switzerland)",
+        "Jos\u00e9 Luis Bosque Orero (Univedrsity of Cantabria, Spain)",
+        "Radu Prodan (University of Innsbruck, Austria)",
+        "Jos\u00e9 Gracia (High Performance Computing Center Stuttgart, Germany)",
+        "Ioana Banicescu (Mississippi State University, USA)",
+        "Julius Zilinskas (Vilnius University, Lithuania)",
+        "Bora U\u00e7ar (CNRS and LIP ENS Lyon, France)",
+        "Christophe Dubach (University of Edinburgh, UK)",
+        "Aaron Smith (Microsoft Research, USA)",
+        "Louis-N\u00f6el Pouchet (Colorado State University, USA)",
+        "Laura Pozzi (University of Lugano, Switzerland)",
+        "Jer\u00f3nimo Castrill\u00f3n (TU Dresden, Germany)",
+        "Thomas Fahringer (University of Innsbruck, Austria)",
+        "Chris Adeniyi-Jones (ARM, UK)",
+        "Bruno Raffin (INRIA, France)",
+        "Julian Kunkel (German Climate Computing Center, Germany)",
+        "Lars Nagel (Johannes Gutenberg-Universit\u00e4t Mainz, Germany)",
+        "Toni Cort\u00e9s (Barcelona Supercomputing Center, Spain)",
+        "Matthieu Dorier (Argonne National Laboratory, USA)",
+        "Wolfgang Frings (J\u00fclich Supercomputing Centre, Germany)",
+        "Alfredo Goldman (University of S\u00e3o Paulo, Brasil)",
+        "Laura Ricci (University of Pisa, Italy)",
+        "Luiz F. Bittencourt (University of Campinas, Brasil)",
+        "Ian Foster (Argonne National Laboratory, USA)",
+        "Frederic Desprez (INRIA, France)",
+        "Ivona Brandic (Technische Universit\u00e4t Wien, Austria)",
+        "Giorgio Lucarelli (INRIA, France)",
+        "Rizos Sakellariou (University of Manchester, UK)",
+        "Ramon Doallo (University of A Coru\u00f1a, Spain)",
+        "Lu\u00eds Veiga (INESC-ID, Portugal)",
+        "Sonia Ben Mokhtar (LIRIS CNRS, France)",
+        "\u00d3scar Plata Gonz\u00e1lez (University of Malaga, Spain)",
+        "Gheorghe Almasi (IBM, USA)",
+        "Rui Oliveira (Universidade do Minho, Portugal)",
+        "Javier Navaridas Palma (The University of Manchester, UK)",
+        "Fabio Kon (University of S\u00e3o Paulo, Brasil)",
+        "Mar\u00eda Jes\u00fas Garzar\u00e1n (University of Illinois, USA)",
+        "Maria Angeles Gonzalez Navarro (University of Malaga, Spain)",
+        "Evelyn Duesterwald (T.J. Watson Research Center, IBM, USA)",
+        "Didem Unat (Ko\u00e7 Universitesi, Turkey)",
+        "Francisco Almeida (University of La Laguna, Spain)",
+        "Georges da Costa (Irit, France)",
+        "Marco Danelutto (University of Pisa, Italy)",
+        "Mary Hall (University of Utah, USA)",
+        "Hans Vandierendonck (Queen's University, UK)",
+        "Bingsheng He (National University of Singapore, Singapore)",
+        "Paul Harvey (Queen's University Belfast, UK)",
+        "Michele Weiland (EPCC at University of Edinburgh, UK)",
+        "Yiannis Nikolakopoulos (TU Chalmers, Sweden)",
+        "Polyvios Pratikakis (FORTH, Greece)",
+        "Martin Burtscher (Texas State University, USA)",
+        "Georgios Goumas (National Technical University of Athens, Greece)",
+        "Rutger Hofman (Vrije Universiteit Amsterdam, The Netherlands)",
+        "Vania Marangozova-Martin (Grenoble University, France)",
+        "Geppino Pucci (University of Padua, Italy)",
+        "Kieran T. Herley (University College Cork, Cork, Ireland)",
+        "Christos Zaroliagis (University of Patras, Greece)",
+        "Mauro Bianco (Swiss National Supercomputing Centre, Switzerland)",
+        "Henning Meyerhenke (Karlsruher Institut f\u00fcr Technologie, Germany)",
+        "Michele Scquizzato (University of Houston, USA)",
+        "Maya Neytcheva (Uppsala University, Sweden)",
+        "Yvan Notay (Universit\u00e9 Libre de Bruxelles, Belgium)",
+        "Peter Arbenz (ETH Z\u00fcrich, Switzerland)",
+        "Enrique S. Quintana-Orti (University Jaime I, Spain)",
+        "Fred Wubs (University of Groningen, The Netherlands)",
+        "Osni Marques (Lawrence Berkeley National Laboratory, USA)",
+        "Bertil Schmidt (Johannes Gutenberg University of Mainz, Germany)",
+        "Tobias Grosser (ETH Z\u00fcrich, Switzerland)",
+        "Josef Weidendorfer (Technische Universit\u00e4t M\u00fcnchen, Germany)",
+        "Rob Van Nieuwpoort (Netherlands eScience Center, The Netherlands)",
+        "Seyong Lee (Oak Ridge National Laboratory, USA)",
+        "Jorge Gonz\u00e1lez-Dom\u00ednguez (University of A Coru\u00f1a, Spain)",
+        "Deming Chen (University of Illinois, USA)"
+    ],
+    "keynote_speakers": [
+        "David Padua",
+        "J\u00fcrgen D\u00f6llner"
+    ],
+    "session_chairs": [
+        "Hans Vandierendonck",
+        "Denis Barthou",
+        "Bertil Schmidt",
+        "Juan Touri\u00f1o",
+        "Alfredo Goldman",
+        "Rafael Asenjo",
+        "Juan C. Pichel",
+        "Arturo Gonz\u00e1lez Escribano",
+        "Andr\u00e9s G\u00f3mez Tato",
+        "Antonio Garc\u00eda Loureiro",
+        "Bruno Raffin",
+        "Jos\u00e9 Luis Bosque",
+        "Juan C. Pichel",
+        "Alfredo Goldman",
+        "Mar\u00eda \u00c1ngeles Gonz\u00e1lez Navarro",
+        "Emilio Luque"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "EuroPar_17_001",
+            "title": "Efficient Non-blocking Radix Trees",
+            "authors": [
+                "Varun Velamuri"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroPar_17_002",
+            "title": "A Concurrency-Optimal Binary Search Tree",
+            "authors": [
+                "Vitaly Aksenov",
+                "Vincent Gramoli",
+                "Petr Kuznetsov",
+                "Anna Malova",
+                "Srivatsan Ravi"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroPar_17_003",
+            "title": "Scalable fine-grained metric-based remeshing algorithm for manycore/NUMA architectures",
+            "authors": [
+                "Hoby Rakotoarivelo",
+                "Franck Ledoux",
+                "Franck Pommereau",
+                "Le-Goff Nicolas"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroPar_17_004",
+            "title": "Performance Evaluation of Thread-Level Speculation in Off-the-Shelf Hardware Transactional Memories",
+            "authors": [
+                "Juan Salamanca",
+                "Jos\u00e9 Nelson Amaral",
+                "Guido Araujo"
+            ],
+            "topics": [
+                "Architecture",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroPar_17_005",
+            "title": "NVIDIA Jetson Platform Characterization",
+            "authors": [
+                "Hassan Halawa",
+                "Hazem Abdelhafez",
+                "Andrew Boktor",
+                "Matei Ripeanu"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "EuroPar_17_006",
+            "title": "Following the Blind Seer \u2014 Creating Better Performance Models Using Less Information",
+            "authors": [
+                "Patrick Reisert",
+                "Alexandru Calotoiu",
+                "Sergei Shudler",
+                "Felix Wolf"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "EuroPar_17_007",
+            "title": "An Accurate Simulator of Cache-line Conflicts to Exploit the Underlying Cache Performance",
+            "authors": [
+                "Yukinori Sato",
+                "Toshio Endo"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "EuroPar_17_008",
+            "title": "Shutdown policies with power capping for large scale computing systems",
+            "authors": [
+                "Anne Benoit",
+                "Laurent Lef\u00e8vre",
+                "Anne-C\u00e9cile Orgerie",
+                "Issam Rais"
+            ],
+            "topics": [
+                "Energy"
+            ]
+        },
+        {
+            "key": "EuroPar_17_009",
+            "title": "Shared memory pipelined Parareal",
+            "authors": [
+                "Daniel Ruprecht"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "EuroPar_17_010",
+            "title": "Nonintrusive AMR Asynchrony for Communication Optimization",
+            "authors": [
+                "Muhammad Nufail Farooqi",
+                "Didem Unat",
+                "Tan Nguyen",
+                "Weiqun Zhang",
+                "Ann Almgren",
+                "John Shalf"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "EuroPar_17_011",
+            "title": "Balanced CSR Sparse Matrix-Vector Product on Graphics Processors",
+            "authors": [
+                "Goran Flegar",
+                "Enrique S. Quintana-Orti"
+            ],
+            "topics": [
+                "HPC",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "EuroPar_17_012",
+            "title": "To distribute or not to distribute: the question of load balancing for performance or energy",
+            "authors": [
+                "Esteban Stafford",
+                "Borja P\u00e9rez",
+                "Jose Luis Bosque",
+                "Ram\u00f3n Beivide",
+                "Mateo Valero"
+            ],
+            "topics": [
+                "Concurrency",
+                "OS",
+                "Energy"
+            ]
+        },
+        {
+            "key": "EuroPar_17_013",
+            "title": "Runtime-Assisted Shared Cache Insertion Policies Based on Re-Reference Intervals",
+            "authors": [
+                "Vladimir Dimi\u0107",
+                "Miquel Moret\u00f3",
+                "Marc Casas",
+                "Mateo Valero"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "EuroPar_17_014",
+            "title": "Rewriting System for Profile-Guided Data Layout Transformations on Binaries",
+            "authors": [
+                "Christopher Haine",
+                "Olivier Aumage",
+                "Denis Barthou"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "EuroPar_17_015",
+            "title": "Hardware support for scratchpad memory transactions on GPU architectures",
+            "authors": [
+                "Alejandro Villegas",
+                "Rafael Asenjo",
+                "Angeles G. Navarro",
+                "Oscar Plata",
+                "Rafael Ubal",
+                "David R. Kaeli"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "EuroPar_17_016",
+            "title": "A Simplified Model for Simulating the Execution of a Workflow in Cloud",
+            "authors": [
+                "Roland Math\u00e0",
+                "Sasko Ristov",
+                "Radu Prodan"
+            ],
+            "topics": [
+                "Benchmark",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "EuroPar_17_017",
+            "title": "Dealing with performance unpredictability in Asymmetric Multicore Processor cloud",
+            "authors": [
+                "Boris Teabe",
+                "Alain Tchana",
+                "Daniel Hagimont"
+            ],
+            "topics": [
+                "Benchmark",
+                "Cloud",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroPar_17_018",
+            "title": "Deadline-aware Deployment for Time Critical Applications in Clouds",
+            "authors": [
+                "Yang Hu",
+                "Junchao Wang",
+                "Huan Zhou",
+                "Paul Martin",
+                "Arie Taal",
+                "Cees de Laat",
+                "Zhiming Zhao"
+            ],
+            "topics": [
+                "Cloud",
+                "OS"
+            ]
+        },
+        {
+            "key": "EuroPar_17_019",
+            "title": "A Consensus-based Fault-Tolerant Event Logger for High Performance Applications",
+            "authors": [
+                "Edson Tavares Camargo",
+                "Elias P. Duarte Jr.",
+                "Fernando Pedone"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "EuroPar_17_020",
+            "title": "Families of Graph Algorithms : An SSSP Case Study",
+            "authors": [
+                "Thejaka Amila Kanewala",
+                "Marcin Zalewski",
+                "Andrew Lumsdaine"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "EuroPar_17_021",
+            "title": "SEMem: deployment of MPI-based in-memory storage for Hadoop on supercomputers",
+            "authors": [
+                "Thanh-Chung Dao",
+                "Shigeru Chiba"
+            ],
+            "topics": [
+                "Network",
+                "Storage",
+                "Data"
+            ]
+        },
+        {
+            "key": "EuroPar_17_022",
+            "title": "Accelerating the Tucker Decomposition with Compressed Sparse Tensors",
+            "authors": [
+                "Shaden Smith",
+                "George Karypis"
+            ],
+            "topics": [
+                "HPC"
+            ],
+            "award": true
+        },
+        {
+            "key": "EuroPar_17_023",
+            "title": "Optimized Batched Linear Algebra for Modern Architectures",
+            "authors": [
+                "Jack Dongarra",
+                "Sven Hammarling",
+                "Nicholas Higham",
+                "Samuel Relton",
+                "Mawussi Zounon"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "EuroPar_17_024",
+            "title": "New Efficient General Sparse Matrix Formats for Parallel SpMV Operations",
+            "authors": [
+                "Jan Philipp Ecker",
+                "Rudolf Berrendorf",
+                "Florian Mannuss"
+            ],
+            "topics": [
+                "HPC",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroPar_17_025",
+            "title": "Lazy Parallel Kronecker Algebra-Operations on Heterogeneous Multicores",
+            "authors": [
+                "Wasuwee Sodsong",
+                "Robert Mittermayr",
+                "Yoojin Park",
+                "Bernd Burgstaller",
+                "Johann Blieberger"
+            ],
+            "topics": [
+                "Concurrency",
+                "HPC",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "EuroPar_17_026",
+            "title": "Performance Evaluation of Computation and Communication Kernels of the Fast Multipole Method on Intel Manycore Architecture",
+            "authors": [
+                "Mustafa Abduljabbar",
+                "Mohammed Al Farhan",
+                "Rio Yokota",
+                "David E. Keyes"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "EuroPar_17_027",
+            "title": "Partitioning Strategy Selection for In-Memory Graph Pattern Matching on Multiprocessor Systems",
+            "authors": [
+                "Alexander Krause",
+                "Thomas Kissinger",
+                "Dirk Habich",
+                "Hannes Voigt",
+                "Wolfgang Lehner"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "EuroPar_17_028",
+            "title": "Efficient Dynamic Pinning of Parallelized Applications by Reinforcement Learning with Applications",
+            "authors": [
+                "Georgios Chasparis",
+                "Michael Rossbory",
+                "Vladimir Janjic"
+            ],
+            "topics": [
+                "OS",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroPar_17_029",
+            "title": "Accelerating by Idling: How Speculative Delays Improve Performance of Message-Oriented Systems",
+            "authors": [
+                "Aleksandar Prokopec"
+            ],
+            "topics": [
+                "OS",
+                "Network"
+            ]
+        },
+        {
+            "key": "EuroPar_17_030",
+            "title": "Using Simulation to Evaluate and Tune the Performance of Dynamic Load Balancing of an Over-decomposed Geophysics Application",
+            "authors": [
+                "Rafael Keller Tesser",
+                "Lucas Mello Schnorr",
+                "Arnaud Legrand",
+                "Fabrice Dupros",
+                "Philippe Navaux"
+            ],
+            "topics": [
+                "Benchmark",
+                "OS",
+                "HPC"
+            ],
+            "award": true
+        },
+        {
+            "key": "EuroPar_17_031",
+            "title": "Scaling Energy Adaptive Applications for Sustainable Profitability",
+            "authors": [
+                "Fabien Hermenier",
+                "Giovanni Giuliani",
+                "Andrea Milani",
+                "Sophie Demassey"
+            ],
+            "topics": [
+                "Energy"
+            ]
+        },
+        {
+            "key": "EuroPar_17_032",
+            "title": "Off-Road Performance Modeling \u2014 How to Deal with Segmented Data?",
+            "authors": [
+                "Kashif Ilyas",
+                "Alexandru Calotoiu",
+                "Felix Wolf"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "EuroPar_17_033",
+            "title": "Online dynamic monitoring of MPI communication",
+            "authors": [
+                "George Bosilca",
+                "Cl\u00e9ment Foyer",
+                "Emmanuel Jeannot",
+                "Guillaume Mercier",
+                "Guillaume Papaur\u00e9"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "EuroPar_17_034",
+            "title": "Micro-Benchmarking MPI Neighborhood Collective Operations",
+            "authors": [
+                "Felix Donatus L\u00fcbbe"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "EuroPar_17_035",
+            "title": "Performance Characterization of De Novo Genome Assembly on Leading Parallel Systems",
+            "authors": [
+                "Marquita Ellis",
+                "Evangelos Georganas",
+                "Rob Egan",
+                "Steven Hofmeyr",
+                "Aydin Buluc",
+                "Brandon Cook",
+                "Leonid Oliker",
+                "Katherine Yelick"
+            ],
+            "topics": [
+                "HPC",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "EuroPar_17_036",
+            "title": "Execution of Recursive Queries in Apache Spark",
+            "authors": [
+                "Pavlos Katsogridakis",
+                "Sofia Papagiannaki",
+                "Polyvios Pratikaki"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "EuroPar_17_037",
+            "title": "Replica-Aware Partitioning Design in Parallel Database Systems",
+            "authors": [
+                "Liming Dong",
+                "Weidong Liu",
+                "Renchuan Li"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroPar_17_038",
+            "title": "Addressing Volume and Latency Overheads in 1D-parallel Sparse Matrix Vector Multiplication",
+            "authors": [
+                "Seher Acer",
+                "Oguz Selvitopi",
+                "Cevdet Aykanat"
+            ],
+            "topics": [
+                "Storage",
+                "HPC",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroPar_17_039",
+            "title": "Improving the network of a search engine services through application-aware routing",
+            "authors": [
+                "Joe Carri\u00f3n",
+                "Daniel Franco",
+                "Veronica Veronica Gil-Costa",
+                "Mauricio Marin",
+                "Emilio Luque"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "EuroPar_17_040",
+            "title": "More Sharing, More Benefits? A Study of Library Sharing in Container-Based Infrastructures",
+            "authors": [
+                "Jose Bravo Ferreira",
+                "Marco Cello",
+                "Jesus Omana Iglesias"
+            ],
+            "topics": [
+                "VM"
+            ]
+        },
+        {
+            "key": "EuroPar_17_041",
+            "title": "An Efficient Communication Aware Heuristic for Multiple Cloud Application Placement",
+            "authors": [
+                "Pedro Silva",
+                "Christian Perez"
+            ],
+            "topics": [
+                "Cloud",
+                "OS"
+            ]
+        },
+        {
+            "key": "EuroPar_17_042",
+            "title": "Energy-Driven Straggler Mitigation in MapReduce",
+            "authors": [
+                "Tien-Dat Phan",
+                "Shadi Ibrahim",
+                "Amelie Chi Zhou",
+                "Guillaume Aupy",
+                "Gabriel Antoniu"
+            ],
+            "topics": [
+                "Energy",
+                "Data",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "EuroPar_17_043",
+            "title": "Leveraging cloud heterogeneity for cost-efficient execution of parallel applications",
+            "authors": [
+                "Eduardo Roloff",
+                "Matthias Diener",
+                "Emmanuell Diaz Carre\u00f1o",
+                "Luciano Paschoal Gaspary",
+                "Philippe Navaux"
+            ],
+            "topics": [
+                "Cloud",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroPar_17_044",
+            "title": "Supporting the Xeon Phi coprocessor in a Heterogeneous Programming Model",
+            "authors": [
+                "Ana Moreton-Fernandez",
+                "Eduardo Rodriguez-Gutiez",
+                "Arturo Gonzalez-Escribano",
+                "Diego R. Llanos"
+            ],
+            "topics": [
+                "Compilers",
+                "GPGPU",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroPar_17_045",
+            "title": "GLT: A Unified API for Lightweight Thread Libraries",
+            "authors": [
+                "Adri\u00e1n Castell\u00f3",
+                "Sangmin Seo",
+                "Rafael Mayo Gual",
+                "Pavan Balaji",
+                "Enrique S. Quintana-Orti",
+                "Antonio J. Pe\u00f1a"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "award": true
+        },
+        {
+            "key": "EuroPar_17_046",
+            "title": "PASCAL: A Parallel Algorithmic SCALable Framework for N-body Problems",
+            "authors": [
+                "Laleh Aghababaie Beni",
+                "Aparna Chandramowlishwaran"
+            ],
+            "topics": [
+                "Compilers",
+                "HPC"
+            ]
+        },
+        {
+            "key": "EuroPar_17_047",
+            "title": "GASPI/GPI In-Memory Check Pointing Library",
+            "authors": [
+                "Valeria Bartsch",
+                "Rui Machado",
+                "Mirko Rahn",
+                "Dirk Merten",
+                "Franz-Josef Pfreundt"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "EuroPar_17_048",
+            "title": "Optimizing egalitarian performance in the side-effects model of colocation for data center resource management",
+            "authors": [
+                "Fanny Pascual",
+                "Krzysztof Rzadca"
+            ],
+            "topics": [
+                "OS",
+                "Cloud"
+            ],
+            "award": true
+        },
+        {
+            "key": "EuroPar_17_049",
+            "title": "Generic algorithms for scheduling applications on hybrid multi-core machines",
+            "authors": [
+                "Marcos Amar\u00eds",
+                "Giorgio Lucarelli",
+                "Cl\u00e9ment Mommessin",
+                "Denis Trystram"
+            ],
+            "topics": [
+                "OS",
+                "Concurrency"
+            ],
+            "award": true
+        },
+        {
+            "key": "EuroPar_17_050",
+            "title": "Low-Cost Approximation Algorithms for Scheduling Independent Tasks on Hybrid Platforms",
+            "authors": [
+                "Louis-Claude Canon",
+                "Loris Marchal",
+                "Fr\u00e9d\u00e9ric Vivien"
+            ],
+            "topics": [
+                "OS"
+            ]
+        }
+    ]
+}

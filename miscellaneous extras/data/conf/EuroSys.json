@@ -1,0 +1,659 @@
+{
+    "key": "EuroSys_17",
+    "conference": "The European Conference on Computer Systems",
+    "organization": [
+        "ACM",
+        "USENIX"
+    ],
+    "country": "RS",
+    "postdate": "2017-04-23",
+    "last_deadline": "2016-10-21",
+    "review_days": 94,
+    "submissions": 188,
+    "min_reviews": 3,
+    "total_reviews": 830,
+    "double_blind": true,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 11,
+    "past_papers": 614,
+    "past_citations": 8383,
+    "h5_index": 38,
+    "h5_median": 87,
+    "notes": "Two-round reviewing",
+    "pc_chairs": [
+        "Gustavo Alonso (ETH Zurich)",
+        "Ricardo Bianchini (Microsoft Research)",
+        "Allen Clement (Google)",
+        "Amitabha Roy (Intel Labs)"
+    ],
+    "pc_members": [
+        "Andrea Arpaci-Dusseau (University of Wisconsin)",
+        "Mahesh Balakrishnan (Yale University)",
+        "Andrew Baumann (Microsoft Research)",
+        "Frank Bellosa (Karlsruhe Institute of Technology)",
+        "Herbert Bos (VU University)",
+        "Edouard Bugnion (EPFL)",
+        "Cristian Cadar (Imperial College London)",
+        "Marco Canini (KAUST)",
+        "Haibo Chen (Shanghai Jiao Tong University)",
+        "Shimin Chen (Chinese Academy of Sciences)",
+        "Byung-Gon Chun (Seoul National University)",
+        "Fred Douglis (Dell EMC)",
+        "Pascal Felber (University of Neuchatel)",
+        "Anja Feldmann (TU Berlin)",
+        "Paulo Ferreira (University of Lisbon)",
+        "Christof Fetzer (TU Dresden)",
+        "Ada Gavrilovska (Georgia Tech)",
+        "Ioana Giurgiu (IBM Research Zurich)",
+        "Steven Hand (Google)",
+        "Tim Harris (Oracle Labs)",
+        "Val\u00e9rie Issarny (INRIA)",
+        "Evangelia Kalyvianaki (City University London)",
+        "Idit Keidar (Technion)",
+        "Anne-Marie Kermarrec (INRIA)",
+        "Christoph Kirsch (University of Salzburg)",
+        "Dejan Kosti\u0107 (Royal Institute of Technology)",
+        "Orran Krieger (Boston University)",
+        "Jean-Pierre Lozi (University of Nice Sophia Antipolis)",
+        "Kathryn S. McKinley (Microsoft Research)",
+        "Ishai Menache (Microsoft Research)",
+        "Ippokratis Pandis (Amazon)",
+        "Marta Pati\u00f1o (Technical University of Madrid)",
+        "Raluca Ada Popa (UC Berkeley)",
+        "Peter Pietzuch (Imperial College London)",
+        "Mema Roussopoulos (University of Athens)",
+        "Antony Rowstron (Microsoft Research Cambridge)",
+        "Marco Serafini (Qatar Computing Research Institute)",
+        "Dilma da Silva (Texas A&M University)",
+        "Susan Spence (Hewlett Packard Labs)",
+        "Neeraj Suri (TU Darmstadt)",
+        "Dan Tsafrir (Technion)",
+        "Jens Teubner (TU Dortmund)",
+        "Nalini Venkatasubramanian (UC Irvine)",
+        "Paulo Ver\u00edssimo (University of Luxemburg)",
+        "Roger Wattenhofer (ETH Zurich)",
+        "Zheng Zhang (NYU Shanghai)",
+        "Noa Zilberman (University of Cambridge)"
+    ],
+    "keynote_speakers": [],
+    "session_chairs": [
+        "Dejan Kostic\u0107 (Royal Institute of Technology KTH)",
+        "Pascal Felber",
+        "Peter Pietzuch (Imperial College London)",
+        "Herbert Bos",
+        "Christoph Kirsch",
+        "David Cock",
+        "Andrew Baumann",
+        "Paulo Ferreira",
+        "Vivien Quema",
+        "Luis Rodrigues"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "EuroSys_17_001",
+            "title": "Pandia: comprehensive contention-sensitive thread placement",
+            "authors": [
+                "Daniel Goodman",
+                "Tim Harris",
+                "Georgios Varisteas (Oracle Labs)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroSys_17_002",
+            "title": "Taming Parallelism in a Multi-Variant Execution Environment",
+            "authors": [
+                "Stijn Volckaert (University of California, Irvine)",
+                "Bart Coppens",
+                "Bjorn De Sutter",
+                "Koen De Bosschere (Ghent University)",
+                "Per Larsen (Immunant, Inc.)",
+                "Michael Franz (University of California, Irvine)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroSys_17_003",
+            "title": "Statistical Analysis of Latency Through Semantic Profiling",
+            "authors": [
+                "Jiamin Huang",
+                "Barzan Mozafari",
+                "Thomas F. Wenisch (University of Michigan)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "EuroSys_17_004",
+            "title": "The lock holder and the lock waiter pre-emption problems: nip them in the bud using informed spinlocks (I-Spinlocks)",
+            "authors": [
+                "Boris Teabe",
+                "Vlad Nitu",
+                "Alain Tchana",
+                "Daniel Hagimont (IRIT/Toulouse University, France)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroSys_17_005",
+            "title": "Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters",
+            "authors": [
+                "Youngseok Yang",
+                "Geon-Woo Kim",
+                "Wonook Song",
+                "Yunseong Lee (Seoul National University)",
+                "Andrew Chung (Carnegie Mellon University)",
+                "Zhengping Qian (Alibaba Group)",
+                "Brian Cho (Facebook)",
+                "Byung-Gon Chun (Seoul National University)"
+            ],
+            "topics": [
+                "Cloud",
+                "Data"
+            ]
+        },
+        {
+            "key": "EuroSys_17_006",
+            "title": "Proteus: agile ML elasticity through tiered reliability in dynamic resource markets",
+            "authors": [
+                "Aaron Harlap (CMU)",
+                "Alexey Tumanov (UC Berkeley)",
+                "Gregory R. Ganger",
+                "Phillip Gibbons (CMU)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "EuroSys_17_007",
+            "title": "An Empirical Study on the Correctness of Formally Verified Distributed Systems",
+            "authors": [
+                "Pedro Fonseca",
+                "Kaiyuan Zhang",
+                "Xi Wang",
+                "Arvind Krishnamurthy (University of Washington)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroSys_17_008",
+            "title": "MiniCrypt: Reconciling Encryption and Compression for Big Data Stores",
+            "authors": [
+                "Wenting Zheng",
+                "Frank Li (UC Berkeley)",
+                "Rachit Agarwal (Cornell)",
+                "Raluca Ada Popa",
+                "Ion Stoica (UC Berkeley)"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "EuroSys_17_009",
+            "title": "CloudTalk: Enabling Distributed Application Optimisations in Public Clouds",
+            "authors": [
+                "Alexandru Agache",
+                "Mihai Ionescu",
+                "Costin Raiciu (University Politehnica of Bucharest)"
+            ],
+            "topics": [
+                "Cloud",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroSys_17_010",
+            "title": "Syncperf: Categorizing, Detecting, and Diagnosing Synchronization Performance Bugs",
+            "authors": [
+                "Mejbah ul Alam (University of Texas at San Antonio)",
+                "Tongping Liu (University of Texas at San Antonio)",
+                "Guangming Zeng (Linshan Road Shanghai)",
+                "Abdullah Muzahid (University of Texas at San Antonio, USA)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroSys_17_011",
+            "title": "The Unwritten Contract of Solid State Drives",
+            "authors": [
+                "Jun He",
+                "Sudarsun Kannan",
+                "Andrea Arpaci-Dusseau",
+                "Remzi Arpaci-Dusseau (University of Wisconsin - Madison)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "EuroSys_17_012",
+            "title": "Node.fz: Fuzzing Server-side Event-driven JavaScript",
+            "authors": [
+                "James Davis (Virginia Tech)",
+                "Arun Thekumparampil (MathWorks)",
+                "Dongyoon Lee (Virginia Tech)"
+            ],
+            "topics": [
+                "Cloud",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "EuroSys_17_013",
+            "title": "RFP: When RPC is Faster than Server-Bypass with RDMA",
+            "authors": [
+                "Maomeng Su",
+                "Mingxing Zhang",
+                "Kang Chen (Tsinghua University)",
+                "Zhenyu Guo (Microsoft Research)",
+                "Yongwei Wu (Tsinghua University)"
+            ],
+            "topics": [
+                "Cloud",
+                "Network"
+            ]
+        },
+        {
+            "key": "EuroSys_17_014",
+            "title": "High-Throughput Subset Matching on Commodity GPU-Based Systems",
+            "authors": [
+                "Daniele Rogora (Universita\u0300 della Svizzera italiana)",
+                "Michele Papalini (Cisco Systems)",
+                "Koorosh Khazaei (Universita\u0300 della Svizzera italiana)",
+                "Alessandrto Margara (Politecnico di Milano)",
+                "Antonio Carzaniga (Universita\u0300 della Svizzera italiana)",
+                "Gianpaolo Cugola (Politecnico di Milano)"
+            ],
+            "topics": [
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "EuroSys_17_015",
+            "title": "MOSAIC: Processing a Trillion-Edge Graph on a Single Commodity Machine",
+            "authors": [
+                "Steffen Maass",
+                "Changwoo Min",
+                "Sanidhya Kashyap",
+                "Woonhak Kang",
+                "Mohan Kumar",
+                "Taesoo Kim (Georgia Institute of Technology)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Concurrency"
+            ],
+            "award": true
+        },
+        {
+            "key": "EuroSys_17_016",
+            "title": "SGXBounds: Memory Safety for Shielded Execution",
+            "authors": [
+                "Dmitrii Kuvaiskii",
+                "Oleksii Oleksenko",
+                "Sergei Arnautov",
+                "Bohdan Trach",
+                "Pramod Bhatotia (TU Dresden)",
+                "Pascal Felber (University of Neucha\u0302tel)",
+                "Christof Fetzer (TU Dresden)"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "award": true
+        },
+        {
+            "key": "EuroSys_17_017",
+            "title": "FloDB: Unlocking Memory in Persistent Key-Value Stores",
+            "authors": [
+                "Oana Balmau",
+                "Rachid Guerraoui (EPFL)",
+                "Vasileios Trigonakis (EPFL/Oracle Labs)",
+                "Igor Zablotchi (EPFL)"
+            ],
+            "topics": [
+                "DB",
+                "Cloud",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroSys_17_018",
+            "title": "Abstracting Multi-Core Topologies with MCTOP",
+            "authors": [
+                "Georgios Chatzopoulos",
+                "Rachid Guerraoui (EPFL)",
+                "Tim Harris (Oracle Labs)",
+                "Vasileios Trigonakis (EPFL/Oracle Labs)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroSys_17_019",
+            "title": "Online Reconstruction of Structural Information from Datacenter Logs",
+            "authors": [
+                "Zaheer Chothia",
+                "John Liagouris",
+                "Desislava Dimitrova",
+                "Timothy Roscoe (Systems Group, Department of Computer Science, ETH Zurich)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "EuroSys_17_020",
+            "title": "An interface to implement NUMA policies in the Xen hypervisor",
+            "authors": [
+                "Gauthier Voron (INRIA/LIP6)",
+                "Gae\u0308l Thomas (Telecom SudParis)",
+                "Vivien Que\u0301ma (Grenoble INP / ENSIMAG)",
+                "Pierre Sens (INRIA/LIP6)"
+            ],
+            "topics": [
+                "Architecture",
+                "VM"
+            ]
+        },
+        {
+            "key": "EuroSys_17_021",
+            "title": "Direct Inter-Process Communication (dIPC): Repurposing the CODOMs Architecture to Accelerate IPC",
+            "authors": [
+                "Llui\u0301s Vilanova",
+                "Marc Jorda\u0300",
+                "Nacho Navarro (UPC / BSC)",
+                "Yoav Etsion (Technion / TCE)",
+                "Mateo Valero (UPC / BSC)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "EuroSys_17_022",
+            "title": "COCONUT: Seamless Scale-out of Network Elements",
+            "authors": [
+                "Soudeh Ghorbani",
+                "Brighten Godfrey (UIUC)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "EuroSys_17_023",
+            "title": "Design and evaluation of an RDMA-aware data shuffling operator for parallel database systems",
+            "authors": [
+                "Feilong Liu",
+                "Lingyan Yin",
+                "Spyros Blanas (The Ohio State University)"
+            ],
+            "topics": [
+                "Network",
+                "Concurrency",
+                "DB"
+            ]
+        },
+        {
+            "key": "EuroSys_17_024",
+            "title": "Malthusian Locks",
+            "authors": [
+                "David Dice (Oracle Labs)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroSys_17_025",
+            "title": "Practical Persistence for Multi-threaded Applications",
+            "authors": [
+                "Terry Ching-Hsiang Hsu (Purdue University, Hewlett Packard Labs)",
+                "Helge Bru\u0308gner",
+                "Indrajit Roy",
+                "Kimberly Keeton (Hewlett Packard Labs)",
+                "Patrick Eugster (Purdue University, TU Darmstadt)"
+            ],
+            "topics": [
+                "Concurrency",
+                "DB"
+            ]
+        },
+        {
+            "key": "EuroSys_17_026",
+            "title": "A Characterization of State Spill in Modern Operating Systems",
+            "authors": [
+                "Kevin Boos",
+                "Emilio Del Vecchio",
+                "Lin Zhong (Rice University)"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "EuroSys_17_027",
+            "title": "GfxDoctor: A Holistic Graphics Energy Profiler for Mobile Devices",
+            "authors": [
+                "Ning Ding",
+                "Y. Charlie Hu (Purdue University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Energy"
+            ]
+        },
+        {
+            "key": "EuroSys_17_028",
+            "title": "ROS: A Rack-based Optical Storage System with Inline Accessibility for Long-Term Data Preservation",
+            "authors": [
+                "Yan Wenrui",
+                "Yao Jie",
+                "Cao Qiang (Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology)",
+                "Hong Jiang (Department of Computer Science and Engineering, University of Texas at Arlington)",
+                "Xie Changsheng (Wuhan National Laboratory for Optoelectronics,Huazhong University of Science and Technology)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "EuroSys_17_029",
+            "title": "Malacology: A Programmable Storage System",
+            "authors": [
+                "Michael A. Sevilla",
+                "Noah Watkins",
+                "Ivo Jimenez",
+                "Peter Alvaro",
+                "Shel Finkelstein",
+                "Jeff LeFevre",
+                "Carlos Maltzahn (University of California, Santa Cruz)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "EuroSys_17_030",
+            "title": "Rein: Taming Tail Latency in Key Value Stores via Multiget Scheduling",
+            "authors": [
+                "Waleed Reda (Universite\u0301 catholique de Louvain & Royal Institute of Technology (KTH))",
+                "Lalith Suresh (VMware Research)",
+                "Sean Braithwaite (SoundCloud)",
+                "Marco Canini (KAUST)",
+                "Dejan Kostic\u0107 (Royal Institute of Technology KTH)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroSys_17_031",
+            "title": "Saturn: a Distributed Metadata Service for Causal Consistency",
+            "authors": [
+                "Manuel Bravo",
+                "Luis Rodrigues (University of Lisbon)",
+                "Peter Van Roy (Universite Catholique de Louvain)"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroSys_17_032",
+            "title": "DangSan: Scalable Use-after-free Detection",
+            "authors": [
+                "Erik van der Kouwe",
+                "Vinod Nigade",
+                "Cristiano Giuffrida (Vrije Universiteit Amsterdam)"
+            ],
+            "topics": [
+                "Compilers",
+                "OS"
+            ]
+        },
+        {
+            "key": "EuroSys_17_033",
+            "title": "One Primitive to Diagnose Them All: Architectural Support for Internet Diagnostics",
+            "authors": [
+                "Ang Chen",
+                "Andreas Haeberlen (University of Pennsylvania)",
+                "Wenchao Zhou (Georgetown University)",
+                "Boon Thau Loo (University of Pennsylvania)"
+            ],
+            "topics": [
+                "Architecture",
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "EuroSys_17_034",
+            "title": "Hybrids on Steroids: SGX-Based High Performance BFT",
+            "authors": [
+                "Johannes Behl (TU Braunschweig)",
+                "Tobias Distler (FAU Erlangen-Nu\u0308rnberg)",
+                "Ru\u0308diger Kapitza (TU Braunschweig)"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "EuroSys_17_035",
+            "title": "Forkscan: Conservative Memory Reclamation for Modern Operating Systems",
+            "authors": [
+                "Dan Alistarh (ETH Zurich)",
+                "William M. Leiserson",
+                "Alexander Matveev (MIT)",
+                "Nir Shavit (MIT and TAU)"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "EuroSys_17_036",
+            "title": "Atomic In-Place Updates for Transactional Non-Volatile Main Memories",
+            "authors": [
+                "Amirsaman Memaripour (UCSD)",
+                "Anirudh Badam",
+                "Amar Phanishayee (Microsoft)",
+                "Yanqi Zhou (Princeton)",
+                "Ramnatthan Alagappan (U. of Wisconsin, Maddison)",
+                "Karin Strauss (Microsoft)",
+                "Steven Swanson (UC San Diego)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Storage"
+            ]
+        },
+        {
+            "key": "EuroSys_17_037",
+            "title": "kR^X: Comprehensive Kernel Protection against Just-In-Time Code Reuse",
+            "authors": [
+                "Marios Pomonis",
+                "Theofilos Petsios",
+                "Angelos D. Keromytis (Columbia University)",
+                "Michalis Polychronakis (Stony Brook University)",
+                "Vasileios P. Kemerlis (Brown University)"
+            ],
+            "topics": [
+                "OS",
+                "Security"
+            ]
+        },
+        {
+            "key": "EuroSys_17_038",
+            "title": "No Need to Hide: Protecting Safe Regions on Commodity Hardware",
+            "authors": [
+                "Koen Koning",
+                "Cristiano Giuffrida",
+                "Herbert Bos (Vrije Universiteit Amsterdam)",
+                "Elias Athanasopoulos (University of Cyprus)"
+            ],
+            "topics": [
+                "Security",
+                "OS"
+            ]
+        },
+        {
+            "key": "EuroSys_17_039",
+            "title": "DStress: Efficient Differentially Private Computations on Distributed Data",
+            "authors": [
+                "Antonis Papadimitriou",
+                "Arjun Narayan",
+                "Andreas Haeberlen (University of Pennsylvania)"
+            ],
+            "topics": [
+                "Security",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "EuroSys_17_040",
+            "title": "Eleos: ExitLess OS services for SGX enclaves",
+            "authors": [
+                "Meni Orenbach",
+                "Marina Minkin",
+                "Pavel Lifshits",
+                "Mark Silberstein (Technion)"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "EuroSys_17_041",
+            "title": "Exploiting Spot and Burstable Instances for Improving the Cost-efficacy of In-Memory Caches on the Public Cloud",
+            "authors": [
+                "Cheng Wang",
+                "Bhuvan Urgaonkar (Penn State University)",
+                "Aayush Gupta (IBM Research Almaden)",
+                "George Kesidis",
+                "Qianlin Liang (Penn State University)"
+            ],
+            "topics": [
+                "Architecture",
+                "Cloud"
+            ]
+        }
+    ]
+}

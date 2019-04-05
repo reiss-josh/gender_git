@@ -1,0 +1,299 @@
+{
+    "key": "SYSTOR_17",
+    "conference": "International Systems and Storage Conference",
+    "organization": [
+        "ACM"
+    ],
+    "country": "IL",
+    "postdate": "2017-05-22",
+    "last_deadline": "2017-02-28",
+    "review_days": 29,
+    "submissions": 47,
+    "min_reviews": 3,
+    "total_reviews": 138,
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 10,
+    "past_papers": 166,
+    "past_citations": 566,
+    "h5_index": 17,
+    "h5_median": 25,
+    "notes": "Online PC discussion before acceptance decisions.",
+    "pc_chairs": [
+        "Peter Desnoyers (Northeastern University)",
+        "Eyal de Lara (University of Toronto)"
+    ],
+    "pc_members": [
+        "Alejandro Russo (Chalmers University of Technology)",
+        "Aviad Zuck (Technion)",
+        "Bernard Wong (University of Waterloo)",
+        "Bianca Schroeder (University of Toronto)",
+        "Cezary Dubnicki (9 Lives Data)",
+        "Dan Wallach (Rice University)",
+        "Daniel Lohmann (Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg)",
+        "Danny Dolev (Hebrew University)",
+        "Donald E. Porter (The University of North Carolina at Chapel Hill)",
+        "Dror Feitelson (Hebrew University)",
+        "Dushyanth Narayanan (Microsoft Research in Cambridge)",
+        "Edward Bortnikov (Yahoo Research, Haifa)",
+        "Evangelia Kalyvianaki (City University of London)",
+        "Gala Yadgar (Technion)",
+        "Gilles Muller (INRIA)",
+        "Hakim Weatherspoon (Cornell University)",
+        "Iqbal Mohomed (Samsung Research)",
+        "Larry Rudolph (Two Sigma Investments)",
+        "Mahadev Satyanarayanan (Carnegie Mellon University)",
+        "Margo Seltzer (Harvard)",
+        "Mema Roussopoulos (University of Athens)",
+        "Nadav Amit (VMware)",
+        "Nisha Talagala (Sandisk)",
+        "Nuno Preguica (Universidade Nova de Lisboa)",
+        "Patrick Stuedi (Zurich Research Laboratory, IBM)",
+        "Philip Shilane (EMC)",
+        "Sam H. Noh (UNIST)",
+        "Simon Peter (University of Texas at Austin)",
+        "Sivan Toledo (Tel-Aviv University)",
+        "Song Jiang (University of Texas at Arlington)",
+        "Stefan Saroiu (Microsoft Research)",
+        "Yoav Tock (IBM)",
+        "Yuval Cassuto (Technion)"
+    ],
+    "keynote_speakers": [
+        "Timothy Roscoe",
+        "Orran Krieger",
+        "Emery Berger"
+    ],
+    "session_chairs": [
+        "Orna Agmon Ben-Yehuda",
+        "Gala Yadgar",
+        "Larry Rudolph",
+        "Anselm Busse",
+        "Binoy Ravindran",
+        "Ioana Giurgiu",
+        "G\u00fcrkan G\u00fcr",
+        "Song Jiang"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "SYSTOR_17_001",
+            "title": "AutoStream: Automatic Stream Management for Multi-streamed SSDs",
+            "authors": [
+                "Jingpei Yang (Samsung Semiconductor)",
+                "Rajinikanth Pandurangan (Samsung Semiconductor)",
+                "Changho Choi (Samsung)",
+                "Vijay Balakrishnan (Samsung Semiconductor)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "SYSTOR_17_002",
+            "title": "Erasure Coding for Small Objects in In-Memory KV Storage",
+            "authors": [
+                "Matt M. T. Yiu (The Chinese University of Hong Kong)",
+                "Helen H. W. Chan (The Chinese University of Hong Kong)",
+                "Patrick P. C. Lee (The Chinese University of Hong Kong)"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SYSTOR_17_003",
+            "title": "Freewrite: Creating (Almost) Zero-Cost Writes to SSD in Applications",
+            "authors": [
+                "Chunyi Liu (Northwestern Polytechnical University)",
+                "Fan Ni (University of Texas at Arlington)",
+                "Xingbo Wu (University of Texas at Arlington)",
+                "Xiao Zhang (Northwestern Polytechnical University)",
+                "Song Jiang (University of Texas at Arlington)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "SYSTOR_17_004",
+            "title": "LoGA: Low-overhead GPU accounting using events",
+            "authors": [
+                "Jens Kehne (Karlsruhe Institute of Technology)",
+                "Stanislav Spassov (Karlsruhe Institute of Technology)",
+                "Marius Hillenbrand (Karlsruhe Institute of Technology)",
+                "Marc Rittinghaus (Karlsruhe Institute of Technology)",
+                "Frank Bellosa (Karlsruhe Institute of Technology)"
+            ],
+            "topics": [
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "SYSTOR_17_005",
+            "title": "GPrioSwap: Towards a Swapping Policy for GPUs",
+            "authors": [
+                "Jens Kehne (Karlsruhe Institute of Technology)",
+                "Jonathan Metter (Karlsruhe Institute of Technology)",
+                "Martin Merkel (Karlsruhe Institute of Technology)",
+                "Marius Hillenbrand (Karlsruhe Institute of Technology)",
+                "Mathias Gottschlag (Karlsruhe Institute of Technology)",
+                "Frank Bellosa (Karlsruhe Institute of Technology)"
+            ],
+            "topics": [
+                "GPGPU",
+                "Storage"
+            ]
+        },
+        {
+            "key": "SYSTOR_17_006",
+            "title": "Simulation-Based Tracing and Profiling for System Software Development",
+            "authors": [
+                "Anselm Busse (Technische Universit\u00e4t Berlin)",
+                "Reinhardt Karnapke (Technische Universit\u00e4t Berlin)",
+                "Helge Parzyjegla (Universit\u00e4t Rostock)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "SYSTOR_17_007",
+            "title": "Relieving Self-Healing SSDs of Heal Storms",
+            "authors": [
+                "Li-Pin Chang (National Chiao-Tung University)",
+                "Sheng-Min Huang (National Chiao-Tung University)",
+                "Kun-Lin Chou (National Chiao-Tung University)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "SYSTOR_17_008",
+            "title": "FlashNet: Flash/Network Stack Co-Design",
+            "authors": [
+                "Animesh Trivedi (IBM Research, Zurich)",
+                "Nikolas Ioannou (IBM Research, Zurich)",
+                "Bernard Metzler (IBM Research, Zurich)",
+                "Patrick Stuedi (IBM Research, Zurich)",
+                "Jonas Pfefferle (IBM Research, Zurich)",
+                "Ioannis Koltsidas (IBM Research, Zurich)",
+                "Kornilios Kourtis (IBM Research, Zurich)",
+                "Thomas R. Gross (ETH, Zurich)"
+            ],
+            "topics": [
+                "Storage",
+                "Network"
+            ],
+            "award": true
+        },
+        {
+            "key": "SYSTOR_17_009",
+            "title": "Crane: Fast and Migratable GPU Passthrough for OpenCL applications",
+            "authors": [
+                "James Gleeson (University of Toronto)",
+                "Daniel Kats (University of Toronto)",
+                "Charlie Mei (University of Toronto)",
+                "Eyal de Lara (University of Toronto)"
+            ],
+            "topics": [
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "SYSTOR_17_010",
+            "title": "Understanding Storage Traffic Characteristics on Enterprise Virtual Desktop Infrastructure",
+            "authors": [
+                "Chunghan Lee (Fujitsu Laboratories)",
+                "Tatsuo Kumano (Fujitsu Laboratories)",
+                "Tatsuma Matsuki (Fujitsu Laboratories)",
+                "Hiroshi Endo (Fujitsu Laboratories)",
+                "Naoto Fukumoto (Fujitsu Laboratories)",
+                "Mariko Sugawara (Fujitsu Laboratories;)"
+            ],
+            "topics": [
+                "Storage",
+                "VM"
+            ]
+        },
+        {
+            "key": "SYSTOR_17_011",
+            "title": "SafeFS: A Modular Architecture for Secure User-Space File Systems (One FUSE to rule them all)",
+            "authors": [
+                "Rog\u00e9rio Pontes (INESC TEC & University of Minho)",
+                "Dorian Burihabwa (University of Neuchatel, Switzerland)",
+                "Francisco Maia (INESC TEC & University of Minho)",
+                "Joao Paulo (INESC TEC & University of Minho)",
+                "Valerio Schiavoni (University of Neuchatel, Switzerland)",
+                "Pascal Felber (University of Neuchatel, Switzerland)",
+                "Hugues Mercier (University of Neuchatel, Switzerland)",
+                "Rui Oliveira (INESC TEC & University of Minho)"
+            ],
+            "topics": [
+                "Security",
+                "Storage"
+            ],
+            "award": true
+        },
+        {
+            "key": "SYSTOR_17_012",
+            "title": "Multidimensional Resource Allocation in Practice",
+            "authors": [
+                "Danny Raz (Technion)",
+                "Itai Segall (Nokia Bell Labs)",
+                "Maayan Goldstein (Nokia Bell Labs)"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "SYSTOR_17_013",
+            "title": "Heterogeneous- and NUMA-aware Scheduling for Many-core Architectures",
+            "authors": [
+                "Panayiotis Petrides (University of Cyprus)",
+                "Pedro Trancoso (University of Cyprus)"
+            ],
+            "topics": [
+                "OS",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SYSTOR_17_014",
+            "title": "NVMe-over-Fabrics Performance Characterization and the Path to Low-Overhead Flash Disaggregation",
+            "authors": [
+                "Zvika Guz (Samsung)",
+                "Harry Huan Li (Samsung)",
+                "Anahita Shayesteh (Samsung; Vijay Balakrishnan, Samsung)"
+            ],
+            "topics": [
+                "Storage",
+                "Network"
+            ]
+        },
+        {
+            "key": "SYSTOR_17_015",
+            "title": "Dexter: Faster Troubleshooting of Misconfiguration Cases Using System Logs",
+            "authors": [
+                "Rukma Ameet Talwadker (NetApp)"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "SYSTOR_17_016",
+            "title": "TripS: Automated Multi-tiered Data Placement in a Geo-distributed Cloud Environment",
+            "authors": [
+                "Kwangsung Oh (University of Minnesota Twin Cities)",
+                "Abhishek Chandra (University of Minnesota Twin Cities)",
+                "Jon Weissman (University of Minnesota Twin Cities)"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        }
+    ]
+}

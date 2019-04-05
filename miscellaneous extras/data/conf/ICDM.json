@@ -1,0 +1,1243 @@
+{
+    "key": "ICDM_17",
+    "conference": "International Conference on Data Mining",
+    "organization": [
+        "IEEE"
+    ],
+    "country": "US",
+    "postdate": "2017-11-19",
+    "last_deadline": "2017-06-05",
+    "review_days": 73,
+    "submissions": 778,
+    "min_reviews": 3,
+    "total_reviews": 2334,
+    "double_blind": true,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 17,
+    "past_papers": 2228,
+    "past_citations": 17555,
+    "h5_index": 38,
+    "h5_median": 58,
+    "notes": "ICDM has a triple-blind submission policy since 2011, specifically disallowing pre-prints that are available online (such as on Arxiv). It also hides reveiwer names during discussion of the paper. A small number of papers will be invited to publish in expanded form in the KIS journal of Springer. Includes only regular papers. There were about 83 more short papers, also reviewed. ICDM has already been held in some 10 different countries, and the PC represent around 30 countries, with papers coming from 50 countries. 476 of the 778 submitted papers had a student first-author (note the 778 includes short papers, which aren't counted here).",
+    "pc_chairs": [
+        "Vijay Raghavan (University of Louisiana at Lafayette)",
+        "Srinivas Aluru (Georgia Institute of Technology gatech)"
+    ],
+    "pc_members": [
+        "Charu Aggarwal (IBM T J Watson Research Center)",
+        "Leman Akoglu (Carnegie Mellon University)",
+        "James Bailey (University of Melbourne)",
+        "Elena Baralis (Politecnico di Torino)",
+        "Nitesh V. Chawla (University of Notre Dame)",
+        "Yiu-ming Cheung (Hong Kong Baptist University)",
+        "Frans Coenen (University of Liverpool)",
+        "Diane Cook (Washington State University)",
+        "Bruno Cremilleux (GREYC, Universite de Caen)",
+        "Ernesto Damiani (Khalifa University of Science and Technology)",
+        "Gautam Das (University of Texas at Arlington)",
+        "Wei Ding (University of Massachusetts Boston)",
+        "Josep Domingo-Ferrer (Universitat Rovira i Virgili)",
+        "Joao Gama (LIAAD - INESC TEC)",
+        "Stephan Guennemann (Technical University of Munich)",
+        "Dimitrios Gunopulos (University of Athens)",
+        "Jun Luke Huan (University of Kansas)",
+        "Jaap Kamps (University of Amsterdam)",
+        "Hisashi Kashima (Kyoto University)",
+        "Huan Liu (Arizona State University)",
+        "Dunja Mladenic (J. Stefan Institute)",
+        "Jian Pei (Simon Fraser University Burnaby)",
+        "Naren Ramakrishnan (Department of Computer Science Virginia Tech)",
+        "Sanjay Ranka (University of Florida)",
+        "Jie Tang (Tsinghua University)",
+        "Hang Hang Tong (Arizona State University)",
+        "Vincent S. Tseng (National Chao Tung University)",
+        "Takashi Washio (Osaka University)",
+        "Xindong Wu (University of Vermont)",
+        "Hui Xiong (Rutgers University)",
+        "Osmar Zaiane (University of Alberta)",
+        "Min-Ling Zhang (Southeast University)",
+        "Zhi-Hua Zhou (Nanjing University)",
+        "Xingquan Zhu (Florida Atlantic University)",
+        "Blaz Zupan (University of Ljubljana)",
+        "Ayan Acharya (CognitiveScale Inc.)",
+        "Ankit Agrawal (Northwestern University)",
+        "Aijun An (York University)",
+        "Shin Ando (Tokyo University of Science)",
+        "Luiza Antonie (University of Guelph)",
+        "Annalisa Appice (Universita' degli Studi di Bari Aldo Moro)",
+        "Ira Assent (Aarhus University)",
+        "Martin Atzmueller (Tilburg University)",
+        "Anthony Bagnall (University of East Anglia)",
+        "Nicola Barbieri (Tumblr)",
+        "Christian Bauckhage (Fraunhofer IAIS)",
+        "Rohan Baxter (ATO)",
+        "Roberto Bayardo (Google)",
+        "Ryan Benton (University of South Alabama)",
+        "Bettina Berendt (K.U. Leuven)",
+        "Kanishka Bhaduri (Netflix Inc)",
+        "Indrajit Bhattacharya (TCS Innovation Labs)",
+        "Chiranjib Bhattacharyya (Indian Institute of Science, Bangalore.)",
+        "Albert Bifet (Telecom ParisTech)",
+        "Francesco Bonchi (Yahoo Labs)",
+        "Marco Botta (University of Torino)",
+        "Paul Bradley (ZirMed)",
+        "Rajmonda Sulo Caceres (MIT Lincoln Laboratory)",
+        "Longbing Cao (University of Technology, Sydney)",
+        "Michelangelo Ceci (University of Bari)",
+        "Lo\u00efc Cerf (Universidade Federal de Minas Gerais)",
+        "Keith Chan (The Hong Kong Polytechnic University)",
+        "Philip Chan (Florida Institute of Technology)",
+        "Kevin Chen-Chuan Chang (University of Illinois at Urbana Champaign)",
+        "Abon Chaudhuri (Walmart Labs)",
+        "Arbee L.P. Chen (Asia University)",
+        "Enhong Chen (University of Science and Technology of China)",
+        "Feng Chen (University at Albany SUNY)",
+        "Lei Chen (Hong Kong University of Science and Technology)",
+        "Ming-Syan Chen (National Taiwan University)",
+        "Ping Chen (University of Massachusetts Boston)",
+        "Zheng Chen (Microsoft Research Asia)",
+        "Zhiyuan Chen (University of Maryland Baltimore County)",
+        "Hong Cheng (The Chinese University of Hong Kong)",
+        "Xueqi Cheng (Chinese Academy of Sciences, Beijing)",
+        "Fu-Lai Chung (Hong Kong Polytechnic University)",
+        "Gao Cong (Nanyang Technological University)",
+        "Michele Coscia (Harvard University)",
+        "Peng Cui (Tsinghua University)",
+        "Alfredo Cuzzocrea (ICAR-CNR and University of Calabria)",
+        "Kamalika Das (UARC, NASA Ames Research Center)",
+        "Mahashweta Das (Visa)",
+        "Gianmarco De Francisci Morales (QCRI)",
+        "Ayhan Demiriz (Gebze Technical University)",
+        "Cheng Deng (Xidian University)",
+        "Anne Denton (North Dakota State University)",
+        "Ying Ding (Indiana University)",
+        "Nemanja Djuric (Uber ATG)",
+        "Trong Dinh Thac Do (University of Technology Sydney)",
+        "Carlotta Domeniconi (George Mason University)",
+        "Dejing Dou (University of Oregon)",
+        "Bo Du (Wuhan University)",
+        "Wouter Duivesteijn (Eindhoven University of Technology)",
+        "William Eberle (Tennessee Technological University)",
+        "Christoph F. Eick (University of Houston)",
+        "Tapio Elomaa (Tampere University of Technology)",
+        "Vladimir Estivill-Castro (Griffith University)",
+        "Nicola Fanizzi (University of Bari)",
+        "Fabio Fassetti (DIMES, University of Calabria)",
+        "Esther Galbrun (Inria Nancy - Grand Est)",
+        "Matjaz Gams (Jozef Stefan Institute)",
+        "Jing Gao (SUNY Buffalo)",
+        "Minos Garofalakis (Technical University of Crete)",
+        "Chen Gong (Nanjing University of Science and Technology)",
+        "Ananth Grama (Purdue University)",
+        "Mihajlo Grbovic (Yahoo! Labs)",
+        "Maria Halkidi (University of Piraeus)",
+        "Lawrence Hall (University of South Florida)",
+        "Jingrui He (Arizona State University)",
+        "Qing He (Institute of Computing Technology, CAS)",
+        "Xiaofeng He (East China Normal University)",
+        "Sibylle Hess (TU Dortmund University)",
+        "Andreas Hotho (University of Wuerzburg)",
+        "Liang Hu (Shanghai Jiaotong University)",
+        "Dino Ienco (UMR Tetis, IRSTEA)",
+        "Toshihiro Kamishima (National Institute of Advanced Industrial Science and Technology)",
+        "Kamalakar Karlapalem (International Institute of Information Technology, Hyderabad)",
+        "Saurav Karmakar (GreyKarma Technologies)",
+        "George Karypis (University of Minnesota)",
+        "Eamonn Keogh (University of California Riverside)",
+        "Kristian Kersting (TU Dortmund)",
+        "Xiangnan Kong (Worcester Polytechnic Institute (WPI))",
+        "Stefan Kramer (Johannes Gutenberg University Mainz)",
+        "Hye-Chung Kum (Texas A&M)",
+        "Anne Laurent (University Montpellier 2, LIRMM)",
+        "Aleksandar Lazarevic (Aetna)",
+        "Hui Li (Xidian University)",
+        "Peipei Li (Hefei University of Technology)",
+        "Ping Li (Rutgers University)",
+        "Shuai Li (Cambridge University)",
+        "Yaliang Li (Baidu Research Big Data Lab)",
+        "Yan Li (University of Michigan)",
+        "Yanhua Li (Worcester Polytechnic Institute)",
+        "Ee-Peng Lim (Singapore Management University)",
+        "Jessica Lin (George Mason University)",
+        "Jason Lines (University of East Anglia)",
+        "Chengfei Liu (Swinburne University of Technology)",
+        "Cheng Long (Queen's University at Belfast)",
+        "Grigorios Loukides (King's College London)",
+        "Chang-Tien Lu (Virginia Tech)",
+        "Stijn Luca (KU Leuven - Campus Geel)",
+        "Simone Ludwig (North Dakota State University)",
+        "Kwan-Liu Ma (University of California, Davis)",
+        "masoud makrehchi (University of Ontario Institute of Technology)",
+        "Bradley Malin (Vanderbilt University)",
+        "Brandeis Marshall (Spelman College)",
+        "Florent Masseglia (INRIA)",
+        "Ernestina Menasalvas (Universidad Politecnica de Madrid)",
+        "Rosa Meo (University of Torino)",
+        "Pasquale Minervini (University College London)",
+        "Prasenjit Mitra (Pennsylvania State University)",
+        "Katharina Morik (University of Dortmund)",
+        "Tsuyoshi Murata (Tokyo Institute of Technology)",
+        "Mirco Nanni (KDDLab, ISTI-CNR Pisa)",
+        "Xia Ning (Indiana University & Purdue University, Indianapolis)",
+        "Christine O'Keefe (CSIRO)",
+        "Tim Oates (University of Maryland, Baltimore County)",
+        "Rasmus Ulslev Pedersen (Copenhagen Business School, Dept. of Informatics)",
+        "NhatHai Phan (NJIT)",
+        "Nico Piatkowski (TU Dortmund University)",
+        "Gianvito Pio (University of Bari Aldo Moro)",
+        "Evaggelia Pitoura (University Of Ioannina)",
+        "Pascal Poncelet (Univ. Montpellier II)",
+        "Vladan Radosavljevic (Uber Advanced Technology Group)",
+        "Huzefa Rangwala (George Mason University)",
+        "Chotirat Ann Ratanamahatana (Chulalongkorn University)",
+        "S. S. Ravi (University at Albany - SUNY, Albany, NY)",
+        "Sourav S. Bhowmick (Nanyang Technological University)",
+        "Lorenza Saitta (Universit\u00c3 Universit\u00c3 del Piemonte Orientale)",
+        "Joerg Sander (University of Alberta)",
+        "Pavel Senin (Los Alamos National Laboratory)",
+        "Shirish Shevade (Indian Institute of Science, Bangalore)",
+        "Kyuseok Shim (Seoul National University)",
+        "Dan Simovici (University of Massachusetts at Boston)",
+        "Lisa Singh (Georgetown University)",
+        "Dongjin Song (NEC Laboratories America)",
+        "Giovanni Stilo (Sapienza University of Rome)",
+        "Yizhou Sun (Northeastern University)",
+        "Einoshin Suzuki (Department of Informatics, Kyushu University)",
+        "Andrea Tagarelli (University of Calabria)",
+        "David Taniar (Monash University)",
+        "Dacheng Tao (University of Technology, Sydney)",
+        "Maguelonne Teisseire (TETIS - Irstea)",
+        "Alexandre Termier (University of Rennes)",
+        "Lini Thomas (IIIT Hyderabad)",
+        "Bhavani Thuraisingham (Department of Computer Science, University of Texas at Dallas)",
+        "Bin Tong (Central Research Laboratory, Hitachi, Ltd.)",
+        "Roberto Trasarti (KDD lab - ISTI CNR)",
+        "Jilles Vreeken (Max Planck Institute for Informatics, and Saarland University)",
+        "Slobodan Vucetic (Temple University)",
+        "Fei Wang (University of Connecticut)",
+        "Jason T. L. Wang (New Jersey Institute of Technology)",
+        "Jianyong Wang (Tsinghua University)",
+        "Wei Wang (UCLA)",
+        "Zhi Wei (NJIT)",
+        "Raymond Chi-Wing Wong (The Hong Kong University of Science and Technology)",
+        "Jia Wu (University of Technology Sydney)",
+        "Lingfei Wu (IBM TJ Watson Research Center)",
+        "Keli Xiao (Stony Brook University)",
+        "Sihong Xie (Lehigh University)",
+        "Chang Xu (The University of Sydney)",
+        "Hui Yang (The Ohio State University)",
+        "Yibo Yao (Washington State University)",
+        "Hongzhi Yin (The University of Queensland)",
+        "Jin Soung Yoo (Indiana University - Purdue University Fort Wayne)",
+        "Philip S. Yu (University of Illinois at Chicago)",
+        "Aidong Zhang (SUNY at Buffalo)",
+        "Chao Zhang (Daliang Univ of Technology)",
+        "Chengqi Zhang (University of Technology, Sydney)",
+        "Jiawei Zhang (University of Illinois at Chicago)",
+        "Kun zhang (Xavier Univ. of Louisiana)",
+        "Lefei Zhang (Wuhan University)",
+        "Shiming Zhang (Big Data Lab, Baidu Research)",
+        "Xiangliang Zhang (King Abdullah University of Science and Technology)",
+        "Liang Zhao (George Mason University)",
+        "Jiayu Zhou (MSU)",
+        "Xun Zhou (The University of Iowa)",
+        "Yang Zhou (Auburn University)",
+        "Hengshu Zhu (Baidu)"
+    ],
+    "keynote_speakers": [
+        "Leslie Valiant",
+        "Aidong Zhang",
+        "Michael J. Franklin"
+    ],
+    "session_chairs": [
+        "Zhi-Hua Zhou",
+        "Huzefa Rangwala",
+        "Juan D. Velasquez Silva",
+        "Raju Gottumukkala",
+        "Xia Ning",
+        "Ranga Raju Vatsavai",
+        "James Bailey",
+        "Bhavani Thuraisingham",
+        "My T. Thai",
+        "Myra Spiliopoulou",
+        "Alfredo Cuzzocrea",
+        "Ambedkar Dukkipati",
+        "Tanya Berger-Wolf",
+        "Xiaowei Xu",
+        "Peter Beling",
+        "Vijay Raghavan",
+        "Danai Koutra",
+        "Alexander Bernstein",
+        "Yehuda Koren",
+        "Xiaowei Xu",
+        "Ryan G. Benton",
+        "Kun Zhang",
+        "Alfredo Cuzzocrea"
+    ],
+    "panelists": [
+        "Naren Ramakrishnan",
+        "Myra Spiliopoulou",
+        "Huan Liu",
+        "Eirini Ntoutsi",
+        "Jilles Vreeken",
+        "Tanushree Mitra",
+        "Leman Akoglu",
+        "Tanya Berger-Wolf",
+        "Emilio Ferrara",
+        "Michael J. Franklin",
+        "Tsuyoshi Ide",
+        "Stratis Ioannidis",
+        "Youzuo Lin (LANL)",
+        "Pauli Miettinen",
+        "B. Aditya Prakash",
+        "Xindong Wu (Louisiana)",
+        "Aidong Zhang"
+    ],
+    "papers": [
+        {
+            "key": "ICDM_17_001",
+            "title": "Multi-task Survival Analysis",
+            "authors": [
+                "Lu Wang",
+                "Yan Li",
+                "Jiayu Zhou",
+                "Dongxiao Zhu",
+                "Jieping Ye"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_002",
+            "title": "BiCycle: Item Recommendation with Life Cycles",
+            "authors": [
+                "Xinyue Liu",
+                "Yuanfang Song",
+                "Charu Aggarwal",
+                "Yao Zhang",
+                "Xiangnan Kong"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_003",
+            "title": "Tracking Hit-and-run Vehicle with Sparse Video Surveillance Cameras and Mobile Taxicabs",
+            "authors": [
+                "Yang Wang",
+                "Wuji Chen",
+                "Wei Zheng",
+                "He Huang",
+                "Wen Zhang",
+                "Hengchang Liu"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_004",
+            "title": "A Randomized Approach for Crowdsourcing in the Presence of Multiple Views",
+            "authors": [
+                "Yao Zhou",
+                "Jingrui He"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_005",
+            "title": "Many Heads are Better than One: Local Community Detection by the Multi-Walker Chain",
+            "authors": [
+                "Yuchen Bian",
+                "Jingchao Ni",
+                "Wei Cheng",
+                "Xiang Zhang"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_006",
+            "title": "Benchmark Generator for Dynamic Overlapping Communities in Networks",
+            "authors": [
+                "Neha Sengupta",
+                "Michael Hamann",
+                "Dorothea Wagner"
+            ],
+            "topics": [
+                "Data",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "ICDM_17_007",
+            "title": "HiMuV: Hierarchical Framework for Modeling Multi-Modality Multi-Resolution Data",
+            "authors": [
+                "Jianboi Li",
+                "Jingrui He",
+                "Yada Zhu"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_008",
+            "title": "SPTF: A Scalable Probabilistic Tensor Factorization Model for Semantic-Aware Behavior Prediction",
+            "authors": [
+                "Hongzhi Yin",
+                "Hongxu Chen",
+                "Xiaoshuai Sun",
+                "Hao Wang",
+                "Yang Wang",
+                "Quoc Viet Hung Nguyen"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_009",
+            "title": "Large Scale Kernel Methods for Online AUC Maximization",
+            "authors": [
+                "Yi Ding",
+                "Chenghao Liu",
+                "Peilin Zhao",
+                "Steven C.H. Hoi"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_010",
+            "title": "Distributing Frank-Wolfe via Map-Reduce",
+            "authors": [
+                "Armin Moharrer",
+                "Stratis Ioannidis"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_011",
+            "title": "AWDA: An Adaptive Wishart Discriminant Analysis",
+            "authors": [
+                "Haoyi Xiong",
+                "Wei Cheng",
+                "Wenqing Hu",
+                "Jiang Bian",
+                "Zhishan Guo"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_012",
+            "title": "Bayesian Optimization in Weakly Specified Search Space",
+            "authors": [
+                "Vu Nguyen",
+                "Sunil Gupta",
+                "Santu Rane",
+                "Cheng Li",
+                "Svetha Venkatesh"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_013",
+            "title": "AnySCAN: An Efficient Anytime Framework with Active Learning for Large-scale Network Clustering",
+            "authors": [
+                "Weizhong Zhao",
+                "Gang Chen",
+                "Xiaowei Xu"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_014",
+            "title": "A Self-adaptive Sliding Window based Topic Model for Non-uniform Texts",
+            "authors": [
+                "Jin He",
+                "Lei Li",
+                "Xindong Wu"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_015",
+            "title": "TensorCast: Forecasting with Context using Coupled Tensors",
+            "authors": [
+                "Miguel Ramos de Araujo",
+                "Pedro Manuel Pinto Ribeiro",
+                "Christos Faloutsos"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_016",
+            "title": "GANG: Detecting Fraudulent Users in Online Social Networks via Guilt-by-Association on Directed Graphs",
+            "authors": [
+                "Binghui Wang",
+                "Neil Zhenqiang Gong",
+                "Hao Fu"
+            ],
+            "topics": [
+                "Data"
+            ],
+            "award": true
+        },
+        {
+            "key": "ICDM_17_017",
+            "title": "Revisiting Spectral Graph Clustering with Generative Community Models",
+            "authors": [
+                "Pin-Yu Chen",
+                "Lingfei Wu"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_018",
+            "title": "Topological Recurrent Neural Network for Diffusion Prediction",
+            "authors": [
+                "Jia Wang",
+                "Vincent W. Zheng",
+                "Zemin Liu",
+                "Kevin Chen-Chuan Chang"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_019",
+            "title": "Local Bayes Risk Minimization Based Stopping Strategy for Hierarchical Classification",
+            "authors": [
+                "Yu Wang",
+                "Qinghua Hu",
+                "Yucan Zhou",
+                "Hong Zhao",
+                "Yuhua Qian",
+                "Jiye Liang"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_020",
+            "title": "Adaptive Laplace Mechanism: Differential Privacy Preservation in Deep Learning",
+            "authors": [
+                "NhatHai Phan",
+                "Xintao Wu",
+                "Han Hu",
+                "Dejing Dou"
+            ],
+            "topics": [
+                "Data",
+                "Security"
+            ]
+        },
+        {
+            "key": "ICDM_17_021",
+            "title": "Glocalized Weisfeiler-Lehman Graph Kernels: Global-Local Feature Maps of Graphs",
+            "authors": [
+                "Christopher Morris",
+                "Kristian Kersting",
+                "Petra Mutzel"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_022",
+            "title": "Discovering Truths from Distributed Data",
+            "authors": [
+                "Yaqing Wang",
+                "Fenglong Ma",
+                "Lu Su",
+                "Jing Gao"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_023",
+            "title": "Matrix Profile VIII: Domain Agnostic Online Semantic Segmentation at Superhuman Performance Levels",
+            "authors": [
+                "Shaghayegh Gharghabi",
+                "Yifei Ding",
+                "Chin-Chia Michael Yeh",
+                "Kaveh Kamgar",
+                "Liudmila Ulanova",
+                "Eamonn Keogh"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_024",
+            "title": "Generating Medical Hypotheses Based on Evolutionary Medical Concepts",
+            "authors": [
+                "Guangxu Xun",
+                "Kishlay Jha",
+                "Vishrawas Gopalakrishnan",
+                "Yaliang Li",
+                "Aidong Zhang"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_025",
+            "title": "AutoLearn - Automated Feature Generation and Selection",
+            "authors": [
+                "Ambika Kaul",
+                "Saket Maheshwary",
+                "Vikram Pudi"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_026",
+            "title": "SCED: A General Framework for Sparse Tensor Decomposition with Constraints and Elementwise Dynamic Learning",
+            "authors": [
+                "Shuo Zhou",
+                "Sarah M. Erfani",
+                "James Bailey"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_027",
+            "title": "A Deep Transfer Learning Approach for Improved Post-Traumatic Stress Disorder Diagnosis",
+            "authors": [
+                "Debrup Banerjee",
+                "Kazi Islam",
+                "Gang Mei",
+                "Lemin Xiao",
+                "Guangfan Zhang",
+                "Roger Xu",
+                "Shuiwang Ji",
+                "Jiang Li"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_028",
+            "title": "HistoSketch: Fast Similarity-Preserving Sketching of Streaming Histograms with Concept Drift",
+            "authors": [
+                "Dingqi Yang",
+                "Bin Li",
+                "Laura Rettig",
+                "Philippe Cudre-Mauroux"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_029",
+            "title": "Improving I/O Complexity of Triangle Enumeration",
+            "authors": [
+                "Yi Cui",
+                "Di Xiao",
+                "Daren B. H. Cline",
+                "Dmitri Loguinov"
+            ],
+            "topics": [
+                "Data",
+                "Storage"
+            ]
+        },
+        {
+            "key": "ICDM_17_030",
+            "title": "Supervised Belief Propagation: Scalable Supervised Inference on Attributed Networks",
+            "authors": [
+                "Jaemin Yoo",
+                "Saehan Jo",
+                "U Kang"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_031",
+            "title": "Situation Aware Multi-Task Learning for Traffic Prediction",
+            "authors": [
+                "Dingxiong Deng",
+                "Cyrus Shahabi",
+                "Ugur Demiryurek",
+                "Linhong Zhu"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_032",
+            "title": "Collective Entity Resolution in Familial Networks",
+            "authors": [
+                "Pigi Kouki",
+                "Jay Pujara",
+                "Christopher Marcum",
+                "Laura Koehly",
+                "Lise Getoor"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_033",
+            "title": "Overlapping Community Detection via Constrained PARAFAC: A Divide and Conquer Approach",
+            "authors": [
+                "Georgios B. Giannakis"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_034",
+            "title": "Split Miner: Discovering Accurate and Simple Business Process Models from Event Logs",
+            "authors": [
+                "Adriano Augusto",
+                "Raffaele Conforti",
+                "Marlon Dumas",
+                "Marcello La Rosa"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_035",
+            "title": "\"Kernel Conditional Clustering\"",
+            "authors": [
+                "Xiao He",
+                "Thomas Gumbsch",
+                "Damian Roqueiro",
+                "Karsten Borgwardt"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_036",
+            "title": "Matrix Profile VI: Meaningful Multidimensional Motif Discovery",
+            "authors": [
+                "Chin-Chia Michael Yeh",
+                "Nickolas Kavantzas",
+                "Eamonn Keogh"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_037",
+            "title": "A Short-Term Rainfall Prediction Model using Multi-Task Convolutional Neural Networks",
+            "authors": [
+                "Minghui Qiu",
+                "Peilin Zhao",
+                "Ke Zhang",
+                "Jun Huang",
+                "Xing Shi",
+                "Xiaoguang Wang",
+                "Wei Chu"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_038",
+            "title": "Matrix Profile VII: Time Series Chains: A New Primitive for Time Series Data Mining",
+            "authors": [
+                "Yan Zhu",
+                "Makoto Imamura",
+                "Daniel Nikovski",
+                "Eamonn Keogh"
+            ],
+            "topics": [
+                "Data"
+            ],
+            "award": true
+        },
+        {
+            "key": "ICDM_17_039",
+            "title": "MetaLDA: a Topic Model that Efficiently Incorporates Meta information",
+            "authors": [
+                "He Zhao",
+                "Lan Du",
+                "Wray Buntine",
+                "Gang Liu"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_040",
+            "title": "Exploiting Hierarchical Structures for POI Recommendation",
+            "authors": [
+                "Pengpeng Zhao",
+                "Xiefeng Xu",
+                "Yanchi Liu",
+                "Ziting Zhou",
+                "Kevin Kai Zheng",
+                "Victor S. Sheng",
+                "Hui Xiong"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_041",
+            "title": "Collaborative Filtering with Social Local Models",
+            "authors": [
+                "Huan Zhao",
+                "Quanming Yao",
+                "James T. Kwok",
+                "Dik Lun Lee"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_042",
+            "title": "Unsupervised feature learning with discriminative encoder",
+            "authors": [
+                "Gaurav Pandey",
+                "Ambedkar Dukkipati"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_043",
+            "title": "Mining Customer Valuations to Optimize Product Bundling Strategy",
+            "authors": [
+                "Li Ye",
+                "Hong Xie",
+                "Weijie Wu",
+                "John C. S. Lui"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_044",
+            "title": "BL-MNE: Emerging Heterogeneous Social Network Embedding through Broad Learning with Aligned Autoencoder",
+            "authors": [
+                "Jiawei Zhang",
+                "Congying Xia",
+                "Chenwei Zhang",
+                "Limeng Cui",
+                "Yanjie Fu",
+                "Philip S. Yu"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_045",
+            "title": "Telling Cause from Effect using MDL-based Local and Global Regression",
+            "authors": [
+                "Alexander Marx",
+                "Jilles Vreeken"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_046",
+            "title": "Visually-Aware Fashion Recommendation and Design with Generative Image Models",
+            "authors": [
+                "Wang-Cheng Kang",
+                "Chen Fang",
+                "Zhaowen Wang",
+                "Julian McAuley"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_047",
+            "title": "Online and Distributed Robust Regressions under Adversarial Data Corruption",
+            "authors": [
+                "Xuchao Zhang",
+                "Liang Zhao",
+                "Arnold P. Boedihardjo",
+                "Chang-Tien Lu"
+            ],
+            "topics": [
+                "Data",
+                "Concurrency",
+                "Security"
+            ]
+        },
+        {
+            "key": "ICDM_17_048",
+            "title": "Scalable and Adaptive Algorithms for the Triangle Interdiction Problem on Billion-Scale Networks",
+            "authors": [
+                "Alan Kuhnle",
+                "Victoria G. Crawford",
+                "My T. Thai"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_049",
+            "title": "Scalable Algorithms for Locally Low-Rank Matrix Modeling",
+            "authors": [
+                "Qilong Gu",
+                "Joshua D. Trzasko",
+                "Arindam Banerjee"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_050",
+            "title": "Exploratory Analysis of Graph Data by Leveraging Domain Knowledge",
+            "authors": [
+                "Di Jin",
+                "Danai Koutra"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_051",
+            "title": "Efficiently Discovering Locally Exceptional yet Globally Representative Subgroups",
+            "authors": [
+                "Janis Kalofolias",
+                "Mario Boley",
+                "Jilles Vreeken"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_052",
+            "title": "Spatio-Temporal Neural Networks for Space-Time Series Forecasting and Relations Discovery",
+            "authors": [
+                "Ali Ziat",
+                "Edouard Delasalles",
+                "Ludovic Denoyer",
+                "Patrick Gallinari"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_053",
+            "title": "An Analysis of Boosted Linear Classifiers on Noisy Data with Applications to Multiple-Instance Learning",
+            "authors": [
+                "Rui Liu",
+                "Soumya Ray"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_054",
+            "title": "STExNMF: Spatio-Temporally Exclusive Topic Discovery for Anomalous Event Detection",
+            "authors": [
+                "Dear Sungbok Shin",
+                "Minsuk Choi",
+                "Jinho Choi",
+                "Scott Langevin",
+                "Christopher Bethune",
+                "Philippe Horne",
+                "Nathan Kronenfeld",
+                "Ramakrishnan Kannan",
+                "Barry Drake",
+                "Haesun Park",
+                "Jaegul Choo"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_055",
+            "title": "Online learning of acyclic conditional preference networks from noisy data",
+            "authors": [
+                "Fabien Labernia",
+                "Bruno Zanuttini",
+                "Brice Mayag",
+                "Florian Yger",
+                "Jamal Atif"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_056",
+            "title": "GoGP: Fast Online Regression with Gaussian Processes",
+            "authors": [
+                "Trung Le",
+                "Khanh Nguyen",
+                "Vu Nguyen",
+                "Tu Dinh Nguyen",
+                "Dinh Phung"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_057",
+            "title": "Scalable Hashing-Based Network Discovery",
+            "authors": [
+                "Tara Safavi",
+                "Chandra Sripada",
+                "Danai Koutra"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_058",
+            "title": "A Generic Framework for Interesting Subspace Cluster Detection in Multi-attributed Networks",
+            "authors": [
+                "Feng Chen",
+                "Baojian Zhou",
+                "Adil Alim",
+                "Liang Zhao"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_059",
+            "title": "Linear Time Complexity Time Series Classification with Bag-of-Pattern-Features",
+            "authors": [
+                "Xiaosheng Li",
+                "Jessica Lin"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_060",
+            "title": "Data-Driven Immunization",
+            "authors": [
+                "Yao Zhang",
+                "Arvind Ramanathan",
+                "Anil Kumar Vullikanti",
+                "Laura Pullum",
+                "B. Aditya Prakash"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_061",
+            "title": "Knowledge Guided Short-Text Classification For Healthcare Applications",
+            "authors": [
+                "Shilei Cao",
+                "Buyue Qian",
+                "Changchang Yin",
+                "Xiaoyu Li",
+                "Jishang Wei",
+                "Qinghua Zheng",
+                "Ian Davidson"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_062",
+            "title": "Data-Driven Utilization-Aware Trip Advisor for Bike-sharing Systems",
+            "authors": [
+                "Ji Hu",
+                "Zidong Yang",
+                "Yuanchao Shu",
+                "Peng Cheng",
+                "Jiming Chen"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_063",
+            "title": "Learning doubly stochastic affinity matrix via Davis-Kahan theorem",
+            "authors": [
+                "Jiwoong Park",
+                "Taejeong Kim"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_064",
+            "title": "Relational Mixture of Experts: Explainable Demographics Prediction with Behavioral Data",
+            "authors": [
+                "Masafumi Oyamada",
+                "Shinji Nakadai"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_065",
+            "title": "Importance Sketching of Influence Dynamics in Billion-scale Networks",
+            "authors": [
+                "Hung T. Nguyen",
+                "Tri P. Nguyen",
+                "NhatHai Phan",
+                "Thang N. Dinh"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_066",
+            "title": "A Probabilistic Approach for Learning with Label Proportions Applied to the US Presidential Election",
+            "authors": [
+                "Tao Sun",
+                "Dan Sheldon",
+                "Brendan O\u2019Connor"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_067",
+            "title": "Edge-Based Wedge Sampling to Estimate Triangle Counts in Very Large Graphs",
+            "authors": [
+                "Duru Turkoglu",
+                "Ata Turk"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_068",
+            "title": "Accurate Detection of Automatically Spun Content via Stylometric Analysis",
+            "authors": [
+                "Usman Shahid",
+                "Shehroze Farooqi",
+                "Raza Ahmad",
+                "Zubair Shafiq",
+                "Padmini Srinivasan",
+                "Fareed Zaffar"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_069",
+            "title": "IterativE Grammar-Based Framework for Discovering Variable-Length Time Series Motifs",
+            "authors": [
+                "Yifeng Gao",
+                "Jessica Lin",
+                "Huzefa Rangwala"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_070",
+            "title": "Multi-task Multi-modal Models for Collective Anomaly Detection",
+            "authors": [
+                "Tsuyoshi Ide",
+                "Dzung T. Phan",
+                "Jayant Kalagnanam"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_071",
+            "title": "A Hyperplane-based Algorithm for Semi-supervised Dimension Reduction",
+            "authors": [
+                "Huang Fang",
+                "Minhao Cheng",
+                "Cho-Jui Hsieh"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICDM_17_072",
+            "title": "Deep Similarity-Based Batch Mode Active Learning with Exploration-Exploitation",
+            "authors": [
+                "Changchang Yin",
+                "Buyue Qian",
+                "Shilei Cao",
+                "Xiaoyu Li",
+                "Jishang Wei",
+                "Qinghua Zheng",
+                "Ian Davidson"
+            ],
+            "topics": [
+                "Data"
+            ]
+        }
+    ]
+}

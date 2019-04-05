@@ -1,0 +1,720 @@
+{
+    "key": "NSDI_17",
+    "conference": "USENIX Symposium on Networked Systems Design and Implementation",
+    "organization": [
+        "USENIX"
+    ],
+    "country": "US",
+    "postdate": "2017-03-27",
+    "last_deadline": "2016-09-21",
+    "review_days": 75,
+    "submissions": 254,
+    "min_reviews": 3,
+    "total_reviews": 1056,
+    "double_blind": true,
+    "rebuttal": false,
+    "open_access": true,
+    "age": 13,
+    "past_papers": 119,
+    "past_citations": 4844,
+    "h5_index": 59,
+    "h5_median": 105,
+    "notes": "Two-round reviewing. Operational track encourages submission of papers that disprove or strengthen existing assumptions, without requiring new ideas or results.",
+    "pc_chairs": [
+        "Aditya Akella (University of Wisconsin-Madison)",
+        "Jon Howell (Google)"
+    ],
+    "pc_members": [
+        "Sharad Agarwal (Microsoft)",
+        "Thomas Anderson (University of Washington)",
+        "Andrea Arpaci-Dusseau (University of Wisconsin\u2014Madison)",
+        "Anirudh Badam (Microsoft)",
+        "Mahesh Balakrishnan (Yale University)",
+        "Fabian Bustamante (Northwestern University)",
+        "Ranveer Chandra (Microsoft)",
+        "David Choffnes (Northeastern University)",
+        "Romit Roy Choudhury (University of Illinois at Urbana-Champaign)",
+        "Mosharaf Chowdhury (University of Michigan)",
+        "Mike Dahlin (Google)",
+        "Anja Feldmann (Technische Universit\u00e4t Berlin)",
+        "Rodrigo Fonseca (Brown University)",
+        "Nate Foster (Cornell University)",
+        "Deepak Ganesan (University of Massachusetts Amherst)",
+        "Phillipa Gill (University of Massachusetts Amherst)",
+        "Srikanth Kandula (Microsoft)",
+        "Teemu Koponen (Styra)",
+        "Sanjeev Kumar (Uber)",
+        "Swarun Kumar (Carnegie Mellon University)",
+        "Wyatt Lloyd (University of Southern California)",
+        "Boon Thau Loo (University of Pennsylvania)",
+        "Jacob R. Lorch (Microsoft)",
+        "Ratul Mahajan (Microsoft)",
+        "Dahlia Malkhi (VMware)",
+        "Dave Maltz (Microsoft)",
+        "Z. Morley Mao (University of Michigan)",
+        "Michael Mitzenmacher (Harvard University)",
+        "Jason Nieh (Columbia University)",
+        "George Porter (University of California, San Diego)",
+        "Luigi Rizzo (University of Pisa)",
+        "Srinivasan Seshan (Carnegie Mellon University)",
+        "Anees Shaikh (Google)",
+        "Ankit Singla (ETH Zurich)",
+        "Robbert van Renesse (Cornell University)",
+        "Geoffrey M. Voelker (University of California, San Diego)",
+        "David Wetherall (Google)",
+        "Adam Wierman (California Institute of Technology)",
+        "John Wilkes (Google)",
+        "Minlan Yu (University of Southern California)",
+        "Heather Zheng (University of California, Santa Barbara)",
+        "Lin Zhong (Rice University)"
+    ],
+    "keynote_speakers": [],
+    "session_chairs": [
+        "Wyatt Lloyd",
+        "Anirudh Badam",
+        "Dahlia Malkhi",
+        "Ranveer Chandra",
+        "Jacob R. Lorch",
+        "Srini Seshan",
+        "Mosharaf Chowdhury",
+        "George Porter",
+        "John Wilkes",
+        "Deepak Ganesan",
+        "Boon Thau Loo",
+        "Rodrigo Fonseca",
+        "Minlan Yu"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "NSDI_17_001",
+            "title": "The Design, Implementation, and Deployment of a System to Transparently Compress Hundreds of Petabytes of Image Files for a File-Storage Service",
+            "authors": [
+                "Daniel Reiter Horn",
+                "Ken Elkabany",
+                "Chris Lesniewski-Lass",
+                "Keith Winstein"
+            ],
+            "topics": [
+                "Network",
+                "Storage"
+            ],
+            "award": true
+        },
+        {
+            "key": "NSDI_17_002",
+            "title": "Decibel: Isolation and Sharing in Disaggregated Rack-Scale Storage",
+            "authors": [
+                "Mihir Nanavati",
+                "Jake Wires",
+                "Andrew Warfield"
+            ],
+            "topics": [
+                "Network",
+                "Storage"
+            ]
+        },
+        {
+            "key": "NSDI_17_003",
+            "title": "vCorfu: A Cloud-Scale Object Store on a Shared Log",
+            "authors": [
+                "Michael Wei",
+                "Amy Tai",
+                "Christopher J. Rossbach",
+                "Ittai Abraham",
+                "Maithem Munshed",
+                "Medhavi Dhawan",
+                "Jim Stabile",
+                "Udi Wieder",
+                "Scott Fritchie",
+                "Steven Swanson",
+                "Michael J. Freedman",
+                "Dahlia Malkhi"
+            ],
+            "topics": [
+                "Cloud",
+                "Storage"
+            ]
+        },
+        {
+            "key": "NSDI_17_004",
+            "title": "Curator: Self-Managing Storage for Enterprise Clusters",
+            "authors": [
+                "Ignacio Cano",
+                "Srinivas Aiyar",
+                "Varun Arora",
+                "Manosiz Bhattacharyya",
+                "Akhilesh Chaganti",
+                "Chern Cheah",
+                "Brent Chun",
+                "Karan Gupta",
+                "Vinayak Khot",
+                "Arvind Krishnamurthy"
+            ],
+            "topics": [
+                "Storage",
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_005",
+            "title": "Evaluating the Power of Flexible Packet Processing for Network Resource Allocation",
+            "authors": [
+                "Naveen Kr. Sharma",
+                "Antoine Kaufmann",
+                "Thomas Anderson",
+                "Changhoon Kim",
+                "Arvind Krishnamurthy",
+                "Jacob Nelson",
+                "Simon Peter"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_006",
+            "title": "APUNet: Revitalizing GPU as Packet Processing Accelerator",
+            "authors": [
+                "Younghwan Go",
+                "Muhammad Asim Jamshed",
+                "YoungGyoun Moon",
+                "Changho Hwang",
+                "KyoungSoo Park"
+            ],
+            "topics": [
+                "Network",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "NSDI_17_007",
+            "title": "Stateless Network Functions: Breaking the Tight Coupling of State and Processing",
+            "authors": [
+                "Murad Kablan",
+                "Azzam Alsudais",
+                "Eric Keller",
+                "Franck Le"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_008",
+            "title": "mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes",
+            "authors": [
+                "Muhammad Asim Jamshed",
+                "YoungGyoun Moon",
+                "Donghwi Kim",
+                "Dongsu Han",
+                "KyoungSoo Park"
+            ],
+            "topics": [
+                "Network",
+                "OS"
+            ],
+            "award": true
+        },
+        {
+            "key": "NSDI_17_009",
+            "title": "One Key to Sign Them All Considered Vulnerable: Evaluation of DNSSEC in the Internet",
+            "authors": [
+                "Haya Shulman",
+                "Michael Waidner"
+            ],
+            "topics": [
+                "Network",
+                "Security"
+            ]
+        },
+        {
+            "key": "NSDI_17_010",
+            "title": "Enhancing Security and Privacy of Tor's Ecosystem by Using Trusted Execution Environments",
+            "authors": [
+                "Seongmin Kim",
+                "Juhyeng Han",
+                "Jaehyeong Ha",
+                "Taesoo Kim",
+                "Dongsu Han"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_011",
+            "title": "ViewMap: Sharing Private In-Vehicle Dashcam Videos",
+            "authors": [
+                "Minho Kim",
+                "Jaemin Lim",
+                "Hyunwoo Yu",
+                "Kiyeon Kim",
+                "Younghoon Kim",
+                "Suk-Bok Lee",
+                "Kyle Jamieson"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_012",
+            "title": "Facilitating Robust 60 GHz Network Deployment By Sensing Ambient Reflectors",
+            "authors": [
+                "Teng Wei",
+                "Anfu Zhou",
+                "Xinyu Zhang"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_013",
+            "title": "Skip-Correlation for Multi-Power Wireless Carrier Sensing",
+            "authors": [
+                "Romil Bhardwaj",
+                "Krishna Chintalapudi",
+                "Ramachandran Ramjee"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_014",
+            "title": "FM Backscatter: Enabling Connected Cities and Smart Fabrics",
+            "authors": [
+                "Anran Wang",
+                "Vikram Iyer",
+                "Vamsi Talla",
+                "Joshua R. Smith",
+                "Shyamnath Gollakota"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_015",
+            "title": "Prio: Private, Robust, and Scalable Computation of Aggregate Statistics",
+            "authors": [
+                "Henry Corrigan-Gibbs",
+                "Dan Boneh"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "NSDI_17_016",
+            "title": "Opaque: An Oblivious and Encrypted Distributed Analytics Platform",
+            "authors": [
+                "Wenting Zheng",
+                "Ankur Dave",
+                "Jethro G. Beekman",
+                "Raluca Ada Popa",
+                "Joseph E. Gonzalez",
+                "Ion Stoica"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "NSDI_17_017",
+            "title": "Splinter: Practical Private Queries on Public Data",
+            "authors": [
+                "Frank Wang",
+                "Catherine Yun",
+                "Shafi Goldwasser",
+                "Vinod Vaikuntanathan",
+                "Matei Zaharia"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "NSDI_17_018",
+            "title": "VFP: A Virtual Switch Platform for Host SDN in the Public Cloud",
+            "authors": [
+                "Daniel Firestone"
+            ],
+            "topics": [
+                "Network",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "NSDI_17_019",
+            "title": "SCL: Simplifying Distributed SDN Control Planes",
+            "authors": [
+                "Aurojit Panda",
+                "Wenting Zheng",
+                "Xiaohe Hu",
+                "Arvind Krishnamurthy",
+                "Scott Shenker"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_020",
+            "title": "Robust Validation of Network Designs under Uncertain Demands and Failures",
+            "authors": [
+                "Yiyang Chang",
+                "Sanjay G. Rao",
+                "Mohit Tawarmalani"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_021",
+            "title": "Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads",
+            "authors": [
+                "Sadjad Fouladi",
+                "Riad S. Wahby",
+                "Brennan Shacklett",
+                "Karthikeyan Vasuki Balasubramaniam",
+                "William Zeng",
+                "Rahul Bhalerao",
+                "Anirudh Sivaraman",
+                "George Porter",
+                "Keith Winstein"
+            ],
+            "topics": [
+                "Network",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "NSDI_17_022",
+            "title": "Live Video Analytics at Scale with Approximation and Delay-Tolerance",
+            "authors": [
+                "Haoyu Zhang",
+                "Ganesh Ananthanarayanan",
+                "Peter Bodik",
+                "Matthai Philipose",
+                "Paramvir Bahl",
+                "Michael J. Freedman"
+            ],
+            "topics": [
+                "Data",
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_023",
+            "title": "Pytheas: Enabling Data-Driven Quality of Experience Optimization Using Group-Based Exploration-Exploitation",
+            "authors": [
+                "Junchen Jiang",
+                "Shijie Sun",
+                "Vyas Sekar",
+                "Hui Zhang"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_024",
+            "title": "Let It Flow: Resilient Asymmetric Load Balancing with Flowlet Switching",
+            "authors": [
+                "Erico Vanini",
+                "Rong Pan",
+                "Mohammad Alizadeh",
+                "Parvin Taheri",
+                "Tom Edsall"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_025",
+            "title": "Flowtune: Flowlet Control for Datacenter Networks",
+            "authors": [
+                "Jonathan Perry",
+                "Hari Balakrishnan",
+                "Devavrat Shah"
+            ],
+            "topics": [
+                "Network",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "NSDI_17_026",
+            "title": "Flexplane: An Experimentation Platform for Resource Management in Datacenters",
+            "authors": [
+                "Amy Ousterhout",
+                "Jonathan Perry",
+                "Hari Balakrishnan",
+                "Petr Lapukhov"
+            ],
+            "topics": [
+                "Benchmark",
+                "Cloud",
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_027",
+            "title": "I Can\u2019t Believe It\u2019s Not Causal! Scalable Causal Consistency with No Slowdown Cascades",
+            "authors": [
+                "Syed Akbar Mehdi",
+                "Cody Littley",
+                "Natacha Crooks",
+                "Lorenzo Alvisi",
+                "Nathan Bronson",
+                "Wyatt Lloyd"
+            ],
+            "topics": [
+                "DB",
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_028",
+            "title": "CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics",
+            "authors": [
+                "Omid Alipourfard",
+                "Hongqiang Harry Liu",
+                "Jianshu Chen",
+                "Shivaram Venkataraman",
+                "Minlan Yu",
+                "Ming Zhang"
+            ],
+            "topics": [
+                "Cloud",
+                "Data"
+            ]
+        },
+        {
+            "key": "NSDI_17_029",
+            "title": "AdaptSize: Orchestrating the Hot Object Memory Cache in a Content Delivery Network",
+            "authors": [
+                "Daniel S. Berger",
+                "Ramesh K. Sitaraman",
+                "Mor Harchol-Balter"
+            ],
+            "topics": [
+                "Network",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "NSDI_17_030",
+            "title": "Bringing IoT to Sports Analytics",
+            "authors": [
+                "Mahanth Gowda",
+                "Ashutosh Dhekne",
+                "Sheng Shen",
+                "Romit Roy Choudhury",
+                "Xue Yang",
+                "Lei Yang",
+                "Suresh Golwalkar",
+                "Alexander Essanian"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_031",
+            "title": "FarmBeats: An IoT Platform for Data-Driven Agriculture",
+            "authors": [
+                "Deepak Vasisht",
+                "Zerina Kapetanovic",
+                "Jongho Won",
+                "Xinxin Jin",
+                "Ranveer Chandra",
+                "Ashish Kapoor",
+                "Sudipta N. Sinha",
+                "Madhusudhan Sudarshan",
+                "Sean Stratman"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_032",
+            "title": "Enabling High-Quality Untethered Virtual Reality",
+            "authors": [
+                "Omid Abari",
+                "Dinesh Bharadia",
+                "Austin Duffield",
+                "Dina Katabi",
+                "Monia Ghobadi",
+                "Ratul Mahajan",
+                "Amar Phanishayee",
+                "Xuan Kelvin Zou",
+                "Hang Guan",
+                "Arvind Krishnamurthy",
+                "Thomas Anderson"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_033",
+            "title": "Enabling Wide-Spread Communications on Optical Fabric with MegaSwitch",
+            "authors": [
+                "Li Chen",
+                "Kai Chen",
+                "Zhonghua Zhu",
+                "Minlan Yu",
+                "George Porter",
+                "Chunming Qiao",
+                "Shan Zhong"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_034",
+            "title": "Passive Realtime Datacenter Fault Detection and Localization",
+            "authors": [
+                "Arjun Roy",
+                "Hongyi Zeng",
+                "Jasmeet Bagga",
+                "Alex C. Snoeren"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        },
+        {
+            "key": "NSDI_17_035",
+            "title": "Clipper: A Low-Latency Online Prediction Serving System",
+            "authors": [
+                "Daniel Crankshaw",
+                "Xin Wang",
+                "Guilio Zhou",
+                "Michael J. Franklin",
+                "Joseph E. Gonzalez",
+                "Ion Stoica"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_036",
+            "title": "Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds",
+            "authors": [
+                "Kevin Hsieh",
+                "Aaron Harlap",
+                "Nandita Vijaykumar",
+                "Dimitris Konomis",
+                "Gregory R. Ganger",
+                "Phillip Gibbons",
+                "Onur Mutlu"
+            ],
+            "topics": [
+                "Cloud",
+                "Data"
+            ]
+        },
+        {
+            "key": "NSDI_17_037",
+            "title": "Efficient Memory Disaggregation with Infiniswap",
+            "authors": [
+                "Juncheng Gu",
+                "Youngmoon Lee",
+                "Yiwen Zhang",
+                "Mosharaf Chowdhury",
+                "Kang G. Shin"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_038",
+            "title": "Tux\u00b2: Distributed Graph Computation for Machine Learning",
+            "authors": [
+                "Wencong Xiao",
+                "Jilong Xue",
+                "Youshan Miao",
+                "Zhen Li",
+                "Cheng Chen",
+                "Ming Wu",
+                "Wei Li",
+                "Lidong Zhou"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "NSDI_17_039",
+            "title": "Correct by Construction Networks Using Stepwise Refinement",
+            "authors": [
+                "Leonid Ryzhyk",
+                "Nikolaj Bj\u00f8rner",
+                "Marco Canini",
+                "Jean-Baptiste Jeannin",
+                "Cole Schlesinger",
+                "Douglas B. Terry",
+                "George Varghese"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_040",
+            "title": "Verifying Reachability in Networks with Mutable Datapaths",
+            "authors": [
+                "Aurojit Panda",
+                "Ori Lahav",
+                "Katerina Argyraki",
+                "Mooly Sagiv",
+                "Scott Shenker"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_041",
+            "title": "Automated Bug Removal for Software-Defined Networks",
+            "authors": [
+                "Yang Wu",
+                "Ang Chen",
+                "Andreas Haeberlen",
+                "Wenchao Zhou",
+                "Boon Thau Loo"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "NSDI_17_042",
+            "title": "Delta-net: Real-time Network Verification Using Atoms",
+            "authors": [
+                "Alex Horn",
+                "Ali Kheradmand",
+                "Mukul Prasad"
+            ],
+            "topics": [
+                "Network"
+            ]
+        }
+    ]
+}

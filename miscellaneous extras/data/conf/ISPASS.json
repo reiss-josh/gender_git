@@ -1,0 +1,431 @@
+{
+    "key": "ISPASS_17",
+    "conference": "IEEE International Symposium on Performance Analysis of Systems and Software",
+    "organization": [],
+    "country": "US",
+    "postdate": "2017-04-24",
+    "last_deadline": "2016-10-14",
+    "review_days": 108,
+    "submissions": 81,
+    "min_reviews": 4,
+    "total_reviews": 387,
+    "double_blind": true,
+    "rebuttal": true,
+    "open_access": false,
+    "age": 17,
+    "past_papers": 465,
+    "past_citations": 4071,
+    "h5_index": 24,
+    "h5_median": 34,
+    "notes": "",
+    "pc_chairs": [
+        "Bronis R. de Supinski (Lawrence Livermore National Laboratory)"
+    ],
+    "pc_members": [
+        "Dorian Arnold (University of New Mexico)",
+        "Laura Carrington (San Diego Supercomputing Center)",
+        "Almadena Chtchelkanova (NSF)",
+        "Marcelo Cintra (Intel)",
+        "Jeanine Cook (Sandia National Laboratories)",
+        "Luiz DeRose (Cray)",
+        "Christina Delimitrou (Cornell University)",
+        "Andi Drebes (The University of Manchester)",
+        "Lieven Eeckhout (Ghent University)",
+        "Wendy Elsasser (ARM)",
+        "Nikos Hardavellas (Northwestern University)",
+        "David Hass (Broadcom)",
+        "Hillery Hunter (IBM Research)",
+        "Katherine Isaacs (University of Arizona)",
+        "Lizy K. John (University of Texas)",
+        "Samira Khan (University of Virginia)",
+        "Masaaki Kondo (The University of Tokyo)",
+        "David Lowenthal (University of Arizona)",
+        "Xiaosong Ma (Qatar Computing Research Institute)",
+        "Naoya Maruyama (RIKEN AICS)",
+        "Dimitrios S. Nikolopoulos (Queen's University)",
+        "Tapasya Patki (LLNL)",
+        "Indrani Paul (AMD)",
+        "Michael Pellauer (NVIDIA)",
+        "Fabrizio Petrini (Intel)",
+        "Suzanne Rivoire (Sonoma State University)",
+        "Valentina Salapura (IBM Research)",
+        "Yanos Sazeides (University of Cyprus)",
+        "Thomas R. W. Scogland (LLNL)",
+        "Kelly Shaw (University of Richmond)",
+        "Estela Suarez (Julich Supercomputing Centre)",
+        "Lingjia Tang (University of Michigan)",
+        "Michela Taufer (University of Delaware)",
+        "Valerie Taylor (Texas A&M University)",
+        "Eric Van Hensbergen (ARM)",
+        "Jeffrey S. Vetter (Oak Ridge National Laboratory)",
+        "Vince Weaver (University of Maine)",
+        "Thomas F. Wenisch (University of Michigan)",
+        "Lisa Wu (Intel Research)"
+    ],
+    "keynote_speakers": [
+        "Lizy K. John"
+    ],
+    "session_chairs": [
+        "Lizy K. John",
+        "Wendy Elsasser",
+        "Lieven Eeckhout",
+        "Bronis R. de Supinski",
+        "Michael Papamichael",
+        "Sally McKee",
+        "Suzanne Rivoire"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "ISPASS_17_001",
+            "title": "MaxSim: A Simulation Platform for Managed Applications",
+            "authors": [
+                "Andrey Rodchenko",
+                "Christos Kotselidis",
+                "Andy Nisbet",
+                "Antoniu Pop",
+                "Mikel Luj\u00e1n"
+            ],
+            "topics": [
+                "Benchmark",
+                "Compilers"
+            ],
+            "award": true
+        },
+        {
+            "key": "ISPASS_17_002",
+            "title": "dist-gem5: Distributed Simulation of Computer Clusters",
+            "authors": [
+                "Mohammad Alian (University of Illinois at Urbana-Champaign)",
+                "Umur Darbaz (University of Illinois at Urbana-Champaign)",
+                "Gabor Dozsa (ARM)",
+                "Stephan Diestelhorst (ARM)",
+                "Daehoon Kim (DGIST)",
+                "Nam Sung Kim (University of Illinois at Urbana-Champaign)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Concurrency",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "ISPASS_17_003",
+            "title": "Prefetching for Cloud Workloads: An Analysis Based on Address Patterns",
+            "authors": [
+                "Jiajun Wang",
+                "Reena Panda",
+                "Lizy K. John (University of Texas at Austin)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "ISPASS_17_004",
+            "title": "Toolbox for Exploration of Energy-Efficient Event Processors for Human-Computer Interaction",
+            "authors": [
+                "Tayyar Rzayev",
+                "David Albonesi",
+                "Rajit Manohar",
+                "Francois Guimbretiere",
+                "Jaeyeon Kihm (Cornell University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Energy"
+            ]
+        },
+        {
+            "key": "ISPASS_17_005",
+            "title": "HW/SW Co-designed Processors: Challenges, Design Choices and a Simulation Infrastructure for Evaluation",
+            "authors": [
+                "Rakesh Kumar (University of Edinburgh)",
+                "Jose Cano (University of Edinburgh)",
+                "Aleksandar Brankovic (Intel)",
+                "Demos Pavlou (11pets)",
+                "Kyriakos Stavrou (11pets)",
+                "Enric Gibert (Pharmacelera)",
+                "Alejandro Martinez (ARM)",
+                "Antonio Gonzalez (Universitat Polit\u00e8cnica de Catalunya)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISPASS_17_006",
+            "title": "OpenSMART: Single-Cycle Multi-hop NoC Generator in BSV and Chisel",
+            "authors": [
+                "Hyoukjun Kwon",
+                "Tushar Krishna (Georgia Institute of Technology)"
+            ],
+            "topics": [
+                "Architecture",
+                "Network"
+            ]
+        },
+        {
+            "key": "ISPASS_17_007",
+            "title": "StressRight: Finding the Right Stress for Accurate In-development System Evaluation",
+            "authors": [
+                "Jaewon Lee (POSTECH)",
+                "Hanhwi Jang (POSTECH)",
+                "Jae-Eon Jo (POSTECH)",
+                "Gyu-Hyeon Lee (POSTECH)",
+                "Jangwoo Kim (POSTECH and Seoul National University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "HPC"
+            ]
+        },
+        {
+            "key": "ISPASS_17_008",
+            "title": "SimBench: A Portable Benchmarking Methodology for Full-System Simulators",
+            "authors": [
+                "Harry Wagstaff",
+                "Bruno Bodin",
+                "Tom Spink",
+                "Bjoern Franke (University of Edinburgh)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISPASS_17_009",
+            "title": "Treelogy: A Benchmark Suite for Tree Traversals",
+            "authors": [
+                "Nikhil Hegde",
+                "Jianqiao Liu",
+                "Kirshanthan Sundararajah",
+                "Milind Kulkarni (Purdue University)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "ISPASS_17_010",
+            "title": "Evaluating and Mitigating Bandwidth Bottlenecks Across the Memory Hierarchy in GPUs",
+            "authors": [
+                "Saumay Dublish",
+                "Vijay Nagarajan",
+                "Nigel Topham (University of Edinburgh)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ISPASS_17_011",
+            "title": "SASSIFI: An Architecture-level Fault Injection Tool for GPU Application Resilience Evaluation",
+            "authors": [
+                "Siva Kumar Sastry Hari",
+                "Timothy Tsai",
+                "Mark Stephenson",
+                "Stephen Keckler",
+                "Joel Emer (NVIDIA)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ISPASS_17_012",
+            "title": "Exploring GPU Performance, Power and Energy-Efficiency Bounds with Cache-Aware Roofline Modeling",
+            "authors": [
+                "Andr\u00e9 Lopes (OINESC-ID, IST, Universidade de Lisboa)",
+                "Frederico Pratas (Imagination Technologies Limited)",
+                "Leonel Sousa (INESC-ID, IST, Universidade de Lisboa)",
+                "Aleksandar Ilic (INESC-ID, IST, Universidade de Lisboa)"
+            ],
+            "topics": [
+                "Benchmark",
+                "GPGPU",
+                "Energy",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISPASS_17_013",
+            "title": "Multi2Sim Kepler: A Detailed Architectural GPU Simulator",
+            "authors": [
+                "Xun Gong",
+                "Rafael Ubal",
+                "David R. Kaeli (Northeastern University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ISPASS_17_014",
+            "title": "Sharing the Instruction Cache Among Lean Cores on an Asymmetric CMP for HPC Applications",
+            "authors": [
+                "Ugljesa Milic (Barcelona Supercomputing Center, Universitat Polit\u00e8cnica de Catalunya)",
+                "Alejandro Rico (ARM Inc)",
+                "Paul Carpenter (Barcelona Supercomputing Center)",
+                "Alex Ramirez (Google)"
+            ],
+            "topics": [
+                "Architecture",
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "ISPASS_17_015",
+            "title": "Performance Competitiveness of a Statically Compiled Language for Server-Side Web Applications",
+            "authors": [
+                "Yohei Ueda",
+                "Moriyoshi Ohara (IBM Research - Tokyo)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Compilers",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "ISPASS_17_016",
+            "title": "Analyzing the Scalability of Managed Language Applications with Speedup Stacks",
+            "authors": [
+                "Jennifer B. Sartor (Ghent University and Vrije Universiteit Brussel)",
+                "Kristof Du Bois (Intel)",
+                "Stijn Eyerman (Intel)",
+                "Lieven Eeckhout (Ghent University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Compilers",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ISPASS_17_017",
+            "title": "PMAL: Enabling Lightweight Adaptation of Legacy File Systems on Persistent Memory Systems",
+            "authors": [
+                "Hyunsub Song",
+                "Young Je Moon",
+                "Se Kwon Lee",
+                "Sam H. Noh (UNIST)"
+            ],
+            "topics": [
+                "Storage",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISPASS_17_018",
+            "title": "Chai: Collaborative Heterogeneous Applications for Integrated-architectures",
+            "authors": [
+                "Juan G\u00f3mez-Luna (Universidad de C\u00f3rdoba)",
+                "Izzat El Hajj (University of Illinois at Urbana-Champaign)",
+                "Li-Wen Chang (University of Illinois at Urbana-Champaign)",
+                "Victor Garcia-Flores (Barcelona Supercomputing Center)",
+                "Simon Garcia de Gonzalo (University of Illinois at Urbana-Champaign)",
+                "Thomas B. Jablin (University of Illinois at Urbana-Champaign)",
+                "Antonio J. Pe\u00f1a (Barcelona Supercomputing Center)",
+                "Wen-Mei Hwu (University of Illinois at Urbana-Champaign)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISPASS_17_019",
+            "title": "Performance Analysis of CNN Frameworks for GPUs",
+            "authors": [
+                "Heehoon Kim",
+                "Hyoungwook Nam",
+                "Wookeun Jung",
+                "Jaejin Lee (Seoul National University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "GPGPU",
+                "Data"
+            ]
+        },
+        {
+            "key": "ISPASS_17_020",
+            "title": "GaaS Workload Characterization under NUMA Architecture for Virtualized GPU",
+            "authors": [
+                "Huixiang Chen",
+                "Meng Wang",
+                "Yang Hu",
+                "Mingcong Song",
+                "Tao Li (University of Florida)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture",
+                "GPGPU",
+                "VM"
+            ]
+        },
+        {
+            "key": "ISPASS_17_021",
+            "title": "Fast IPC Estimation for Performance Projections Using Proxy Suites and Decision Trees",
+            "authors": [
+                "Kanishka Lahiri",
+                "Subhash Kunnoth (AMD)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISPASS_17_022",
+            "title": "Accurate Address Streams for LLC and Beyond (SLAB): A Methodology to Enable System Exploration",
+            "authors": [
+                "Reena Panda",
+                "Lizy K. John",
+                "Xinnian Zheng (University of Texas at Austin)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISPASS_17_023",
+            "title": "Clone Morphing: Creating New Workload Behavior from Existing Applications",
+            "authors": [
+                "Yipeng Wang (North Carolina State University)",
+                "Amro Awad (Sandia National Laboratories)",
+                "Yan Solihin (North Carolina State University)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "ISPASS_17_024",
+            "title": "Crossing the Architectural Barrier: Evaluating Representative Regions of Parallel HPC Applications",
+            "authors": [
+                "Alexandra Ferrer\u00f3n (Universidad de Zaragoza)",
+                "Radhika Jagtap (ARM Ltd.)",
+                "Sascha Bischoff (ARM Ltd.)",
+                "Roxana Rusitoru (ARM Ltd.)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture",
+                "HPC"
+            ]
+        }
+    ]
+}

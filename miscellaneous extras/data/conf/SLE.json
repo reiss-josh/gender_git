@@ -1,0 +1,372 @@
+{
+    "key": "SLE_17",
+    "conference": "International Conference on Software Language Engineering",
+    "organization": [
+        "ACM"
+    ],
+    "country": "CA",
+    "postdate": "2017-10-23",
+    "last_deadline": "2017-06-16",
+    "review_days": 49,
+    "submissions": 57,
+    "min_reviews": 3,
+    "total_reviews": 171,
+    "double_blind": false,
+    "rebuttal": true,
+    "open_access": false,
+    "age": 10,
+    "past_papers": "",
+    "past_citations": "",
+    "h5_index": 19,
+    "h5_median": 28,
+    "notes": "Selected accepted papers will be invited to a special issue of COMLAN journal. There are distinguished paper, artifact, and reviwer awards. There was a distinguished paper award, distinguished artifact award (Shen+Rinard) and distinguished reviewer award (Anthony Sloane).",
+    "pc_chairs": [
+        "Marjan Mernik (University of Maribor, Slovenia)",
+        "Bernhard Rumpe (RWTH Aachen University, Germany)"
+    ],
+    "pc_members": [
+        "Christian Berger (Chalmers, Sweden)",
+        "Mark van den Brand (TU Eindhoven, The Netherlands)",
+        "Ruth Breu (University of Innsbruck, Austria)",
+        "Jordi Cabot (ICREA, Spain)",
+        "Walter Cazzola (University of Milan, Italy)",
+        "Marsha Chechik (University of Toronto, Canada)",
+        "Tony Clark (Middlesex University, UK)",
+        "Tom Dinkelaker (Ericsson, Germany)",
+        "Bernd Fischer (Stellenbosch University, South Africa)",
+        "Sebastian Gerard (CEA, France)",
+        "Jeff Gray (University of Alabama, USA)",
+        "Esther Guerra (Autonomous University of Madrid, Spain)",
+        "Michael Homer (Victoria University of Wellington, New Zealand)",
+        "Ralf L\u00e4mmel (University of Koblenz-Landau, Germany)",
+        "Tihamer Levendovszky (Microsoft, USA)",
+        "Gunter Mussbacher (McGill University, Canada)",
+        "Terence Parr (University of San Francisco, USA)",
+        "Jaroslav Porub\u00e4n (University of Ko\u0161ice, Slovakia)",
+        "Jan Ringert (Tel Aviv University, Israel)",
+        "Julia Rubin (University of British Columbia, Canada)",
+        "Anthony Sloane (Macquarie University, Australia)",
+        "Eugene Syriani (University of Montreal, Canada)",
+        "Emma S\u00f6derberg (Google, Denmark)",
+        "Eric Van Wyk (University of Minnesota, USA)",
+        "Jurgen Vinju (CWI, Netherlands)",
+        "Eric Walkingshaw (Oregon State University, USA)",
+        "Andreas Wortmann (RWTH Aachen University, Germany)",
+        "Tian Zhang (Nanjing University, China)"
+    ],
+    "keynote_speakers": [
+        "Peter D. Mosses"
+    ],
+    "session_chairs": [
+        "Ralf L\u00e4mmel",
+        "Anthony Sloane",
+        "Jurgen Vinju",
+        "Bernhard Rumpe",
+        "Marjan Mernik",
+        "Eric Van Wyk"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "SLE_17_001",
+            "title": "Metacasanova: an optimized meta-compiler for Domain-Specific Languages",
+            "authors": [
+                "Francesco Di Giacomo",
+                "Mohamed Abbadi",
+                "Agostino Cortesi",
+                "Pieter Spronck",
+                "Giuseppe Maggiore"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SLE_17_002",
+            "title": "Type-Safe Modular Parsing",
+            "authors": [
+                "Haoyuan Zhang",
+                "Huang Li",
+                "Bruno C. D. S. Oliveira"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "SLE_17_003",
+            "title": "Concrete Syntax: A Multi-Paradigm modelling Approach",
+            "authors": [
+                "Yentl Van Tendeloo",
+                "Simon Van Mierlo",
+                "Bart Meyers",
+                "Hans Vangheluwe"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SLE_17_004",
+            "title": "A Domain-Specific Controlled English Language for Automated Regulatory Compliance",
+            "authors": [
+                "Suman Roychoudhury",
+                "Sagar Sunkle",
+                "Deepali Kholkar",
+                "Vinay Kulkarni"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "SLE_17_005",
+            "title": "Debugging with Domain-Specific Events via Macros",
+            "authors": [
+                "Xiangqi Li",
+                "Matthew Flatt"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "award": true,
+            "artifact": true
+        },
+        {
+            "key": "SLE_17_006",
+            "title": "Deep Priority Conflicts in the Wild - A Pilot Study",
+            "authors": [
+                "Lu\u00eds Eduardo de Souza Amorim",
+                "Michael J. Steindorfer",
+                "Eelco Visser"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "SLE_17_007",
+            "title": "Comparison of the Expressiveness and Performance of Template-based Code Generation Tools",
+            "authors": [
+                "Lechanceux Luhunu",
+                "Eugene Syriani"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SLE_17_008",
+            "title": "Incremental Packrat Parsing",
+            "authors": [
+                "Patrick Dubroy",
+                "Alessandro Warth"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "SLE_17_009",
+            "title": "Ensuring Non-interference of Composable Language Extensions",
+            "authors": [
+                "Ted Kaminski",
+                "Eric Van Wyk"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SLE_17_010",
+            "title": "A Formalisation of Parameterised Reference Attribute Grammars",
+            "authors": [
+                "Scott Buckley",
+                "Anthony Sloane"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "SLE_17_011",
+            "title": "A Symbol-based Extension of Parsing Expression Grammars and Context-Sensitive Packrat Parsing",
+            "authors": [
+                "Kimio Kuramitsu"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SLE_17_012",
+            "title": "Structural Model Subtyping with OCL Constraints",
+            "authors": [
+                "Artur Boronat"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "SLE_17_013",
+            "title": "A Requirements Engineering Approach for Usability-Driven DSL Development",
+            "authors": [
+                "Ankica Barisic",
+                "Dominique Blouin",
+                "Vasco Amaral",
+                "Miguel Goulao"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "SLE_17_014",
+            "title": "Tool Demonstration: A development environment for the Alf language within the MagicDraw UML tool",
+            "authors": [
+                "Ed Seidewitz"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SLE_17_015",
+            "title": "FlowSpec: Declarative Dataflow Analysis Specification",
+            "authors": [
+                "Jeff Smits",
+                "Eelco Visser"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SLE_17_016",
+            "title": "Robust Programs with Filtered Iterators",
+            "authors": [
+                "Jiasi Shen",
+                "Martin Rinard"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "award": true,
+            "artifact": true
+        },
+        {
+            "key": "SLE_17_017",
+            "title": "Energy Efficiency across Programming Languages: How does energy, time, and memory relate?",
+            "authors": [
+                "Rui H. Pereira",
+                "Marco Couto",
+                "Francisco Ribeiro",
+                "Rui Rua",
+                "J\u00e1come Cunha",
+                "Jo\u00e3o Paulo Fernandes",
+                "Jo\u00e3o Saraiva"
+            ],
+            "topics": [
+                "Compilers",
+                "Energy"
+            ]
+        },
+        {
+            "key": "SLE_17_018",
+            "title": "Concurrent Circular Reference Attribute Grammars",
+            "authors": [
+                "Jesper \u00d6qvist",
+                "G\u00f6rel Hedin"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "SLE_17_019",
+            "title": "Better Call the Crowd. Using Crowdsourcing to Shape your Domain-Specific Languages",
+            "authors": [
+                "Marco Brambilla",
+                "Jordi Cabot",
+                "Javier Luis Canovas Izquierdo",
+                "Andrea Mauri"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SLE_17_020",
+            "title": "Robust Projectional Editing",
+            "authors": [
+                "Friedrich Steimann",
+                "Marcus Frenkel",
+                "Markus Voelter"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "SLE_17_021",
+            "title": "Towards a Taxonomy of Grammar Smells",
+            "authors": [
+                "Mats Stijlaart",
+                "Vadim Zaytsev"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SLE_17_022",
+            "title": "Red Shift: Procedural Shift-Reduce Parsing",
+            "authors": [
+                "Nicolas Laurent"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SLE_17_023",
+            "title": "Virtual Textual Model Composition for Supporting Maintenance and Aspect-Orientation",
+            "authors": [
+                "Robert Bill",
+                "Patrick Neubauer",
+                "Manuel Wimmer"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "SLE_17_024",
+            "title": "A Chrestomathy of DSL implementations",
+            "authors": [
+                "Simon Schauss",
+                "Ralf L\u00e4mmel",
+                "Johannes H\u00e4rtel",
+                "Marcel Heinz",
+                "Kevin Klein",
+                "Lukas H\u00e4rtel",
+                "Thorsten Berger"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        }
+    ]
+}

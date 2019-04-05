@@ -1,0 +1,977 @@
+{
+    "key": "SP_17",
+    "conference": "Security and Privacy",
+    "organization": [
+        "IEEE"
+    ],
+    "country": "US",
+    "postdate": "2017-05-22",
+    "last_deadline": "2017-11-11",
+    "review_days": 63,
+    "submissions": 419,
+    "min_reviews": 2,
+    "total_reviews": 1516,
+    "double_blind": true,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 38,
+    "past_papers": 924,
+    "past_citations": 22501,
+    "h5_index": 78,
+    "h5_median": 109,
+    "notes": "There were four rounds of reviews: 1st: 2 per paper (838); 2nd: ensure 2 good reviews per paper (308); 3rd: including appeals and external experts (303); 4th: (67). After the second round of reviewing, half the papers were rejected early. Starting next year (2018), the review process will transition to a continuous year-long evluation, like VLDB and PETS. See reasoning here: https://ieee-security.github.io/ongoing-submission-plan/. The disinguished reviewer award was given to Carmela Troncoso, Jacob R. Lorch, and Brad Karp. There is not rebuttal, but for early-rejection papers, there is an appeal process. Only 1--2 of those papers (9 appeals) was adjudicated, and none made it to the PC meeting or conference. This policy was considered a successful low-overhead alternative to rebuttals. There was an attempt to distinguish many submissions (> 3) from the same author, but the policy turned out to be controversial and annoying and will not be continued (http://www.ieee-security.org/TC/Reports/2017/SP2017-PCChairReport.pdf)",
+    "pc_chairs": [
+        "\u00dalfar Erlingsson (Google)",
+        "Bryan Parno (CMU and Microsoft Research)"
+    ],
+    "pc_members": [
+        "Michael Backes (CISPA, Saarland University, and MPI-SWS)",
+        "Davide Balzarotti (EURECOM)",
+        "Gilles Barthe (IMDEA)",
+        "Lujo Bauer (CMU)",
+        "Karthikeyan Bhargavan (INRIA)",
+        "Joseph Bonneau (Stanford)",
+        "Nikita Borisov (UIUC)",
+        "Herbert Bos (VU University)",
+        "Kevin Butler (University of Florida)",
+        "Srdjan Capkun (ETH Zurich)",
+        "Stephen Checkoway (UIC)",
+        "Haibo Chen (SJTU)",
+        "Manuel Costa (Microsoft Research)",
+        "Cas Cremers (Oxford)",
+        "Srinivas Devadas (MIT)",
+        "Tudor Dumitras (University of Maryland)",
+        "David Evans (University of Virginia)",
+        "C\u00e9dric Fournet (Microsoft Research)",
+        "Matthew Fredrikson (CMU)",
+        "Roxana Geambasu (Columbia)",
+        "Saikat Guha (Microsoft Research)",
+        "Andreas Haeberlen (University of Pennsylvania)",
+        "Matthew Hicks (MIT Lincoln Laboratory)",
+        "Michael Hicks (University of Maryland)",
+        "Jason Hong (CMU)",
+        "Amir Houmansadr (UMass)",
+        "Rob Johnson (Stony Brook)",
+        "Brent ByungHoon Kang (KAIST)",
+        "Brad Karp (UCL)",
+        "Jacob R. Lorch (Microsoft Research)",
+        "Matteo Maffei (TU Vienna)",
+        "Sergio Maffeis (Imperial)",
+        "Michelle L. Mazurek (University of Maryland)",
+        "Sarah Meiklejohn (UCL)",
+        "James Mickens (Harvard)",
+        "Andrew Miller (UIUC)",
+        "Ilya Mironov (Google)",
+        "Cristina Nita-Rotaru (Northeastern)",
+        "Alina Oprea (Northeastern)",
+        "Marcus Peinado (Microsoft Research)",
+        "Frank Piessens (KU Leuven)",
+        "Niels Provos (Google)",
+        "Mariana Raykova (Yale)",
+        "Franziska Roesner (University of Washington)",
+        "Ulrich R\u00fchrmair (University of Bochum)",
+        "Andrei Sabelfeld (Chalmers)",
+        "Vyas Sekar (CMU)",
+        "Simha Sethumadhavan (Chip Scan/Columbia)",
+        "Nigel Smart (University of Bristol)",
+        "Alex C. Snoeren (UCSD)",
+        "Nikhil Swamy (Microsoft Research)",
+        "Gang Tan (Penn State)",
+        "Abhradeep Thakurta (Apple)",
+        "Kurt Thomas (Google)",
+        "Carmela Troncoso (IMDEA)",
+        "Giovanni Vigna (UCSB)",
+        "Bogdan Warinschi (University of Bristol)",
+        "Robert N. M. Watson (Cambridge)",
+        "Emmett Witchel (UT Austin)",
+        "Tao Xie (UIUC)",
+        "Li Zhang (Google)",
+        "Yinqian Zhang (Ohio State)"
+    ],
+    "keynote_speakers": [],
+    "session_chairs": [
+        "Ilya Mironov",
+        "Tudor Dumitras",
+        "Giovanni Vigna",
+        "Gang Tan",
+        "Jacob R. Lorch",
+        "Cristina Nita Rotaru",
+        "Karthik Bhargavan",
+        "Yinqian Zhang",
+        "Marcus Peinado",
+        "C\u00e9dric Fournet",
+        "Matt Fredrikson",
+        "Michelle Mazurek"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "SP_17_001",
+            "title": "A Framework for Universally Composable Diffie-Hellman Key Exchange",
+            "authors": [
+                "Ralf K\u00fcsters (University of Stuttgart)",
+                "Daniel Rausch (University of Stuttgart)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_002",
+            "title": "A Lustrum of Malware Network Communication: Evolution and Insights",
+            "authors": [
+                "Chaz Lever (Georgia Tech)",
+                "Platon Kotzias (IMDEA)",
+                "Davide Balzarotti (Eurecom)",
+                "Juan Caballero (IMDEA)",
+                "Manos Antonakakis (Georgia Tech)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_003",
+            "title": "An Experimental Security Analysis of an Industrial Robot Controller",
+            "authors": [
+                "Davide Quarta (Politecnico di Milano)",
+                "Marcello Pogliani (Politecnico di Milano)",
+                "Mario Polino (Politecnico di Milano)",
+                "Federico Maggi (Trend Micro Inc.)",
+                "Andrea Maria Zanchettin (Politecnico di Milano)",
+                "Stefano Zanero (Politecnico di Milano)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_004",
+            "title": "Augur: Internet-Wide Detection of Connectivity Disruptions",
+            "authors": [
+                "Paul Pearce (UC Berkeley)",
+                "Roya Ensafi (Princeton)",
+                "Frank Li (UC Berkeley)",
+                "Nick Feamster (Princeton)",
+                "Vern Paxson (UC Berkeley)"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "SP_17_005",
+            "title": "Backward-bounded DSE: Targeting Infeasibility Questions on Obfuscated Codes",
+            "authors": [
+                "S\u00e9bastien Bardin (CEA LIST)",
+                "Robin David (CEA LIST)",
+                "Jean-Yves Marion (LORIA)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_006",
+            "title": "CRLite: A Scalable System for Pushing All TLS Revocations to All Browsers",
+            "authors": [
+                "James Larisch (Northeastern University)",
+                "David Choffnes (Northeastern University)",
+                "Dave Levin (University of Maryland)",
+                "Bruce Maggs (Duke University and Akamai Technologies)",
+                "Alan Mislove (Northeastern University)",
+                "Christo Wilson (Northeastern University)"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "SP_17_007",
+            "title": "Catena: Efficient Non-equivocation via Bitcoin",
+            "authors": [
+                "Alin Tomescu (MIT)",
+                "Srinivas Devadas (MIT)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_008",
+            "title": "Cloak and Dagger: From Two Permissions to Complete Control of the UI Feedback Loop",
+            "authors": [
+                "Yanick Fratantonio (UC Santa Barbara)",
+                "Chenxiong Qian (Georgia Tech)",
+                "Simon Chung (Georgia Tech)",
+                "Wenke Lee (Georgia Tech)"
+            ],
+            "topics": [
+                "Security"
+            ],
+            "award": true
+        },
+        {
+            "key": "SP_17_009",
+            "title": "CoSMeDis: A Distributed Social Media Platform with Formally Verified Confidentiality Guarantees",
+            "authors": [
+                "Thomas Bauerei\u00df (German Research Center for Artificial Intelligence (DFKI) Bremen, Germany)",
+                "Armando Pesenti Gritti (Global NoticeBoard, UK)",
+                "Andrei Popescu (School of Science and Technology, Middlesex University, UK/Institute of Mathematics Simion Stoilow of the Romanian Academy)",
+                "Franco Raimondi (School of Science and Technology, Middlesex University, UK)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_010",
+            "title": "Comparing the Usability of Cryptographic APIs",
+            "authors": [
+                "Yasemin Acar (CISPA, Saarland University)",
+                "Michael Backes (CISPA, Saarland University & MPI-SWS)",
+                "Sascha Fahl (CISPA, Saarland University)",
+                "Simson Garfinkel (National Institute of Standards and Technology)",
+                "Doowon Kim (University of Maryland)",
+                "Michelle L. Mazurek (University of Maryland)",
+                "Christian Stransky (CISPA, Saarland University)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_011",
+            "title": "Counter-RAPTOR: Safeguarding Tor Against Active Routing Attacks",
+            "authors": [
+                "Yixin Sun (Princeton University)",
+                "Anne Edmundson (Princeton University)",
+                "Nick Feamster (Princeton University)",
+                "Mung Chiang (Princeton University)",
+                "Prateek Mittal (Princeton University)"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "SP_17_012",
+            "title": "Cryptographic Function Detection in Obfuscated Binaries via Bit-precise Symbolic Loop Mapping",
+            "authors": [
+                "Dongpeng Xu (The Pennsylvania State University)",
+                "Jiang Ming (University of Texas at Arlington)",
+                "Dinghao Wu (The Pennsylvania State University)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_013",
+            "title": "Finding and Preventing Bugs in JavaScript Bindings",
+            "authors": [
+                "Fraser Brown (Stanford University)",
+                "Shravan Narayan (UCSD)",
+                "Riad S. Wahby (Stanford University)",
+                "Dawson Engler (Stanford University)",
+                "Ranjit Jhala (UCSD)",
+                "Deian Stefan (UCSD)"
+            ],
+            "topics": [
+                "Security",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SP_17_014",
+            "title": "From Trash to Treasure: Timing-Sensitive Garbage Collection",
+            "authors": [
+                "Mathias Vorreiter Pedersen (Aarhus University)",
+                "Aslan Askarov (Aarhus University)"
+            ],
+            "topics": [
+                "Security",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SP_17_015",
+            "title": "HVLearn: Automated Black-box Analysis of Hostname Verification in SSL/TLS Implementations",
+            "authors": [
+                "Suphannee Sivakorn (Columbia University)",
+                "George Argyros (Columbia University)",
+                "Kexin Pei (Columbia University)",
+                "Angelos D. Keromytis (Columbia University)",
+                "Suman Jana (Columbia University)"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "SP_17_016",
+            "title": "Hardening Java's Access Control by Abolishing Implicit Privilege Elevation",
+            "authors": [
+                "Philipp Holzinger (Fraunhofer SIT)",
+                "Ben Hermann (Technische Universit\u00e4t Darmstadt)",
+                "Johannes Lerch (Technische Universit\u00e4t Darmstadt)",
+                "Eric Bodden (Paderborn University & Fraunhofer IEM)",
+                "Mira Mezini (Technische Universit\u00e4t Darmstadt)"
+            ],
+            "topics": [
+                "Security",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SP_17_017",
+            "title": "Hijacking Bitcoin: Routing Attacks on Cryptocurrencies",
+            "authors": [
+                "Maria Apostolaki (ETH Z\u00fcrich)",
+                "Aviv Zohar (Hebrew University)",
+                "Laurent Vanbever (ETH Z\u00fcrich)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_018",
+            "title": "How They Did It: An Analysis of Emission Defeat Devices in Modern Automobiles",
+            "authors": [
+                "Moritz Contag (Ruhr University Bochum)",
+                "Guo Li (University of California, San Diego)",
+                "Andre Pawlowski (Ruhr University Bochum)",
+                "Felix Domke ()",
+                "Kirill Levchenko (University of California, San Diego)",
+                "Thorsten Holz (Ruhr University Bochum)",
+                "Stefan Savage (University of California, San Diego)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_019",
+            "title": "How to Learn Klingon Without Dictionary: Detection and Measurement of Black Keywords Used by Underground Economy",
+            "authors": [
+                "Hao Yang (Tsinghua University)",
+                "Xiulin Ma (Tsinghua University)",
+                "Kun Du (Tsinghua University)",
+                "Zhou Li (IEEE Member)",
+                "Haixin Duan (Tsinghua University)",
+                "Xiaodong Su (Baidu Inc.)",
+                "Guang Liu (Baidu Inc.)",
+                "Zhifeng Geng (Baidu Inc.)",
+                "Jianping Wu (Tsinghua University)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_020",
+            "title": "IKP: Turning a PKI Around with Decentralized Automated Incentives",
+            "authors": [
+                "Stephanos Matsumoto (Carnegie Mellon University/ETH Zurich)",
+                "Raphael M. Reischuk (ETH Zurich)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_021",
+            "title": "IVD: Automatic Learning and Enforcement of Authorization Rules in Online Social Networks",
+            "authors": [
+                "Paul Dan Marinescu (Facebook)",
+                "Chad Parry (Facebook)",
+                "Marjori Pomarole (Facebook)",
+                "Yuan Tian (CMU)",
+                "Patrick Tague (CMU)",
+                "Ioannis Papagiannis (Facebook)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_022",
+            "title": "Identifying Personal DNA Methylation Profiles by Genotype Inference",
+            "authors": [
+                "Michael Backes (CISPA, Saarland University & MPI-SWS)",
+                "Pascal Berrang (CISPA, Saarland University)",
+                "Matthias Bieg (German Cancer Research Center (DKFZ))",
+                "Roland Eils (German Cancer Research Center (DKFZ) & University of Heidelberg)",
+                "Carl Herrmann (German Cancer Research Center (DKFZ) & University of Heidelberg)",
+                "Mathias Humbert (CISPA, Saarland University)",
+                "Irina Lehmann (Helmholtz Centre for Environmental Research Leipzig - UFZ, Leipzig)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_023",
+            "title": "Implementing and Proving the TLS 1.3 Record Layer",
+            "authors": [
+                "Karthikeyan Bhargavan (Inria Paris-Rocquencourt)",
+                "Antoine Delignat-Lavaud (Microsoft Research)",
+                "C\u00e9dric Fournet (Microsoft Research)",
+                "Markulf Kohlweiss (Microsoft Research)",
+                "Jianyang Pan (Inria Paris-Rocquencourt)",
+                "Jonathan Protzenko (Microsoft Research)",
+                "Aseem Rastogi (Microsoft Research)",
+                "Nikhil Swamy (Microsoft Research)",
+                "Santiago Zanella-B\u00e9guelin (Microsoft Research)",
+                "Jean-Karim Zinzindohou\u00e9 (Inria Paris-Rocquencourt)"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "SP_17_024",
+            "title": "IoT Goes Nuclear: Creating a Zigbee Chain Reaction",
+            "authors": [
+                "Eyal Ronen (Weizmann Institute of Science)",
+                "Colin O\u2019Flynn (Dalhousie University)",
+                "Adi Shamir (Weizmann Institute of Science)",
+                "Achi-Or Weingarten (Weizmann Institute of Science)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_025",
+            "title": "Is Interaction Necessary for Distributed Private Learning?",
+            "authors": [
+                "Adam Smith (Pennsylvania State University)",
+                "Abhradeep Thakurta (University of California Santa Cruz)",
+                "Jalaj Upadhyay (Pennsylvania State University)"
+            ],
+            "topics": [
+                "Security",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SP_17_026",
+            "title": "Leakage-Abuse Attacks on Order-Revealing Encryption",
+            "authors": [
+                "Paul Grubbs (Cornell Tech)",
+                "Kevin Sekniqi (Cornell University)",
+                "Vincent Bindschaedler (UIUC)",
+                "Muhammad Naveed (USC)",
+                "Thomas Ristenpart (Cornell Tech)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_027",
+            "title": "Machine-Checked Proofs of Privacy for Electronic Voting Protocols",
+            "authors": [
+                "V\u00e9ronique Cortier (LORIA, CNRS & Inria & Universit\u00e9 de Lorraine)",
+                "Constantin C\u0103talin Dr\u0103gan (LORIA, CNRS & Inria)",
+                "Fran\u00e7ois Dupressoir (University of Surrey)",
+                "Benedikt Schmidt (IMDEA Software Institute)",
+                "Pierre-Yves Strub (\u00c9cole Polytechnique)",
+                "Bogdan Warinschi (University of Bristol)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_028",
+            "title": "Membership Inference Attacks against Machine Learning Models",
+            "authors": [
+                "Reza Shokri (Cornell Tech)",
+                "Marco Stronati (INRIA)",
+                "Congzheng Song (Cornell)",
+                "Vitaly Shmatikov (Cornell Tech)"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "SP_17_029",
+            "title": "Multi-touch Authentication Using Hand Geometry and Behavioral Information",
+            "authors": [
+                "Yunpeng Song (Xi'an Jiaotong University)",
+                "Zhongmin Cai (Xi'an Jiaotong University)",
+                "Zhi-Li Zhang (University of Minnesota)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_030",
+            "title": "NEZHA: Efficient Domain-independent Differential Testing",
+            "authors": [
+                "Theofilos Petsios (Columbia University)",
+                "Adrian Tang (Columbia University)",
+                "Salvatore Stolfo (Columbia University)",
+                "Angelos D. Keromytis (Columbia University)",
+                "Suman Jana (Columbia University)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_031",
+            "title": "Norax: Enabling Execute-Only Memory for COTS Binaries on AArch64",
+            "authors": [
+                "Yaohui Chen (Stony Brook University)",
+                "Dongli Zhang (Stony Brook University)",
+                "Ruowen Wang (Samsung Research America)",
+                "Rui Qiao (Stony Brook University)",
+                "Ahmed M. Azab (Samsung Research America)",
+                "Long Lu (Stony Brook University)",
+                "Hayawardh Vijayakumar (Samsung Research America)",
+                "Wenbo Shen (Samsung Research America)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_032",
+            "title": "Obstacles to the Adoption of Secure Communication Tools",
+            "authors": [
+                "Ruba Abu-Salma (University College London (UCL)",
+                "M. Angela Sasse (University College London (UCL)",
+                "Joseph Bonneau (Stanford University & Electronic Frontier Foundation (EFF)",
+                "Anastasia Danilova (University of Bonn, Germany)",
+                "Alena Naiakshina (University of Bonn, Germany)",
+                "Matthew Smith (University of Bonn, Germany)"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "SP_17_033",
+            "title": "One TPM to Bind Them All: Fixing TPM2.0 for Provably Secure Anonymous Attestation",
+            "authors": [
+                "Jan Camenisch (IBM Research - Zurich)",
+                "Liqun Chen (University of Surrey)",
+                "Manu Drijvers (IBM Research - Zurich and ETH Zurich)",
+                "Anja Lehmann (IBM Research - Zurich)",
+                "David Novick (Intel)",
+                "Rainer Urian (Infineon)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_034",
+            "title": "Optimized Honest-Majority MPC for Malicious Adversaries - Breaking the 1 Billion-Gate Per Second Barrier",
+            "authors": [
+                "Toshinori Araki (NEC)",
+                "Assi Barak (Bar-Ilan University)",
+                "Jun Furukawa (NEC)",
+                "Tamar Lichter (Queens College - CUNY)",
+                "Yehuda Lindell (Bar-Ilan University)",
+                "Ariel Nof (Bar-Ilan University)",
+                "Kazuma Ohara (NEC)",
+                "Adi Watzman (The Weizmann Institute of Science)",
+                "Or Weinstein (Bar-Ilan University)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_035",
+            "title": "Protecting Bare-metal Embedded Systems with Privilege Overlays",
+            "authors": [
+                "Abraham A Clements (Purdue and Sandia National Labs)",
+                "Naif Saleh Almakhdhub (Purdue)",
+                "Khaled Saab (Georgia Institute of Technology)",
+                "Prashast Srivastava (Purdue)",
+                "Jinkyu Koo (Purdue)",
+                "Saurabh Bagchi (Purdue)",
+                "Mathias Payer (Purdue)"
+            ],
+            "topics": [
+                "Security",
+                "OS"
+            ]
+        },
+        {
+            "key": "SP_17_036",
+            "title": "Pyramid: Enhancing Selectivity in Big Data Protection with Count Featurization",
+            "authors": [
+                "Mathias Lecuyer (Columbia University)",
+                "Riley Spahn (Columbia University)",
+                "Roxana Geambasu (Columbia University)",
+                "Tzu-Kuo Huang (Uber Advanced Technologies Group)",
+                "Siddhartha Sen (Microsoft Research)"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "SP_17_037",
+            "title": "Scalable Bias-Resistant Distributed Randomness",
+            "authors": [
+                "Ewa Syta (Trinity College)",
+                "Philipp Jovanovic (\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne)",
+                "Eleftherios Kokoris Kogias (\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne)",
+                "Nicolas Gailly (\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne)",
+                "Linus Gasser (\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne)",
+                "Ismail Khoffi (\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne)",
+                "Michael J. Fischer (Yale University)",
+                "Bryan Ford (\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne)"
+            ],
+            "topics": [
+                "Security",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SP_17_038",
+            "title": "SecureML: A System for Scalable Privacy-Preserving Machine Learning",
+            "authors": [
+                "Payman Mohassel (Visa Research)",
+                "Yupeng Zhang (University of Maryland)"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "SP_17_039",
+            "title": "Securing Augmented Reality Output",
+            "authors": [
+                "Kiron Lebeck (University of Washington)",
+                "Kimberly Ruth (University of Washington)",
+                "Tadayoshi Kohno (University of Washington)",
+                "Franziska Roesner (University of Washington)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_040",
+            "title": "Side-Channel Attacks on Shared Search Indexes",
+            "authors": [
+                "Liang Wang (University of Wisconsin, Madison)",
+                "Paul Grubbs (Cornell Tech)",
+                "Jiahui Lu (SJTU)",
+                "Vincent Bindschaedler (UIUC)",
+                "David Cash (Rutgers University)",
+                "Thomas Ristenpart (Cornell Tech)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_041",
+            "title": "Skyfire: Data-Driven Seed Generation for Fuzzing",
+            "authors": [
+                "Junjie Wang (Nanyang Technological University)",
+                "Bihuan Chen (Nanyang Technological University)",
+                "Lei Wei (Nanyang Technological University)",
+                "Yang Liu (Nanyang Technological University)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_042",
+            "title": "SmarPer: Context-Aware and Automatic Runtime-Permissions for Mobile Devices",
+            "authors": [
+                "Katarzyna Olejnik (Raytheon BBN Technologies)",
+                "Italo Dacosta (EPFL)",
+                "Joana Machado (EPFL)",
+                "Kevin Huguenin (UNIL)",
+                "Mohammad Emtiyaz Khan (Center for Advanced Intelligence Project (AIP)",
+                "Jean-Pierre Hubaux (EPFL)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_043",
+            "title": "SoK: Cryptographically Protected Database Search",
+            "authors": [
+                "Benjamin Fuller (University of Connecticut)",
+                "Mayank Varia (Boston University)",
+                "Arkady Yerukhimovich (MIT Lincoln Laboratory)",
+                "Emily Shen (MIT Lincoln Laboratory)",
+                "Ariel Hamlin (MIT Lincoln Laboratory)",
+                "Vijay Gadepally (MIT Lincoln Laboratory)",
+                "Richard Shay (MIT Lincoln Laboratory)",
+                "John Darby Mitchell (MIT Lincoln Laboratory)",
+                "Robert K. Cunningham (MIT Lincoln Laboratory)"
+            ],
+            "topics": [
+                "Security",
+                "DB"
+            ]
+        },
+        {
+            "key": "SP_17_044",
+            "title": "SoK: Exploiting Network Printers",
+            "authors": [
+                "Jens M\u00fcller (Horst G\u00f6rtz Institute for IT-Security, Ruhr University Bochum )",
+                "Vladislav Mladenov (Horst G\u00f6rtz Institute for IT-Security, Ruhr University Bochum)",
+                "Juraj Somorovsky (Horst G\u00f6rtz Institute for IT-Security, Ruhr University Bochum)",
+                "J\u00f6rg Schwenk (Horst G\u00f6rtz Institute for IT-Security, Ruhr University Bochum)"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "SP_17_045",
+            "title": "SoK: Science, Security, and the Elusive Goal of Security as a Scientific Pursuit",
+            "authors": [
+                "Cormac Herley (Microsoft Research, USA)",
+                "Paul C. van Oorschot (Carleton University, Canada)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_046",
+            "title": "Spotless Sandboxes: Evading Malware Analysis Systems using Wear-and-Tear Artifacts",
+            "authors": [
+                "Najmeh Miramirkhani (Stony Brook University)",
+                "Mahathi Priya Appini (Stony Brook University)",
+                "Nick Nikiforakis (Stony Brook University)",
+                "Michalis Polychronakis (Stony Brook University)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_047",
+            "title": "Stack Overflow Considered Harmful? --- The Impact of Copy&Paste on Android Application Security",
+            "authors": [
+                "Felix Fischer (AISEC, Fraunhofer)",
+                "Konstantin B\u00f6ttinger (AISEC, Fraunhofer)",
+                "Huang Xiao (AISEC, Fraunhofer)",
+                "Christian Stransky (CISPA, Saarland University)",
+                "Yasemin Acar (CISPA, Saarland University)",
+                "Michael Backes (CISPA, Saarland University & MPI-SWS)",
+                "Sascha Fahl (CISPA, Saarland University)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_048",
+            "title": "SymCerts: Practical Symbolic Execution For Exposing Noncompliance in X.509 Certificate Validation Implementations",
+            "authors": [
+                "Sze Yiu Chau (Purdue University)",
+                "Omar Chowdhury (The University of Iowa)",
+                "Endadul Hoque (Purdue University)",
+                "Huangyi Ge (Purdue University)",
+                "Aniket Kate (Purdue University)",
+                "Cristina Nita-Rotaru (Northeastern University)",
+                "Ninghui Li (Purdue University)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_049",
+            "title": "SysPal: System-guided Pattern Locks for Android",
+            "authors": [
+                "Geumhwan Cho (Sungkyunkwan University)",
+                "Jun Ho Huh (Software R&D Center, Samsung Electronics)",
+                "Junsung Cho (Sungkyunkwan University)",
+                "Seongyeol Oh (Sungkyunkwan University)",
+                "Youngbae Song (Sungkyunkwan University)",
+                "Hyoungshick Kim (Sungkyunkwan University)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_050",
+            "title": "The Feasibility of Dynamically Granted Permissions: Aligning Mobile Privacy with User Preferences",
+            "authors": [
+                "Primal Wijesekera (University of British Columbia)",
+                "Arjun Baokar (University of California, Berkeley)",
+                "Lynn Tsai (University of California, Berkeley)",
+                "Joel Reardon (University of California, Berkeley)",
+                "Serge Egelman (University of California, Berkeley)",
+                "David Wagner (University of California, Berkeley)",
+                "Konstantin Beznosov (University of British Columbia)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_051",
+            "title": "The Password Reset MitM Attack",
+            "authors": [
+                "Nethanel Gelernter (Cyberpion & The College of Management Academic Studies)",
+                "Senia Kalma (The College of Management Academic Studies)",
+                "Bar Magnezi (The College of Management Academic Studies)",
+                "Hen Porcilan (The College of Management Academic Studies)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_052",
+            "title": "To Catch a Ratter: Monitoring the Behavior of Amateur DarkComet RAT Operators in the Wild",
+            "authors": [
+                "Brown Farinholt (UC San Diego)",
+                "Mohammad Rezaeirad (GMU)",
+                "Paul Pearce (UC Berkeley)",
+                "Hitesh Dharamdasani (Informant Networks)",
+                "Haikuo Yin (UC San Diego)",
+                "Stevens LeBlond (MPI-SWS)",
+                "Damon McCoy (NYU)",
+                "Kirill Levchenko (UC San Diego)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_053",
+            "title": "Towards Evaluating the Robustness of Neural Networks",
+            "authors": [
+                "Nicholas Carlini (University of California, Berkeley)",
+                "David Wagner (University of California, Berkeley)"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ],
+            "award": true
+        },
+        {
+            "key": "SP_17_054",
+            "title": "Under the Shadow of Sunshine: Understanding and Detecting Bulletproof Hosting on Legitimate Service Provider Networks",
+            "authors": [
+                "Sumayah Alrwais (Indiana University at Bloomington)",
+                "Xiaojing Liao (Georgia Institute of Technology)",
+                "Xianghang Mi (Indiana University at Bloomington)",
+                "Peng Wang (Indiana University at Bloomington)",
+                "XiaoFeng Wang (Indiana University at Bloomington)",
+                "Feng Qian (Indiana University at Bloomington)",
+                "Raheem Beyah (Georgia Institute of Technology)",
+                "Damon McCoy (New York University)"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "SP_17_055",
+            "title": "VUDDY: A Scalable Approach for Vulnerable Code Clone Discovery",
+            "authors": [
+                "Seulbae Kim (Korea University)",
+                "Seunghoon Woo (Korea University)",
+                "Heejo Lee (Korea University)",
+                "Hakjoo Oh (Korea University)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_056",
+            "title": "Verified Models and Reference Implementations for the TLS 1.3 Standard Candidate",
+            "authors": [
+                "Karthikeyan Bhargavan (INRIA)",
+                "Bruno Blanchet (INRIA)",
+                "Nadim Kobeissi (INRIA)"
+            ],
+            "topics": [
+                "Security"
+            ],
+            "award": true
+        },
+        {
+            "key": "SP_17_057",
+            "title": "Verifying and Synthesizing Constant-Resource Implementations with Types",
+            "authors": [
+                "Van Chan Ngo (Carnegie Mellon University)",
+                "Mario Dehesa-Azuara (Carnegie Mellon University)",
+                "Matthew Fredrikson (Carnegie Mellon University)",
+                "Jan Hoffmann (Carnegie Mellon University)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_058",
+            "title": "XHOUND: Quantifying the Fingerprintability of Browser Extensions",
+            "authors": [
+                "Oleksii Starov (Stony Brook University)",
+                "Nick Nikiforakis (Stony Brook University)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_059",
+            "title": "Your Exploit is Mine: Automatic Shellcode Transplant for Remote Exploits",
+            "authors": [
+                "Tiffany Bao (CMU)",
+                "Ruoyu Wang (UCSB)",
+                "Yan Shoshitaishvili (UCSB)",
+                "David Brumley (CMU)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SP_17_060",
+            "title": "vSQL: Verifying Arbitrary SQL Queries over Dynamic Outsourced Databases",
+            "authors": [
+                "Yupeng Zhang (University of Maryland)",
+                "Daniel Genkin (University of Maryland & University of Pennsylvania)",
+                "Jonathan Katz (University of Maryland)",
+                "Dimitrios Papadopoulos (University of Maryland)",
+                "Charalampos Papamanthou (University of Maryland)"
+            ],
+            "topics": [
+                "Security",
+                "DB"
+            ]
+        }
+    ]
+}

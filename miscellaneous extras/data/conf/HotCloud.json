@@ -1,0 +1,321 @@
+{
+    "key": "HotCloud_17",
+    "conference": "Workshop in Hot Topics in Cloud Computing",
+    "organization": [
+        "USENIX"
+    ],
+    "country": "US",
+    "postdate": "2017-07-10",
+    "last_deadline": "2017-03-14",
+    "review_days": 35,
+    "submissions": 58,
+    "min_reviews": 3,
+    "total_reviews": 174,
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": true,
+    "age": 9,
+    "past_papers": 157,
+    "past_citations": "",
+    "h5_index": 25,
+    "h5_median": 36,
+    "notes": "Encourages early-stage ideas. Requires a discussion topics section, including the kind of feedback requested by the authors.",
+    "pc_chairs": [
+        "Eyal de Lara (University of Toronto)",
+        "Swaminathan Sundararaman (Parallel Machines)"
+    ],
+    "pc_members": [
+        "Ganesh Ananthanarayanan (Microsoft)",
+        "Victor Bahl (Microsoft)",
+        "Hitesh Ballani (Microsoft)",
+        "Muli Ben-Yehuda (Technion\u2014Israel Institute of Technology)",
+        "Theophilus Benson (Duke University)",
+        "Nilton Bila (IBM Research)",
+        "Andres Lagar Cavilla (Google)",
+        "Stephen Fink (IBM Research)",
+        "Irene Finocci (Sapienza University of Rome)",
+        "Peter Fischer (University of Freiburg)",
+        "Sindhu Ghanta (Parallel Machines)",
+        "Sharon Goldberg (Boston University)",
+        "Haryadi Gunawi (University of Chicago)",
+        "Kaustubh Joshi (AT&T Research)",
+        "Rama Kotla (Amazon)",
+        "Michael A. Kozuch (Intel Labs)",
+        "Purushottam Kulkarni (Indian Institute of Technology Bombay)",
+        "Ethan L. Miller (University of California, Santa Cruz)",
+        "Scott Rixner (Rice University)",
+        "Lalith Suresh (VMware Research)",
+        "Nesime Tatbul (Intel Labs and Massachusetts Institute of Technology)",
+        "Bhuvan Urgaonkar (The Pennsylvania State University)",
+        "Bernard Wong (University of Waterloo)",
+        "Henry Xu (City University of Hong Kong)"
+    ],
+    "keynote_speakers": [
+        "Mahadev Satyanarayanan"
+    ],
+    "session_chairs": [
+        "Irfan Ahmad",
+        "Theophilus Benson",
+        "Margo Seltzer",
+        "Ryan Stutsman",
+        "Eyal de Lara",
+        "Nisha Talagala",
+        "Shripad Nadgowda"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "HotCloud_17_001",
+            "title": "Lube: Mitigating Bottlenecks in Wide Area Data Analytics",
+            "authors": [
+                "Hao Wang (Toronto)",
+                "Baochun Li (Toronto)"
+            ],
+            "topics": [
+                "Cloud",
+                "Data",
+                "OS"
+            ]
+        },
+        {
+            "key": "HotCloud_17_002",
+            "title": "Bohr: Similarity Aware Geo-distributed Data Analytics",
+            "authors": [
+                "Hangyu Li",
+                "Hong Xu",
+                "Sarana Nutanong (City University of Hong Kong)"
+            ],
+            "topics": [
+                "Cloud",
+                "Data"
+            ]
+        },
+        {
+            "key": "HotCloud_17_003",
+            "title": "Paracloud: Bringing Application Insight into Cloud Operations",
+            "authors": [
+                "Shripad Nadgowda (IBM)",
+                "Sahil Suneja (IBM)",
+                "Canturk Isci (IBM TJ Watson Research Center)"
+            ],
+            "topics": [
+                "Cloud",
+                "VM"
+            ]
+        },
+        {
+            "key": "HotCloud_17_004",
+            "title": "JavaScript for Extending Low-latency In-memory Key-value Stores",
+            "authors": [
+                "Tian Zhang (utah)",
+                "Ryan Stutsman (Utah)"
+            ],
+            "topics": [
+                "Cloud",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "HotCloud_17_005",
+            "title": "Performance Annotations for Cloud Computing",
+            "authors": [
+                "Daniele Rogora (Universita della Svizzera italiana)",
+                "Steffen Smolka (Cornell)",
+                "Antonio Carzaniga (Universita della Svizzera italiana)",
+                "Amer Diwan (Google)",
+                "Robert Soul\u00e9 (Universita della Svizzera italiana and Barefoot Networks)"
+            ],
+            "topics": [
+                "Cloud",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "HotCloud_17_006",
+            "title": "Towards Deploying Decommissioned Mobile Devices as Cheap Energy-Efficient Compute Nodes",
+            "authors": [
+                "Mohammad Shahrad (princeton)",
+                "David Wentzlaff (Princeton)"
+            ],
+            "topics": [
+                "Cloud",
+                "Energy"
+            ]
+        },
+        {
+            "key": "HotCloud_17_007",
+            "title": "The HCl Scheduler: Going all-in on Heterogeneity",
+            "authors": [
+                "Michael Kaufmann (IBM Research Zurich, Karlsruhe Institute of Technology)",
+                "Kornilios Kourtis (IBM Research Zurich)"
+            ],
+            "topics": [
+                "Cloud",
+                "GPGPU",
+                "OS"
+            ]
+        },
+        {
+            "key": "HotCloud_17_008",
+            "title": "Heterogeneous GPU reallocation",
+            "authors": [
+                "James Gleeson (toronto)",
+                "Eyal de Lara (Toronto)"
+            ],
+            "topics": [
+                "GPGPU",
+                "Cloud",
+                "VM"
+            ]
+        },
+        {
+            "key": "HotCloud_17_009",
+            "title": "Time-based Coordination in Geo-Distributed Cyber-Physical Systems",
+            "authors": [
+                "Sandeep D'souza (cmu.edu)",
+                "Ragunathan Rajkumar (cmu.edu)"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        },
+        {
+            "key": "HotCloud_17_010",
+            "title": "Towards Index-based Global Trading in Cloud Spot Markets",
+            "authors": [
+                "Supreeth Shastri (umass.edu)",
+                "David Irwin (umass.edu)"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        },
+        {
+            "key": "HotCloud_17_011",
+            "title": "ENVI: Elastic resource flexing for Network function Virtualization",
+            "authors": [
+                "Lianjie Cao (Purdue)",
+                "Puneet Sharma (hp.com)",
+                "Sonia Fahmy (Purdue)",
+                "Vinay Saxena (hp.com)"
+            ],
+            "topics": [
+                "Cloud",
+                "Security"
+            ]
+        },
+        {
+            "key": "HotCloud_17_012",
+            "title": "DAL: A Locality-Optimizing Distributed Shared Memory System",
+            "authors": [
+                "G\u00e1bor N\u00e9meth (Ericsson)",
+                "D\u00e1niel G\u00e9hberger (Ericsson)",
+                "P\u00e9ter M\u00e1tray (Ericsson Research)"
+            ],
+            "topics": [
+                "Cloud",
+                "VM"
+            ]
+        },
+        {
+            "key": "HotCloud_17_013",
+            "title": "Growing a protocol",
+            "authors": [
+                "Kamala Ramasubramanian (ucsc)",
+                "Kathryn Dahlgren (ucsc)",
+                "Asha Karim (ucsc)",
+                "Sanjana Maiya (ucsc)",
+                "Sarah Borland (ucsc)",
+                "Boaz Leskes (Elastic)",
+                "Peter Alvaro (ucsc)"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        },
+        {
+            "key": "HotCloud_17_014",
+            "title": "Leader or Majority: Why have one when you can have both? Improving Read Scalability in Raft-like consensus protocols",
+            "authors": [
+                "Vaibhav Arora (ucsb)",
+                "Tanuj Mittal (ucsb)",
+                "Divyakant Agrawal (ucsb)",
+                "Amr El Abbadi (ucsb)",
+                "Xun Xue (Huawei)",
+                "Zhiyanan (Huawei)",
+                "Zhujianfeng (Huawei)"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        },
+        {
+            "key": "HotCloud_17_015",
+            "title": "DCCast: Efficient Point to Multipoint Transfers Across Datacenters",
+            "authors": [
+                "Mohammad Noormohammadpour (usc.edu)",
+                "Cauligi S. Raghavendra (usc.edu)",
+                "Sriram Rao (microsoft)",
+                "Srikanth Kandula (Microsoft)"
+            ],
+            "topics": [
+                "Cloud",
+                "Network"
+            ]
+        },
+        {
+            "key": "HotCloud_17_016",
+            "title": "Configtron: Tackling network diversity with heterogeneous configurations.",
+            "authors": [
+                "Usama Naseer (duke.edu)",
+                "Theophilus Benson (duke.edu)"
+            ],
+            "topics": [
+                "Cloud",
+                "Network"
+            ]
+        },
+        {
+            "key": "HotCloud_17_017",
+            "title": "A Cloud-based Content Gathering Network",
+            "authors": [
+                "Debopam Bhattacherjee (ETH Zurich)",
+                "Muhammad Tirmazi (LUMS)",
+                "Ankit Singla (ETH Zurich)"
+            ],
+            "topics": [
+                "Cloud",
+                "Network"
+            ]
+        },
+        {
+            "key": "HotCloud_17_018",
+            "title": "FRAPpuccino: Fault-detection through Runtime Analysis of Provenance",
+            "authors": [
+                "Xueyuan Han (harvard)",
+                "Thomas Pasquier (hardvard)",
+                "Tanvi Ranjan (harvard)",
+                "Mark Goldstein (harvard)",
+                "Margo Seltzer (Harvard University)"
+            ],
+            "topics": [
+                "Cloud",
+                "Security"
+            ]
+        },
+        {
+            "key": "HotCloud_17_019",
+            "title": "TapCon: Practical Third-Party Attestation for the Cloud",
+            "authors": [
+                "Yan Zhai (wisc)",
+                "Qiang Cao (duke.edu)",
+                "Jeffrey S. Chase (duke.edu)",
+                "Michael M. Swift (wisc)"
+            ],
+            "topics": [
+                "Cloud",
+                "Security"
+            ]
+        }
+    ]
+}

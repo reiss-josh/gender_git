@@ -1,0 +1,759 @@
+{
+    "key": "PLDI_17",
+    "conference": "SIGPLAN Conference on Programming Language Design and Implementation",
+    "organization": [
+        "ACM"
+    ],
+    "country": "ES",
+    "postdate": "2017-06-18",
+    "last_deadline": "2016-11-15",
+    "review_days": 90,
+    "submissions": 322,
+    "min_reviews": 3,
+    "total_reviews": 1250,
+    "double_blind": true,
+    "rebuttal": true,
+    "open_access": false,
+    "age": 38,
+    "past_papers": 1308,
+    "past_citations": 43186,
+    "h5_index": 45,
+    "h5_median": 69,
+    "notes": "There's a PC, Extended PC, and External RC (which is the only one that review PC papers). The PC field below includes PC and EPC, but not ERC (with 47 members). 27 reviews were by completely external reviewers. Papers were reviewed in two tiers, with internal deadline for round 1. All accepted papers were sheperded. There was an Artifact Evaluation Process (AEC) for a possible seal of approval. 8 PC-authored papers accepted out of 42 submissions (a little higher than the overall acceptance rate). There were 4 distinguished paper award, 3 distinguished reviewer award (Bondhugula, Evan Chang, Moeller), and one distinguished artifact award. Members of the PC reviewed 20 papers each, and of the EPC 10 papers (including PC papers). All but seven papers received at least 3 reviews. There was another paper included on the program but not in the proceedings.",
+    "pc_chairs": [
+        "Martin Vechev (DeepCode and ETH Zurich, Switzerland)"
+    ],
+    "pc_members": [
+        "Edward Aftandilian (Google)",
+        "David F. Bacon (Google)",
+        "Uday Bondhugula (Indian Institute of Science)",
+        "Bor-Yuh Evan Chang (University of Colorado Boulder)",
+        "Swarat Chaudhuri (Rice University)",
+        "Alvin Cheung (University of Washington)",
+        "Ravi Chugh (University of Chicago)",
+        "Joseph Devietti (University of Pennsylvania)",
+        "Cezara Dr\u0103goi (INRIA, ENS, CNRS)",
+        "Jeffrey S. Foster (University of Maryland, College Park)",
+        "Franz Franchetti (Carnegie Mellon University)",
+        "Dan Grossman (University of Washington)",
+        "Tim Harris (Oracle Labs)",
+        "Jan Hoffmann (Carnegie Mellon University)",
+        "Jeff Huang (Texas A&M University)",
+        "Zachary Kincaid (Princeton University)",
+        "Milind Kulkarni (Purdue University)",
+        "Francesco Logozzo (Facebook)",
+        "Shan Lu (University of Chicago)",
+        "Vikash Mansinghka (Massachusetts Institute of Technology)",
+        "Sasa Misailovic (University of Illinois at Urbana-Champaign)",
+        "Madan Musuvathi (Microsoft Research)",
+        "Onur Mutlu (ETH Zurich)",
+        "Anders M\u00f8ller (Aarhus University)",
+        "Mayur Naik (Georgia Tech)",
+        "Marco Pistoia (IBM Research)",
+        "Michael Pradel (TU Darmstadt)",
+        "Andrey Rybalchenko (Microsoft Research)",
+        "Sharon Shoham (Tel Aviv university)",
+        "Alexandra Silva (University College London)",
+        "Rishabh Singh (Microsoft Research)",
+        "Charles Sutton (University of Edinburgh)",
+        "Eran Yahav (Technion)",
+        "Junfeng Yang (Columbia University)",
+        "Andreas Zeller (Saarland University)",
+        "Emery Berger",
+        "Hans-J. Boehm",
+        "Ahmed Bouajjani (IRIF, Universit\u00e9 Paris Diderot)",
+        "Nate Foster (Cornell University)",
+        "Stephen Freund (Williams College)",
+        "Suresh Jagannathan (Purdue University)",
+        "Sorin Lerner (University of California, San Diego)",
+        "Ond\u0159ej Lhot\u00e1k (University of Waterloo, Canada)",
+        "P. Madhusudan (University of Illinois at Urbana-Champaign)",
+        "Todd Millstein (University of California, Los Angeles)",
+        "Jens Palsberg (University of California, Los Angeles)",
+        "Erez Petrank (Technion)",
+        "John Regehr (University of Utah)",
+        "Vivek Sarkar (Rice University, USA)",
+        "Koushik Sen (University of California, Berkeley)",
+        "Peter Sewell (University of Cambridge)",
+        "Zhong Shao (Yale University)",
+        "Armando Solar-Lezama (MIT CSAIL)",
+        "Guy L. Steele Jr. (Oracle Labs)",
+        "Hongseok Yang (University of Oxford)",
+        "Steve Zdancewic (University of Pennsylvania)"
+    ],
+    "keynote_speakers": [
+        "Mart\u00edn Abadi",
+        "Martin Odersky (EPFL)",
+        "Frank Wood (Oxford)"
+    ],
+    "session_chairs": [
+        "Uday Bondhugula",
+        "Swarat Chaudhuri",
+        "Jeff Huang",
+        "David F. Bacon",
+        "Michael Pradel",
+        "Loris D'Antoni",
+        "Mayur Naik",
+        "Sasa Misailovic",
+        "Francesco Logozzo",
+        "Milind Kulkarni",
+        "Joseph Devietti",
+        "Alvin Cheung",
+        "Dan Grossman"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "PLDI_17_001",
+            "title": "Decomposition Instead of Self-Composition for Proving the Absence of Timing Channels",
+            "authors": [
+                "Timos Antonopoulos",
+                "Paul Gazzillo",
+                "Michael Hicks",
+                "Eric Koskinen",
+                "Tachio Terauchi",
+                "Shiyi Wei"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_002",
+            "title": "A Formally Verified Compiler for Lustre",
+            "authors": [
+                "Timothy Bourke",
+                "L\u00e9lio Brun",
+                "Pierre-Evariste Dagand",
+                "Xavier Leroy",
+                "Marc Pouzet",
+                "Lionel Rieg"
+            ],
+            "topics": [
+                "Compilers",
+                "Storage"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_003",
+            "title": "ALIVE-INFER: Data-Driven Precondition Inference for Peephole Optimizations in LLVM",
+            "authors": [
+                "David Menendez",
+                "Santosh Nagarakatte"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_004",
+            "title": "Achieving High Coverage for Floating-point Code via Unconstrained Programming",
+            "authors": [
+                "Zhoulai Fu",
+                "Zhendong Su"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "PLDI_17_005",
+            "title": "Automatic Program Inversion using Symbolic Transducers",
+            "authors": [
+                "Qinheping Hu",
+                "Loris D'Antoni"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "PLDI_17_006",
+            "title": "BARRACUDA: Binary-level Analysis of Runtime RAces in CUDA programs",
+            "authors": [
+                "Ariel Eizenberg",
+                "Yuanfeng Peng",
+                "Toma Pigli",
+                "William Mansky",
+                "Joseph Devietti"
+            ],
+            "topics": [
+                "Compilers",
+                "GPGPU",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PLDI_17_007",
+            "title": "BigFoot: Static Check Placement for Dynamic Race Detection",
+            "authors": [
+                "Dustin Rhodes",
+                "Cormac Flanagan",
+                "Stephen Freund"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_008",
+            "title": "Bringing the Web up to Speed with WebAssembly",
+            "authors": [
+                "Andreas Haas",
+                "Andreas Rossberg",
+                "Derek Schuff",
+                "Ben L. Titzer",
+                "Dan Gohman",
+                "Luke Wagner",
+                "Alon Zakai",
+                "Jean-Francois Bastien",
+                "Michael Holman"
+            ],
+            "topics": [
+                "Compilers",
+                "Cloud"
+            ],
+            "award": true
+        },
+        {
+            "key": "PLDI_17_009",
+            "title": "Cache Locality Optimization for Recursive Programs",
+            "authors": [
+                "Jonathan Lifflander",
+                "Sriram Krishnamoorthy"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "PLDI_17_010",
+            "title": "Compiling Markov Chain Monte Carlo Algorithms for Probabilistic Modeling",
+            "authors": [
+                "Daniel Huang",
+                "Jean-Baptiste Tristan",
+                "Greg Morrisett"
+            ],
+            "topics": [
+                "Compilers",
+                "HPC"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_011",
+            "title": "Compiling without continuations",
+            "authors": [
+                "Luke Maurer",
+                "Paul Downen",
+                "Zena M. Ariola",
+                "Simon Peyton Jones"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "award": true
+        },
+        {
+            "key": "PLDI_17_012",
+            "title": "Component-based Synthesis of Table Consolidation and Transformation Tasks from Examples",
+            "authors": [
+                "Yu Feng",
+                "Ruben Martins",
+                "Jacob Van Geffen",
+                "Isil Dillig",
+                "Swarat Chaudhuri"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_013",
+            "title": "Compositional Recurrence Analysis Revisited",
+            "authors": [
+                "Zachary Kincaid",
+                "Jason Breck",
+                "Ashkan Forouhi Boroujeni",
+                "Thomas Reps"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_014",
+            "title": "Context Transformations for Pointer Analysis",
+            "authors": [
+                "Rei Thiessen",
+                "Ond\u0159ej Lhot\u00e1k"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "PLDI_17_015",
+            "title": "Control-Flow Recovery from Partial Failure Reports",
+            "authors": [
+                "Peter Ohmann",
+                "Alexander L. Brooks",
+                "Loris D'Antoni",
+                "Ben Liblit"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_016",
+            "title": "DemoMatch: API Discovery from Demonstrations",
+            "authors": [
+                "Kuat Yessenov",
+                "Ivan Kuraj",
+                "Armando Solar-Lezama"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_017",
+            "title": "Dynamic Race Prediction in Linear Time",
+            "authors": [
+                "Dileep Kini",
+                "Umang Mathur",
+                "Mahesh Viswanathan"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_018",
+            "title": "Efficient and Precise Points-to Analysis: Modeling the Heap by Merging Equivalent Automata",
+            "authors": [
+                "Tian Tan",
+                "Yue Li",
+                "Jingling Xue"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_019",
+            "title": "Flatten and Conquer",
+            "authors": [
+                "Parosh Aziz Abdulla",
+                "Mohamed Faouzi Atig",
+                "Phi-Diep Bui",
+                "Yu-Fang Chen",
+                "Lukas Holik",
+                "Ahmed Rezine",
+                "Philipp Ruemmer"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_020",
+            "title": "FunTAL: Reasonably Mixing a Functional Language with Assembly",
+            "authors": [
+                "Daniel Patterson",
+                "Jamie Perconti",
+                "Christos Dimoulas",
+                "Amal Ahmed"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_021",
+            "title": "Fusing Effectful Comprehensions",
+            "authors": [
+                "Olli Saarikivi",
+                "Margus Veanes",
+                "Todd Mytkowicz",
+                "Madan Musuvathi"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_022",
+            "title": "Futhark: Purely Functional GPU-programming with Nested Parallelism and In-place Array Updates",
+            "authors": [
+                "Troels Henriksen",
+                "Niels G. W. Serup",
+                "Martin Elsman",
+                "Fritz Henglein",
+                "Cosmin Oancea"
+            ],
+            "topics": [
+                "Compilers",
+                "GPGPU",
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_023",
+            "title": "Generalizations of the Theory and Deployment of Triangular Inequality for Compiler-Based Strength Reduction",
+            "authors": [
+                "Yufei Ding",
+                "Lin Ning",
+                "Hui Guan",
+                "Xipeng Shen"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "PLDI_17_024",
+            "title": "Gradual synthesis for static parallelization of single-pass array-processing programs",
+            "authors": [
+                "Grigory Fedyukovich",
+                "Maaz Bin Safeer Ahmad",
+                "Rastislav Bodik"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PLDI_17_025",
+            "title": "HoTTSQL: Proving Query Rewrites with Univalent SQL Semantics",
+            "authors": [
+                "Shumo Chu",
+                "Konstantin Weitz",
+                "Alvin Cheung",
+                "Dan Suciu"
+            ],
+            "topics": [
+                "Compilers",
+                "DB"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_026",
+            "title": "Instruction Punning: Lightweight Instrumentation for x86-64",
+            "authors": [
+                "Buddhika Chamith",
+                "Luke Dalessandro",
+                "Bo Joel Svensson",
+                "Ryan R. Newton"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "PLDI_17_027",
+            "title": "Levity Polymorphism",
+            "authors": [
+                "Richard A. Eisenberg",
+                "Simon Peyton Jones"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "PLDI_17_028",
+            "title": "Low Overhead Dynamic Binary Translation on ARM",
+            "authors": [
+                "Amanieu d'Antras",
+                "Cosmin Gorgovan",
+                "Jim Garside",
+                "Mikel Luj\u00e1n"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "award": true,
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_029",
+            "title": "Low-Synchronization, Mostly Lock-Free, Elastic Scheduling for Streaming Runtimes",
+            "authors": [
+                "Scott Schneider",
+                "Kun-Lung Wu"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency",
+                "OS"
+            ]
+        },
+        {
+            "key": "PLDI_17_030",
+            "title": "Miniphases: Compilation using Modular and Efficient Tree Transformations",
+            "authors": [
+                "Dmytro Petrashko",
+                "Ond\u0159ej Lhot\u00e1k",
+                "Martin Odersky"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "PLDI_17_031",
+            "title": "Network Configuration Synthesis with Abstract Topologies",
+            "authors": [
+                "Ryan Beckett",
+                "Ratul Mahajan",
+                "Todd Millstein",
+                "Jitendra Padhye",
+                "David Walker"
+            ],
+            "topics": [
+                "Compilers",
+                "Network"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_032",
+            "title": "Practical Partial Evaluation for High-Performance Dynamic Language Runtimes",
+            "authors": [
+                "Thomas Wuerthinger",
+                "Christian Wimmer",
+                "Christian Humer",
+                "Andreas Woess",
+                "Lukas Stadler",
+                "Chris Seaton",
+                "Gilles Duboscq",
+                "Doug Simon",
+                "Matthias Grimmer"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "PLDI_17_033",
+            "title": "Proactive and Adaptive Energy-Aware Programming with Mixed Typechecking",
+            "authors": [
+                "Anthony Canino",
+                "Yu David Liu"
+            ],
+            "topics": [
+                "Compilers",
+                "Energy"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_034",
+            "title": "\"Repairing Sequential Consistency in C/C++11\"",
+            "authors": [
+                "Ori Lahav",
+                "Viktor Vafeiadis",
+                "Jeehoon Kang",
+                "Chung-Kil Hur",
+                "Derek Dreyer"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "award": true
+        },
+        {
+            "key": "PLDI_17_035",
+            "title": "Responsive Parallel Computation: Bridging Competitive and Cooperative Threading",
+            "authors": [
+                "Stefan K. Muller",
+                "Umut A. Acar",
+                "Robert Harper"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_036",
+            "title": "Rigorous Analysis of Software Countermeasures against Cache Attacks",
+            "authors": [
+                "Goran Doychev",
+                "Boris K\u00f6pf"
+            ],
+            "topics": [
+                "Compilers",
+                "Security"
+            ]
+        },
+        {
+            "key": "PLDI_17_037",
+            "title": "Similarity of Binaries through re-Optimization",
+            "authors": [
+                "Yaniv David",
+                "Nimrod Partush",
+                "Eran Yahav"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "PLDI_17_038",
+            "title": "Simple, fast and safe manual memory management",
+            "authors": [
+                "Piyus Kedia",
+                "Manuel Costa",
+                "Matthew Parkinson",
+                "Kapil Vaswani",
+                "Dimitrios Vytiniotis"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "PLDI_17_039",
+            "title": "Skeletal Program Enumeration for Rigorous Compiler Testing",
+            "authors": [
+                "Qirun Zhang",
+                "Chengnian Sun",
+                "Zhendong Su"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "PLDI_17_040",
+            "title": "Static Deadlock Detection for Asynchronous C# Programs",
+            "authors": [
+                "Anirudh Santhiar",
+                "Aditya Kanade"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PLDI_17_041",
+            "title": "StreamQRE: Modular Specification and Efficient Evaluation of Quantitative Queries over Streaming Data",
+            "authors": [
+                "Konstantinos Mamouras",
+                "Mukund Raghotaman",
+                "Rajeev Alur",
+                "Zachary G. Ives",
+                "Sanjeev Khanna"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_042",
+            "title": "Synthesis of Divide and Conquer Parallelism for Loops",
+            "authors": [
+                "Azadeh Farzan",
+                "Victor Nicolet"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PLDI_17_043",
+            "title": "Synthesizing Highly Expressive SQL Queries from Input-Output Examples",
+            "authors": [
+                "Chenglong Wang",
+                "Alvin Cheung",
+                "Rastislav Bodik"
+            ],
+            "topics": [
+                "Compilers",
+                "DB"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_044",
+            "title": "Synthesizing Memory Models from Framework Sketches and Litmus Tests",
+            "authors": [
+                "James Bornholt",
+                "Emina Torlak"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_045",
+            "title": "Synthesizing Program Input Grammars",
+            "authors": [
+                "Osbert Bastani",
+                "Rahul Sharma",
+                "Alex Aiken",
+                "Percy Liang"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "PLDI_17_046",
+            "title": "Systematic Black-Box Analysis of Collaborative Web Applications",
+            "authors": [
+                "Marina Billes",
+                "Anders M\u00f8ller",
+                "Michael Pradel"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PLDI_17_047",
+            "title": "Taming Undefined Behavior in LLVM",
+            "authors": [
+                "Juneyoung Lee",
+                "Yoonseung Kim",
+                "Youngju Song",
+                "Chung-Kil Hur",
+                "Sanjoy Das",
+                "David Majnemer",
+                "John Regehr",
+                "Nuno P. Lopes"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        }
+    ]
+}

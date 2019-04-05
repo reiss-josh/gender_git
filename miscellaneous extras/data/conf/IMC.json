@@ -1,0 +1,502 @@
+{
+    "key": "IMC_17",
+    "conference": "Internet Measurement Conference",
+    "organization": [
+        "ACM"
+    ],
+    "country": "UK",
+    "postdate": "2017-11-01",
+    "last_deadline": "2017-05-18",
+    "review_days": 74,
+    "submissions": 179,
+    "min_reviews": 3,
+    "total_reviews": 775,
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": true,
+    "age": 16,
+    "past_papers": 630,
+    "past_citations": 15354,
+    "h5_index": 46,
+    "h5_median": 65,
+    "notes": "There's a best paper award and community contribution award (novel dataset, source code, open platform, etc). Includes only long papers (14 short papers were excluded). All papers were shepherded. Many of the papers have their artifacts available for download from the progam we page.",
+    "pc_chairs": [
+        "Renata Teixeira (Inria Paris)",
+        "Geoffrey M. Voelker (University of California, San Diego)"
+    ],
+    "pc_members": [
+        "\u00d6zg\u00fc Alay (Simula Research Laboratory)",
+        "Mark Allman (International Computer Science Institute)",
+        "Chadi Barakat (INRIA, Sophia Antipolis)",
+        "Marinho Barcellos (Universidade Federal do Rio Grande do Sul)",
+        "Paul Barford (University of Wisconsin and comScore)",
+        "Theophilus Benson (Duke University)",
+        "Robert Beverly (Naval Postgraduate School)",
+        "John W. Byers (Boston University)",
+        "Rocky Chang (The Hong Kong Polytechnic University)",
+        "Kameswari Chebrolu (IIT Bombay)",
+        "David Choffnes (Northeastern University)",
+        "Mark Crovella (Boston University)",
+        "Amogh Dhamdhere (CAIDA)",
+        "Roya Ensafi (Princeton University)",
+        "Kensuke Fukuda (National Institute of Informatics / Sokendai)",
+        "Monia Ghobadi (Microsoft Research Redmond)",
+        "Saikat Guha (Microsoft Research India)",
+        "Hamed Haddadi (Queen Mary University of London / Imperial College London)",
+        "John Heidemann (University of Southern California / Information Sciences Institute)",
+        "Thorsten Holz (Ruhr-University Bochum)",
+        "Felipe Huici (NEC Laboratories Europe)",
+        "Gianluca Iannaccone (Facebook)",
+        "Dali Kaafar (Data61)",
+        "Partha Kanuparthy (Amazon Web Services)",
+        "Ethan Katz-Bassett (University of Southern California / Columbia University)",
+        "Priya Mahadevan (Google)",
+        "Alan Mislove (Northeastern University)",
+        "Andrew W. Moore (University of Cambridge)",
+        "Dan Pei (Tsinghua University)",
+        "Cristel Pelsser (University of Strasbourgh)",
+        "Zhiyun Qian (UC Riverside)",
+        "Costin Raiciu (University Politehnica of Bucharest)",
+        "Aaron Schulman (UC San Diego)",
+        "Subhabrata Sen (AT&T Labs Research)",
+        "Ramesh K. Sitaraman (University of Massachusetts and Akamai)",
+        "Srikanth Sundaresan (Princeton University)",
+        "Brian Trammell (ETH Zurich)",
+        "Matteo Varvello (AT&T Labs Research)",
+        "Heather Zheng (UC Santa Barbara)"
+    ],
+    "keynote_speakers": [],
+    "session_chairs": [
+        "John Heidemann",
+        "Cristel Pelsser",
+        "Roya Ensafi",
+        "Roya Ensafi",
+        "Andrew Moore",
+        "Geoffrey M. Voelker (University of California, San Diego)",
+        "Brian Trammell",
+        "Amogh Dhamdhere",
+        "Zhiyun Qian",
+        "Chadi Barakat",
+        "Alan Mislove",
+        "David Choffnes"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "IMC_17_001",
+            "title": "Inferring BGP Blackholing Activity in the Internet",
+            "authors": [
+                "Vasileios Giotsas (CAIDA/TU Berlin)",
+                "Georgios Smaragdakis (MIT / TU Berlin)",
+                "Christoph Dietzel (TU Berlin / DE-CIX)",
+                "Philipp Richter",
+                "Anja Feldmann (TU Berlin)",
+                "Arthur Berger (MIT / Akamai)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "IMC_17_002",
+            "title": "Pinpointing Delay and Forwarding Anomalies Using Large-Scale Traceroute Measurements",
+            "authors": [
+                "Romain Fontugne (IIJ Research Lab)",
+                "Emile Aben (RIPE NCC)",
+                "Cristel Pelsser (University of Strasbourg / CNRS)",
+                "Randy Bush (IIJ Research Lab)"
+            ],
+            "topics": [
+                "Network",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IMC_17_003",
+            "title": "Through the Wormhole: Tracking Invisible MPLS Tunnels",
+            "authors": [
+                "Yves Vanaubel (Universit\u00e9 de Li\u00e8ge)",
+                "Pascal M\u00e9rindol",
+                "Jean-Jacques Pansiot (Universit\u00e9 de Strasbourg)",
+                "Benoit Donnet (Universit\u00e9 de Li\u00e8ge)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "IMC_17_004",
+            "title": "Challenges in Inferring Internet Congestion using Throughput Measurements",
+            "authors": [
+                "Srikanth Sundaresan (Princeton University)",
+                "Danny H. Lee (Georgia Tech)",
+                "Xiaohong Deng",
+                "Yun Feng (University of New South Wales)",
+                "Amogh Dhamdhere (CAIDA/UC San Diego)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "IMC_17_005",
+            "title": "TCP Congestion Signatures",
+            "authors": [
+                "Srikanth Sundaresan (Princeton University)",
+                "Amogh Dhamdhere (CAIDA/UCSD)",
+                "Mark Allman (ICSI)",
+                "Kimberly claffy (CAIDA/UCSD)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "IMC_17_006",
+            "title": "Detection, Classification, and Analysis of Inter-Domain Traffic with Spoofed Source IP Addresses",
+            "authors": [
+                "Franziska Lichtblau",
+                "Florian Streibelt",
+                "Thorben Kr\u00fcger",
+                "Philipp Richter",
+                "Anja Feldmann (TU Berlin)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network",
+                "Security"
+            ]
+        },
+        {
+            "key": "IMC_17_007",
+            "title": "Millions of Targets Under Attack: a Macroscopic Characterization of the DoS Ecosystem",
+            "authors": [
+                "Mattijs Jonker (University of Twente)",
+                "Alistair King (CAIDA, UCSD UC San Diego)",
+                "Johannes Krupp (CISPA, Saarland University)",
+                "Christian Rossow (CISPA, Saarland University)",
+                "Anna Sperotto (University of Twente)",
+                "Alberto Dainotti (CAIDA, UC San Diego)"
+            ],
+            "topics": [
+                "Network",
+                "Benchmark",
+                "Security"
+            ]
+        },
+        {
+            "key": "IMC_17_008",
+            "title": "Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship",
+            "authors": [
+                "Zhongjie Wang",
+                "Yue Cao",
+                "Zhiyun Qian",
+                "Chengyu Song",
+                "Srikanth Krishnamurthy (ucr.edu University of California, Riverside)"
+            ],
+            "topics": [
+                "Network",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IMC_17_009",
+            "title": "lib\u00b7erate, (n): A library for exposing (traffic-classification) rules and avoiding them efficiently",
+            "authors": [
+                "Fangfan Li (Northeastern University)",
+                "Abbas Razaghpanah (Stony Brook University)",
+                "Arash Molavi Kakhki (Northeastern University)",
+                "Arian Akhavan Niaki (Stony Brook University)",
+                "David Choffnes (Northeastern University)",
+                "Phillipa Gill (University of Massachusetts Amherst)",
+                "Alan Mislove (Northeastern University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "IMC_17_010",
+            "title": "If you are not paying for it, you are the product: How much do advertisers pay to reach you?",
+            "authors": [
+                "Panagiotis Papadopoulos (FORTH-ICS, Greece)",
+                "Nicolas Kourtellis (Telefonica Research, Spain)",
+                "Pablo Rodriguez Rodriguez (Telefonica Alpha, Spain)",
+                "Nikolaos Laoutaris (Data Transparency Lab)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IMC_17_011",
+            "title": "Exploring the Dynamics of Search Advertiser Fraud",
+            "authors": [
+                "Joe DeBlasio (UC San Diego)",
+                "Saikat Guha (Microsoft Research India)",
+                "Geoffrey M. Voelker",
+                "Alex C. Snoeren (UC San Diego)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IMC_17_012",
+            "title": "The Ad Wars: Retrospective Measurement and Analysis of Anti-Adblock Filter Lists",
+            "authors": [
+                "Umar Iqbal",
+                "Zubair Shafiq (The University of Iowa)",
+                "Zhiyun Qian (University of California-Riverside)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IMC_17_013",
+            "title": "Cell Spotting: Studying the role of cellular networks in the Internet",
+            "authors": [
+                "John Rula (Northwestern University/Akamai)",
+                "Fabian Bustamante (Northwestern University)",
+                "Moritz Steiner (Akamai)"
+            ],
+            "topics": [
+                "Network",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IMC_17_014",
+            "title": "Measurement-based, Practical Techniques to Improve 802.11ac Performance",
+            "authors": [
+                "Apurv Bhartia",
+                "Bo Chen",
+                "Feng Wang",
+                "Derrick Pallas",
+                "Raluca Musaloiu-E.",
+                "Ted Tsung-Te Lai",
+                "Hao Ma (Cisco Meraki)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "IMC_17_015",
+            "title": "Dissecting VOD Services for Cellular: Performance, Root Causes and Best Practices",
+            "authors": [
+                "Shichang Xu",
+                "Z. Morley Mao (University of Michigan)",
+                "Subhabrata Sen (AT&T Labs Research)",
+                "Yunhan Jia (University of Michigan)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "IMC_17_016",
+            "title": "Target Generation for Internet-wide IPv6 Scanning",
+            "authors": [
+                "Austin Murdock",
+                "Frank Li",
+                "Paul Bramsen (University of California, Berkeley)",
+                "Zakir Durumeric (International Computer Science Institute)",
+                "Vern Paxson (University of California, Berkeley)"
+            ],
+            "topics": [
+                "Network",
+                "Security"
+            ]
+        },
+        {
+            "key": "IMC_17_017",
+            "title": "A High-Performance Algorithm for Identifying Frequent Items in Data Streams",
+            "authors": [
+                "Daniel Anderson",
+                "Pryce Bevan (Georgetown University)",
+                "Kevin Lang (Oath Research)",
+                "Edo Liberty (Amazon)",
+                "Lee Rhodes (Oath)",
+                "Justin Thaler (Georgetown University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "IMC_17_018",
+            "title": "Taking a Long Look at QUIC: An Approach for Rigorous Evaluation of Rapidly Evolving Transport Protocols",
+            "authors": [
+                "Arash Molavi Kakhki (Northeastern University)",
+                "Samuel Jero (Purdue University)",
+                "David Choffnes",
+                "Alan Mislove",
+                "Cristina Nita-Rotaru (Northeastern University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "IMC_17_019",
+            "title": "Mission Accomplished? HTTPS Security after DigiNotar",
+            "authors": [
+                "Johanna Amann (International Computer Science Institute / Corelight / LBNL)",
+                "Oliver Gasser",
+                "Quirin Scheitle (Technical University of Munich)",
+                "Lexi Brent (The University of Sydney)",
+                "Georg Carle (Technical University of Munich)",
+                "Ralph Holz (The University of Sydney)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Security",
+                "Network"
+            ],
+            "award": true
+        },
+        {
+            "key": "IMC_17_020",
+            "title": "Tripwire: Inferring Internet Site Compromise",
+            "authors": [
+                "Joe DeBlasio",
+                "Stefan Savage",
+                "Geoffrey M. Voelker",
+                "Alex C. Snoeren (UC San Diego)"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "IMC_17_021",
+            "title": "Measuring and Mitigating OAuth Access Token Abuse by Collusion Networks",
+            "authors": [
+                "Shehroze Farooqi (The University of Iowa)",
+                "Fareed Zaffar (Lahore University of Management and Sciences)",
+                "Nektarios Leontiadis (Facebook)",
+                "Zubair Shafiq (The University of Iowa)"
+            ],
+            "topics": [
+                "Network",
+                "Security"
+            ],
+            "award": true
+        },
+        {
+            "key": "IMC_17_022",
+            "title": "Understanding the Role of Registrars in DNSSEC Deployment",
+            "authors": [
+                "Taejoong Chung (Northeastern University)",
+                "Roland Rijswijk-Deij (University of Twente and SURFnet)",
+                "David Choffnes",
+                "Alan Mislove",
+                "Christo Wilson (Northeastern University)",
+                "Dave Levin (University of Maryland)",
+                "Bruce Maggs (Duke University)"
+            ],
+            "topics": [
+                "Security",
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "IMC_17_023",
+            "title": "Complexity vs. Performance: Empirical Analysis of Machine Learning as a Service",
+            "authors": [
+                "Yuanshun Yao",
+                "Zhujun Xiao (University of Chicago)",
+                "Bolun Wang (UCSB / University of Chicago)",
+                "Bimal Viswanath",
+                "Haitao Zheng",
+                "Ben Y. Zhao (University of Chicago)"
+            ],
+            "topics": [
+                "Data",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IMC_17_024",
+            "title": "The Web Centipede: Understanding How Web Communities Influence Each Other Through the Lens of Mainstream and Alternative News Sources",
+            "authors": [
+                "Savvas Zannettou (Cyprus University of Technology)",
+                "Tristan Caulfield",
+                "Emiliano De Cristofaro (University College London)",
+                "Nicolas Kourtellis",
+                "Ilias Leontiadis (Telefonica Research)",
+                "Michael Sirivianos (Cyprus University of Technology)",
+                "Gianluca Stringhini (University College London)",
+                "Jeremy Blackburn (University of Alabama at Birmingham)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IMC_17_025",
+            "title": "Email Typosquatting",
+            "authors": [
+                "Janos Szurdi",
+                "Nicolas Christin (CMU Carnegie Mellon University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Security"
+            ]
+        },
+        {
+            "key": "IMC_17_026",
+            "title": "Fifteen Minutes of Unwanted Fame: Detecting and Characterizing Doxing",
+            "authors": [
+                "Peter Snyder (University of Illinois at Chicago)",
+                "Periwinkle Doerfler (New York University)",
+                "Chris Kanich (University of Illinois at Chicago)",
+                "Damon McCoy (New York University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Security"
+            ]
+        },
+        {
+            "key": "IMC_17_027",
+            "title": "Ethical issues of research using datasets of illicit origin",
+            "authors": [
+                "Daniel R. Thomas",
+                "Sergio Pastrana",
+                "Alice Hutchings",
+                "Richard Clayton",
+                "Alastair Beresford (University of Cambridge)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "IMC_17_028",
+            "title": "Broad and Load-Aware Anycast Mapping with Verfploeter",
+            "authors": [
+                "Wouter de Vries (University of Twente)",
+                "Ricardo de O. Schmidt (SIDN Labs / University of Twente)",
+                "Wes Hardaker",
+                "John Heidemann (USC/ISI)",
+                "Pieter-Tjerk de Boer",
+                "Aiko Pras (University of Twente)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network"
+            ]
+        }
+    ]
+}

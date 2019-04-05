@@ -1,0 +1,1049 @@
+{
+    "key": "MICRO_17",
+    "conference": "International Symposium on Microarchitecture",
+    "organization": [
+        "IEEE",
+        "ACM"
+    ],
+    "country": "US",
+    "postdate": "2017-10-00",
+    "last_deadline": "2017-04-04",
+    "review_days": 58,
+    "submissions": 327,
+    "min_reviews": "",
+    "total_reviews": 1590,
+    "double_blind": true,
+    "rebuttal": true,
+    "open_access": false,
+    "age": 50,
+    "past_papers": 1523,
+    "past_citations": 26320,
+    "h5_index": 41,
+    "h5_median": 63,
+    "notes": "The review model is nonstandard. Highly ranked papers are recommended to submit a revised version based on reviewer comments. The rest are invited to submit a rebuttal only. This way, the first group of papers gets a 'mini-revision' period, akin to journals but with a single shot, as explained here: https://www.microarch.org/micro48/files/reviewmodel.html. In addition to the PC, which got 14-18 reviews each, there's an ERC of about 100 members (up to 7 reviews each) and 28 external experts (1-2 reviews each). Some papers were assigned a shepherd (all of those appear in the program). Based on a script written for ISCA'17, 1285 extra conflicts were detected, beyond those declared. Two of the rebuttal-only papers (not revised) were accepted.",
+    "pc_chairs": [
+        "Joel Emer (NVIDIA, MIT)",
+        "Daniel Sanchez (MIT)"
+    ],
+    "pc_members": [
+        "Jung Ho Ahn (SNU)",
+        "Alaa Alameldeen (Intel)",
+        "Krste Asanovi\u00e7 (Berkeley)",
+        "Rajeev Balasubramonian (Utah)",
+        "Brad Beckmann (AMD)",
+        "Nathan Beckmann (CMU)",
+        "Abhishek Bhattacharjee (Rutgers)",
+        "Pradip Bose (IBM)",
+        "Simone Campanoni (Northwestern)",
+        "Ramon Canal (UPC)",
+        "Trevor E. Carlson (NUS)",
+        "Fred Chong (U. Chicago)",
+        "Eric Chung (Microsoft)",
+        "Lieven Eeckhout (Ghent University)",
+        "Hadi Esmaeilzadeh (Georgia Tech)",
+        "Babak Falsafi (EPFL)",
+        "Michael Ferdman (SUNY Stony Brook)",
+        "Christopher W. Fletcher (UIUC)",
+        "Kim Hazelwood (Facebook)",
+        "Kei Hiraki (University of Tokyo)",
+        "James Hoe (CMU)",
+        "Engin Ipek (U. Rochester)",
+        "Natalie Enright Jerger (U. of Toronto)",
+        "Daniel A. Jimenez (TAMU)",
+        "Stefanos Kaxiras (Uppsala University)",
+        "Samira Khan (U. Virginia)",
+        "John Kim (KAIST)",
+        "Christos Kozyrakis (Stanford)",
+        "Alvy Lebeck (Duke)",
+        "Ben Lee (Duke)",
+        "Jae Lee (SNU)",
+        "David Lo (Google)",
+        "Brandon Lucia (CMU)",
+        "Scott Mahlke (U. Michigan)",
+        "Srilatha Manne (Cavium)",
+        "Jason Mars (U. Michigan)",
+        "Margaret Martonosi (Princeton)",
+        "Pierre Michaud (INRIA)",
+        "Onur Mutlu (ETH)",
+        "Tony Nowatzki (UCLA)",
+        "Michael Pellauer (Nvidia)",
+        "Milos Prvulovic (Georgia Tech)",
+        "Moinuddin Qureshi (Georgia Tech)",
+        "Ravi Rajwar (Intel)",
+        "Vijay Janapa Reddi (U. Texas-Austin)",
+        "Minsoo Rhu (Nvidia)",
+        "Jack Sampson (Penn State)",
+        "Karu Sankaralingam (U. Wisconsin-Madison)",
+        "Andre Seznec (INRIA)",
+        "Timothy Sherwood (UCSB)",
+        "Arrvindh Shriraman (Simon Fraser)",
+        "Edward Suh (Cornell)",
+        "Guangyu Sun (Peking U.)",
+        "Vivienne Sze (MIT)",
+        "Michael Taylor (UCSD)",
+        "T. N. Vijaykumar (Purdue)",
+        "Thomas F. Wenisch (University of Michigan)",
+        "David A. Wood (U. Wisconsin-Madison)",
+        "Carole-Jean Wu (Arizona State)",
+        "Lisa Wu (Berkeley)",
+        "Yuan Xie (UCSB)"
+    ],
+    "keynote_speakers": [
+        "Kriszti\u00e1n Flautner (ARM)",
+        "Doug Burger (Microsoft)"
+    ],
+    "session_chairs": [
+        "Daniel A. Jimenez",
+        "Krste Asanovi\u00e7",
+        "Brad Beckmann (AMD)",
+        "Samira Khan (Virginia)",
+        "David Wood (Wisconsin)",
+        "Chris Fletcher (UIUC)",
+        "Vivienne Sze (MIT)",
+        "Alaa Alameldeen (Intel)",
+        "Abhishek Bhattacharjee (Rutgers)",
+        "Bobbie Manne (Cavium)",
+        "Michael Pellauer (Nvidia)",
+        "Nathan Beckman (CMU)",
+        "Hadi Esmaeilzadeh (Georgia Tech)",
+        "Milos Prvulovic (Georgia Tech)",
+        "Margaret Martonosi (Princeton)"
+    ],
+    "panelists": [
+        "Rich Belgard",
+        "Tom Conte",
+        "Matthew Farrens",
+        "Gearold Johnson",
+        "Yale N. Patt",
+        "Nick Tredennick"
+    ],
+    "papers": [
+        {
+            "key": "MICRO_17_001",
+            "title": "Banshee: Bandwidth-Efficient DRAM Caching Via Software/Hardware Cooperation",
+            "authors": [
+                "Xiangyao Yu (MIT)",
+                "Christopher J. Hughes (Intel)",
+                "Nadathur Satish (Intel)",
+                "Onur Mutlu (ETH)",
+                "Srinivas Devadas (MIT)"
+            ],
+            "topics": [
+                "Architecture",
+                "OS"
+            ]
+        },
+        {
+            "key": "MICRO_17_002",
+            "title": "UDP: A Programmable Accelerator for Extract-Transform-Load Workloads and More",
+            "authors": [
+                "Yuanwei Fang (University of Chicago)",
+                "Chen Zou (University of Chicago)",
+                "Aaron J. Elmore (University of Chicago)",
+                "Andrew A. Chien (University of Chicago and Argonne National Laboratory)"
+            ],
+            "topics": [
+                "Architecture",
+                "Data"
+            ]
+        },
+        {
+            "key": "MICRO_17_003",
+            "title": "ConTutto - A Novel FPGA-based Prototyping Platform Enabling Innovation in the Memory Subsystem of a Server Class Processor",
+            "authors": [
+                "Bharat Sukhwani (IBM Research)",
+                "Thomas Roewer (IBM Research)",
+                "Charles L. Haymes (IBM Research)",
+                "Kyu-Hyoun Kim (IBM Research)",
+                "Adam J. McPadden (IBM)",
+                "Daniel M. Dreps (IBM)",
+                "Dean Sanner (IBM)",
+                "Jan Van Lunteren (IBM Research)",
+                "Sameh Asaad (IBM Research)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "MICRO_17_004",
+            "title": "UNFOLD: A Memory-Efficient Speech Recognizer Using On-The-Fly WFST Composition",
+            "authors": [
+                "Reza Yazdani (Universitat Politecnica de Catalunya)",
+                "Jose Maria Arnau (Universitat Politecnica de Catalunya)",
+                "Antonio Gonzalez (Universitat Politecnica de Catalunya)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_005",
+            "title": "Detecting and Mitigating Data-Dependent DRAM Failures by Exploiting Current Memory Content",
+            "authors": [
+                "Samira Khan (University of Virginia)",
+                "Chris Wilkerson (Intel)",
+                "Zhe Wang (Intel)",
+                "Alaa Alameldeen (Intel)",
+                "Donghyuk Lee (NVIDIA)",
+                "Onur Mutlu (ETH Zurich)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_006",
+            "title": "IDEAL: Image DEnoising AcceLerator",
+            "authors": [
+                "Mostafa Mahmoud (University of Toronto)",
+                "Bojian Zheng (University of Toronto)",
+                "Alberto Delmas Lascorz (University of Toronto)",
+                "Felix Heide (Stanford University/Algolux)",
+                "Jonathan Assouline (Algolux)",
+                "Paul Boucher (Algolux)",
+                "Emmanuel Onzon (Algolux)",
+                "Andreas Moshovos (University of Toronto)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "MICRO_17_007",
+            "title": "Fine-Grained DRAM: Energy Efficient DRAM for Extreme Bandwidth Systems",
+            "authors": [
+                "Mike O'Connor (NVIDIA / UT-Austin)",
+                "Niladrish Chatterjee (NVIDIA)",
+                "Donghyuk Lee (NVIDIA)",
+                "John Wilson (NVIDIA)",
+                "Aditya Agrawal (NVIDIA)",
+                "Stephen Keckler (NVIDIA / UT-Austin)",
+                "William Dally (NVIDIA / Stanford)"
+            ],
+            "topics": [
+                "Architecture",
+                "Energy"
+            ]
+        },
+        {
+            "key": "MICRO_17_008",
+            "title": "Pipelining a Triggered Processing Element",
+            "authors": [
+                "Thomas J. Repetti (Columbia University)",
+                "Joao Pedro Cerqueira (Columbia University)",
+                "Martha A. Kim (Columbia University)",
+                "Mingoo Seok (Columbia University)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_009",
+            "title": "Efficient Exception Handling Support for GPUs",
+            "authors": [
+                "Ivan Tanasic (Universitat Politecnica de Catalunya / Barcelona Supercomputing Center)",
+                "Isaac Gelado (NVIDIA)",
+                "Marc Jorda (Barcelona Supercomputing Center)",
+                "Eduard Ayguade (Universitat Politecnica de Catalunya / Barcelona Supercomputing Center)",
+                "Nacho Navarro (Universitat Politecnica de Catalunya / Barcelona Supercomputing Center)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "MICRO_17_010",
+            "title": "Proteus: A Flexible and Fast Software Supported Hardware Logging approach for NVM",
+            "authors": [
+                "Seunghee Shin (North Carolina State University)",
+                "Satish Kumar Tirukkovalluri (North Carolina State University)",
+                "James Tuck (North Carolina State University)",
+                "Yan Solihin (North Carolina State University)"
+            ],
+            "topics": [
+                "Architecture",
+                "Storage"
+            ]
+        },
+        {
+            "key": "MICRO_17_011",
+            "title": "Beyond the Socket: NUMA-Aware GPUs",
+            "authors": [
+                "Ugljesa Milic (Barcelona Supercomputing Center / Universitat Politecnica de Catalunya)",
+                "Oreste Villa (Nvidia)",
+                "Evgeny Bolotin (Nvidia)",
+                "Akhil Arunkumar (Arizona State University)",
+                "Eiman Ebrahimi (Nvidia)",
+                "Aamer Jaleel (Nvidia)",
+                "Alex Ramirez (Google)",
+                "David Nellans (Nvidia)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "MICRO_17_012",
+            "title": "Efficient Support of Position Independence on Non-Volatile Memory",
+            "authors": [
+                "Guoyang Chen (Qualcomm)",
+                "Lei Zhang (NCSU)",
+                "Richa Budhiraja (Qualcomm)",
+                "Xipeng Shen (NCSU)",
+                "Youfeng Wu (Intel)"
+            ],
+            "topics": [
+                "Architecture",
+                "Storage"
+            ]
+        },
+        {
+            "key": "MICRO_17_013",
+            "title": "Mosaic: A GPU Memory Manager with Application-Transparent Support for Multiple Page Sizes",
+            "authors": [
+                "Rachata Ausavarungnirun (Carnegie Mellon University)",
+                "Joshua Landgraf (UT Austin)",
+                "Vance Miller (UT Austin)",
+                "Saugata Ghose (Carnegie Mellon University)",
+                "Jayneel Gandhi (VMware Research Group)",
+                "Christopher J. Rossbach (UT Austin and VMware Research Group)",
+                "Onur Mutlu (ETH Zurich and Carnegie Mellon University)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU",
+                "OS"
+            ]
+        },
+        {
+            "key": "MICRO_17_014",
+            "title": "Incidental Computing on IoT Nonvolatile Processors",
+            "authors": [
+                "Kaisheng Ma (Penn State)",
+                "Xuqing Li (Penn State)",
+                "Jinyang Li (Tsinghua Univ.)",
+                "Yongpan Liu (Tsinghua Univ.)",
+                "Yuan Xie (UCSB)",
+                "Jack Sampson (Penn State)",
+                "Mahmut T. Kandemir (Penn State)",
+                "Vijaykrishnan Narayanan (Penn State)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_015",
+            "title": "RegLess: Just-in-Time Operand Staging for GPUs",
+            "authors": [
+                "John Kloosterman (University of Michigan)",
+                "Jon Beaumont (University of Michigan)",
+                "Davoud Anoushe Jamshidi (University of Michigan)",
+                "Jonathan Bailey (University of Michigan)",
+                "Trevor Mudge (University of Michigan)",
+                "Scott Mahlke (University of Michigan)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "MICRO_17_016",
+            "title": "Summarizer: Trading Communication with Computing Near Storage",
+            "authors": [
+                "Gunjae Koo (University of Southern California)",
+                "Kiran Kumar Matam (University of Southern California)",
+                "Te I (North Carolina State University)",
+                "H. V. Krishna Giri Narra (University of Southern California)",
+                "Jing Li (University of California. San Diego)",
+                "Hung-Wei Tseng (North Carolina State University)",
+                "Steven Swanson (University of California. San Diego)",
+                "Murali Annavaram (University of Southern California)"
+            ],
+            "topics": [
+                "Architecture",
+                "Storage",
+                "Network"
+            ]
+        },
+        {
+            "key": "MICRO_17_017",
+            "title": "SCRATCH: An End-to-end Application-aware Soft-GPGPU Architecture and Trimming Tool",
+            "authors": [
+                "Pedro Duarte (Instituto de Telecomunicacoes. University of Coimbra. Portugal)",
+                "Pedro Tomas (INESC-ID. Instituto Superior Tecnico. Universidade de Lisboa. Portugal)",
+                "Gabriel Falcao (Instituto de Telecomunicacoes. University of Coimbra. Portugal)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "MICRO_17_018",
+            "title": "Memory Cocktail Therapy: A General Learning-Based Framework to Optimize Dynamic Tradeoffs in NVMs",
+            "authors": [
+                "Zhaoxia Deng (University of California. Santa Barbara)",
+                "Lunkai Zhang (University of Chicago)",
+                "Nikita Mishra (University of Chicago)",
+                "Henry Hoffmann (University of Chicago)",
+                "Fred Chong (University of Chicago)"
+            ],
+            "topics": [
+                "Storage",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_019",
+            "title": "A Many-core Architecture for In-Memory Data Processing",
+            "authors": [
+                "Sandeep R. Agrawal (Oracle Labs)",
+                "Sam Idicula (Oracle Labs)",
+                "Arun Raghavan (Oracle Labs)",
+                "Evangelos Vlachos (Oracle Labs)",
+                "Venkatraman Govindaraju (Oracle Labs)",
+                "Venkatanathan Varadarajan (Oracle Labs)",
+                "Cagri Balkesen (Oracle Labs)",
+                "Georgios Giannikis (Oracle Labs)",
+                "Charlie Roth (NXP)",
+                "Nipun Agarwal (Oracle Labs)",
+                "Eric Sedlar (Oracle Labs)"
+            ],
+            "topics": [
+                "Architecture",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "MICRO_17_020",
+            "title": "RHMD: Evasion-Resilient Hardware Malware Detectors",
+            "authors": [
+                "Khaled N. Khasawneh (University of California. Riverside)",
+                "Nael Abu-Ghazaleh (University of California. Riverside)",
+                "Dmitry Ponomarev (Binghamton University)",
+                "Lei Yu (Binghamton University)"
+            ],
+            "topics": [
+                "Architecture",
+                "Security"
+            ]
+        },
+        {
+            "key": "MICRO_17_021",
+            "title": "Cache Automaton",
+            "authors": [
+                "Arun Subramaniyan (University of Michigan)",
+                "Jingcheng Wang (University of Michigan)",
+                "Ezhil R. M. Balasubramanian (University of Michigan)",
+                "David Blaauw (University of Michigan)",
+                "Dennis Sylvester (University of Michigan)",
+                "Reetuparna Das (University of Michigan)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_022",
+            "title": "Software-based Gate-level Information Flow Security for IoT Systems",
+            "authors": [
+                "Hari Cherupalli (University of Minnesota)",
+                "Henry Duwe (University of Illinois)",
+                "Weidong Ye (University of Illinois)",
+                "Rakesh Kumar (University of Illinois)",
+                "John Sartori (University of Minnesota)"
+            ],
+            "topics": [
+                "Architecture",
+                "Security"
+            ]
+        },
+        {
+            "key": "MICRO_17_023",
+            "title": "Ambit: In-Memory Accelerator for Bulk Bitwise Operations Using Commodity DRAM Technology",
+            "authors": [
+                "Vivek Seshadri (Microsoft Research India)",
+                "Donghyuk Lee (NVIDIA Research)",
+                "Thomas Mullins (Intel)",
+                "Hasan Hassan (ETH Zurich)",
+                "Amirali Boroumand (CMU)",
+                "Jeremie S. Kim (ETH Zurich)",
+                "Michael A. Kozuch (Intel)",
+                "Onur Mutlu (ETH Zurich)",
+                "Phillip Gibbons (CMU)",
+                "Todd C. Mowry (CMU)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_024",
+            "title": "How secure is your cache against side-channel attacks?",
+            "authors": [
+                "Zecheng He (Princeton University)",
+                "Ruby B. Lee (Princeton University)"
+            ],
+            "topics": [
+                "Architecture",
+                "Security"
+            ]
+        },
+        {
+            "key": "MICRO_17_025",
+            "title": "DRISA: A DRAM-based Reconfigurable In-Situ Accelerator",
+            "authors": [
+                "Shuangchen Li (University of California. Santa Barbara)",
+                "Dimin Niu (Samsung)",
+                "Krishna T. Malladi (Samsung)",
+                "Hongzhong Zheng (Samsung)",
+                "Bob Brennan (Samsung)",
+                "Yuan Xie (University of California. Santa Barbara)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_026",
+            "title": "Constructing and Characterizing Covert Channels on GPGPUs",
+            "authors": [
+                "Hoda Naghibijouybari (University of California. Riverside)",
+                "Khaled N. Khasawneh (University of California. Riverside)",
+                "Nael Abu-Ghazaleh (University of California. Riverside)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU",
+                "Security"
+            ]
+        },
+        {
+            "key": "MICRO_17_027",
+            "title": "PageForge: A Near-Memory Content-Aware Page-Merging Architecture",
+            "authors": [
+                "Dimitrios Skarlatos (University of Illinois at Urbana-Champaign)",
+                "Nam Sung Kim (University of Illinois at Urbana-Champaign)",
+                "Josep Torrellas (University of Illinois at Urbana-Champaign)"
+            ],
+            "topics": [
+                "Architecture",
+                "OS"
+            ]
+        },
+        {
+            "key": "MICRO_17_028",
+            "title": "Scale-Out Acceleration for Machine Learning",
+            "authors": [
+                "Jongse Park (Georgia Institute of Technology)",
+                "Hardik Sharma (Georgia Institute of Technology)",
+                "Divya Mahajan (Georgia Institute of Technology)",
+                "Joon Kyung Kim (Georgia Institute of Technology)",
+                "Hadi Esmaeilzadeh (University of California, San Diego)"
+            ],
+            "topics": [
+                "Architecture",
+                "Data"
+            ]
+        },
+        {
+            "key": "MICRO_17_029",
+            "title": "Using Branch Predictors to Predict Brain Activity in Brain-Machine Implants",
+            "authors": [
+                "Abhishek Bhattacharjee (Rutgers University / Princeton University)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_030",
+            "title": "Bit-Pragmatic Deep Neural Network Computing",
+            "authors": [
+                "Jorge Albericio (NVIDIA)",
+                "Patrick Judd (University of Toronto)",
+                "Alberto Delmas (University of Toronto)",
+                "Sayeh Sharify (University of Toronto)",
+                "Gerard O'Leary (University of Toronto)",
+                "Roman Genov (University of Toronto)",
+                "Andreas Moshovos (University of Toronto)"
+            ],
+            "topics": [
+                "Architecture",
+                "Data"
+            ]
+        },
+        {
+            "key": "MICRO_17_031",
+            "title": "Load Value Prediction via Path-based Address Prediction: Avoiding Mispredictions due to Conflicting Stores",
+            "authors": [
+                "Rami Sheikh (Qualcomm Technologies. Inc.)",
+                "Harold W. Cain (Qualcomm Datacenter Technologies. Inc.)",
+                "Raguram Damodaran (Qualcomm Technologies. Inc.)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_032",
+            "title": "CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices",
+            "authors": [
+                "Caiwen Ding (Syracuse University)",
+                "Siyu Liao (City University of New York. City College)",
+                "Yanzhi Wang (Syracuse University)",
+                "Zhe Li (Syracuse University)",
+                "Ning Liu (Syracuse University)",
+                "Youwei Zhuo (University of Southern California)",
+                "Chao Wang (University of Southern California)",
+                "Xuehai Qian (University of Southern California)",
+                "Yu Bai (California State University Fullerton)",
+                "Geng Yuan (Syracuse University)",
+                "Xiaolong Ma (Syracuse University)",
+                "Yipeng Zhang (Syracuse University)",
+                "Jian Tang (Syracuse University)",
+                "Qinru Qiu (Syracuse University)",
+                "Xue Lin (Northeastern University)",
+                "Bo Yuan (City University of New York. City College)"
+            ],
+            "topics": [
+                "Architecture",
+                "Data"
+            ]
+        },
+        {
+            "key": "MICRO_17_033",
+            "title": "Multiperspective Reuse Prediction",
+            "authors": [
+                "Daniel A. Jimenez (tamu)",
+                "Elvira Teran (tamu)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_034",
+            "title": "CSALT: Context Switch Aware Large TLB",
+            "authors": [
+                "Yashwant Marathe (The University of Texas at Austin)",
+                "Nagendra Gulur (Texas Instruments)",
+                "Jee Ho Ryoo (The University of Texas at Austin)",
+                "Shuang Song (The University of Texas at Austin)",
+                "Lizy K. John (The University of Texas at Austin)"
+            ],
+            "topics": [
+                "Architecture",
+                "OS"
+            ]
+        },
+        {
+            "key": "MICRO_17_035",
+            "title": "Harnessing Voltage Margins for Energy Efficiency in Multicore CPUs",
+            "authors": [
+                "George Papadimitriou (University of Athens)",
+                "Manolis Kaliorakis (University of Athens)",
+                "Athanasios Chatzidimitriou (University of Athens)",
+                "Dimitris Gizopoulos (University of Athens)",
+                "Peter Lawthers (AppliedMicro)",
+                "Shidhartha Das (ARM)"
+            ],
+            "topics": [
+                "Architecture",
+                "Energy"
+            ]
+        },
+        {
+            "key": "MICRO_17_036",
+            "title": "RTLCheck: Verifying the Memory Consistency of RTL Designs",
+            "authors": [
+                "Yatin A. Manerkar (Princeton University)",
+                "Daniel Lustig (NVIDIA)",
+                "Margaret Martonosi (Princeton University)",
+                "Michael Pellauer (NVIDIA)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_037",
+            "title": "Race-To-Sleep + Content Caching + Display Caching: A Recipe for Energy-efficient Video Streaming on Handhelds",
+            "authors": [
+                "Haibo Zhang (Penn State)",
+                "Prasanna Venkatesh Rengasamy (Penn State)",
+                "Shulin Zhao (Penn State)",
+                "Nachiappan Chidambaram Nachiappan (Penn State)",
+                "Anand Sivasubramaniam (Penn State)",
+                "Mahmut T. Kandemir (Penn State)",
+                "Ravi Iyer (Intel)",
+                "Chita R. Das (Penn State)"
+            ],
+            "topics": [
+                "Architecture",
+                "Energy"
+            ]
+        },
+        {
+            "key": "MICRO_17_038",
+            "title": "Architecting Hierarchical Coherence Protocols for Push-button Parametric Verification",
+            "authors": [
+                "Opeoluwa Matthews (Duke University)",
+                "Daniel J. Sorin (Duke University)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_039",
+            "title": "BVF: Enabling Significant On-Chip Power Savings via Bit-Value-Favor for Throughput Processors",
+            "authors": [
+                "Ang Li (Pacific Northwest National Laboratory)",
+                "Wenfeng Zhao (University of Minnesota)",
+                "Shuaiwen Leon Song (Pacific Northwest National Laboratory)"
+            ],
+            "topics": [
+                "Architecture",
+                "Energy"
+            ]
+        },
+        {
+            "key": "MICRO_17_040",
+            "title": "PARSNIP: Performant Architecture for Race Safety with No Impact on Precision",
+            "authors": [
+                "Yuanfeng Peng (University of Pennsylvania)",
+                "Benjamin P. Wood (Wellesley College)",
+                "Joseph Devietti (University of Pennsylvania)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_041",
+            "title": "Xylem: Enhancing Vertical Thermal Conduction in 3D Processor-Memory Stacks",
+            "authors": [
+                "Aditya Agrawal (UIUC)",
+                "Josep Torrellas (UIUC)",
+                "Sachin Idgunji (Nvidia)"
+            ],
+            "topics": [
+                "Architecture",
+                "Energy"
+            ]
+        },
+        {
+            "key": "MICRO_17_042",
+            "title": "Unleashing the Power of GPU for Physically Based Rendering via Dynamic Ray Shuffling",
+            "authors": [
+                "Yashuai Lv (Astronautical Engineering University)",
+                "Libo Huang (National University of Defense Technology)",
+                "Li Shen (National University of Defense Technology)",
+                "Zhiying Wang (National University of Defense Technology)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "MICRO_17_043",
+            "title": "SchedTask: A Hardware-Assisted Task Scheduler",
+            "authors": [
+                "Prathmesh Kallurkar (IIT Delhi)",
+                "Smruti R. Sarangi (IIT Delhi)"
+            ],
+            "topics": [
+                "Architecture",
+                "OS"
+            ]
+        },
+        {
+            "key": "MICRO_17_044",
+            "title": "GPUpd: A Fast and Scalable Multi-GPU Architecture Using Cooperative Projection and Distribution",
+            "authors": [
+                "Youngsok Kim (Seoul National University)",
+                "Jae-Eon Jo (POSTECH)",
+                "Hanhwi Jang (POSTECH)",
+                "Minsoo Rhu (POSTECH)",
+                "Hanjun Kim (POSTECH)",
+                "Jangwoo Kim (Seoul National University)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "MICRO_17_045",
+            "title": "Exploiting Heterogeneity for Tail Latency and Energy Efficiency",
+            "authors": [
+                "Md E. Haque (Rutgers University)",
+                "Yuxiong He (Microsoft Research)",
+                "Sameh Elnikety (Microsoft Research)",
+                "Thu D. Nguyen (Rutgers University)",
+                "Ricardo Bianchini (Microsoft Research)",
+                "Kathryn S. McKinley (Google)"
+            ],
+            "topics": [
+                "Architecture",
+                "Energy"
+            ]
+        },
+        {
+            "key": "MICRO_17_046",
+            "title": "VersaPipe: A Versatile Programming Framework for Pipelined Computing on GPU",
+            "authors": [
+                "Zhen Zheng (Tsinghua University)",
+                "Chanyoung Oh (University of Seoul)",
+                "Jidong Zhai (Tsinghua University)",
+                "Xipeng Shen (North Carolina State University)",
+                "Youngmin Yi (University of Seoul)",
+                "Wenguang Chen (Tsinghua University)"
+            ],
+            "topics": [
+                "Architecture",
+                "Compilers",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "MICRO_17_047",
+            "title": "TMI: Thread Memory Isolation for False Sharing Repair",
+            "authors": [
+                "Christian DeLozier (University of Pennsylvania)",
+                "Ariel Eizenberg (University of Pennsylvania)",
+                "Shiliang Hu (Intel)",
+                "Gilles Pokam (Intel)",
+                "Joseph Devietti (University of Pennsylvania)"
+            ],
+            "topics": [
+                "Architecture",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "MICRO_17_048",
+            "title": "WIREFRAME: Supporting Data-dependent Parallelism through Dependency Graph Execution in GPUs",
+            "authors": [
+                "AmirAli Abdolrashidi (University of California Riverside)",
+                "Devashree Tripathy (University of California Riverside)",
+                "Mehmet Esat Belviranli (Oak Ridge National Laboratories)",
+                "Daniel Wong (University of California Riverside)",
+                "Laxmi Narayan Bhuyan (University of California Riverside)"
+            ],
+            "topics": [
+                "Architecture",
+                "Concurrency",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "MICRO_17_049",
+            "title": "Estimating and Understanding Architectural Risk",
+            "authors": [
+                "Weilong Cui (University of California. Santa Barbara)",
+                "Timothy Sherwood (University of California. Santa Barbara)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_050",
+            "title": "Hybrid Analog-Digital Solution of Nonlinear Partial Differential Equations",
+            "authors": [
+                "Yipeng Huang (Columbia University)",
+                "Ning Guo (Columbia University)",
+                "Mingoo Seok (Columbia University)",
+                "Yannis Tsividis (Columbia University)",
+                "Kyle Mandli (Columbia University)",
+                "Simha Sethumadhavan (Columbia University)"
+            ],
+            "topics": [
+                "Architecture",
+                "HPC"
+            ]
+        },
+        {
+            "key": "MICRO_17_051",
+            "title": "Improving the Effectiveness of Searching for Isomorphic Chains in Superword Level Parallelism",
+            "authors": [
+                "Joonmoo Huh (North Carolina State University)",
+                "James Tuck (North Carolina State University)"
+            ],
+            "topics": [
+                "Architecture",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "MICRO_17_052",
+            "title": "Taming the Instruction Bandwidth of Quantum Computers via Hardware-Managed Error Correction",
+            "authors": [
+                "Swamit S. Tannu (Georgia Tech)",
+                "Zachary A. Myers (Stanford)",
+                "Prashant J. Nair (Georgia Tech)",
+                "Douglas M. Carmean (Microsoft)",
+                "Moinuddin Qureshi (Georgia Tech)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_053",
+            "title": "Data Movement Aware Computation Partitioning",
+            "authors": [
+                "Xulong Tang (Penn State)",
+                "Orhan Kislal (Penn State)",
+                "Mahmut T. Kandemir (Penn State)",
+                "Mustafa Karakoy (TOBB University)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_054",
+            "title": "Optimized Surface Code Communication in Superconducting Quantum Computers",
+            "authors": [
+                "Ali Javadi-Abhari (Princeton University)",
+                "Pranav Gokhale (University of Chicago)",
+                "Adam Holmes (University of Chicago)",
+                "Diana Franklin (University of Chicago)",
+                "Kenneth R. Brown (Georgia Institute of Technology)",
+                "Margaret Martonosi (Princeton University)",
+                "Frederic T. Chong (University of Chicago)"
+            ],
+            "topics": [
+                "Architecture",
+                "Network"
+            ]
+        },
+        {
+            "key": "MICRO_17_055",
+            "title": "Mirage Cores: The Illusion of Many Out-of-order Cores Using In-order Hardware",
+            "authors": [
+                "Shruti Padmanabha (University of Michigan)",
+                "Andrew Lukefahr (University of Michigan)",
+                "Reetuparna Das (University of Michigan)",
+                "Scott Mahlke (University of Michigan)"
+            ],
+            "topics": [
+                "Architecture",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "MICRO_17_056",
+            "title": "Architectural Tradeoffs for Biodegradable Computing",
+            "authors": [
+                "Ting-Jung Chang (Princeton University)",
+                "Zhuozhi Yao (Princeton University)",
+                "Paul J. Jackson (Princeton University)",
+                "Barry P. Rand (Princeton University)",
+                "David Wentzlaff (Princeton University)"
+            ],
+            "topics": [
+                "Architecture",
+                "Energy"
+            ]
+        },
+        {
+            "key": "MICRO_17_057",
+            "title": "Using Intra-Core Loop-Task Accelerators to Improve the Productivity and Performance of Task-Based Parallel Programs",
+            "authors": [
+                "Ji Kim (Cornell University)",
+                "Shunning Jiang (Cornell University)",
+                "Christopher Torng (Cornell University)",
+                "Moyang Wang (Cornell University)",
+                "Shreesha Srinath (Cornell University)",
+                "Berkin Ilbeyi (Cornell University)",
+                "Khalid Al-Hawaj (Cornell University)",
+                "Christopher Batten (Cornell University)"
+            ],
+            "topics": [
+                "Architecture",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "MICRO_17_058",
+            "title": "Architectural Opportunities for Novel Dynamic EMI Shifting (DEMIS)",
+            "authors": [
+                "Daphne I. Gorman (UC Santa Cruz)",
+                "Jose Renau (UC Santa Cruz)",
+                "Matthew Guthaus (UC Santa Cruz)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_059",
+            "title": "DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission",
+            "authors": [
+                "Parker Hill (University of Michigan)",
+                "Animesh Jain (University of Michigan)",
+                "Mason Hill (University of Nevada, Las Vegas)",
+                "Babak Zamirai (University of Michigan)",
+                "Chang-Hong Hsu (University of Michigan)",
+                "Michael Laurenzano (University of Michigan)",
+                "Scott Mahlke (University of Michigan)",
+                "Lingjia Tang (University of Michigan)",
+                "Jason Mars (University of Michigan)"
+            ],
+            "topics": [
+                "Architecture",
+                "Network",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "MICRO_17_060",
+            "title": "Hardware Supported Persistent Object Address Translation",
+            "authors": [
+                "Tiancong Wang (NC State University)",
+                "Sakthikumaran Sambasivam (NC State University)",
+                "Yan Solihin (NC State University)",
+                "James Tuck (NC State University)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MICRO_17_061",
+            "title": "An Experimental Microarchitecture for a Superconducting Quantum Processor",
+            "authors": [
+                "Xiang Fu (QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology)",
+                "M. Adriaan Rol (QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology)",
+                "C. C. Bultink (QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology)",
+                "J. van Someren (QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology)",
+                "Nader Khammassi (QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology)",
+                "Imran Ashraf (QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology)",
+                "R. F. L. Vermeulen (QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology)",
+                "J. C. de Sterke (Topic Embedded Systems / QuTech, Delft University of Technology)",
+                "W. J. Vlothuizen (Netherlands Organisation for Applied Scienti c Research (TNO) / QuTech, Delft University of Technology)",
+                "R. N. Schouten (QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology)",
+                "Carmen G. Almudever (QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology)",
+                "Leonardo DiCarlo (QuTech, Delft University of Technology)",
+                "Koen Bertels (QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology.)"
+            ],
+            "topics": [
+                "Architecture"
+            ],
+            "award": true
+        }
+    ]
+}

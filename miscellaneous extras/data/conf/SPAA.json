@@ -1,0 +1,453 @@
+{
+    "key": "SPAA_17",
+    "conference": "Symposium on Parallelism in Alogirmths and Architectures",
+    "organization": [
+        "ACM"
+    ],
+    "country": "US",
+    "postdate": "2017-07-24",
+    "last_deadline": "2017-02-09",
+    "review_days": 73,
+    "submissions": 127,
+    "min_reviews": 4,
+    "total_reviews": 546,
+    "double_blind": false,
+    "rebuttal": true,
+    "open_access": false,
+    "age": 29,
+    "past_papers": 1172,
+    "past_citations": 10826,
+    "h5_index": 21,
+    "h5_median": 30,
+    "notes": "The total_reviews value above is approximate. Although not open-access, authors are encouraged to post full versions of their papers in a freely-accessible on-line repository. There were 194 external reviewers. The chair wrote that 'Rebuttal phase added to SPAA a few years ago is great' but suggested excluding papers with all-low scores from the rebuttal phase to save everyone time. (By great, it's mostly useful to improve and revise the paper, whether for this conference or another). The chair also believes that going double-blind is preferable, both to increase author diversity and review quality.",
+    "pc_chairs": [
+        "Mohammad Hajiaghayi (University of Maryland at College Park)"
+    ],
+    "pc_members": [
+        "Umut A. Acar (Carnegie Mellon University)",
+        "Susanne Albers (Technical University of Munich)",
+        "Hossein Asadi (Sharif University of Technology)",
+        "Nikhil Bansal (Eindhoven University of Technology)",
+        "Mohammad Hossein Bateni (Google Research)",
+        "Petra Berenbrink (Simons Fraser University)",
+        "Keren Censor-Hillel (Technion)",
+        "Hubert Chan (The University of Hong Kong)",
+        "Rajesh Chitnis (Weizmann Institute of Science)",
+        "Frank Dehne (Carleton University)",
+        "Martin Farach-Colton (Rutgers University)",
+        "Pierre Fraigniaud (CNRS and University Paris Diderot)",
+        "Mohsen Ghaffari (ETH Zurich)",
+        "Michael Goodrich (University of California, Irvine)",
+        "Fabrizio Grandoni (IDSIA)",
+        "Mohammad Hajiaghayi (University of Maryland, College Park)",
+        "Martin Hoefer (MPI Informatik, Saarbr\u00fccken)",
+        "Samir Khuller (University of Maryland)",
+        "Ravi Kumar (Google Research)",
+        "Silvio Lattanzi (Google Research)",
+        "Aleksander M\u0105dry (MIT)",
+        "Friedhelm Meyer auf der Heide (Paderborn University)",
+        "Vahab Mirrokni (Google Research)",
+        "Morteza Monemizadeh (Rutgers University)",
+        "Seffi Naor (Technion)",
+        "Boaz Patt-Shamir (Tel Aviv University)",
+        "Richard Peng (Georgia Institute of Technology)",
+        "Giuseppe Persiano (Universit\u00e0 di Salerno)",
+        "Cynthia Phillips (Sandia National Laboratories)",
+        "Yuval Rabani (The Hebrew University of Jerusalem)",
+        "Rachid Guerraoui (EPFL)",
+        "Harald R\u00e4cke (TU M\u00fcnchen)",
+        "Rajmohan Rajaraman (Northeastern University)",
+        "Mauricio Resende (Amazon)",
+        "Laura Sanit\u00e0 (University of Waterloo)",
+        "Alex Slivkins (Microsoft Research, NYC)",
+        "Peter Varman (Rice University)",
+        "Roger Wattenhofer (ETH Zurich)",
+        "Ryan Williams (Stanford University and MIT)",
+        "David Woodruff (IBM Almaden Research Center)"
+    ],
+    "keynote_speakers": [
+        "Piotr Indyk",
+        "Guy Blelloch",
+        "Maurice Herlihy"
+    ],
+    "session_chairs": [
+        "Friedhelm Meyer auf der Heide",
+        "Michael Goodrich",
+        "Mohammad Hossein Bateni",
+        "Susanne Albers",
+        "Keren Censor-Hillel",
+        "Frank Dehne",
+        "Mohsen Ghaffari",
+        "Boaz Patt-Shamir"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "SPAA_17_001",
+            "title": "Bounding laconic proof systems by solving CSPs in parallel.",
+            "authors": [
+                "Jason Li",
+                "Ryan O'Donnell"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SPAA_17_002",
+            "title": "Online Tree Caching",
+            "authors": [
+                "Marcin Bienkowski",
+                "Jan Marcinkowski",
+                "Maciej Pacut",
+                "Stefan Schmid",
+                "Aleksandra Spyra"
+            ],
+            "topics": []
+        },
+        {
+            "key": "SPAA_17_003",
+            "title": "Swarm-based Incast Congestion Control in datacenter Serving Web Applications",
+            "authors": [
+                "Haoyu Wang",
+                "Haiying Shen",
+                "Guoxin Liu"
+            ],
+            "topics": [
+                "Concurrency",
+                "Network"
+            ]
+        },
+        {
+            "key": "SPAA_17_004",
+            "title": "On Energy Conservation in Data Centers",
+            "authors": [
+                "Susanne Albers"
+            ],
+            "topics": [
+                "Energy",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "SPAA_17_005",
+            "title": "A communication-avoiding parallel algorithm for the symmetric eigenvalue problem",
+            "authors": [
+                "Edgar Solomonik",
+                "Grey Ballard",
+                "James Demmel",
+                "Torsten Hoefler"
+            ],
+            "topics": [
+                "Network",
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "SPAA_17_006",
+            "title": "Online Flexible Job Scheduling for Minimum Span",
+            "authors": [
+                "Runtian Ren",
+                "Xueyan Tang"
+            ],
+            "topics": [
+                "OS",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SPAA_17_007",
+            "title": "Impact of Knowledge on Election Time in Anonymous Networks",
+            "authors": [
+                "Yoann Dieudonne",
+                "Andrzej Pelc"
+            ],
+            "topics": [
+                "Network",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SPAA_17_008",
+            "title": "Improved Cover Time Bounds for the Coalescing-Branching Random Walk on Graphs",
+            "authors": [
+                "Colin Cooper",
+                "Tomasz Radzik",
+                "Nicol\u00e1s Rivera"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "SPAA_17_009",
+            "title": "Fast Scheduling in Distributed Transactional Memory",
+            "authors": [
+                "Costas Busch",
+                "Maurice Herlihy",
+                "Miroslav Popovic",
+                "Gokarna Sharma"
+            ],
+            "topics": [
+                "OS",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SPAA_17_010",
+            "title": "Optimal Reissue Policies For Reducing Tail-Latency",
+            "authors": [
+                "Timothy Kaler",
+                "Yuxiong He",
+                "Sameh Elnikety"
+            ],
+            "topics": []
+        },
+        {
+            "key": "SPAA_17_011",
+            "title": "Asymptotically Optimal Approximation Algorithms for Coflow Scheduling",
+            "authors": [
+                "Hamidreza Jahanjou",
+                "Erez Kantor",
+                "Rajmohan Rajaraman"
+            ],
+            "topics": [
+                "OS",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SPAA_17_012",
+            "title": "Distributed Partial Clustering",
+            "authors": [
+                "Sudipto Guha",
+                "Yi Li",
+                "Qin Zhang"
+            ],
+            "topics": [
+                "Concurrency",
+                "Data"
+            ],
+            "award": true
+        },
+        {
+            "key": "SPAA_17_013",
+            "title": "Distributed Graph Clustering by Load Balancing",
+            "authors": [
+                "He Sun",
+                "Luca Zanetti"
+            ],
+            "topics": [
+                "Data",
+                "OS",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SPAA_17_014",
+            "title": "Tight Bounds for Clairvoyant Dynamic Bin Packing",
+            "authors": [
+                "Yossi Azar",
+                "Danny Vainstein"
+            ],
+            "topics": []
+        },
+        {
+            "key": "SPAA_17_015",
+            "title": "Distributed Detection of Cycles",
+            "authors": [
+                "Pierre Fraigniaud",
+                "Dennis Olivetti"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SPAA_17_016",
+            "title": "Bounding Cache Miss Costs of Multithreaded Computations Under General Schedulers",
+            "authors": [
+                "Richard Cole",
+                "Vijaya Ramachandran"
+            ],
+            "topics": [
+                "Concurrency",
+                "OS"
+            ]
+        },
+        {
+            "key": "SPAA_17_017",
+            "title": "Minimizing Total Weighted Flow Time with Calibrations",
+            "authors": [
+                "Vincent Chau",
+                "Minming Li",
+                "Samuel Mccauley",
+                "Wang Kai"
+            ],
+            "topics": []
+        },
+        {
+            "key": "SPAA_17_018",
+            "title": "Bicriteria Distributed Submodular Maximization in a Few Rounds",
+            "authors": [
+                "Alessandro Epasto",
+                "Vahab Mirrokni",
+                "Morteza Zadimoghaddam"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SPAA_17_019",
+            "title": "\"The Mobile Server Problem\"",
+            "authors": [
+                "Bj\u00f6rn Feldkord",
+                "Friedhelm Meyer auf der Heide"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SPAA_17_020",
+            "title": "Near Optimal Parallel Algorithms for Dynamic DFS in Undirected Graphs",
+            "authors": [
+                "Shahbaz Khan"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SPAA_17_021",
+            "title": "Optimal Local Buffer Management for Information Gathering with Adversarial Traffic",
+            "authors": [
+                "Stefan Dobrev",
+                "Manuel Lafond",
+                "Lata Narayanan",
+                "Jaroslav Opatrny"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "SPAA_17_022",
+            "title": "Sharing is Caring: Multiprocessor Scheduling with a Sharable Resource",
+            "authors": [
+                "Peter Kling",
+                "Alexander M\u00e4cker",
+                "S\u00f6ren Riechers",
+                "Alexander Skopalik"
+            ],
+            "topics": [
+                "Concurrency",
+                "OS"
+            ]
+        },
+        {
+            "key": "SPAA_17_023",
+            "title": "\"Matrix Multiplication, a Li le Faster\"",
+            "authors": [
+                "Elaye Karstadt",
+                "Oded Schwartz"
+            ],
+            "topics": [
+                "HPC",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SPAA_17_024",
+            "title": "Julienne: A Framework for Parallel Graph Algorithms using Work-efficient Bucketing",
+            "authors": [
+                "Laxman Dhulipala",
+                "Guy Blelloch",
+                "Julian Shun"
+            ],
+            "topics": [
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "SPAA_17_025",
+            "title": "Randomized Composable Coresets for Matching and Vertex Cover",
+            "authors": [
+                "Sepehr Assadi",
+                "Sanjeev Khanna"
+            ],
+            "topics": [
+                "HPC"
+            ],
+            "award": true
+        },
+        {
+            "key": "SPAA_17_026",
+            "title": "Concurrent Data Structures for Near-Memory Computing",
+            "authors": [
+                "Zhiyu Liu",
+                "Irina Calciu",
+                "Maurice Herlihy",
+                "Onur Mutlu"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SPAA_17_027",
+            "title": "Lower Bounds in the Asymmetric External Memory Model",
+            "authors": [
+                "Riko Jacob",
+                "Nodari Sitchinava"
+            ],
+            "topics": []
+        },
+        {
+            "key": "SPAA_17_028",
+            "title": "Is Our Model for Contention Resolution Wrong?",
+            "authors": [
+                "Cooper Anderton",
+                "Maxwell Young"
+            ],
+            "topics": []
+        },
+        {
+            "key": "SPAA_17_029",
+            "title": "Almost Optimal Streaming Algorithms for Coverage Problems",
+            "authors": [
+                "Mohammad Hossein Bateni",
+                "Hossein Esfandiari",
+                "Vahab Mirrokni"
+            ],
+            "topics": []
+        },
+        {
+            "key": "SPAA_17_030",
+            "title": "Provably E icient Scheduling of Cache-Oblivious Wavefront Algorithms",
+            "authors": [
+                "Rezaul Chowdhury",
+                "Pramod Ganapathi",
+                "Yuan Tang",
+                "Jesmin Jahan Tithi"
+            ],
+            "topics": [
+                "OS",
+                "HPC"
+            ]
+        },
+        {
+            "key": "SPAA_17_031",
+            "title": "Hand-Over-Hand Transactions with Precise Memory Reclamation",
+            "authors": [
+                "Tingzhe Zhou",
+                "Victor Luchangco",
+                "Michael Spear"
+            ],
+            "topics": []
+        }
+    ]
+}

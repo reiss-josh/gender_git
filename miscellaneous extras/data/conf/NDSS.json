@@ -1,0 +1,1126 @@
+{
+    "key": "NDSS_17",
+    "conference": "The Network and Distributed System Security Symposium",
+    "organization": [
+        "IS"
+    ],
+    "country": "US",
+    "postdate": "2017-02-26",
+    "last_deadline": "2016-08-12",
+    "review_days": 67,
+    "submissions": 423,
+    "min_reviews": 2,
+    "total_reviews": "",
+    "double_blind": true,
+    "rebuttal": false,
+    "open_access": true,
+    "age": 20,
+    "past_papers": "533",
+    "past_citations": "",
+    "h5_index": 51,
+    "h5_median": 84,
+    "notes": "",
+    "pc_chairs": [
+        "Ari Jules (Cornell University)",
+        "Patrick Traynor (University of Florida)"
+    ],
+    "pc_members": [
+        "Johanna Amann (ICSI)",
+        "Manos Antonakakis (Georgia Institute of Technology)",
+        "Erman Ayday (Bilkent University)",
+        "Davide Balzarotti (EURECOM)",
+        "David Barrera (ETH Zurich)",
+        "Adam Bates (University of Illinois Urbana Champaign (UIUC))",
+        "Lujo Bauer (Carnegie Mellon University)",
+        "Alex Biryukov (University of Luxembourg)",
+        "Kevin Butler (University of Florida)",
+        "Nicolas Christin (Carnegie Mellon University)",
+        "Dana Dachman-Soled (University of Maryland)",
+        "Anupam Datta (Carnegie Mellon University)",
+        "Emiliano De Cristofaro (University College London)",
+        "Tudor Dumitras (University of Maryland)",
+        "Manuel Egele (Boston University)",
+        "William Enck (North Carolina State University)",
+        "David Evans (University of Virginia)",
+        "Ittay Eyal (Cornell University)",
+        "Domenic J. Forte (University of Florida)",
+        "Aur\u00e9lien Francillon (EURECOM)",
+        "Matthew Fredrikson (Carnegie Mellon University)",
+        "Guofei Gu (Texas A&M University)",
+        "J. Alex Halderman (University of Michigan)",
+        "Amir Herzberg (Bar Ilan University)",
+        "Amir Houmansadr (University of Massachusetts Amherst)",
+        "Yier Jin (UCF)",
+        "Jaeyeon Jung (Microsoft Research)",
+        "Yongdae Kim (KAIST)",
+        "Engin Kirda (Northeastern University)",
+        "Farinaz Koushanfar (UCSD)",
+        "Ralf K\u00fcsters (University of Trier)",
+        "Wenke Lee (Georgia Institute of Technology)",
+        "Zhenkai Liang (National University of Singapore)",
+        "Ben Livshits (Microsoft Research)",
+        "Long Lu (Stony Brook University)",
+        "Ivan Martinovic (Oxford University)",
+        "Jonathan McCune (Google)",
+        "Patrick McDaniel (Pennsylvania State University)",
+        "Sarah Meiklejohn (University College London)",
+        "Andrew Miller (UMD / UIUC)",
+        "Prateek Mittal (Princeton University)",
+        "Muhammad Naveed (USC)",
+        "Steven Murdoch (University College London)",
+        "Steven Myers (Indiana University Bloomington)",
+        "Alina Oprea (Northeastern University)",
+        "Charalampos Papamanthou (University of Maryland)",
+        "Chunyi Peng (The Ohio State University)",
+        "Christina Poepper (New York University Abu Dhabi )",
+        "Raluca Ada Popa (University of California, Berkeley)",
+        "Michael Reiter (UNC Chapel Hill)",
+        "William Robertson (Northeastern University)",
+        "Ahmad-Reza Sadeghi (TU Darmstadt)",
+        "Vyas Sekar (CMU)",
+        "Abhi Shelat (University of Virginia)",
+        "Reza Shokri (Cornell Tech)",
+        "Thomas Shrimpton (University of Florida)",
+        "Edward Suh (Cornell University)",
+        "Stefano Tessaro (UCSB)",
+        "Nikos Triandopoulos (Boston University)",
+        "Venkat Venkatakrishnan (University of Illinois Chicago)",
+        "XiaoFeng Wang (Indiana University Bloomington)",
+        "Dongyan Xu (Purdue University)",
+        "Yinqian Zhang (The Ohio State University)"
+    ],
+    "keynote_speakers": [
+        "J. Alex Halderman",
+        "Trent Adams"
+    ],
+    "session_chairs": [
+        "Nadia Heninger",
+        "Juan Caballero",
+        "David Choffnes",
+        "Marcus Peinado",
+        "Johanna Amann",
+        "Patrick Traynor",
+        "Manuel Egele",
+        "Ethan Heilman",
+        "Adam Bates",
+        "Prateek Mittal",
+        "Amir Herzberg",
+        "Dongyan Xu",
+        "William Robertson",
+        "Trent Jaeger"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "NDSS_17_001",
+            "title": "IO-DSSE: Scaling Dynamic Searchable Encryption to Millions of Indexes By Improving Locality",
+            "authors": [
+                "Ian Miers",
+                "Payman Mohassel"
+            ],
+            "topics": [
+                "Security",
+                "Storage",
+                "DB"
+            ]
+        },
+        {
+            "key": "NDSS_17_002",
+            "title": "ObliviSync: Practical Oblivious File Backup and Synchronization",
+            "authors": [
+                "Adam J. Aviv",
+                "Seung Geol Choi",
+                "Travis Mayberry",
+                "Daniel S. Roche"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "NDSS_17_003",
+            "title": "TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub",
+            "authors": [
+                "Ethan Heilman",
+                "Leen Alshenibr",
+                "Foteini Baldimtsi",
+                "Alessandra Scafuro",
+                "Sharon Goldberg"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_004",
+            "title": "P2P Mixing and Unlinkable Bitcoin Transactions",
+            "authors": [
+                "Tim Ruffing",
+                "Pedro Moreno-Sanchez",
+                "Aniket Kate"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_005",
+            "title": "SilentWhispers: Enforcing Security and Privacy in Decentralized Credit Networks",
+            "authors": [
+                "Giulio Malavolta",
+                "Pedro Moreno-Sanchez",
+                "Aniket Kate",
+                "Matteo Maffei"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_006",
+            "title": "DELTA: A Security Assessment Framework for Software-Defined Networks",
+            "authors": [
+                "Seungsoo Lee",
+                "Changhoon Yoon",
+                "Chanhee Lee",
+                "Seungwon Shin",
+                "Vinod Yegneswaran",
+                "Phillip Porras"
+            ],
+            "topics": [
+                "Benchmark",
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "NDSS_17_007",
+            "title": "PSI: Precise Security Instrumentation for Enterprise Networks",
+            "authors": [
+                "Tianlong Yu",
+                "Seyed K. Fayaz",
+                "Michael Collins",
+                "Vyas Sekar",
+                "Srinivasan Seshan"
+            ],
+            "topics": [
+                "Benchmark",
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "NDSS_17_008",
+            "title": "On the Safety and Efficiency of Virtual Firewall Elasticity Control",
+            "authors": [
+                "Juan Deng",
+                "Hongda Li",
+                "Hongxin Hu",
+                "Kuang-Ching Wang",
+                "Gail-Joon Ahn",
+                "Ziming Zhao",
+                "Wonkyu Han"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "NDSS_17_009",
+            "title": "Deconstructing Xen",
+            "authors": [
+                "Lei Shi",
+                "Yuming Wu",
+                "Yubin Xia",
+                "Nathan Dautenhahn",
+                "Haibo Chen",
+                "Binyu Zang",
+                "Jinming Li"
+            ],
+            "topics": [
+                "VM"
+            ]
+        },
+        {
+            "key": "NDSS_17_010",
+            "title": "Thou Shalt Not Depend on Me: Analysing the Use of Outdated JavaScript Libraries on the Web",
+            "authors": [
+                "Tobias Lauinger",
+                "Abdelberi Chaabane",
+                "Sajjad Arshad",
+                "William Robertson",
+                "Christo Wilson",
+                "Engin Kirda"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_011",
+            "title": "Enabling Reconstruction of Attacks on Users via Efficient Browsing Snapshots",
+            "authors": [
+                "Phani Vadrevu",
+                "Jienan Liu",
+                "Bo Li",
+                "Babak Rahbarinia",
+                "Kyu Hyung Lee",
+                "Roberto Perdisci"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_012",
+            "title": "Browser Fingerprinting via OS and Hardware Level Features",
+            "authors": [
+                "Yinzhi Cao",
+                "Song Li",
+                "Erik Wijmans"
+            ],
+            "topics": [
+                "Security",
+                "OS",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "NDSS_17_013",
+            "title": "Fake Co-visitation Injection Attacks to Recommender Systems",
+            "authors": [
+                "Guolei Yang",
+                "Neil Zhenqiang Gong",
+                "Ying Cai"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "NDSS_17_014",
+            "title": "Broken Hearted: How To Attack ECG Biometrics",
+            "authors": [
+                "Simon Eberz",
+                "Nicola Paoletti",
+                "Marc Roeschlin",
+                "Andrea Patan\u00e9",
+                "Marta Kwiatkowska",
+                "Ivan Martinovic"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_015",
+            "title": "Towards Implicit Visual Memory-Based Authentication",
+            "authors": [
+                "Claude Castelluccia",
+                "Markus D\u00fcrmuth",
+                "Maximilian Golla",
+                "Fatma Deniz"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_016",
+            "title": "KEH-Gait: Towards a Mobile Healthcare User Authentication System by Kinetic Energy Harvesting",
+            "authors": [
+                "Weitao Xu",
+                "Guohao Lan",
+                "Qi Lin",
+                "Sara Khalifa",
+                "Neil Bergmann",
+                "Mahbub Hassan",
+                "Wen Hu"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_017",
+            "title": "A Large-scale Analysis of the Mnemonic Password Advice",
+            "authors": [
+                "Johannes Kiesel",
+                "Benno Stei",
+                "Stefan Lucks"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_018",
+            "title": "Cracking Android Pattern Lock in Five Attempts",
+            "authors": [
+                "Guixin Ye",
+                "Zhanyong Tang",
+                "Dingyi Fang",
+                "Xiaojiang Chen",
+                "Kwang In Ki",
+                "Ben Taylor",
+                "Zheng Wang"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_019",
+            "title": "Dial One for Scam: A Large-Scale Analysis of Technical Support Scams",
+            "authors": [
+                "Najmeh Miramirkhani",
+                "Oleksii Starov",
+                "Nick Nikiforakis"
+            ],
+            "topics": [
+                "Security"
+            ],
+            "award": true
+        },
+        {
+            "key": "NDSS_17_020",
+            "title": "Automated Synthesis of Semantic Malware Signatures using Maximum Satisfiability",
+            "authors": [
+                "Yu Feng",
+                "Osbert Bastani",
+                "Ruben Martins",
+                "Isil Dillig",
+                "Saswat Anand"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_021",
+            "title": "MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models",
+            "authors": [
+                "Enrico Mariconti",
+                "Lucky Onwuzurike",
+                "Panagiotis Andriotis",
+                "Emiliano De Cristofaro",
+                "Gordon Ross",
+                "Gianluca Stringhini"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_022",
+            "title": "A Broad View of the Ecosystem of Socially Engineered Exploit Documents",
+            "authors": [
+                "Stevens Le Blond",
+                "Cedric Gilbert",
+                "Utkarsh Upadhyay",
+                "Manuel Gomez Rodriguez",
+                "David Choffnes"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_023",
+            "title": "Catching Worms, Trojan Horses and PUPs: Unsupervised Detection of Silent Delivery Campaigns",
+            "authors": [
+                "Bum Jun Kwon",
+                "Virinchi Srinivas",
+                "Amol Deshpande",
+                "Tudor Dumitras"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_024",
+            "title": "Measuring small subgroup attacks against Diffie-Hellman",
+            "authors": [
+                "Luke Valenta",
+                "David Adrian",
+                "Antonio Sanso",
+                "Shaanan Cohney",
+                "Joshua Fried",
+                "Marcella Hastings",
+                "J. Alex Halderman",
+                "Nadia Heninger"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_025",
+            "title": "Indiscreet Logs: Diffie-Hellman Backdoors in TLS",
+            "authors": [
+                "Kristen Dorey",
+                "Nicholas Chang-Fong",
+                "Aleksander Essex"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_026",
+            "title": "WireGuard: Next Generation Kernel Network Tunnel",
+            "authors": [
+                "Jason A. Donenfeld"
+            ],
+            "topics": [
+                "Security",
+                "OS",
+                "Network"
+            ]
+        },
+        {
+            "key": "NDSS_17_027",
+            "title": "The Security Impact of HTTPS Interception",
+            "authors": [
+                "Zakir Durumeric",
+                "Zane Ma",
+                "Drew Springall",
+                "Richard Barnes",
+                "Nick Sullivan",
+                "Elie Bursztein",
+                "Michael Bailey",
+                "J. Alex Halderman",
+                "Vern Paxson"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "NDSS_17_028",
+            "title": "Fast Actively Secure OT Extension for Short Secrets",
+            "authors": [
+                "Arpita Patra",
+                "Pratik Sarkar",
+                "Ajith Suresh"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_029",
+            "title": "Constant Round Maliciously Secure 2PC with Function-independent Preprocessing using LEGO",
+            "authors": [
+                "Jesper Buus Nielsen",
+                "Thomas Schneider",
+                "Roberto Trifiletti"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_030",
+            "title": "Pushing the Communication Barrier in Secure Computation using Lookup Tables",
+            "authors": [
+                "Ghada Dessouky",
+                "Farinaz Koushanfar",
+                "Ahmad-Reza Sadeghi",
+                "Thomas Schneider",
+                "Shaza Zeitouni",
+                "Michael Zohner"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "NDSS_17_031",
+            "title": "Using Fully Homomorphic Encryption for Statistical Analysis of Categorical, Ordinal and Numerical Data",
+            "authors": [
+                "Wen-jie Lu",
+                "Shohei Kawasaki",
+                "Jun Sakuma"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "NDSS_17_032",
+            "title": "Dark Hazard: Learning-based, Large-Scale Discovery of Hidden Sensitive Operations in Android Apps",
+            "authors": [
+                "Xiaorui Pan",
+                "Xueqiang Wang",
+                "Yue Duan",
+                "XiaoFeng Wang",
+                "Heng Yin"
+            ],
+            "topics": [
+                "Data",
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_033",
+            "title": "Show Me the Money! Finding Flawed Implementations of Third-party In-app Payment in Android Apps",
+            "authors": [
+                "Wenbo Yang",
+                "Yuanyuan Zhang",
+                "Juanru Li",
+                "Hui Liu",
+                "Qing Wang",
+                "Yueheng Zhang",
+                "Dawu Gu"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_034",
+            "title": "WindowGuard: Systematic Protection of GUI Security in Android",
+            "authors": [
+                "Chuangang Ren",
+                "Peng Liu",
+                "Sencun Zhu"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_035",
+            "title": "Obfuscation-Resilient Privacy Leak Detection for Mobile Apps Through Differential Analysis",
+            "authors": [
+                "Andrea Continella",
+                "Yanick Fratantonio",
+                "Martina Lindorfer",
+                "Alessandro Puccetti",
+                "Ali Zand",
+                "Christopher Kruegel",
+                "Giovanni Vigna"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_036",
+            "title": "Automated Analysis of Privacy Requirements for Mobile Apps",
+            "authors": [
+                "Sebastian Zimmeck",
+                "Ziqi Wang",
+                "Lieyong Zou",
+                "Roger Iyengar",
+                "Bin Liu",
+                "Florian Shaub",
+                "Shomir Wilson",
+                "Norman Sadeh",
+                "Steven M. Bellovin",
+                "Joel Reidenberg"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_037",
+            "title": "Dachshund: Digging for and Securing Against (Non-)Blinded Constants in JIT Code",
+            "authors": [
+                "Giorgi Maisuradze",
+                "Michael Backes",
+                "Christian Rossow"
+            ],
+            "topics": [
+                "Security",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "NDSS_17_038",
+            "title": "Safelnit: Comprehensive and Practical Mitigation of Uninitialized Read Vulnerabilities",
+            "authors": [
+                "Alyssa Milburn",
+                "Herbert Bos",
+                "Cristiano Giuffrida"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_039",
+            "title": "MARX: Uncovering Class Hierarchies in C++ Programs",
+            "authors": [
+                "Andre Pawlowski",
+                "Moritz Contag",
+                "Victor van der Veen",
+                "Chris Ouwehand",
+                "Thorsten Holz",
+                "Herbert Bos",
+                "Elias Athanasopoulos",
+                "Cristiano Giuffrida"
+            ],
+            "topics": [
+                "Security",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "NDSS_17_040",
+            "title": "PT-Rand: Practical Mitigation of Data-only Attacks against Page Tables",
+            "authors": [
+                "Lucas Davi",
+                "David Gens",
+                "Christopher Liebchen",
+                "Ahmad-Reza Sadeghi"
+            ],
+            "topics": [
+                "Security",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "NDSS_17_041",
+            "title": "Dynamic Virtual Address Range Adjustment for Intra-Level Privilege Separation on ARM",
+            "authors": [
+                "Yeongpil Cho",
+                "Donghyun Kwon",
+                "Hayoon Yi",
+                "Yunheung Paek"
+            ],
+            "topics": [
+                "Security",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "NDSS_17_042",
+            "title": "Hello from the Other Side: SSH over Robust Cache Covert Channels in the Cloud",
+            "authors": [
+                "Cl\u00e9mentine Maurice",
+                "Manuel Weber",
+                "Michael Schwarz",
+                "Lukas Giner",
+                "Daniel Gruss",
+                "Carlo Alberto Boano",
+                "Stefan Mangard",
+                "Kay R\u00f6mer"
+            ],
+            "topics": [
+                "Security",
+                "Cloud",
+                "Network"
+            ]
+        },
+        {
+            "key": "NDSS_17_043",
+            "title": "Dynamic Differential Location Privacy with Personalized Error Bounds",
+            "authors": [
+                "Lei Yu",
+                "Ling Liu",
+                "Calton Pu"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_044",
+            "title": "Are We There Yet? On RPKI's Deployment and Security",
+            "authors": [
+                "Yossi Gilad",
+                "Avichai Cohen",
+                "Amir Herzberg",
+                "Michael Schapira",
+                "Haya Shulman"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_045",
+            "title": "TenantGuard: Scalable Runtime Verification of Cloud-Wide VM-Level Network Isolation",
+            "authors": [
+                "Yushun Wang",
+                "Taous Madi",
+                "Suryadipta Majumdar",
+                "Yosr Jarraya",
+                "Amir Alimohammadifar",
+                "Makan Pourzandi",
+                "Lingyu Wang",
+                "Mourad Debbabi"
+            ],
+            "topics": [
+                "Security",
+                "Cloud",
+                "Network"
+            ]
+        },
+        {
+            "key": "NDSS_17_046",
+            "title": "Dissecting Tor Bridges: A Security Evaluation of their Private and Public Infrastructures",
+            "authors": [
+                "Srdjan Matic",
+                "Carmela Troncoso",
+                "Juan Caballero"
+            ],
+            "topics": [
+                "Security",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "NDSS_17_047",
+            "title": "The Effect of DNS on Tor's Anonymity",
+            "authors": [
+                "Benjamin Greschbach",
+                "Tobias Pulls",
+                "Laura M. Roberts",
+                "Philipp Winter",
+                "Nick Feamster"
+            ],
+            "topics": [
+                "Security",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "NDSS_17_048",
+            "title": "Avoding The Man on the Wire: Improving Tor's Security with Trust-Aware Path Selection",
+            "authors": [
+                "Aaron Johnson",
+                "Rob Jansen",
+                "Aaron D. Jaggard",
+                "Joan Feigenbaum",
+                "Paul Syverson"
+            ],
+            "topics": [
+                "Security",
+                "Cloud",
+                "Network"
+            ]
+        },
+        {
+            "key": "NDSS_17_049",
+            "title": "HisTor\u03b5: Differentially Private and Robust Statistics Collection for Tor",
+            "authors": [
+                "Akshaya Mani",
+                "Micah Sherr"
+            ],
+            "topics": [
+                "Security",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "NDSS_17_050",
+            "title": "SGX-Shield: Enabling Address Space Layout Randomization for SGX Programs",
+            "authors": [
+                "Jaebaek Seo",
+                "Byoungyoung Lee",
+                "Seongmin Kim",
+                "Ming-Wei Shih",
+                "Insik Shin",
+                "Dongsu Han",
+                "Taesoo Kim"
+            ],
+            "topics": [
+                "Security",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "NDSS_17_051",
+            "title": "T-SGX: Eradicating Controlled-Channel Attacks Against Enclave Programs",
+            "authors": [
+                "Ming-Wei-Shih",
+                "Sangho Lee",
+                "Taesoo Kim",
+                "Marcus Peinado"
+            ],
+            "topics": [
+                "Security",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "NDSS_17_052",
+            "title": "BOOMERANG: Exploiting the Semantic Gap in Trusted Execution Environments",
+            "authors": [
+                "Aravind Machiry",
+                "Eric Gustafson",
+                "Chad Spensky",
+                "Christopher Salls",
+                "Nick Stephens",
+                "Ruoyu Wang",
+                "Antonio Bianchi",
+                "Yung Ryn Choe",
+                "Christopher Kruegel",
+                "Giovanni Vigna"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_053",
+            "title": "HOP: Hardware makes Obfuscation Practical",
+            "authors": [
+                "Kartik Nayak",
+                "Christopher W. Fletcher",
+                "Ling Ren",
+                "Nishanth Chandran",
+                "Satya Lokam",
+                "Elaine Shi",
+                "Vipal Goyal"
+            ],
+            "topics": [
+                "Security",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "NDSS_17_054",
+            "title": "Panoply: Low-TCB Linux Applications With SGX Enclaves",
+            "authors": [
+                "Shweta Shinde",
+                "Dat Le Tien",
+                "Shruti Tople",
+                "Prateek Saxena"
+            ],
+            "topics": [
+                "Security",
+                "OS"
+            ]
+        },
+        {
+            "key": "NDSS_17_055",
+            "title": "Hey, My Malware Knows Physics! Attacking PLCs with Physical Model Aware Rootkit",
+            "authors": [
+                "Luis Garcia",
+                "Ferdinand Brasser",
+                "Mehmet H. Cintuglu",
+                "Ahmad-Reza Sadeghi",
+                "Osama Mohammed",
+                "Saman A. Zonouz"
+            ],
+            "topics": [
+                "Security",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "NDSS_17_056",
+            "title": "ContexloT: Towards Providing Contextual Integrity to Appified IoT Platforms",
+            "authors": [
+                "Yunhan Jack Jia",
+                "Qi Alfred Chen",
+                "Shiqi Wang",
+                "Amir Rahmati",
+                "Earlence Fernandes",
+                "Z. Morley Mao",
+                "Atul Prakash"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_057",
+            "title": "FBS-Radar: Uncovering Fake Base Stations at Scale in the Wild",
+            "authors": [
+                "Zhenhua Li",
+                "Weiwei Wang",
+                "Christo Wilson",
+                "Jian Chen",
+                "Chen Qian",
+                "Taeho Jung",
+                "Lan Zhang",
+                "Kebin Liu",
+                "Xiangyang Li",
+                "Yunhao Liu"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "NDSS_17_058",
+            "title": "Internet-scale Probing of CPS: Inference, Characterization and Orchestration Analysis",
+            "authors": [
+                "Claude Fachkha",
+                "Elias Bou-Harb",
+                "Anastasis Keliris",
+                "Nasir Memon",
+                "Mustaque Ahamad"
+            ],
+            "topics": [
+                "Security",
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "NDSS_17_059",
+            "title": "Wi-Fly?: Detecting Privacy Invasion Attacks by Consumer Drones",
+            "authors": [
+                "Simon Birnbach",
+                "Richard Baker",
+                "Ivan Martinovic"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_060",
+            "title": "ASLR on the Line:  Practical Cache Attacks on the MMU",
+            "authors": [
+                "Ben Gras",
+                "Kaveh Razavi",
+                "Erik Bosman",
+                "Herbert Bos",
+                "Cristiano Giuffrida"
+            ],
+            "topics": [
+                "Security",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "NDSS_17_061",
+            "title": "Unleashing Use-Before-Initialization Vulnerabilities in the Linux Kernel Using Targeted Stack Spraying",
+            "authors": [
+                "Kangjie Lu",
+                "Marie-Therese Walter",
+                "David Pfaff",
+                "Stefan N\u00fcrnberger",
+                "Wenke Lee",
+                "Michael Backes"
+            ],
+            "topics": [
+                "Security",
+                "OS"
+            ]
+        },
+        {
+            "key": "NDSS_17_062",
+            "title": "Address Oblivious Code Reuse: On the Effectiveness of Leakage Resilient Diversity",
+            "authors": [
+                "Robert Rudd",
+                "Richard Skowyra",
+                "David Bigelow",
+                "Veer Dedhia",
+                "Thomas Hobson",
+                "Stephen Crane",
+                "Christopher Liebchen",
+                "Per Larsen",
+                "Lucas Davi",
+                "Michael Franz",
+                "Ahmad-Reza Sadeghi",
+                "Hamed Okhravi"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_063",
+            "title": "An Evil Copy: How the Loader Betrays You",
+            "authors": [
+                "Xinyang Ge",
+                "Mathias Payer",
+                "Trent Jaeger"
+            ],
+            "topics": [
+                "Security",
+                "OS"
+            ]
+        },
+        {
+            "key": "NDSS_17_064",
+            "title": "Stack bounds Protection with Low Fat Pointers",
+            "authors": [
+                "Gregory J. Duck",
+                "Roland H. C. Yap",
+                "Lorenzo Cavallaro"
+            ],
+            "topics": [
+                "Security",
+                "OS"
+            ]
+        },
+        {
+            "key": "NDSS_17_065",
+            "title": "VUzzer: Application-aware Evolutionary Fuzzing",
+            "authors": [
+                "Sanjay Rawat",
+                "Vivek Jain",
+                "Ashish Kumar",
+                "Lucian Cojocar",
+                "Cristiano Giuffrida",
+                "Herbert Bos"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_066",
+            "title": "A2C: Self Destructing Exploit Executions via Input Perturbation",
+            "authors": [
+                "Yonghwi Kwon",
+                "Brendan Saltaformaggio",
+                "I Luk Kim",
+                "Kyu Hyung Lee",
+                "Xiangyu Zhang",
+                "Dongyan Xu"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "NDSS_17_067",
+            "title": "A Call to ARMs: Understanding the Costs and Benefits of JIT Spraying Mitigations",
+            "authors": [
+                "Wilson Lian",
+                "Hovav Shacham",
+                "Stefan Savage"
+            ],
+            "topics": [
+                "Security",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "NDSS_17_068",
+            "title": "Ramblr: Making Reassembly Great Again",
+            "authors": [
+                "Ruoyu Wang",
+                "Yan Shoshitaishvili",
+                "Antonio Bianchi",
+                "Aravind Machiry",
+                "John Grosen",
+                "Paul Grosen",
+                "Christopher Kruegel",
+                "Giovanni Vigna"
+            ],
+            "topics": [
+                "Security"
+            ],
+            "award": true
+        }
+    ]
+}

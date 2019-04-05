@@ -1,0 +1,988 @@
+{
+    "key": "OOPSLA_17",
+    "conference": "International Conference on Object-Oriented Programming, Systems, Languages and Applications",
+    "organization": [
+        "ACM"
+    ],
+    "country": "CA",
+    "postdate": "2017-10-25",
+    "last_deadline": "2017-04-17",
+    "review_days": 65,
+    "submissions": 223,
+    "min_reviews": 3,
+    "total_reviews": 696,
+    "double_blind": true,
+    "rebuttal": false,
+    "open_access": true,
+    "age": 31,
+    "past_papers": 3864,
+    "past_citations": 34696,
+    "h5_index": 37,
+    "h5_median": 51,
+    "notes": "Two-stage review process: after the PC meetings, all non-rejected papers are conditionally accepted, with a 5-week period to address mandatory revisions. All accepted papers are published in the ACM PACMPL journal, which is Gold open access. The review process is 'lightweight' double blind in the sense that authors don't need to hide their identities too hard (e.g., not pre-posting their work). See more at https://2017.splashcon.org/track/splash-2017-OOPSLA#FAQ-on-Double-Blind-Reviewing. In addition to the PC, there's an ERC with 20-30 members, which evaluated the 10 PC papers (4 accepted). Seven papers got a 'distinguished paper' award and five got a 'distinguished artifact', with one overlap (all of them tagged as 'award' below). The PC has 50% women, and 2 of 3 keynotes, but still working on distribution of service roles. The review process is 'light' double-blind in the sense that author identities are revealed after the review is complete to allow for correcting misconception of prior work and resolve previously unknown conflicts.",
+    "pc_chairs": [
+        "Jonathan Aldrich (CMU)"
+    ],
+    "pc_members": [
+        "Suparna Bhattacharya (Hewlett-Packard Enterprise)",
+        "Hans-J. Boehm (Google)",
+        "Viviana Bono (University of Torino)",
+        "Kim Bruce (Pomona College)",
+        "Jens Dietrich (Massey University)",
+        "Gabriel Dos Reis (Texas A&M University tamu, Microsoft)",
+        "Irene Finocchi (Sapienza University of Rome)",
+        "Elisa Gonzalez Boix (Vrije Universiteit Brussel)",
+        "Kathryn E. Gray (University of Cambridge)",
+        "Atsushi Igarashi (Kyoto University)",
+        "Ciera Jaspan (Google)",
+        "Rezwana Karim (Samsung Research America)",
+        "Doug Lea (State University of New York SUNY Oswego)",
+        "Shane McIntosh (McGill University)",
+        "Kathryn S. McKinley (Google)",
+        "Mira Mezini (TU Darmstadt)",
+        "Ana Milanova (Rensselaer Polytechnic Institute)",
+        "Heather Miller (Ecole Polytechnique Federale de Lausanne EPFL)",
+        "Sasa Misailovic (University of Illinois at Urbana-Champaign, USA)",
+        "Sarah Nadi (University of Alberta)",
+        "Erez Petrank (Technion)",
+        "Gregor Richards (University of Waterloo)",
+        "Romain Robbes (Free University of Bozen-Bolzano)",
+        "Jennifer B. Sartor (Vrije Universiteit Brussel)",
+        "Joshua Sunshine (Carnegie Mellon University CMU)",
+        "Tom Van Cutsem (Nokia Bell Labs)",
+        "Julien Verlaguet (Facebook)",
+        "Peng Wu (Huawei America Research Lab)",
+        "Lu Zhang (Peking University)",
+        "Elena Zucca (University of Genova)"
+    ],
+    "keynote_speakers": [],
+    "session_chairs": [
+        "Kathryn S. McKinley",
+        "Kim Bruce",
+        "Jennifer B. Sartor",
+        "Joshua Sunshine",
+        "Jonathan Aldrich",
+        "Jonathan Edwards",
+        "Gregor Richards",
+        "Mario Wolczko",
+        "Wolfgang De Meuter",
+        "Jonathan Edwards",
+        "Christian Hammer",
+        "Davide Ancona",
+        "Gregor Richards",
+        "Christian Hammer",
+        "Wolfgang De Meuter",
+        "Jonathan Aldrich"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "OOPSLA_17_001",
+            "title": "A Model for Reasoning about JavaScript Promises",
+            "authors": [
+                "Magnus Madsen",
+                "Ond\u0159ej Lhot\u00e1k",
+                "Frank Tip"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_002",
+            "title": "A Simple Soundness Proof for Dependent Object Types",
+            "authors": [
+                "Marianna Rapoport",
+                "Ifaz Kabir",
+                "Paul He",
+                "Ond\u0159ej Lhot\u00e1k"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "award": true,
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_003",
+            "title": "A Solver-Aided Language for Test Input Generation",
+            "authors": [
+                "Talia Ringer",
+                "Dan Grossman",
+                "Daniel Schwartz-Narbonne",
+                "Serdar Tasiran"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_004",
+            "title": "A Verified Messaging System",
+            "authors": [
+                "William Mansky",
+                "Andrew W. Appel",
+                "Aleksey Nogin"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_005",
+            "title": "A Volatile-by-Default JVM for Server Applications",
+            "authors": [
+                "Lun Liu",
+                "Todd Millstein",
+                "Madan Musuvathi"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_006",
+            "title": "Abridging Source Code",
+            "authors": [
+                "Binhang Yuan",
+                "Vijayaraghavan Murali",
+                "Chris Jermaine"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_007",
+            "title": "Alpaca: Intermittent Execution without Checkpoints",
+            "authors": [
+                "Kiwan Maeng",
+                "Alexei Colin",
+                "Brandon Lucia"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_008",
+            "title": "An Auditing Language for Preventing Correlated Failures in the Cloud",
+            "authors": [
+                "Ennan Zhai",
+                "Ruzica Piskac",
+                "Ronghui Gu",
+                "Xun Lao",
+                "Xi Wang"
+            ],
+            "topics": [
+                "Compilers",
+                "Cloud"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_009",
+            "title": "Automated Testing of Graphics Shader Compilers",
+            "authors": [
+                "Alastair Donaldson",
+                "Hugues Evrard",
+                "Andrei Lascu",
+                "Paul Thomson"
+            ],
+            "topics": [
+                "Compilers",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_010",
+            "title": "Automatically Generating Features for Learning Program Analysis Heuristics for C-Like Languages",
+            "authors": [
+                "Kwonsoo Chae",
+                "Hakjoo Oh",
+                "Kihong Heo",
+                "Hongseok Yang"
+            ],
+            "topics": [
+                "Compilers",
+                "Data"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_011",
+            "title": "Bounded Exhaustive Test-Input Generation on GPUs",
+            "authors": [
+                "Ahmet Celik",
+                "Sreepathi Pai",
+                "Sarfraz Khurshid",
+                "Milos Gligoric"
+            ],
+            "topics": [
+                "Compilers",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_012",
+            "title": "Data-Driven Context-Sensitivity for Points-to Analysis",
+            "authors": [
+                "Sehun Jeong",
+                "Minseok Jeon",
+                "Sungdeok Cha",
+                "Hakjoo Oh"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_013",
+            "title": "Deadlock Avoidance in Parallel Programs with Futures: Why Parallel Tasks Should Not Wait for Strangers",
+            "authors": [
+                "Tiago Cogumbreiro",
+                "Rishi Surendran",
+                "Francisco Martins",
+                "Vivek Sarkar",
+                "Vasco T. Vasconcelos",
+                "Max Grossman"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_014",
+            "title": "Detecting Argument Selection Defects",
+            "authors": [
+                "Andrew Rice",
+                "Edward Aftandilian",
+                "Ciera Jaspan",
+                "Emily Johnston",
+                "Michael Pradel",
+                "Yulissa Arroyo-Paredes"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_015",
+            "title": "D\u00e9j\u00e0Vu: A Map of Code Duplicates on GitHub",
+            "authors": [
+                "Crista Lopes",
+                "Petr Maj",
+                "Pedro Martins",
+                "Vaibhav Saini",
+                "Di Yang",
+                "Jakub Zitny",
+                "Hitesh Sajnani",
+                "Jan Vitek"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "award": true,
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_016",
+            "title": "Effective Interactive Resolution of Static Analysis Alarms",
+            "authors": [
+                "Xin Zhang",
+                "Radu Grigore",
+                "Xujie Si",
+                "Mayur Naik"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_017",
+            "title": "Efficient Logging in Non-Volatile Memory by Exploiting Coherency Protocols",
+            "authors": [
+                "Nachshon Cohen",
+                "Michal Friedman",
+                "James Larus"
+            ],
+            "topics": [
+                "Compilers",
+                "Storage"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_018",
+            "title": "Evaluating and Improving Semistructured Merge",
+            "authors": [
+                "Guilherme Cavalcanti",
+                "Paulo Borba",
+                "Paola Accioly"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_019",
+            "title": "Exploiting Implicit Beliefs to Resolve Sparse Usage Problem in Usage-Based Specification Mining",
+            "authors": [
+                "Samantha Syeda Khairunnesa",
+                "Hoan Anh Nguyen",
+                "Tien Nguyen",
+                "Hridesh Rajan"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_020",
+            "title": "FairSquare: Probabilistic Verification of Program Fairness",
+            "authors": [
+                "Aws Albarghouthi",
+                "Loris D'Antoni",
+                "Samuel Drews",
+                "Aditya Nori"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_021",
+            "title": "Familia: Unifying Interfaces, Type Classes, and Family Polymorphism",
+            "authors": [
+                "Yizhou Zhang",
+                "Andrew C. Myers"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_022",
+            "title": "Fast and Precise Type Checking for JavaScript",
+            "authors": [
+                "Avik Chaudhuri",
+                "Panagiotis Vekris",
+                "Sam Goldman",
+                "Marshall Roch",
+                "Gabriel Levi"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_023",
+            "title": "GLORE: Generalized Loop Redundancy Elimination upon LER-Notation",
+            "authors": [
+                "Yufei Ding",
+                "Xipeng Shen"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_024",
+            "title": "Geo-Distribution of Actor-Based Services",
+            "authors": [
+                "Philip A. Bernstein",
+                "Sebastian Burckhardt",
+                "Sergey Bykov",
+                "Natacha Crooks",
+                "Jose M. Faleiro",
+                "Gabriel Kliot",
+                "Alok Kumbhare",
+                "Muntasir Raihan Rahman",
+                "Vivek Shah",
+                "Adriana Szekeres",
+                "Jorgen Thelin"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_025",
+            "title": "Heaps Don't Lie: Countering Unsoundness with Heap Snapshots",
+            "authors": [
+                "Neville Grech",
+                "George Fourtounis",
+                "Adrian Francalanza",
+                "Yannis Smaragdakis"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_026",
+            "title": "How Type Errors Were Fixed and What Students Did?",
+            "authors": [
+                "Baijun Wu",
+                "Sheng Chen"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_027",
+            "title": "IDEal: Efficient and Precise Alias-Aware Dataflow Analysis",
+            "authors": [
+                "Johannes Sp\u00e4th",
+                "Karim Ali",
+                "Eric Bodden"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_028",
+            "title": "Instrumentation Bias for Dynamic Data Race Detection",
+            "authors": [
+                "Benjamin P. Wood",
+                "Man Cao",
+                "Michael Bond",
+                "Dan Grossman"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_029",
+            "title": "Learning User Friendly Type-Error Messages",
+            "authors": [
+                "Baijun Wu",
+                "John Peter Campora III",
+                "Sheng Chen"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_030",
+            "title": "Learning to Blame: Localizing Novice Type Errors with Data-Driven Diagnosis",
+            "authors": [
+                "Eric L. Seidel",
+                "Huma Sibghat",
+                "Kamalika Chaudhuri",
+                "Westley Weimer",
+                "Ranjit Jhala"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_031",
+            "title": "Model Checking Copy Phases of Concurrent Copying Garbage Collection with Various Memory Models",
+            "authors": [
+                "Tomoharu Ugawa",
+                "Tatsuya Abe",
+                "Toshiyuki Maeda"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_032",
+            "title": "Model-Assisted Machine-Code Synthesis",
+            "authors": [
+                "Venkatesh Srinivasan",
+                "Ara Vartanian",
+                "Thomas Reps"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_033",
+            "title": "Monadic Composition for Deterministic, Parallel Batch Processing",
+            "authors": [
+                "Ryan G. Scott",
+                "Omar Navarro-Leija",
+                "Ryan R. Newton",
+                "Joseph Devietti"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ],
+            "artifact" : true
+        },
+        {
+            "key": "OOPSLA_17_034",
+            "title": "Natural Synthesis of Provably-Correct Data-Structure Manipulations",
+            "authors": [
+                "Xiaokang Qiu",
+                "Armando Solar-Lezama"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_035",
+            "title": "Orca: GC and Type System Co-Design for Actor Languages",
+            "authors": [
+                "Sylvan Clebsch",
+                "Juliana Franco",
+                "Sophia Drossopoulou",
+                "Albert Mingkun Yang",
+                "Tobias Wrigstad",
+                "Jan Vitek"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_036",
+            "title": "P/Taint: Unified Points-to and Taint Analysis",
+            "authors": [
+                "Neville Grech",
+                "Yannis Smaragdakis"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_037",
+            "title": "Paxos Made EPR: Decidable Reasoning about Distributed Protocols",
+            "authors": [
+                "Oded Padon",
+                "Giuliano Losa",
+                "Mooly Sagiv",
+                "Sharon Shoham"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_038",
+            "title": "Practical Initialization Race Detection for JavaScript Web Applications",
+            "authors": [
+                "Christoffer Quist Adamsen",
+                "Anders M\u00f8ller",
+                "Frank Tip"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ],
+            "award": true,
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_039",
+            "title": "Project Snowflake: Non-blocking Safe Manual Memory Management for .NET",
+            "authors": [
+                "Matthew Parkinson",
+                "Dimitrios Vytiniotis",
+                "Kapil Vaswani",
+                "Manuel Costa",
+                "Pantazis Deligiannis",
+                "Dylan McDermott",
+                "Jonathan Balkind",
+                "Aaron Blankstein"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_040",
+            "title": "Reasoning on Divergent Computations with Coaxioms",
+            "authors": [
+                "Davide Ancona",
+                "Francesco Dagnino",
+                "Elena Zucca"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_041",
+            "title": "Reliable and Automatic Composition of Language Extensions to C: the ableC extensible language framework",
+            "authors": [
+                "Ted Kaminski",
+                "Lucas Kramer",
+                "Travis Carlson",
+                "Eric Van Wyk"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_042",
+            "title": "Restricting Grammars with Tree Automata",
+            "authors": [
+                "Michael D. Adams",
+                "Matthew Might"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_043",
+            "title": "Robust and Compositional Verification of Object Capability Patterns",
+            "authors": [
+                "David Swasey",
+                "Deepak Garg",
+                "Derek Dreyer"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "award": true,
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_044",
+            "title": "SAVI Objects: Sharing and Virtuality Incorporated",
+            "authors": [
+                "Izzat El Hajj",
+                "Thomas B. Jablin",
+                "Dejan Milojicic",
+                "Wen-Mei Hwu"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_045",
+            "title": "SQLizer: Query Synthesis from Natural Language",
+            "authors": [
+                "Navid Yaghmazadeh",
+                "Yuepeng Wang",
+                "Isil Dillig",
+                "Thomas Dillig"
+            ],
+            "topics": [
+                "Compilers",
+                "DB"
+            ],
+            "award": true
+        },
+        {
+            "key": "OOPSLA_17_046",
+            "title": "Seam: Provably Safe Local Edits on Graphs",
+            "authors": [
+                "Manolis Papadakis",
+                "Gilbert Louis Bernstein",
+                "Rahul Sharma",
+                "Alex Aiken",
+                "Pat Hanrahan"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_047",
+            "title": "Skip Blocks: Reusing Execution History to Accelerate Web Scripts",
+            "authors": [
+                "Sarah Chasins",
+                "Rastislav Bodik"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_048",
+            "title": "Sound Gradual Typing Is Nominally Alive and Well",
+            "authors": [
+                "Fabian Muehlboeck",
+                "Ross Tate"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "award": true,
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_049",
+            "title": "Sound Gradual Typing: Only Mostly Dead",
+            "authors": [
+                "Spenser Bauman",
+                "Sam Tobin-Hochstadt",
+                "Jeremy Siek",
+                "Carl Friedrich Bolz-Tereick"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_050",
+            "title": "Static Placement of Computation on Heterogeneous Devices",
+            "authors": [
+                "Gabriel Poesia",
+                "Breno Campos",
+                "Fabr\u00edcio Ferracioli",
+                "Fernando Magno Quint\u00e3o Pereira"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_051",
+            "title": "Static Stages for Heterogeneous Programming",
+            "authors": [
+                "Adrian Sampson",
+                "Kathryn S. McKinley",
+                "Todd Mytkowicz"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "award": true,
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_052",
+            "title": "Synthesis of Data Completion Scripts using Finite Tree Automata",
+            "authors": [
+                "Xinyu Wang",
+                "Isil Dillig",
+                "Rishabh Singh"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_053",
+            "title": "Synthesizing Configuration File Specifications with Association Rule Learning",
+            "authors": [
+                "Mark Santolucito",
+                "Ennan Zhai",
+                "Rahul Dhodapkar",
+                "Aaron Shim",
+                "Ruzica Piskac"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_054",
+            "title": "The Tensor Algebra Compiler",
+            "authors": [
+                "Fredrik Kjolstad",
+                "Shoaib Kamil",
+                "Stephen Chou",
+                "David Lugato",
+                "Saman Amarasinghe"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "award": true,
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_055",
+            "title": "The VM Already Knew That: Leveraging Compile-Time Knowledge to Optimize Gradual Typing",
+            "authors": [
+                "Gregor Richards",
+                "Ellen Arteca",
+                "Alexi Turcotte"
+            ],
+            "topics": [
+                "Compilers",
+                "VM"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_056",
+            "title": "TiML: A Functional Language for Practical Complexity Analysis with Invariants",
+            "authors": [
+                "Peng Wang",
+                "Di Wang",
+                "Adam Chlipala"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_057",
+            "title": "Transforming Programs and Tests in Tandem for Fault Localization",
+            "authors": [
+                "Xia Li",
+                "Lingming Zhang"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_058",
+            "title": "TreeFuser: A Framework for Analyzing and Fusing General Recursive Tree Traversals",
+            "authors": [
+                "Laith Sakka",
+                "Kirshanthan Sundararajah",
+                "Milind Kulkarni"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "OOPSLA_17_059",
+            "title": "Type Test Scripts for TypeScript Testing",
+            "authors": [
+                "Erik Krogh Kristensen",
+                "Anders M\u00f8ller"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_060",
+            "title": "Understanding the Use of Lambda Expressions in Java",
+            "authors": [
+                "Davood Mazinanian",
+                "Ameya Ketkar",
+                "Nikolaos Tsantalis",
+                "Danny Dig"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "award": true,
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_061",
+            "title": "Unifying Typing and Subtyping",
+            "authors": [
+                "Yanpeng Yang",
+                "Bruno C. D. S. Oliveira"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_062",
+            "title": "Verifying Distributed Programs via Canonical Sequentialization",
+            "authors": [
+                "Alexander Bakst",
+                "Klaus V. Gleissenthall",
+                "Ranjit Jhala",
+                "Rami G\u00f6khan K\u0131c\u0131"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_063",
+            "title": "Verifying Spatial Properties of Array Computations",
+            "authors": [
+                "Dominic Orchard",
+                "Mistral Contrastin",
+                "Matthew Danish",
+                "Andrew Rice"
+            ],
+            "topics": [
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_064",
+            "title": "Verifying Strong Eventual Consistency in Distributed Systems",
+            "authors": [
+                "Victor Gomes",
+                "Martin Kleppmann",
+                "Dominic Mulligan",
+                "Alastair Beresford"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ],
+            "award": true,
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_065",
+            "title": "Virtual Machine Warmup Blows Hot and Cold",
+            "authors": [
+                "Edd Barrett",
+                "Carl Friedrich Bolz-Tereick",
+                "Rebecca Killick",
+                "Sarah Mount",
+                "Laurence Tratt"
+            ],
+            "topics": [
+                "VM"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "OOPSLA_17_066",
+            "title": "Who Guards the Guards? Formal Validation of the ARM v8-M Architecture Specification",
+            "authors": [
+                "Alastair Reid"
+            ],
+            "topics": [
+                "Compilers",
+                "Architecture"
+            ]
+        }
+    ]
+}

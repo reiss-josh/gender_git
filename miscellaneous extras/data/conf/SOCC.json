@@ -1,0 +1,756 @@
+{
+    "key": "SOCC_17",
+    "conference": "Symposium on Cloud Computing",
+    "organization": [
+        "ACM"
+    ],
+    "country": "US",
+    "postdate": "2017-09-25",
+    "last_deadline": "2017-05-05",
+    "review_days": 74,
+    "submissions": "",
+    "min_reviews": 3,
+    "total_reviews": "",
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": true,
+    "age": 8,
+    "past_papers": 173,
+    "past_citations": 3219,
+    "h5_index": 30,
+    "h5_median": 54,
+    "notes": "Includes Experience & Research papers, but excludes Vision papers. All accepted papers were shepherded, with final acceptance contingent on shepherd's approval. The PC chair reported that papers were improved by this process, with one paper switching to being supported by its most negative critic and almost making it to best paper. No acceptance decisions were reveresed however.",
+    "pc_chairs": [
+        "Mahesh Balakrishnan (Yale)",
+        "Carlo Curino (Microsoft)"
+    ],
+    "pc_members": [
+        "Alex Shraer (Apple)",
+        "Alexey Tumanov (UC Berkeley)",
+        "Amar Phanishayee (Microsoft)",
+        "Amol Deshpande (University of Maryland)",
+        "Ashraf Aboulnaga (Qatar Computing Research Institute)",
+        "Asim Kadav (NEC)",
+        "Avrilia Floratou (Microsoft)",
+        "Chris Douglas (Microsoft)",
+        "Chris Rossbach (UT Austin)",
+        "Cong Xu (IBM Research)",
+        "Dan Ports (University of Washington)",
+        "Derek Murray (Google)",
+        "Ennan Zhai (Yale University)",
+        "Eno Thereska (Confluent)",
+        "Fahad Dogar (Tufts University)",
+        "Garth Gibson (CMU)",
+        "Haryadi Gunawi (University of Chicago)",
+        "Han Wang (Barefoot Networks)",
+        "Henggang Cui (Carnegie Mellon University)",
+        "Immanuel Trummer (Cornell University)",
+        "Indranil Gupta (UIUC)",
+        "Iqbal Mohomed (Samsung)",
+        "Irina Calciu (VMware)",
+        "James Mickens (Harvard University)",
+        "Ji-Yong Shin (Yale University)",
+        "John Wilkes (Google)",
+        "Ken Birman (Cornell University)",
+        "Lixin Gao (UMass Amherst)",
+        "Lakshmi Ganesh (Facebook)",
+        "Matei Zaharia (Stanford University)",
+        "Morley Z. Mao (University of Michigan)",
+        "Nathan Bronson (Facebook)",
+        "Noa Zilberman (University of Cambridge)",
+        "Oliver Kennedy (SUNY Buffalo)",
+        "Patrick Stuedi (IBM)",
+        "Peter Alvaro (UC Santa Cruz)",
+        "Peter Pietzuch (Imperial College London)",
+        "Philip A. Bernstein (Microsoft Research, USA)",
+        "Pinar Tozun (IBM)",
+        "Rama Ramasubramanian (Google)",
+        "Russell Sears (Pure Storage)",
+        "Sameer Agarwal (Databricks)",
+        "Siddhartha Sen (Microsoft)",
+        "Srikanth Kandula (Microsoft)",
+        "Theo Benson (Duke University)",
+        "Vidhya Venkat (Facebook)",
+        "Vijay Chidambaram (UT Austin)",
+        "Vijayan Prabhakaran (Amazon)",
+        "Walfredo Cirne (Google)",
+        "Xuehai Qian (USC)",
+        "Yiying Zhang (Purdue University)",
+        "Ymir Vigfusson (Emory University)"
+    ],
+    "keynote_speakers": [
+        "Raghu Ramakrishnan, Microsoft",
+        "Anurag Gupta, Amazon Web Services",
+        "Magdalena Balazinska, University of Washington"
+    ],
+    "session_chairs": [
+        "Marcos Aguilera",
+        "Irina Calciu",
+        "Lakshmi Ganesh",
+        "Vijayan Prabhakaran",
+        "Sid Sen",
+        "Han Wang",
+        "Haryadi Gunawi",
+        "Peter Alvaro",
+        "Chris Douglas",
+        "Theophilus Benson",
+        "Avrilia Floratou",
+        "John Wilkes"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "SOCC_17_001",
+            "title": "FSP: Towards Flexible Synchronous Parallel Framework for Expectation-Maximization based Algorithms on Cloud",
+            "authors": [
+                "Zhigang Wang (Northeastern University)",
+                "Lixin Gao (University of Massachusetts Amherst)",
+                "Yu Gu",
+                "Yubin Bao",
+                "Ge Yu (Northeastern University)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "SOCC_17_002",
+            "title": "Trustable Virtual Machine Scheduling in a Cloud",
+            "authors": [
+                "Fabien Hermenier (Nutanix inc.)",
+                "Ludovic Henrio (Universit\u00e9 C\u00f4te d\u2019Azur, CNRS)"
+            ],
+            "topics": [
+                "VM",
+                "Security",
+                "OS",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "SOCC_17_003",
+            "title": "Search Lookaside Buffer: Efficient Caching for Index Data Structures",
+            "authors": [
+                "Xingbo Wu",
+                "Fan Ni",
+                "Song Jiang (University of Texas, Arlington)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SOCC_17_004",
+            "title": "Architectural Implications on the Performance and Cost of Graph Analytics Systems",
+            "authors": [
+                "Qizhen Zhang (University of Pennsylvania)",
+                "Hongzhi Chen (Chinese University of Hong Kong)",
+                "Da Yan (University of Alabama at Birmingham)",
+                "James Cheng (Chinese University of Hong Kong)",
+                "Boon Thau Loo (University of Pennsylvania)",
+                "Purushotham Bangalore (University of Alabama at Birmingham)"
+            ],
+            "topics": [
+                "Architecture",
+                "Data"
+            ]
+        },
+        {
+            "key": "SOCC_17_005",
+            "title": "Incentivizing self-capping to increase cloud utilization",
+            "authors": [
+                "Mohammad Shahrad (Princeton University)",
+                "Cristian Klein (Ume\u00e5 University)",
+                "Liang Zheng",
+                "Mung Chiang (Princeton University)",
+                "Erik Elmroth (Ume\u00e5 University)",
+                "David Wentzlaff (Princeton University)"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "SOCC_17_006",
+            "title": "Mithril: mining sporadic associations for cache prefetching",
+            "authors": [
+                "Juncheng Yang",
+                "Reza Karimi (Emory University)",
+                "Trausti S\u00e6mundsson (CachePhysics)",
+                "Avani Wildani",
+                "Ymir Vigfusson (Emory University)"
+            ],
+            "topics": [
+                "Architecture",
+                "Data"
+            ]
+        },
+        {
+            "key": "SOCC_17_007",
+            "title": "GLoop: An Event-driven Runtime for Consolidating GPGPU Applications",
+            "authors": [
+                "Yusuke Suzuki (Keio University)",
+                "Hiroshi Yamada (TUAT)",
+                "Shinpei Kato (University of Tokyo)",
+                "Kenji Kono (Keio University)"
+            ],
+            "topics": [
+                "GPGPU",
+                "OS"
+            ]
+        },
+        {
+            "key": "SOCC_17_008",
+            "title": "APUS: Fast and Scalable PAXOS on RDMA",
+            "authors": [
+                "Cheng Wang",
+                "Xusheng Chen",
+                "Jianyu Jiang",
+                "Ning Yi",
+                "Heming Cui (The University of Hong Kong)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "SOCC_17_009",
+            "title": "No Data Left Behind: Real-Time Insights from a Complex Data Ecosystem",
+            "authors": [
+                "Manos Karpathiotakis (EPFL)",
+                "Avrilia Floratou (Microsoft)",
+                "Fatma Ozcan (IBM Research)",
+                "Anastasia Ailamaki (EPFL)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SOCC_17_010",
+            "title": "CapNet: Security and Least Authority in a Capability-Enabled Cloud",
+            "authors": [
+                "Anton Burtsev (University of California, Irvine UCI)",
+                "David M. Johnson",
+                "Josh Kunz",
+                "Eric Eide",
+                "Jacobus Van der Merwe (University of Utah)"
+            ],
+            "topics": [
+                "Security",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "SOCC_17_011",
+            "title": "LSM-tree Managed Storage for Large-scale Key-value Store",
+            "authors": [
+                "Fei Mei",
+                "Qiang Cao (Huazhong University of Science and Technology)",
+                "Hong Jiang (University of Texas at Arlington)",
+                "Lei Tian (Tintri, Inc.)"
+            ],
+            "topics": [
+                "Storage",
+                "Data"
+            ]
+        },
+        {
+            "key": "SOCC_17_012",
+            "title": "HyperNF: Building a High Performance, High Utilization and Fair NFV Platform",
+            "authors": [
+                "Kenichi Yasukata",
+                "Felipe Huici (NEC Laboratories Europe)",
+                "Vincenzo Maffione",
+                "Giuseppe Lettieri (University of Pisa)",
+                "Michio Honda (NEC Laboratories Europe)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "SOCC_17_013",
+            "title": "Workload Analysis and Caching Strategies for Search Advertising Systems",
+            "authors": [
+                "Conglong Li",
+                "David G. Andersen (Carnegie Mellon University)",
+                "Qiang Fu (Microsoft)",
+                "Sameh Elnikety",
+                "Yuxiong He (Microsoft Research)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Data"
+            ]
+        },
+        {
+            "key": "SOCC_17_014",
+            "title": "Towards Automatic Parameter Tuning of Stream Processing Systems",
+            "authors": [
+                "Muhammad Bilal (Universite catholiqu\u00e9 de Louvain and KAUST)",
+                "Marco Canini (KAUST)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "SOCC_17_015",
+            "title": "STYX: A Trusted and Accelerated Hierarchical SSL Key Management and Distribution System for Cloud Based CDN Application",
+            "authors": [
+                "Changzhen Wei (Intel Asia-Pacific Research & Development Ltd.)",
+                "Jian Li (Shanghai Jiao Tong University)",
+                "Weigang Li",
+                "Ping Yu (Intel Asia-Pacific Research & Development Ltd.)",
+                "Haibing Guan (Shanghai Jiao Tong University)"
+            ],
+            "topics": [
+                "Security",
+                "Concurrency",
+                "Cloud",
+                "Network"
+            ]
+        },
+        {
+            "key": "SOCC_17_016",
+            "title": "QFrag: Distributed Graph Search via Subgraph Isomorphism",
+            "authors": [
+                "Marco Serafini",
+                "Gianmarco De Francisci Morales",
+                "Georgos Siganos (Qatar Computing Research Institute)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Data"
+            ]
+        },
+        {
+            "key": "SOCC_17_017",
+            "title": "A Robust Partitioning Scheme for Ad-Hoc Query Workloads",
+            "authors": [
+                "Anil Shanbhag (MIT)",
+                "Alekh Jindal (Microsoft)",
+                "Samuel Madden (MIT)",
+                "Jorge Quiane (QCRI)",
+                "Aaron J. Elmore (University of Chicago)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SOCC_17_018",
+            "title": "DLSH: A Distribution-aware LSH Scheme for Approximate Nearest Neighbor Query in Cloud Computing",
+            "authors": [
+                "Yuanyuan Sun",
+                "Yu Hua (Huazhong University of Science and Technology)",
+                "Xue Liu (McGill University)",
+                "Shunde Cao",
+                "Pengfei Zuo (Huazhong University of Science and Technology)"
+            ],
+            "topics": [
+                "Data",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "SOCC_17_019",
+            "title": "SLO-aware Colocation of Data Center Tasks Based on Instantaneous Resource Requirements",
+            "authors": [
+                "Pawel Janus",
+                "Krzysztof Rzadca (University of Warsaw, Poland)"
+            ],
+            "topics": [
+                "OS",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "SOCC_17_020",
+            "title": "Preserving I/O Prioritization in Virtualized OSes",
+            "authors": [
+                "Tony Suo",
+                "Yong Zhao",
+                "Jia Rao (The University of Texas at Arlington)",
+                "Luwei Cheng (Facebook)",
+                "Xiaobo Zhou (The University of Colorado, Colorado Springs)",
+                "Francis C. M. Lau (The University of Hong Kong)"
+            ],
+            "topics": [
+                "Storage",
+                "VM",
+                "OS"
+            ]
+        },
+        {
+            "key": "SOCC_17_021",
+            "title": "A Policy-Based System for Dynamic Scaling of Virtual Machine Memory Reservations",
+            "authors": [
+                "Rebecca Smith",
+                "Scott Rixner (Rice University)"
+            ],
+            "topics": [
+                "OS",
+                "VM"
+            ]
+        },
+        {
+            "key": "SOCC_17_022",
+            "title": "PBSE: A Robust Path-Based Speculative Execution for Degraded-Network Tail Tolerance in Data-Parallel Frameworks",
+            "authors": [
+                "Riza O. Suminto",
+                "Cesar A. Stuardo",
+                "Alexandra Clark",
+                "Huan Ke",
+                "Tanakorn Leesatapornwongsa",
+                "Bo Fu (University of Chicago)",
+                "Daniar H. Kurniawan (Bandung Institute of Technology)",
+                "Vincentius Martin (Surya University)",
+                "Uma Maheswara Rao G. (Intel Corporation)",
+                "Haryadi Gunawi (University of Chicago)"
+            ],
+            "topics": [
+                "Architecture",
+                "Network",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SOCC_17_023",
+            "title": "Polygravity: Traffic Usage Accountability via Coarse-grained Measurements in Multi-tenant Data Centers",
+            "authors": [
+                "Hyunwook Baek (University of Utah)",
+                "Cheng Jin (University of Minnesota)",
+                "Guofei Jiang",
+                "Cristian Lumezanu (NEC Labs America)",
+                "Jacobus Van der Merwe (University of Utah)",
+                "Ning Xia",
+                "Qiang Xu (NEC Labs America)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "SOCC_17_024",
+            "title": "Distributed Shared Persistent Memory",
+            "authors": [
+                "Yizhou Shan",
+                "Shin-Yeh Tsai",
+                "Yiying Zhang (Purdue University)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Storage"
+            ]
+        },
+        {
+            "key": "SOCC_17_025",
+            "title": "BestConfig: Tapping the Performance Potential of Systems via Configuration Adjustment",
+            "authors": [
+                "Yuqing Zhu",
+                "Jianxun Liu",
+                "Mengying Guo",
+                "Yungang Bao (Institute of Computing Technology, Chinese Academy of Sciences)",
+                "Kunpeng Song",
+                "Zhuoyue Liu (Huawei)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "SOCC_17_026",
+            "title": "A Machine Learning Approach to Live Migration Modeling",
+            "authors": [
+                "Changyeon Jo",
+                "Youngsu Cho",
+                "Bernhard Egger (Seoul National University)"
+            ],
+            "topics": [
+                "Data",
+                "OS"
+            ]
+        },
+        {
+            "key": "SOCC_17_027",
+            "title": "Latency Reduction and Load Balancing in Coded Storage Systems",
+            "authors": [
+                "Yaochen Hu",
+                "Yushi Wang",
+                "Bang Liu",
+                "Di Niu (University of Alberta)",
+                "Cheng Huang (Microsoft Research Redmond)"
+            ],
+            "topics": [
+                "Network",
+                "Storage"
+            ]
+        },
+        {
+            "key": "SOCC_17_028",
+            "title": "On-demand Virtualization for Live Migration in Bare Metal Cloud",
+            "authors": [
+                "Jaeseong Im",
+                "Jongyul Kim",
+                "Jonguk Kim (School of Computing, KAIST)",
+                "Seongwook Jin (KIWIPLUS)",
+                "Seungryoul Maeng (School of Computing, KAIST)"
+            ],
+            "topics": [
+                "VM",
+                "Cloud",
+                "OS"
+            ]
+        },
+        {
+            "key": "SOCC_17_029",
+            "title": "SLAQ: Quality-Driven Scheduling for Distributed Machine Learning",
+            "authors": [
+                "Haoyu Zhang",
+                "Logan Stafman",
+                "Andrew Or",
+                "Michael J. Freedman (Princeton University)"
+            ],
+            "topics": [
+                "OS",
+                "Concurrency",
+                "Data"
+            ],
+            "award": true
+        },
+        {
+            "key": "SOCC_17_030",
+            "title": "Practical Whole-System Provenance Capture",
+            "authors": [
+                "Thomas Pasquier",
+                "Xueyuan Han",
+                "Mark Goldstein",
+                "Margo Seltzer (Harvard University)",
+                "Thomas Moyer (MIT Lincoln Laboratory)",
+                "David Eyers (University of Otago)",
+                "Jean Bacon (University of Cambridge)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "SOCC_17_031",
+            "title": "Processing Java UDFs in a C++ environment",
+            "authors": [
+                "Viktor Rosenfeld (TU Berlin)",
+                "Rene Mueller",
+                "Pinar Tozun",
+                "Fatma Ozcan (IBM Research Almaden)"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SOCC_17_032",
+            "title": "An Experimental Comparison of Complex Object Implementations for Big Data Systems",
+            "authors": [
+                "Sourav Sikdar",
+                "Kia Teymourian",
+                "Christopher Jermaine (Rice University)"
+            ],
+            "topics": [
+                "Data",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SOCC_17_033",
+            "title": "Selecting the Best VM across Multiple Public Clouds: A Data-Driven Performance Modeling Approach",
+            "authors": [
+                "Neeraja J. Yadwadkar (University of California, Berkeley)",
+                "Bharath Hariharan (Facebook AI Research)",
+                "Joseph E. Gonzalez (University of California, Berkeley)",
+                "Burton Smith (Microsoft Research)",
+                "Randy Katz (University of California, Berkeley)"
+            ],
+            "topics": [
+                "VM",
+                "Cloud",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "SOCC_17_034",
+            "title": "AidOps: a data-driven provisioning of high-availability services in cloud",
+            "authors": [
+                "Diego Lugones",
+                "Jordi Arjona Aroca",
+                "Yue Jin",
+                "Alessandra Sala",
+                "Volker Hilt (Nokia Bell Labs)"
+            ],
+            "topics": [
+                "VM",
+                "Network",
+                "OS"
+            ]
+        },
+        {
+            "key": "SOCC_17_035",
+            "title": "Secure Data Types: A Simple Abstraction for Confidentiality-Preserving Data Analytics",
+            "authors": [
+                "Savvas Savvides (Purdue University)",
+                "Julian Stephen (IBM Research)",
+                "Masoud Saeida Ardekani (Purdue University)",
+                "Vinaitheerthan Sundaram (SensorHound, Inc)",
+                "Patrick Eugster (TU Darmstadt)"
+            ],
+            "topics": [
+                "Security",
+                "Data",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SOCC_17_036",
+            "title": "HotSpot: Automated Server Hopping in Cloud Spot Markets",
+            "authors": [
+                "Supreeth Shastri",
+                "David Irwin (University of Massachusetts Amherst)"
+            ],
+            "topics": [
+                "Cloud",
+                "HPC"
+            ]
+        },
+        {
+            "key": "SOCC_17_037",
+            "title": "UNO: Unifying Host and Smart NIC Offload for Flexible Packet Processing",
+            "authors": [
+                "Yanfang Le (University of Wisconsin-Madison)",
+                "Hyunseok Chang",
+                "Sarit Mukherjee",
+                "Limin Wang (Nokia Bell Labs)",
+                "Aditya Akella",
+                "Michael M. Swift (University of Wisconsin-Madison)",
+                "T. V. Lakshman (Nokia Bell Labs)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "SOCC_17_038",
+            "title": "Automated Debugging in Data-Intensive Scalable Computing",
+            "authors": [
+                "Muhammad Ali Gulzar",
+                "Matteo Interlandi (UCLA)",
+                "Xueyuan Han (Harvard University)",
+                "Mingda Li",
+                "Tyson Condie",
+                "Miryung Kim (UCLA)"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SOCC_17_039",
+            "title": "Sketches of Space: Ownership Accounting for Shared Storage",
+            "authors": [
+                "Jake Wires",
+                "Pradeep Ganesan",
+                "Andrew Warfield (Coho Data)"
+            ],
+            "topics": [
+                "Storage",
+                "Security"
+            ]
+        },
+        {
+            "key": "SOCC_17_040",
+            "title": "A Scalable Distributed Spatial Index for the Internet-of-Things",
+            "authors": [
+                "Anand Padmanabha Iyer",
+                "Ion Stoica (UC Berkeley)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Data"
+            ]
+        },
+        {
+            "key": "SOCC_17_041",
+            "title": "ALOHA-KV: High Performance Read-only and Write-only Distributed Transactions",
+            "authors": [
+                "Hua Fan",
+                "Wojciech Golab (University of Waterloo)",
+                "Charles B. Morrey III (unaffiliated)"
+            ],
+            "topics": [
+                "Data",
+                "Storage",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SOCC_17_042",
+            "title": "Analysis of TPC-DS: the First Standard Benchmark for SQL-Based Big Data Systems",
+            "authors": [
+                "Meikel Poess (Oracle)",
+                "Tilmann Rabl (TU Berlin)",
+                "Hans-Arno Jacobsen (TU Munich)"
+            ],
+            "topics": [
+                "Benchmark",
+                "DB",
+                "Data"
+            ]
+        },
+        {
+            "key": "SOCC_17_043",
+            "title": "Optimized On-Demand Data Streaming from Sensor Nodes",
+            "authors": [
+                "Jonas Traub (Technische Universit\u00e4t Berlin)",
+                "Sebastian Bre\u00df (DFKI)",
+                "Tilmann Rabl (Technische Universit\u00e4t Berlin)",
+                "Asterios Katsifodimos (SAP Germany)",
+                "Volker Markl (Technische Universit\u00e4t Berlin)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "SOCC_17_044",
+            "title": "WorkloadCompactor: Reducing datacenter cost while providing tail latency SLO guarantees",
+            "authors": [
+                "Timothy Zhu (Carnegie Mellon University)",
+                "Michael A. Kozuch (Intel Labs)",
+                "Mor Harchol-Balter (Carnegie Mellon University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "SOCC_17_045",
+            "title": "Distributed Resource Management across Process Boundaries",
+            "authors": [
+                "Lalith Suresh (VMWare Research)",
+                "Peter Bodik",
+                "Ishai Menache (Microsoft Research)",
+                "Marco Canini (KAUST)",
+                "Florin Ciucu (University of Warwick)"
+            ],
+            "topics": [
+                "OS",
+                "Concurrency"
+            ]
+        }
+    ]
+}

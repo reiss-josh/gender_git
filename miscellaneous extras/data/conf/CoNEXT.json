@@ -1,0 +1,548 @@
+{
+    "key": "CoNEXT_17",
+    "conference": "International Conference on Emerging Networking Experiments and Technologies",
+    "organization": [
+        "ACM"
+    ],
+    "country": "KR",
+    "postdate": "2017-12-13",
+    "last_deadline": "2017-06-19",
+    "review_days": 83,
+    "submissions": 171,
+    "min_reviews": 3,
+    "total_reviews": 700,
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": true,
+    "age": 13,
+    "past_papers": 828,
+    "past_citations": 5162,
+    "h5_index": 35,
+    "h5_median": 73,
+    "notes": "Two-round reviews. In the first, each paper received three reviews, and was promoted if it received at least one positive recview (109 total, including short papers, which are omitted here). In the second round, each paper received at least two more reviews. About half the registrants come from KR, the host country. One of the long papers is missing here (there were in fact 33 long papers, not 32 like mentioned in the frontmatter.) The submission and total_reviews stats above reflect only long papers (approx). About 60% of reviews were completed within the first 25 days, and almost no more in the next 25 days (till the deadline), then another ~20% past the deadline. The best paper award was selected by a separate conflict-free committee.",
+    "pc_chairs": [
+        "Phillipa Gill (University of Massachusetts)",
+        "Marco Mellia (Politecnico di Torino)"
+    ],
+    "pc_members": [
+        "Adrian Perrig (ETH-Zurich)",
+        "Alan Mislove (Northeastern University)",
+        "Alberto Dainotti (CAIDA)",
+        "Alessandro Mei (Sapienza University)",
+        "Ana Paula Couto Da Silva (Universidade Federal de Minas Gerais)",
+        "Anna Brunstrom (Karlstad University)",
+        "Aruna Balasubramanian (Stony Brook University -- SUNY)",
+        "Athina Markopoulou (University of California -- Irvine)",
+        "Christian Esteve Rothenberg (University of Campinas)",
+        "Costin Raiciu (University Politehnica of Bucharest)",
+        "Cristina Nita Rotaru (Northeastern University)",
+        "Dali Kaafar (NICTA)",
+        "Damiano Carra (University of Verona)",
+        "Dario Rossi (Ecole Nationale Superieure des Telecommuncations)",
+        "David Barrera (ETH-Zurich)",
+        "David Choffnes (Northeastern University)",
+        "Dejan Kostic (KTH Royale Institute of Technology)",
+        "Domenico Giustiniano (IMDEA Networks Institute)",
+        "Dongsu Han (KAIST)",
+        "Felipe Huici (NEC Labs)",
+        "Ganesh Ananthanarayanan (Microsoft Research)",
+        "Giuseppe Bianchi (University of Rome Tor Vergata)",
+        "Idilio Drago (Politecnico di Torino)",
+        "Kyle Jamieson (Princeton)",
+        "KyoungSoo Park (KAIST)",
+        "Laurent Vanbever (ETH-Zurich)",
+        "Luca Muscariello (Cisco)",
+        "Marcelo Bagnulo (University Carlos III of Madrid)",
+        "Matteo Varvello (AT&T)",
+        "Matthew Roughan (University of Adelaide)",
+        "Michael Schapira (Hebrew University of Jerusalem)",
+        "Monia Ghobadi (Microsoft Research)",
+        "Narseo Vallina-Rodriguez (IMDEA Networks Institute / ICSI)",
+        "\u00d6zg\u00fc Alay (Simula Research Laboratory)",
+        "Paolo Costa (Microsoft Research)",
+        "Patrick Thiran (EPFL)",
+        "Ramin Sadre (UC Louvain)",
+        "Ranjita Bhagwan (Microsoft Research)",
+        "Robert Birke (IBM Zurich)",
+        "Samir R. Das (Stony Brook University, SUNY)",
+        "Sergey Gorinsky (IMDEA Networks Institute)",
+        "Sujata Banerjee (VMWare -- Research)",
+        "Suman Banerjee (University of Wisconsin -- Madison)",
+        "Sung-Ju Lee (KAIST)",
+        "Vijay Sivaraman (University of New South Wales)",
+        "Wenjun Hu (Yale)",
+        "Zhi-li Zhang (University of Minnesota -- Twin Cities)",
+        "Zied Ben Houidi (Nokia Bell Labs)"
+    ],
+    "keynote_speakers": [
+        "Mohammad Alizadeh"
+    ],
+    "session_chairs": [
+        "Peter Steenkiste",
+        "Alessandro Finamore",
+        "Aleksandar Kuzmanovic",
+        "Ilias Leonitadis",
+        "Marco Mellia",
+        "Dimitrios Koustsonikolas",
+        "Marco Chiesa",
+        "Theophilus Benson",
+        "Philipa Gill",
+        "Kenjiro Cho"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "CoNEXT_17_001",
+            "title": "And Then There Were More: Secure Communication for More Than Two Parties",
+            "authors": [
+                "David Naylor (Carnegie Mellon University)",
+                "Richard Li (University of Utah)",
+                "Christos Gkantsidis",
+                "Thomas Karagiannis (Microsoft Research)",
+                "Peter Steenkiste (Carnegie Mellon University)"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_002",
+            "title": "AWL: Turning Spatial Aliasing From Foe to Friend for Accurate WiFi Device Localization",
+            "authors": [
+                "Zhe Chen",
+                "Zhongmin Li",
+                "Xu Zhang",
+                "Guorong Zhu",
+                "Yuedong Xu (Fudan University)",
+                "Jie Xiong (Singapore Management University)",
+                "Xin Wang (Fudan University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_003",
+            "title": "FreeRider: Backscatter Communication Using Commodity Radios",
+            "authors": [
+                "Pengyu Zhang",
+                "Colleen Josephson (Stanford)",
+                "Dinesh Bharadia (MIT)",
+                "Sachin Katti (Stanford)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_004",
+            "title": "BLU: Blue-printing Interference for Robust LTE Access in Unlicensed Spectrum",
+            "authors": [
+                "Ramanujan K Sheshadri (University at Buffalo, SUNY)",
+                "Karthikeyan Sundaresan",
+                "Eugene Chai",
+                "Amir Khojastepour",
+                "Sampath Rangarajan (NEC Laboratories America, Inc.)",
+                "Dimitrios Koutsonikolas (University at Buffalo, SUNY)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_005",
+            "title": "Canopus: A Scalable, Massively Parallel Consensus Protocol",
+            "authors": [
+                "Sajjad Rizvi",
+                "Bernard Wong",
+                "Srinivasan Keshav (University of Waterloo)"
+            ],
+            "topics": [
+                "Cloud",
+                "Concurrency",
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_006",
+            "title": "Compressive Millimeter-Wave Sector Selection in Off-the-Shelf IEEE 802.11ad Devices",
+            "authors": [
+                "Daniel Steinmetzer",
+                "Daniel Wegemer",
+                "Matthias Schulz (TU Darmstadt)",
+                "Joerg Widmer (IMDEA Networks Institute)",
+                "Matthias Hollick (TU Darmstadt)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_007",
+            "title": "Drongo: Speeding Up CDNs with Subnet Assimilation from the Client",
+            "authors": [
+                "Marc Anthony Warrior",
+                "Uri Klarman",
+                "Marcel Flores",
+                "Aleksandar Kuzmanovic (Northwestern University)"
+            ],
+            "topics": [
+                "Cloud",
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_008",
+            "title": "ECF: An MPTCP Path Scheduler to Manage Heterogeneous Paths",
+            "authors": [
+                "Yeon-sup Lim",
+                "Erich Nahum (IBM Research)",
+                "Don Towsley (UMass Amherst)",
+                "Richard Gibbens (University of Cambridge)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_009",
+            "title": "Follow that Light: Leveraging LEDs for Relative Two-Dimensional Localization",
+            "authors": [
+                "Ander Galisteo (IMDEA Networks)",
+                "Qing Wang",
+                "Aniruddha Deshpande",
+                "Marco Zuniga (Delft University of Technology)",
+                "Domenico Giustiniano (IMDEA Networks)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "CoNEXT_17_010",
+            "title": "Footprint Descriptors: Theory and Practice of Cache Provisioning in a Global CDN",
+            "authors": [
+                "Aditya Sundarrajan (University of Massachusetts Amherst)",
+                "Mingdong Feng",
+                "Mangesh Kasbekar (Akamai Technologies)",
+                "Ramesh K. Sitaraman (University of Massachusetts Amherst, Akamai Technologies)"
+            ],
+            "topics": [
+                "Cloud",
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_011",
+            "title": "Hermes: Providing Tight Control over High-Performance SDN Switches",
+            "authors": [
+                "Huan Chen (University of Electronic Science and Technology of China and Duke University)",
+                "Theophilus Benson (Duke University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_012",
+            "title": "Informed Bandwidth Adaptation in Wi-Fi Networks using Ping-Pair",
+            "authors": [
+                "Rajdeep Das (Microsoft)",
+                "Nimantha Baranasuriya (National University of Singapore)",
+                "Venkat Padmanabhan",
+                "Christoffer Rodbro (Microsoft)",
+                "Seth Gilbert (National University of Singapore)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_013",
+            "title": "Localizing Low-power Backscatter Tags Using Commodity WiFi",
+            "authors": [
+                "Manikanta Kotaru",
+                "Pengyu Zhang",
+                "Sachin Katti (Stanford University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_014",
+            "title": "Locating and Tracking BLE Beacons with Smartphones",
+            "authors": [
+                "Dongyao Chen",
+                "Kang G. Shin (University of Michigan, Ann Arbor)",
+                "Yurong Jiang",
+                "Kyu-Han Kim (HP Labs)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_015",
+            "title": "On the Necessity of a Prescribed Block Validity Consensus: Analyzing Bitcoin Unlimited Mining Protocol",
+            "authors": [
+                "Ren Zhang",
+                "Bart Preneel (imec-COSIC, KU Leuven)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_016",
+            "title": "POI360: Panoramic Mobile Video Telephony over LTE Cellular Networks",
+            "authors": [
+                "Xiufeng Xie",
+                "Xinyu Zhang (University of Wisconsin-Madison)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_017",
+            "title": "Redesigning CDN-Broker Interactions for Improved Content Delivery",
+            "authors": [
+                "Matthew K. Mukerjee (Carnegie Mellon University)",
+                "Ilker Nadi Bozkurt (Duke University)",
+                "Devdeep Ray (Carnegie Mellon University)",
+                "Bruce Maggs (Duke University / Akamai Technologies)",
+                "Srinivasan Seshan (Carnegie Mellon University)",
+                "Hui Zhang (Carnegie Mellon University / Conviva Inc.)"
+            ],
+            "topics": [
+                "Network"
+            ],
+            "award": true
+        },
+        {
+            "key": "CoNEXT_17_018",
+            "title": "Revisiting Reading Rate with Mobility: Rate-Adaptive Reading in COTS RFID System",
+            "authors": [
+                "Qiongzheng Lin",
+                "Lei Yang (The Hong Kong Polytechnic University)",
+                "Huanyu Jia",
+                "Chunhui Duan",
+                "Yunhao Liu (Tsinghua University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_019",
+            "title": "Saath: Speeding up CoFlows by Exploiting the Spatial Dimension",
+            "authors": [
+                "Akshay Jajoo (Purdue University)",
+                "Rohan Gandhi (Microsoft Corp.)",
+                "Y. Charlie Hu",
+                "Cheng-kok Koh (Purdue University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_020",
+            "title": "SIXPACK: Securing Internet eXchange Points Against Curious onlooKers",
+            "authors": [
+                "Marco Chiesa (Universit\u00e9 catholique de Louvain)",
+                "Daniel Demmler (Technische Universit\u00e4t Darmstadt)",
+                "Marco Canini (Universit\u00e9 catholique de Louvain)",
+                "Michael Schapira (Hebrew University of Jerusalem)",
+                "Thomas Schneider (Technische Universit\u00e4t Darmstadt)"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_021",
+            "title": "SmartVLC: When Smart Lighting Meets VLC",
+            "authors": [
+                "Hongjia Wu",
+                "Qing Wang (Delft University of Technology)",
+                "Jie Xiong (Singapore Management University)",
+                "Marco Zuniga (Delft University of Technology)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_022",
+            "title": "Studying TLS usage in Android apps",
+            "authors": [
+                "Abbas Razaghpanah",
+                "Arian Akhavan Niaki (Stony Brook University)",
+                "Narseo Vallina-Rodriguez (IMDEA Networks Institute, ICSI)",
+                "Srikanth Sundaresan (Princeton University)",
+                "Johanna Amann (ICSI)",
+                "Phillipa Gill (University of Massachusetts Amherst)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_023",
+            "title": "Supporting Diverse Dynamic Intent-based Policies using Janus",
+            "authors": [
+                "Anubhavnidhi Abhashkumar (University of Wisconsin Madison)",
+                "Joon-Myung Kang (Hewlett Packard Labs)",
+                "Sujata Banerjee (VMware)",
+                "Aditya Akella (University of Wisconsin Madison)",
+                "Ying Zhang (Facebook)",
+                "Wenfei Wu (Tsinghua University)"
+            ],
+            "topics": [
+                "Network",
+                "OS"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_024",
+            "title": "Tagger: Practical PFC Deadlock Prevention in Data Center Networks",
+            "authors": [
+                "Shuihai Hu (Hong Kong University of Science and Technology)",
+                "Yibo Zhu (Microsoft Research)",
+                "Peng Cheng (Microsoft Research Asia)",
+                "Chuanxiong Guo (Microsoft Research)",
+                "Kun Tan (Huawei)",
+                "Jitendra Padhye (Microsoft Research)",
+                "Kai Chen (Hong Kong University of Science and Technology)"
+            ],
+            "topics": [
+                "Cloud",
+                "Network",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_025",
+            "title": "TCP Congestion Control Beyond Bandwidth-Delay Product for Mobile Cellular Networks",
+            "authors": [
+                "Wai Kay Leong",
+                "Wang Zixiao",
+                "Ben Leong (National University of Singapore)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_026",
+            "title": "Towards Network Intrusion Detection at ISP Scale",
+            "authors": [
+                "Azeem Aqil",
+                "Karim Khalil",
+                "Ahmed O. F. Atya",
+                "Evangelos E. Papalexakis",
+                "Srikanth Krishnamurthy (ucr.edu University of California, Riverside ucr.edu)",
+                "Trent Jaeger (The Pennsylvania State University)",
+                "K. K. Ramakrishnan (University of California, Riverside ucr.edu)",
+                "Paul Yu",
+                "Ananthram Swami (U.S. Army Research Laboratory)"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_027",
+            "title": "Towards Reliable Application Deployment in the Cloud",
+            "authors": [
+                "Ruichuan Chen",
+                "Istemi Ekin Akkus (Nokia Bell Labs)",
+                "Bimal Viswanath (UC Santa Barbara)",
+                "Ivica Rimac",
+                "Volker Hilt (Nokia Bell Labs)"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_028",
+            "title": "Towards unlicensed cellular networks in TV white spaces",
+            "authors": [
+                "Ghufran Baig (The University of Texas at Austin)",
+                "Dan Alistarh (ETH Zurich)",
+                "Thomas Karagiannis",
+                "Bozidar Radunovic",
+                "Matthew Balkwill (Microsoft Research)",
+                "Lili Qiu (The University of Texas at Austin)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_029",
+            "title": "Typhoon: An SDN Enhanced Real-Time Big Data Streaming Framework",
+            "authors": [
+                "Junguk Cho (University of Utah)",
+                "Hyunseok Chang",
+                "Sarit Mukherjee",
+                "T. V. Lakshman (Nokia Bell Labs)",
+                "Jacobus Van der Merwe (University of Utah)"
+            ],
+            "topics": [
+                "Data",
+                "Network",
+                "OS"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_030",
+            "title": "CLOVE: Congestion-Aware Load Balancing at the Virtual Edge",
+            "authors": [
+                "Naga Katta (Salesforce.com)",
+                "Aditi Ghag",
+                "Mukesh Hira (VMware)",
+                "Aran Bergman (Technion)",
+                "Isaac Keslassy (Technion, VMware)",
+                "Changhoon Kim (Barefoot Networks)",
+                "Jennifer Rexford (Princeton University)"
+            ],
+            "topics": [
+                "OS",
+                "Network",
+                "VM"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_031",
+            "title": "Zero Overhead Device Tracking in 60 GHz Wireless Networks using Multi-Lobe Beam Patterns",
+            "authors": [
+                "Adrian Loch (IMDEA Networks Institute)",
+                "Hany Assasa",
+                "Joan Palacios (IMDEA Networks Institute, Universidad Carlos III de Madrid)",
+                "Joerg Widmer (IMDEA Networks Institute)",
+                "Hans Suys",
+                "Bj\u00f6rn Debaillie (IMEC)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CoNEXT_17_032",
+            "title": "ZipNet-GAN: Inferring Fine-grained Mobile Traffic Patterns via a Generative Adversarial Neural Network",
+            "authors": [
+                "Chaoyun Zhang (The University of Edinburgh)",
+                "Xi Ouyang (Huazhong University of Science and Technology)",
+                "Paul Patras (The University of Edinburgh)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        }
+    ]
+}

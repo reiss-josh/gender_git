@@ -1,0 +1,9 @@
+{
+    "path" : "~/gender",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

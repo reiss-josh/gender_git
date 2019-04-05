@@ -1,0 +1,715 @@
+{
+    "key": "SOSP_17",
+    "conference": "Symposium on Operating Systems Principles",
+    "organization": [
+        "ACM",
+        "USENIX"
+    ],
+    "country": "CN",
+    "postdate": "2017-10-29",
+    "last_deadline": "2017-04-21",
+    "review_days": 90,
+    "submissions": 232,
+    "min_reviews": 3,
+    "total_reviews": 1131,
+    "double_blind": true,
+    "rebuttal": true,
+    "open_access": true,
+    "age": 50,
+    "past_papers": 1066,
+    "past_citations": 48971,
+    "h5_index": 39,
+    "h5_median": 93,
+    "notes": "Using OSDI GS metrics (h5) because OSDI and SOSP alternate every other year, and are essentially 'one' conference. Similarly, the past_papers/citations metrics are combined. During the first round, each paper received at least 3 reviews. 76 papers made it to the second round and about half of those got 3-4 more reviews. These reviews tend to be much longer and more elaborate than other conferences. Author rebuttal did move a handful of papers from 'maybe' to a decision (either way). Each accepted paper was shepherded by a PC member. Authors and shepherd work closely for about a month to refine the paper, and the shepherd has the authority to reject the paper (although none has). ",
+    "pc_chairs": [
+        "Lorenzo Alvisi (University of Texas at Austin/Cornell University)",
+        "Peter M. Chen (University of Michigan)"
+    ],
+    "pc_members": [
+        "Marcos K. Aguilera (VMware Research Group)",
+        "Aditya Akella (University of Wisconsin\u2013Madison)",
+        "Lorenzo Alvisi (University of Texas at Austin/Cornell University )",
+        "Remzi Arpaci-Dusseau (University of Wisconsin\u2013Madison)",
+        "Mona Attariyan (Google)",
+        "Emery Berger (UMass Amherst)",
+        "George Candea (EPFL)",
+        "Miguel Castro (Microsoft)",
+        "Haibo Chen (Shanghai Jiao Tong University)",
+        "Wenguang Chen (Tsinghua University)",
+        "Peter M. Chen (University of Michigan)",
+        "Byung-Gon Chun (Seoul National University)",
+        "Landon Cox (Duke University)",
+        "Mike Dahlin (Google)",
+        "Peter Druschel (MPI-SWS)",
+        "Jason Flinn (University of Michigan)",
+        "Roxana Geambasu (Columbia University)",
+        "Johannes Gehrke (Microsoft)",
+        "Cristiano Giuffrida (Vrije Universiteit Amsterdam)",
+        "Ashvin Goel (University of Toronto)",
+        "Andreas Haeberlen (University of Pennsylvania)",
+        "Tim Harris (Oracle)",
+        "Gernot Heiser (UNSW Australia and Data61)",
+        "Henry Hoffmann (University of Chicago)",
+        "Jon Howell (Google)",
+        "Rebecca Isaacs (Google)",
+        "M. Frans Kaashoek (MIT)",
+        "Manos Kapritsos (University of Michigan)",
+        "Brad Karp (University College London)",
+        "Eddie Kohler (Harvard University)",
+        "Ramakrishna Kotla (Amazon)",
+        "Arvind Krishnamurthy (University of Washington)",
+        "Jacob R. Lorch (Microsoft)",
+        "Shan Lu (University of Chicago)",
+        "James Mickens (Harvard University)",
+        "Thomas Moscibroda (Microsoft)",
+        "Madan Musuvathi (Microsoft)",
+        "John Ousterhout (Stanford University)",
+        "Simon Peter (University of Texas at Austin)",
+        "Don Porter (UNC-Chapel Hill)",
+        "Dan Ports (University of Washington)",
+        "Michael Reiter (UNC-Chapel Hill)",
+        "Rodrigo Rodrigues (IST U. Lisboa and INESC-ID)",
+        "Chris Rossbach (University of Texas at Austin)",
+        "Marco Serafini (Qatar Computing Research Institute)",
+        "Mark Silberstein (Technion-Israel Institute of Technology)",
+        "Ion Stoica (UC Berkeley)",
+        "Michael M. Swift (University of Wisconsin\u2013Madison)",
+        "Douglas B. Terry (Amazon Web Services)",
+        "Robbert van Renesse (Cornell University)",
+        "Geoffrey M. Voelker (UC San Diego)",
+        "Michael Walfish (New York University)",
+        "Junfeng Yang (Columbia University)",
+        "Ding Yuan (University of Toronto)",
+        "Nickolai Zeldovich (MIT)",
+        "Yuanyuan Zhou (UC San Diego)"
+    ],
+    "keynote_speakers": [],
+    "session_chairs": [
+        "Shan Lu",
+        "Geoffrey M. Voelker (UC San Diego)",
+        "Aditya Akella",
+        "Rebecca Isaacs",
+        "Don Porter (UNC-Chapel Hill)",
+        "Manos Kapritsos",
+        "Peter Druschel",
+        "Robbert van Renesse",
+        "Brad Karp",
+        "M. Frans Kaashoek",
+        "Miguel Castro",
+        "Jason Flinn",
+        "Byung-Gon Chun"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "SOSP_17_001",
+            "title": "DeepXplore: Automated Whitebox Testing of Deep Learning Systems",
+            "authors": [
+                "Kexin Pei (Columbia University)",
+                "Yinzhi Cao (Lehigh University)",
+                "Junfeng Yang",
+                "Suman Jana (Columbia University)"
+            ],
+            "topics": [
+                "Data"
+            ],
+            "award": true
+        },
+        {
+            "key": "SOSP_17_002",
+            "title": "Pensieve: Non-Intrusive Failure Reproduction for Distributed Systems using the Event Chaining Approach",
+            "authors": [
+                "Yongle Zhang",
+                "Serguei Makarov",
+                "Xiang Ren",
+                "David Lion",
+                "Ding Yuan (University of Toronto)"
+            ],
+            "topics": [
+                "OS",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SOSP_17_003",
+            "title": "Canopy: An End-to-End Performance Tracing And Analysis System",
+            "authors": [
+                "Jonathan Kaldor (Facebook)",
+                "Jonathan Mace (Brown University)",
+                "Micha\u0142 Bejda",
+                "Edison Gao",
+                "Joe O'Neill",
+                "Kian Win Ong",
+                "Bill Schaller",
+                "Pingjia Shan",
+                "Brendan Viscomi",
+                "Vinod Venkataraman",
+                "Kaushik Veeraraghavan",
+                "Yee Jiun Song (Facebook)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "SOSP_17_004",
+            "title": "Algorand: Scaling Byzantine Agreements for Cryptocurrencies",
+            "authors": [
+                "Yossi Gilad (MIT CSAIL / Boston University)",
+                "Rotem Hemo",
+                "Silvio Micali",
+                "Georgios Vlachos",
+                "Nickolai Zeldovich (MIT CSAIL)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SOSP_17_005",
+            "title": "Scaling a file system to many cores using an operation log",
+            "authors": [
+                "Srivatsa S. Bhat (MIT CSAIL and VMware)",
+                "Rasha Eqbal (MIT CSAIL and Apple)",
+                "Austin T. Clements (MIT CSAIL and Google)",
+                "M. Frans Kaashoek",
+                "Nickolai Zeldovich (MIT CSAIL)"
+            ],
+            "topics": [
+                "Storage",
+                "Concurrency",
+                "OS"
+            ]
+        },
+        {
+            "key": "SOSP_17_006",
+            "title": "SVE: Distributed Video Processing at Facebook Scale",
+            "authors": [
+                "Qi Huang",
+                "Petchean Ang",
+                "Peter Knowles",
+                "Tomasz Nykiel",
+                "Iaroslav Tverdokhlib",
+                "Amit Yajurvedi",
+                "Paul Dapolito IV",
+                "Xifan Yan",
+                "Maxim Bykov",
+                "Chuen Liang",
+                "Mohit Talwar",
+                "Abhishek Mathur",
+                "Sachin Kulkarni (Facebook)",
+                "Matthew Burke (University of Southern California, Facebook, Cornell)",
+                "Wyatt Lloyd (University of Southern California, Facebook, Princeton)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "SOSP_17_007",
+            "title": "Eris: Coordination-Free Consistent Transactions Using In-Network Concurrency Control",
+            "authors": [
+                "Jialin Li",
+                "Ellis Michael",
+                "Dan Ports (University of Washington)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Network"
+            ]
+        },
+        {
+            "key": "SOSP_17_008",
+            "title": "NetCache: Balancing Key-Value Stores with Fast In-Network Caching",
+            "authors": [
+                "Xin Jin (Johns Hopkins University)",
+                "Xiaozhou Li (Barefoot Networks)",
+                "Haoyu Zhang (Princeton University)",
+                "Robert Soul\u00e9 (Barefoot Networks and Universit\u00e0 della Svizzera italiana)",
+                "Jeongkeun Lee (Barefoot Networks)",
+                "Nate Foster (Barefoot Networks and Cornell University)",
+                "Changhoon Kim (Barefoot Networks)",
+                "Ion Stoica (UC Berkeley)"
+            ],
+            "topics": [
+                "Network",
+                "Storage"
+            ]
+        },
+        {
+            "key": "SOSP_17_009",
+            "title": "KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC",
+            "authors": [
+                "Bojie Li (USTC and Microsoft Research)",
+                "Zhenyuan Ruan (UCLA and Microsoft Research)",
+                "Wencong Xiao (Beihang University and Microsoft Research)",
+                "Yuanwei Lu (USTC and Microsoft Research)",
+                "Yongqiang Xiong (Microsoft Research)",
+                "Andrew Putnam (Microsoft)",
+                "Enhong Chen (USTC)",
+                "Lintao Zhang (Microsoft Research)"
+            ],
+            "topics": [
+                "Storage",
+                "Network"
+            ]
+        },
+        {
+            "key": "SOSP_17_010",
+            "title": "Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms",
+            "authors": [
+                "Eli Cortez (Microsoft)",
+                "Anand Bonde (Microsoft Research)",
+                "Alexandre Muzio (ITA, Brazil)",
+                "Mark Russinovich",
+                "Marcus Fontoura (Microsoft)",
+                "Ricardo Bianchini (Microsoft Research)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Cloud",
+                "OS"
+            ]
+        },
+        {
+            "key": "SOSP_17_011",
+            "title": "MittOS: Supporting Millisecond Tail Tolerance with Fast Rejecting SLO-Aware OS Interface",
+            "authors": [
+                "Mingzhe Hao",
+                "Huaicheng Li",
+                "Michael Hao Tong",
+                "Chrisma Pakha",
+                "Riza O. Suminto",
+                "Cesar A. Stuardo",
+                "Andrew A. Chien",
+                "Haryadi Gunawi (University of Chicago)"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "SOSP_17_012",
+            "title": "Monotasks: Architecting for Performance Clarity in Data Analytics Frameworks",
+            "authors": [
+                "Kay Ousterhout (UC Berkeley)",
+                "Christopher Canel (Carnegie Mellon University)",
+                "Sylvia Ratnasamy (UC Berkeley)",
+                "Scott Shenker (UC Berkeley, ICSI)"
+            ],
+            "topics": [
+                "OS",
+                "Data"
+            ]
+        },
+        {
+            "key": "SOSP_17_013",
+            "title": "NEVE: Nested Virtualization Extensions for ARM",
+            "authors": [
+                "Jin Tack Lim",
+                "Christoffer Dall",
+                "Shih-Wei Li",
+                "Jason Nieh (Columbia University)",
+                "Marc Zyngier (ARM Ltd)"
+            ],
+            "topics": [
+                "VM",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "SOSP_17_014",
+            "title": "My VM is Lighter (and Safer) than your Container",
+            "authors": [
+                "Filipe Manco (NEC Europe Ltd.)",
+                "Costin Lupu (University Politehnica of Bucharest)",
+                "Florian Schmidt",
+                "Jose Mendes",
+                "Simon Kuenzer",
+                "Sumit Sati",
+                "Kenichi Yasukata (NEC Europe Ltd.)",
+                "Costin Raiciu (University Politehnica of Bucharest)",
+                "Felipe Huici (NEC Europe Ltd.)"
+            ],
+            "topics": [
+                "VM",
+                "OS"
+            ]
+        },
+        {
+            "key": "SOSP_17_015",
+            "title": "Multiprogramming a 64 kB Computer Safely and Efficiently",
+            "authors": [
+                "Amit Levy (Stanford University)",
+                "Bradford Campbell (University of Virginia)",
+                "Branden Ghena (University of California, Berkeley)",
+                "Daniel B Giffin (Stanford University)",
+                "Pat Pannuto",
+                "Prabal Dutta (University of California, Berkeley)",
+                "Philip Levis (Stanford University)"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "SOSP_17_016",
+            "title": "Hyperkernel: Push-Button Verification of an OS Kernel",
+            "authors": [
+                "Luke Nelson",
+                "Helgi Sigurbjarnarson",
+                "Kaiyuan Zhang",
+                "Dylan Johnson",
+                "James Bornholt",
+                "Emina Torlak",
+                "Xi Wang (University of Washington)"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "SOSP_17_017",
+            "title": "Verifying a high-performance crash-safe file system using a tree specification",
+            "authors": [
+                "Haogang Chen (Databricks)",
+                "Tej Chajed (MIT CSAIL)",
+                "Stephanie Wang (UC Berkeley)",
+                "Alex Konradi",
+                "Atalay Ileri",
+                "Adam Chlipala",
+                "M. Frans Kaashoek",
+                "Nickolai Zeldovich (MIT CSAIL)"
+            ],
+            "topics": [
+                "Storage",
+                "OS"
+            ]
+        },
+        {
+            "key": "SOSP_17_018",
+            "title": "Komodo: Using verification to disentangle secure-enclave hardware from software",
+            "authors": [
+                "Andrew Ferraiuolo (Cornell University)",
+                "Andrew Baumann",
+                "Chris Hawblitzel (Microsoft Research)",
+                "Bryan Parno (Carnegie Mellon University)"
+            ],
+            "topics": [
+                "Security",
+                "OS"
+            ]
+        },
+        {
+            "key": "SOSP_17_019",
+            "title": "LITE Kernel RDMA Support for Datacenter Applications",
+            "authors": [
+                "Shin-Yeh Tsai",
+                "Yiying Zhang (Purdue University)"
+            ],
+            "topics": [
+                "OS",
+                "Network",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "SOSP_17_020",
+            "title": "ZygOS: Achieving Low Tail Latency for Microsecond-scale Networked Tasks",
+            "authors": [
+                "George Prekas",
+                "Marios Kogias",
+                "Edouard Bugnion (EPFL)"
+            ],
+            "topics": [
+                "Network",
+                "OS"
+            ]
+        },
+        {
+            "key": "SOSP_17_021",
+            "title": "ffwd: delegation is (much) faster than you think",
+            "authors": [
+                "Sepideh Roghanchi",
+                "Jakob Eriksson",
+                "Nilanjana Basu (University of Illinois at Chicago)"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "SOSP_17_022",
+            "title": "Automatically Repairing Network Control Planes Using an Abstract Representation",
+            "authors": [
+                "Aaron Gember-Jacobson (Colgate University)",
+                "Aditya Akella (University of Wisconsin-Madison)",
+                "Ratul Mahajan (IntentionNet)",
+                "Hongqiang Liu (Microsoft Research)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "SOSP_17_023",
+            "title": "Drizzle: Fast and Adaptable Stream Processing at Scale",
+            "authors": [
+                "Shivaram Venkataraman",
+                "Aurojit Panda",
+                "Kay Ousterhout (UC Berkeley)",
+                "Ali Ghodsi (UC Berkeley / Databricks)",
+                "Michael Armbrust (Databricks)",
+                "Benjamin Recht (UC Berkeley)",
+                "Michael J. Franklin (UC Berkeley / University of Chicago)",
+                "Ion Stoica (UC Berkeley)"
+            ],
+            "topics": [
+                "Network",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SOSP_17_024",
+            "title": "Rocksteady: Fast Migration for Low-latency In-memory Storage",
+            "authors": [
+                "Chinmay Kulkarni",
+                "Aniraj Kesavan",
+                "Tian Zhang",
+                "Robert Ricci",
+                "Ryan Stutsman (University of Utah)"
+            ],
+            "topics": [
+                "OS",
+                "Storage"
+            ]
+        },
+        {
+            "key": "SOSP_17_025",
+            "title": "Atom: Horizontally Scaling Strong Anonymity",
+            "authors": [
+                "Albert Kwon (MIT)",
+                "Henry Corrigan-Gibbs (Stanford)",
+                "Srinivas Devadas (MIT)",
+                "Bryan Ford (EPFL)"
+            ],
+            "topics": [
+                "Security",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SOSP_17_026",
+            "title": "Stadium: A Distributed Metadata-Private Messaging System",
+            "authors": [
+                "Nirvan Tyagi (Cornell University)",
+                "Yossi Gilad (MIT CSAIL/Boston University)",
+                "Derek Leung (MIT CSAIL)",
+                "Matei Zaharia (Stanford)",
+                "Nickolai Zeldovich (MIT CSAIL)"
+            ],
+            "topics": [
+                "Security",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SOSP_17_027",
+            "title": "Prochlo: Strong Privacy for Analytics in the Crowd",
+            "authors": [
+                "Andrea Bittau",
+                "\u00dalfar Erlingsson",
+                "Petros Maniatis",
+                "Ilya Mironov",
+                "Ananth Raghunathan (Google Brain)",
+                "David Lie (Google Brain & University of Toronto)",
+                "Mitch Rudominer",
+                "Usharee Kode",
+                "Julien Tinnes",
+                "Bernhard Seefeld (Google Inc.)"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "SOSP_17_028",
+            "title": "Strata: A Cross Media File System",
+            "authors": [
+                "Youngjin Kwon",
+                "Henrique Fingler",
+                "Tyler Hunt",
+                "Simon Peter",
+                "Emmett Witchel (UT Austin)",
+                "Thomas Anderson (University of Washington)"
+            ],
+            "topics": [
+                "Storage",
+                "OS"
+            ]
+        },
+        {
+            "key": "SOSP_17_029",
+            "title": "NOVA-Fortis: A Fault-Tolerant Non-Volatile Main Memory File System",
+            "authors": [
+                "Jian Xu",
+                "Lu Zhang",
+                "Amirsaman Memaripour",
+                "Akshatha Gangadharaiah",
+                "Amit Borase",
+                "Tamires Brito Da Silva (UC San Diego)",
+                "Andy Rudoff (Intel)",
+                "Steven Swanson (UC San Diego)"
+            ],
+            "topics": [
+                "Storage",
+                "OS"
+            ]
+        },
+        {
+            "key": "SOSP_17_030",
+            "title": "PebblesDB: Building Key-Value Stores using Fragmented Log-Structured Merge Trees",
+            "authors": [
+                "Pandian Raju",
+                "Rohan Kadekodi (University of Texas at Austin)",
+                "Vijay Chidambaram (University of Texas at Austin and VMware Research)",
+                "Ittai Abraham (VMware Research)"
+            ],
+            "topics": [
+                "Storage",
+                "OS"
+            ]
+        },
+        {
+            "key": "SOSP_17_031",
+            "title": "WatchIT: Who Watches Your IT Guy?",
+            "authors": [
+                "Noam Shalev",
+                "Idit Keidar (Technion)",
+                "Yaron Weinsberg (Microsoft)",
+                "Yosef Moatti",
+                "Elad Ben-Yehuda (IBM Research)"
+            ],
+            "topics": [
+                "Security",
+                "OS"
+            ]
+        },
+        {
+            "key": "SOSP_17_032",
+            "title": "Secure Page Fusion with VUsion",
+            "authors": [
+                "Marco Oliverio (Vrije Universiteit Amsterdam and University of Calabria)",
+                "Kaveh Razavi",
+                "Herbert Bos",
+                "Cristiano Giuffrida (Vrije Universiteit Amsterdam)"
+            ],
+            "topics": [
+                "Security",
+                "OS"
+            ]
+        },
+        {
+            "key": "SOSP_17_033",
+            "title": "The Efficient Server Audit Problem, Deduplicated Re-execution, and the Web",
+            "authors": [
+                "Cheng Tan",
+                "Lingfan Yu (NYU)",
+                "Joshua B. Leners (Two Sigma)",
+                "Michael Walfish (NYU)"
+            ],
+            "topics": [
+                "Security",
+                "OS"
+            ],
+            "award": true
+        },
+        {
+            "key": "SOSP_17_034",
+            "title": "Log20: Fully Automated Optimal Placement of Log Printing Statements under Specified Overhead Threshold",
+            "authors": [
+                "Xu Zhao",
+                "Kirk Rodrigues",
+                "Yu Luo",
+                "Michael Stumm",
+                "Ding Yuan (University of Toronto)",
+                "Yuanyuan Zhou (University of California, San Diego)"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "SOSP_17_035",
+            "title": "Lazy Diagnosis of In-Production Concurrency Bugs",
+            "authors": [
+                "Baris Kasikci (University of Michigan and Microsoft Research)",
+                "Weidong Cui",
+                "Xinyang Ge",
+                "Ben Niu (Microsoft Research)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SOSP_17_036",
+            "title": "CrystalNet: Faithfully Emulating Large Production Networks",
+            "authors": [
+                "Hongqiang Harry Liu",
+                "Yibo Zhu (Microsoft Research)",
+                "Jitu Padhye",
+                "Jiaxin Cao",
+                "Sri Tallapragada (Microsoft)",
+                "Nuno P. Lopes",
+                "Andrey Rybalchenko (Microsoft Research)",
+                "Guohan Lu",
+                "Lihua Yuan (Microsoft)"
+            ],
+            "topics": [
+                "Network",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "SOSP_17_037",
+            "title": "Sub-millisecond Stateful Stream Querying over Fast-evolving Linked Data",
+            "authors": [
+                "Yunhao Zhang",
+                "Rong Chen",
+                "Haibo Chen (Shanghai Jiao Tong University)"
+            ],
+            "topics": [
+                "Data",
+                "Network"
+            ]
+        },
+        {
+            "key": "SOSP_17_038",
+            "title": "Optimizing Big-Data Queries Using Program Synthesis",
+            "authors": [
+                "Matthias Schlaipfer (TU Wien)",
+                "Kaushik Rajan",
+                "Akash Lal (Microsoft)",
+                "Malavika Samak (MIT)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SOSP_17_039",
+            "title": "Low-Latency Analytics on Colossal Data Streams with SummaryStore",
+            "authors": [
+                "Nitin Agrawal",
+                "Ashish Vulimiri (Samsung Research)"
+            ],
+            "topics": [
+                "Data",
+                "Network"
+            ]
+        }
+    ]
+}

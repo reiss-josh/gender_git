@@ -1,0 +1,1963 @@
+{
+    "key": "IPDPS_17",
+    "conference": "International Parallel and Distributed Processing Symposium",
+    "organization": [
+        "IEEE"
+    ],
+    "country": "US",
+    "postdate": "2017-05-29",
+    "last_deadline": "2016-10-23",
+    "review_days": 77,
+    "submissions": 508,
+    "min_reviews": 4,
+    "total_reviews": 2321,
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 31,
+    "past_papers": 4885,
+    "past_citations": 24678,
+    "h5_index": 41,
+    "h5_median": 59,
+    "notes": "The traditional rebuttal process was replaced by specific questions and answers. Papers came from 44 different countries. The program web page lists 117 papers, but one of them ('Application Level Reordering of Remote Direct Memory Access Operations') is actually repeated, so only 116 really exist.",
+    "pc_chairs": [
+        "Marc Snir (UIUC, Illinois)",
+        "Pierre Fraigniaud (IRIF, France)",
+        "Robert D. Moser (UT Austin, USA)",
+        "George Biros (UTA, University of Texas, Austin, USA)",
+        "Hillery Hunter (IBM Research, USA)",
+        "Robert Senger (IBM Research, USA)",
+        "Pavan Balaji (Argonne National Laboratory, USA)",
+        "Sunita Chandrasekaran (University of Delaware, USA)",
+        "Torsten Hoefler (ETH Zurich, Switzerland)"
+    ],
+    "pc_members": [
+        "Ittai Abraham (VMware Research)",
+        "David Abramson (University of Queensland)",
+        "Ahmad Afsahi (Queen's University)",
+        "Jung Ho Ahn (Seoul National University)",
+        "Ashwin Aji (Advanced Micro Devices)",
+        "Susanne Albers (Technical University of Munich)",
+        "Srinivas Aluru (Georgia Institute of Technology)",
+        "Nancy Amato (Texas A&M University)",
+        "Abdelhalim Amer (Argonne National Laboratory)",
+        "Murali Annavaram (University of Southern California)",
+        "Edoardo Apra (Pacific Northwest National Laboratory)",
+        "Chen Avin (Ben Gurion University)",
+        "Yossi Azar (Tel-Aviv University)",
+        "Ramesh Balakrishnan (Argonne National Laboratory)",
+        "Grey Ballard (Wake Forest University)",
+        "Nikhil Bansal (Eindhoven University of Technology)",
+        "Bill Barth (Texas Advanced Computing Center)",
+        "Sanjeev Baskiyar (Auburn University)",
+        "Olivier Beaumont (INRIA - Institute for Research in Computer Science and Automation)",
+        "Costas Bekas (IBM Zurich)",
+        "James Belak (Lawrence Livermore National Laboratory)",
+        "Anne Benoit (Ecole Nationale Superieure Lyon)",
+        "Petra Berenbrink (Simon Fraser University & Univeristy of Hamburg)",
+        "Martin Berzins (University of Utah)",
+        "Abhinav Bhatele (Lawrence Livermore National Laboratory)",
+        "David Bindel (Cornell University)",
+        "L\u00e9lia Blin (University of Evry, LIP6)",
+        "Matthias Blumrich (NVIDIA)",
+        "Daniel Bodony (University of Illinois at Urbana-Champaign)",
+        "Mahdi Nazm Bojnordi (University of Utah)",
+        "Taisuke Boku (University of Tsukuba)",
+        "Borzoo Bonakdarpour (McMaster University)",
+        "Silvia Bonomi (University of Roma La Sapienza)",
+        "Ronald Brightwell (Sandia National Laboratories)",
+        "Jed Brown (University of Colorado)",
+        "Aydin Bulu\u00e7 (Lawrence Berkeley National Laboratory)",
+        "Costas Busch (Louisiana State University)",
+        "Xiao-Chuan Cai (University of Colorado)",
+        "Tiziana Calamoneri (Sapienza University of Rome)",
+        "Ramon Canal (UPC -- Polytechnic University of Catalonia)",
+        "Andrew Canning (Lawrence Berkeley National Laboratory)",
+        "Laura Carrington (San Diego Supercomputing Center - PMaC Lab)",
+        "Henri Casanova (University of Hawaii at Manoa)",
+        "\u00dcmit V. \u00c7ataly\u00fcrek (Georgia Institute of Technology)",
+        "Jichuan Chang (Google)",
+        "Kyle Chard (University of Chicago)",
+        "Niladrish Chatterjee (NVIDIA)",
+        "Mainak Chaudhuri (IIT Kanpur)",
+        "Fabio Checconi (IBM Watson)",
+        "Jackie Chen (Sandia National Laboratories)",
+        "Yunji Chen (Chinese Academy of Sciences)",
+        "Zizhong Chen (University of California Riverside)",
+        "Sung Woo Chung (Korea University)",
+        "Andrea Clementi (University of Rome Tor Vergata)",
+        "Pierluigi Crescenzi (University of Florence)",
+        "Adrian Cristal (Barcelona Supercomputing Center)",
+        "Artur Czumaj (University of Warwick)",
+        "Jurek Czyzowicz (Universit\u00e9 du Qu\u00e9bec en Outaouais)",
+        "Anthony Danalis (University of Tennessee, Knoxville)",
+        "Reetuparna Das (University of Michigan)",
+        "Marcus Day (Lawrence Berkeley National Laboratory)",
+        "C\u00e9sar A. F. de Rose (Pontifical Catholic University of Rio Grande do Sul)",
+        "Bronis R. de Supinski (Lawrence Livermore National Laboratory)",
+        "Carole Delporte (University Paris Diderot)",
+        "Frederic Desprez (INRIA - Institute for Research in Computer Science and Automation)",
+        "Karen Devine (Sandia National Laboratories)",
+        "Benjamin Doerr (Ecole Polytechnique, Paris)",
+        "Carola Doerr (CNRS and University Paris 6)",
+        "Shlomi Dolev (Ben Gurion University)",
+        "Robert Elsasser (University of Salzburg)",
+        "Toshio Endo (Tokyo institute of Technology)",
+        "Dan Ernst (Cray)",
+        "Trilce Estrada (University of New Mexico)",
+        "Ittay Eyal (Cornell University)",
+        "Martin Farach-Colton (Rutgers University)",
+        "Saber Feki (KAUST - King Abdullah University of Science and Technology)",
+        "Pascal Felber (University of Neuch\u00e2tel)",
+        "Wu Feng (Virginia Tech)",
+        "Michele Flammini (University of L'Aquila & Gran Sasso Science Institute)",
+        "Paola Flocchini (Ottawa University)",
+        "Martti Forsell (VTT Technical Research Center of Finland. Oulu)",
+        "Pierre Fraigniaud (CNRS & University Paris Diderot)",
+        "Manisha Gajbe (Intel)",
+        "Todd Gamblin (Lawrence Livermore National Laboratory)",
+        "Mar\u00eda Jes\u00fas Garzar\u00e1n (University of Illinois, USA)",
+        "Leszek Gasieniec (University of Liverpool)",
+        "Timothy Germann (Los Alamos National Laboratory)",
+        "George Giakkoupis (INRIA - Institute for Research in Computer Science and Automation)",
+        "Diana Goehringer (Ruhr-University Bochum)",
+        "Maya Gokhale (Lawrence Livermore National Laboratory)",
+        "Robin Goldstone (Lawrence Livermore National Laboratory)",
+        "Kartik Gopalan (State University of New York Binghamton)",
+        "Madhusudhan Govindaraju (State University of New York Binghamton)",
+        "Ryan Grant (Sandia National Laboratories)",
+        "Rachid Guerraoui (EPFL - \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne)",
+        "Apala Guha (Simon Fraser University)",
+        "Xiaochen Guo (Lehigh)",
+        "Yanfei Guo (Argonne National Laboratory)",
+        "Sam Gutierrez (Los Alamos National Laboratory)",
+        "Georg Hager (FAU - Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg)",
+        "Mohammad Taghi Hajiaghayi (University of Maryland)",
+        "Kyle Hale (Illinois Institute of Technology)",
+        "Magnus M. Halld\u00f3rsson (Reykjavik University)",
+        "Jeff R. Hammond (Intel)",
+        "Simon D. Hammond (Sandia National Laboratories)",
+        "Robert Harrison (Stony Brook University)",
+        "Aaron Harwood (University of Melbourne)",
+        "Bingsheng He (National University of Singagore)",
+        "Alexander Heinecke (Intel)",
+        "Michael Heroux (Sandia National Laboratories)",
+        "Mark Hoemmen (Sandia National Laboratories)",
+        "Nima Honarmand (Stony Brook University)",
+        "Yu Hua (Huazhong University of Science and Technology)",
+        "H. Howie Huang (George Washington University)",
+        "Zhiyi Huang (University of Otago)",
+        "Chris Hughes (Intel)",
+        "Jaehyuk Huh (KAIST -- Public university in Daejeon)",
+        "Mike Ignatowski (AMD)",
+        "Koji Inoue (Kyushu University)",
+        "Kamil Iskra (Argonne National Laboratory)",
+        "Christian Iwainsky (Technical University of Darmstadt)",
+        "Adrian Jackson (EPCC, The University of Edinburgh)",
+        "Arpith Jacob (IBM Watson)",
+        "Byunghyun Jang (University of Mississippi)",
+        "Ken Jansen (University of Colorado)",
+        "Emmanuel Jeannot (INRIA - Institute for Research in Computer Science and Automation)",
+        "Lizy K. John (UT Austin)",
+        "Colette Johnen (University of Bordeaux)",
+        "Jithin Jose (Intel)",
+        "Wayne Joubert (Oak Ridge National Laboratory)",
+        "Guido Juckeland (Helmholtz-Zentrum Dresden-Rossendorf )",
+        "Mahmut T. Kandemir (Penn State University)",
+        "Ulya R. Karpuzcu (University of Minnesota)",
+        "Daniel S. Katz (National Center for Supercomputing Applications, Illinois)",
+        "John Kim (KAIST -- Public university in Daejeon)",
+        "Michael Klemm (Intel)",
+        "Matthew Knepley (Rice University)",
+        "Andreas Knuepfer (Technical University of Dresden)",
+        "Tamara G. Kolda (Sandia National Laboratories)",
+        "Kishore Kothapalli (IIT-Indian Institute of Information Technology Hyderabad)",
+        "Evangelos Kranakis (Carleton University)",
+        "Rolf Krause (USI - Universit\u00e0 della Svizzera Italiana)",
+        "Robert Krauthgamer (Weizmann Institute of Science)",
+        "Venkittaraman Pallipuram Krishnamani (University of the Pacific)",
+        "Sriram Krishnamoorthy (Pacific Northwest National Laboratory)",
+        "Palden Lama (University of Texas San Antonio)",
+        "Jeff Larkin (NVIDIA)",
+        "Silvio Lattanzi (Google)",
+        "Seyong Lee (Oak Ridge National Laboratory)",
+        "John Leidel (Texas Tech University)",
+        "Chao Li (Qualcomm)",
+        "Dong Li (University of Calfornia Merced)",
+        "Shigang Li (Institute of Computing Technology, Chinese Academy of Sciences)",
+        "Tao Li (National Science Foundation/University of Florida)",
+        "Xiaoye Sherry Li (Lawrence Berkeley National Laboratory)",
+        "Jason Liu (Florida InterNational University)",
+        "Yongchao Liu (Georgia Institute of Technology)",
+        "James Lin (Shanghai Jiao Tong University)",
+        "Teng Long (University of Maryland)",
+        "Graham Lopez (Oak Ridge National Laboratory)",
+        "Alex Lopez-Ortiz (University of Waterloo)",
+        "Hatem Ltaief (KAUST - King Abdullah University of Science and Technology)",
+        "Andrew Lumsdaine (Pacific Northwest National Laboratory)",
+        "Piotr R. Luszczek (University of Tennessee Knoxville)",
+        "Kamesh Madduri (Pennsylvania State University)",
+        "Frederic Magniez (CNRS & University Paris Diderot)",
+        "Maciej Malawski (AGH University)",
+        "Andres Marquez (Pacific Northwest National Laboratory)",
+        "Naoya Maruyama (RIKEN -- Advanced Institute for Computational Science)",
+        "Timothy G. Mattson (Intel)",
+        "Patrick McCormick (Los Alamos National Laboratory)",
+        "Friedhelm Meyer auf der Heide (Paderborn University)",
+        "Alessia Milani (University of Bordeaux)",
+        "Kathryn Mohror (Lawrence Livermore National Laboratory)",
+        "Benjamin Moseley (Washington University in St. Louis)",
+        "Frank Mueller (North Carolina State University)",
+        "Richard Murphy (Micron)",
+        "Lars Nagel (Mainz University)",
+        "Danupon Nanongkai (KTH Royal Institure of Technology in Stockholm)",
+        "Seffi Naor (Technion)",
+        "Lata Narayanan (Concordia University)",
+        "Frederic Nataf (Universite Pierre et Marie CURIE)",
+        "Chris J. Newburn (NVIDIA)",
+        "Dimitrios S. Nikolopoulos (Queen's University)",
+        "Stephen L. Olivier (Sandia National Laboratories)",
+        "Luke Olson (University of Illinois at Urbana-Champaign)",
+        "Rotem Oshman (Tel-Aviv University)",
+        "Ozcan Ozturk (Bilkent University)",
+        "Gopal Pandurangan (University of Houston)",
+        "Manish Parashar (Rutgers University)",
+        "Merav Parter (Massachusetts Institute of Technology)",
+        "Francesco Pasquale (University of Roma La Sapienza)",
+        "Sudeep Pasricha (Colorado State)",
+        "Tapasya Patki (Lawrence Livermore National Laboratory)",
+        "Abani Patra (State University of New York Buffalo)",
+        "Boaz Patt-Shamir (Tel-Aviv University)",
+        "Olga Pearce (Lawrence Livermore National Laboratory)",
+        "Antonio Pena (Barcelona Supercomputing Center)",
+        "Paolo Penna (ETH Zurich)",
+        "Cynthia Phillips (Sandia National Laboratories )",
+        "Andrea Pietracaprina (University of Padova)",
+        "Yvonne-Anne Pignolet (ABB Corporate Research)",
+        "Maria Potop-Butucaru (University Pierre et Marie Curie)",
+        "Geppino Pucci (University of Padova)",
+        "Feng Qin (Ohio State University)",
+        "Sergio Rajsbaum (UNAM-National Autonomous University of Mexico)",
+        "Sabela Ramos (ETH Zurich)",
+        "Amanda Randles (Duke University)",
+        "Gary Ray (Boeing)",
+        "David Richards (Lawrence Livermore National Laboratory)",
+        "Jason Riedy (Georgia Institute of Technolog)",
+        "Ken Roche (Pacific Northwest National Laboratory & U. Washington)",
+        "Gabriel Rodriguez (Universidade da Coru\u00f1a)",
+        "Barry Rountree (Lawrence Livermore National Laboratory)",
+        "Ahmad Samih (Intel)",
+        "Piotr Sankowski (University of Warsaw)",
+        "Smruti R. Sarangi (IIT Delhi)",
+        "Thomas Sauerwald (University of Cambridge)",
+        "Erik Saule (University of North Carolina)",
+        "Christian Scheideler (University of Paderborn)",
+        "Olaf Schenk (USI - Universit\u00e0 della Svizzera italiana)",
+        "Christian Schindelhauer (University of Freiburg)",
+        "Karl Schulz (Intel)",
+        "Oded Schwartz (University of California Berkeley)",
+        "Sangmin Seo (Argonne National Laboratory)",
+        "Kelly Shaw (University of Richmond)",
+        "Haiying Shen (University of Virginia)",
+        "Xipeng Shen (North Carolina State University)",
+        "Sameer Shende (University of Oregon)",
+        "Suzanne Shontz (University of Kansas )",
+        "Arrvindh Shriraman (Simon Fraser University)",
+        "Oliver Sinnen (University of Auckland)",
+        "Nodari Sitchinava (University of Hawaii at Manoa)",
+        "Shuaiwen Leon Song (Pacific Northwest National Laboratory)",
+        "Paul Spirakis (University of Liverpool & CTI, Greece)",
+        "Mike Sprague (National Renewable Energy Laboratory)",
+        "Ashok Srinivasan (Florida State University)",
+        "Georg Stadler (New York University)",
+        "Alexandros Stamatakis (Heidelberg Institute for Theoretical Studies)",
+        "Peter Steinbach (Scionics, Dresden)",
+        "Quentin F. Stout (University of Michigan)",
+        "Yutaka Sugawara (IBM Watson)",
+        "Hari Sundar (University of Utah)",
+        "Alan Sussman (University of Maryland)",
+        "Masamichi Takagi (RIKEN -- Advanced Institute for Computational Science)",
+        "Guangming Tan (Institute of Computing Technology, Chinese Academy of Sciences)",
+        "Kiyofumi Tanaka (Japan Advanced Institute of Science and Technology)",
+        "Kanat Tangwongsan (Mahidol University)",
+        "Kenjiro Taura (University of Tokyo)",
+        "Christian Terboven (RWTH Aachen University)",
+        "Devesh Tiwari (Oak Ridge National Laboratory)",
+        "Sivan Toledo (Tel-Aviv University)",
+        "Suleyman Tosun (Hacettepe University)",
+        "Jesper Larsson Tr\u00e4ff (TU Wien)",
+        "Yash Ukidave (Advanced Micro Devices)",
+        "Osman Unsal (Barcelona Supercomputing Center)",
+        "Karthik Vaidyanathan (Intel)",
+        "Hubertus Van Dam (Brookhaven National Laboratory)",
+        "Ana Lucia Varbanescu (University of Amsterdam)",
+        "Jeffrey S. Vetter (Oak Ridge National Laboratory)",
+        "Abhinav Vishnu (Pacific Northwest National Laboratory)",
+        "Fr\u00e9d\u00e9ric Vivien (INRIA)",
+        "Richard Vuduc (Georgia Institute of Technology)",
+        "Cheng Wang (Microsoft)",
+        "Yanjie Wei (Shenzhen Institute of Advanced Technologies)",
+        "Josef Weinbub (TU Wien)",
+        "Jennifer Welch (Texas A&M University)",
+        "Gerhard Wellein (Regional Computing Center Erlangen)",
+        "Jack Wells (Oak Ridge National Laboratory)",
+        "Sandra Wienke (RWTH Aachen University)",
+        "Yukiko Yamauchi (Kyushu University)",
+        "Ichitaro Yamazaki (University of Tennessee, Knoxville)",
+        "Chao Yang (Lawrence Berkeley National Laboratory)",
+        "Ulrike Yang (Lawrence Livermore National Laboratory)",
+        "Donald Yeung (University of Maryland)",
+        "Qing Yi (University of Colorado, Colorado Springs)",
+        "Rio Yokota (Tokyo Institute of Technology)",
+        "Haifeng Yu (University of Singapore)",
+        "Xin Yuan (Florida State University)",
+        "Antonia Zhai (University of Minnesota)",
+        "Yongpeng Zhang (Stone Ridge Technology)",
+        "Yunquan Zhang (Institute of Computing Technology Chinese Academy of Sciences)",
+        "Jishen Zhao (University of California, Santa Cruz)",
+        "Huiyang Zhou (North Carolina State University)",
+        "Xiaobo Zhou (University of Colorado, Colorado Springs)",
+        "Stephane Zuckerman (Michigan State University)"
+    ],
+    "keynote_speakers": [
+        "Tandy Warnow",
+        "Mark Seager",
+        "Mateo Valero"
+    ],
+    "session_chairs": [
+        "Marc Snir",
+        "Joseph Jaja",
+        "Cynthia A. Phillips",
+        "Sanjeev Baskiyar",
+        "\u00dcmit V. \u00c7ataly\u00fcrek",
+        "Pierre Fraigniaud",
+        "Alex Pothen",
+        "Chris J. Newburn",
+        "Jeffrey S. Vetter",
+        "Sergio Rajsbaum",
+        "Murali Annavaram",
+        "Matthias Blumrich",
+        "Costin Iancu",
+        "Michela Taufer",
+        "Alan Sussman",
+        "Timothy G. Mattson",
+        "Jeffrey K. Hollingsworth",
+        "Aydin Buluc",
+        "Olivier Beaumont",
+        "Frank Mueller",
+        "Emmanuel Jeannot",
+        "Stephen Olivier",
+        "Viktor Prasanna",
+        "Marc Snir",
+        "Mathias Jacquelin",
+        "Phil Carns",
+        "Bronis de Supinski",
+        "Beverly A. Sanders",
+        "Torsten Hoefler",
+        "Pavan Balaji",
+        "Yves Robert",
+        "Swann Perarnau"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "IPDPS_17_001",
+            "title": "Monitoring Properties of Large, Distributed, Dynamic Graphs",
+            "authors": [
+                "Gal Yehuda",
+                "Daniel Keren",
+                "Islam Akaria"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_002",
+            "title": "Parallel Construction of Suffix Trees and the All-Nearest-Smaller-Values Problem",
+            "authors": [
+                "Patrick Flick",
+                "Srinivas Aluru"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_003",
+            "title": "The Reverse Cuthill-McKee Algorithm in Distributed-Memory",
+            "authors": [
+                "Ariful Azad",
+                "Mathias Jacquelin",
+                "Aydin Bulu\u00e7",
+                "Esmond Ng"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_004",
+            "title": "SlimSell: A Vectorizable Graph Representation for Breadth-First Search",
+            "authors": [
+                "Maciej Besta",
+                "Florian Marending",
+                "Edgar Solomonik",
+                "Torsten Hoefler"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_005",
+            "title": "SWhybrid: A Hybrid-Parallel Framework for Large-Scale Protein Sequence Database Search",
+            "authors": [
+                "Haidong Lan",
+                "Weiguo Liu",
+                "Yongchao Liu",
+                "Bertil Schmidt"
+            ],
+            "topics": [
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_006",
+            "title": "PUNAS: A Parallel Ungapped-Alignment-Featured Seed Verification Algorithm for Next-Generation Sequencing Read Alignment",
+            "authors": [
+                "Yuandong Chan",
+                "Kai Xu",
+                "Haidong Lan",
+                "Weiguo Liu",
+                "Yongchao Liu",
+                "Bertil Schmidt"
+            ],
+            "topics": [
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_007",
+            "title": "Eliminating Irregularities of Protein Sequence Search on Multicore Architectures",
+            "authors": [
+                "Jing Zhang",
+                "Sanchit Misra",
+                "Hao Wang",
+                "Wu Feng"
+            ],
+            "topics": [
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_008",
+            "title": "Communication Optimization on GPU: A Case Study of Sequence Alignment Algorithms",
+            "authors": [
+                "Jie Wang",
+                "Xinfeng Xie",
+                "Jason Cong"
+            ],
+            "topics": [
+                "GPGPU",
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_009",
+            "title": "Elastic-Cache: GPU Cache Architecture for Efficient Fine- and Coarse-Grained Cache-Line Management",
+            "authors": [
+                "Bingchao Li",
+                "Jizhou Sun",
+                "Murali Annavaram",
+                "Nam Sung Kim"
+            ],
+            "topics": [
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "IPDPS_17_010",
+            "title": "Content-Aware Non-Volatile Cache Replacement",
+            "authors": [
+                "Qi Zeng",
+                "Jih-Kwon Peir"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_011",
+            "title": "DEFT-Cache: A Cost-effective and Highly Reliable SSD Cache for RAID Storage",
+            "authors": [
+                "Jiguang Wan",
+                "Wei Wu",
+                "Ling Zhan",
+                "Qing Yang",
+                "Xiaoyang Qu",
+                "Changsheng Xie"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "IPDPS_17_012",
+            "title": "Adaptive Software Caching for Efficient NVRAM Data Persistence",
+            "authors": [
+                "Pengcheng Li",
+                "Dhruva R. Chakrabarti",
+                "Chen Ding",
+                "Liang Yuan"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "IPDPS_17_013",
+            "title": "Container-Based Cloud Platform for Mobile Computation Offloading",
+            "authors": [
+                "Song Wu",
+                "Chao Niu",
+                "Jia Rao",
+                "Hai Jin",
+                "Xiaohai Dai"
+            ],
+            "topics": [
+                "VM",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "IPDPS_17_014",
+            "title": "Enhancing Datacenter Resource Management through Temporal Logic Constraints",
+            "authors": [
+                "Hao He",
+                "Jiang Hu",
+                "Dilma da Silva"
+            ],
+            "topics": [
+                "Cloud",
+                "OS"
+            ]
+        },
+        {
+            "key": "IPDPS_17_015",
+            "title": "High-Performance Virtual Machine Migration Framework for MPI Applications on SR-IOV enabled InfiniBand Clusters",
+            "authors": [
+                "Jie Zhang",
+                "Xiaoyi Lu",
+                "Dhabaleswar K. Panda"
+            ],
+            "topics": [
+                "VM",
+                "Network"
+            ]
+        },
+        {
+            "key": "IPDPS_17_016",
+            "title": "Argo NodeOS: Toward Unified Resource Management for Exascale",
+            "authors": [
+                "Swann Perarnau",
+                "Judicael A. Zounmevo",
+                "Matthieu Dreher",
+                "Brian C. Van Essen",
+                "Roberto Gioiosa",
+                "Kamil Iskra",
+                "Maya Gokhale",
+                "Kazutomo Yoshii",
+                "Pete Beckman"
+            ],
+            "topics": [
+                "OS",
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_017",
+            "title": "Rational Fair Consensus in the GOSSIP Model",
+            "authors": [
+                "Andrea Clementi",
+                "Luciano Gual\u00e0",
+                "Guido Proietti",
+                "Giacomo Scornavacca"
+            ],
+            "topics": [
+                "Concurrency",
+                "OS"
+            ]
+        },
+        {
+            "key": "IPDPS_17_018",
+            "title": "Leader Election in a Smartphone Peer-to-Peer Network",
+            "authors": [
+                "Calvin Newport"
+            ],
+            "topics": [
+                "Concurrency",
+                "Network"
+            ]
+        },
+        {
+            "key": "IPDPS_17_019",
+            "title": "Leader Election in Asymmetric Labeled Unidirectional Rings",
+            "authors": [
+                "Karine Altisen",
+                "Ajoy K. Datta",
+                "St\u00e9phane Devismes",
+                "Ana\u00efs Durand",
+                "Lawrence L. Larmore"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_020",
+            "title": "Tight Load Balancing via Randomized Local Search",
+            "authors": [
+                "Petra Berenbrink",
+                "Peter Kling",
+                "Christopher Liaw",
+                "Abbas Mehrabian"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "IPDPS_17_021",
+            "title": "Large Scale Manycore-Aware PIC Simulation with Efficient Particle Binning",
+            "authors": [
+                "Hiroshi Nakashima",
+                "Yoshiki Summura",
+                "Keisuke Kikura",
+                "Yohei Miyake"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_022",
+            "title": "Optimization and parallelization of B-spline based orbital evaluations in QMC on multi/many-core shared memory processors",
+            "authors": [
+                "Amrita Mathuriya",
+                "Ye Luo",
+                "Anouar Benali",
+                "Luke Shulenburger",
+                "Jeongnim Kim"
+            ],
+            "topics": [
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_023",
+            "title": "One-Way Wave Equation Migration at Scale on GPUs using Directive-Based Programming",
+            "authors": [
+                "Kshitij Mehta",
+                "Maxime Hugues",
+                "Oscar Hernandez",
+                "Henri Calandra",
+                "David E. Bernholdt"
+            ],
+            "topics": [
+                "HPC",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "IPDPS_17_024",
+            "title": "Towards highly scalable Ab Initio Molecular Dynamics (AIMD) simulations on the Intel Knights Landing manycore processor",
+            "authors": [
+                "Eric Bylaska",
+                "Wibe De Jong",
+                "Mathias Jacquelin"
+            ],
+            "topics": [
+                "HPC",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_025",
+            "title": "General Purpose Task-Dependence Management Hardware for Task-based Dataflow Programming Models",
+            "authors": [
+                "Xubin Tan",
+                "Jaume Bosch",
+                "Miquel Vidal",
+                "Carlos \u00c1lvarez",
+                "Daniel Jim\u00e9nez-Gonz\u00e1lez",
+                "Eduard Ayguad\u00e9",
+                "Mateo Valero"
+            ],
+            "topics": [
+                "OS",
+                "Architecture",
+                "Concurrency",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "IPDPS_17_026",
+            "title": "Accelerating Graph and Machine Learning Workloads Using a Shared Memory Multicore Architecture with Auxiliary Support for in-Hardware Explicit Messaging",
+            "authors": [
+                "Halit Dogan",
+                "Masab Ahmad",
+                "Farrukh Hijaz",
+                "Brian Kahne",
+                "Peter Wilson",
+                "Omer Khan"
+            ],
+            "topics": [
+                "Data",
+                "Concurrency",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "IPDPS_17_027",
+            "title": "Respin: Rethinking Near-Threshold Multiprocessor Design with Non-Volatile Memory",
+            "authors": [
+                "Xiang Pan",
+                "Anys Bacha",
+                "Radu Teodorescu"
+            ],
+            "topics": [
+                "Concurrency",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "IPDPS_17_028",
+            "title": "MOCHA: Morphable locality and compression aware architecture for convolutional neural networks",
+            "authors": [
+                "Syed M. A. H. Jafri",
+                "Ahmed Hemani",
+                "Kolin Paul",
+                "Naeem Abbas"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "IPDPS_17_029",
+            "title": "Autotuning Stencil Computations with Structural Ordinal Regression Learning",
+            "authors": [
+                "Biagio Cosenza",
+                "Juan J. Durillo",
+                "Stefano Ermon",
+                "Ben Juurlink"
+            ],
+            "topics": [
+                "HPC",
+                "Data"
+            ]
+        },
+        {
+            "key": "IPDPS_17_030",
+            "title": "Capability Models for Manycore Memory Systems: A Case-Study with Xeon Phi KNL",
+            "authors": [
+                "Sabela Ramos",
+                "Torsten Hoefler"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_031",
+            "title": "Apollo: Reusable Models for Fast and Dynamic Tuning of Input-Dependent Code",
+            "authors": [
+                "David Beckingsale",
+                "Olga Pearce",
+                "Ignacio Laguna",
+                "Todd Gamblin"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "IPDPS_17_032",
+            "title": "Generating Performance Models for Irregular Applications",
+            "authors": [
+                "Ryan Friese",
+                "Nathan R. Tallent",
+                "Abhinav Vishnu",
+                "Darren J. Kerbyson"
+            ],
+            "topics": [
+                "Benchmark",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_033",
+            "title": "Bounded Reordering Allows Efficient Reliable Message Transmission",
+            "authors": [
+                "Keishla D Ortiz-Lopez",
+                "Jennifer Welch"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "IPDPS_17_034",
+            "title": "Dynamic Adaptation in Wireless Networks Under Comprehensive Interference Via Carrier Sense",
+            "authors": [
+                "Magnus M. Halld\u00f3rsson",
+                "Tigran Tonoyan",
+                "Yuexuan Wang",
+                "Dongxiao Yu"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "IPDPS_17_035",
+            "title": "Fault-Tolerant Online Packet Scheduling on Parallel Channels",
+            "authors": [
+                "Pawe\u0142 Garncarek",
+                "Tomasz Jurdzi\u0144ski",
+                "Krzysztof Lory\u015b"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "IPDPS_17_036",
+            "title": "Corrected Gossip Algorithms for Fast Reliable Broadcast on Unreliable Systems",
+            "authors": [
+                "Torsten Hoefler",
+                "Amnon Barak",
+                "Amnon Shiloh",
+                "Zvi Drezner"
+            ],
+            "topics": [
+                "OS",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_037",
+            "title": "Dr-BW: Identifying Bandwidth Contention in NUMA Architectures with Supervised Learning",
+            "authors": [
+                "Hao Xu",
+                "Shasha Wen",
+                "Alfredo Gimenez",
+                "Todd Gamblin",
+                "Xu Liu"
+            ],
+            "topics": [
+                "Architecture",
+                "Data"
+            ]
+        },
+        {
+            "key": "IPDPS_17_038",
+            "title": "Data Centric Performance Measurement Techniques for Chapel Programs",
+            "authors": [
+                "Hui Zhang",
+                "Jeffrey K. Hollingsworth"
+            ],
+            "topics": [
+                "Benchmark",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "IPDPS_17_039",
+            "title": "A Parallel FastTrack Data Race Detector on Multi-core Systems",
+            "authors": [
+                "Young Wn Song",
+                "Yann-Hang Lee"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_040",
+            "title": "Localized Fault Recovery for Nested Fork-Join Programs",
+            "authors": [
+                "Gokcen Kestor",
+                "Sriram Krishnamoorthy",
+                "Wenjing Ma"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_041",
+            "title": "Exploring DataVortex Systems for Irregular Applications",
+            "authors": [
+                "Roberto Gioiosa",
+                "Antonino Tumeo",
+                "Jian Yin",
+                "Thomas Warfel",
+                "David Haglin",
+                "Santiago Betelu"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_042",
+            "title": "DC2-MTCP: Light-weight Coding for Efficient Multi-path Transmission in Data Center Network",
+            "authors": [
+                "Jiyan Sun",
+                "Yan Zhang",
+                "Xin Wang",
+                "Shihan Xiao",
+                "Zhen Xu",
+                "Hongjing Wu",
+                "Xin Chen",
+                "Yanni Han"
+            ],
+            "topics": [
+                "Network",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "IPDPS_17_043",
+            "title": "A Scalable and Resilient Microarchitecture Based on Multiport Binding for High-radix Router Design",
+            "authors": [
+                "Yi Dai",
+                "Kefei Wang",
+                "Gang Qu",
+                "Liquan Xiao",
+                "Dezun Dong",
+                "Xingyun Qi"
+            ],
+            "topics": [
+                "Architecture",
+                "Network"
+            ]
+        },
+        {
+            "key": "IPDPS_17_044",
+            "title": "Partitioning Low-diameter Networks to Eliminate Inter-job Interference",
+            "authors": [
+                "Nikhil Jain",
+                "Abhinav Bhatele",
+                "Xiang Ni",
+                "Todd Gamblin",
+                "Laxmikant Kale"
+            ],
+            "topics": [
+                "Network",
+                "OS"
+            ]
+        },
+        {
+            "key": "IPDPS_17_045",
+            "title": "Accelerating Spark Datasets by inlining deserialization",
+            "authors": [
+                "Jan Wr\u00f3blewski",
+                "Kazuaki Ishizaki",
+                "Hiroshi Inoue",
+                "Moriyoshi Ohara"
+            ],
+            "topics": [
+                "Data",
+                "Network"
+            ]
+        },
+        {
+            "key": "IPDPS_17_046",
+            "title": "MRapid: An Efficient Short Job Optimizer on Hadoop",
+            "authors": [
+                "Hong Zhang",
+                "Hai Huang",
+                "Liqiang Wang"
+            ],
+            "topics": [
+                "Data",
+                "OS"
+            ]
+        },
+        {
+            "key": "IPDPS_17_047",
+            "title": "Accommodating Thread-Level Heterogeneity in Coupled Parallel Applications",
+            "authors": [
+                "Samuel K. Guti\u00e9rrez",
+                "Kei Davis",
+                "Dorian Arnold",
+                "Randal S. Baker",
+                "Robert W. Robey",
+                "Patrick McCormick",
+                "Daniel Holladay",
+                "Jon A. Dahl",
+                "R. Joe Zerr",
+                "Florian Weik",
+                "Christoph Junghans"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_048",
+            "title": "Multi-GPU Graph Analytics",
+            "authors": [
+                "Yuechao Pan",
+                "Yangzihao Wang",
+                "Yuduo Wu",
+                "Carl Yang",
+                "John D. Owens"
+            ],
+            "topics": [
+                "GPGPU",
+                "Data"
+            ]
+        },
+        {
+            "key": "IPDPS_17_049",
+            "title": "Fault-Tolerant Robot Gathering Problems on Graphs With Arbitrary Appearing Times",
+            "authors": [
+                "Manuel Alc\u00e1ntara",
+                "Armando Casta\u00f1eda",
+                "David Flores-Pe\u00f1aloza",
+                "Sergio Rajsbaum"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "IPDPS_17_050",
+            "title": "Distributed Vehicle Routing Approximation",
+            "authors": [
+                "Akhil Krishnan",
+                "Mikhail Markov",
+                "Borzoo Bonakdarpour"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_051",
+            "title": "O(log N)-Time Complete Visibility for Asynchronous Robots with Lights",
+            "authors": [
+                "Gokarna Sharma",
+                "Ramachandran Vaidyanathan",
+                "Jerry L. Trahan",
+                "Costas Busch",
+                "Suresh Rai"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_052",
+            "title": "Similarity Search on Automata Processors",
+            "authors": [
+                "Vincent T. Lee",
+                "Justin Kotalik",
+                "Carlo C. del Mundo",
+                "Armin Alaghi",
+                "Luis Ceze",
+                "Mark Oskin"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_053",
+            "title": "26 PFLOPS Stencil Computations for Atmospheric Modeling on Sunway TaihuLight",
+            "authors": [
+                "Yulong Ao",
+                "Chao Yang",
+                "Xinliang Wang",
+                "Wei Xue",
+                "Haohuan Fu",
+                "Fangfang Liu",
+                "Lin Gan",
+                "Ping Xu",
+                "Wenjing Ma"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_054",
+            "title": "Image-Domain Gridding on Graphics Processors",
+            "authors": [
+                "Bram Veenboer",
+                "Matthias Petschow",
+                "John W. Romein"
+            ],
+            "topics": [
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "IPDPS_17_055",
+            "title": "Aces4: A Platform for Computational Chemistry Calculations with Extremely Large Block-Sparse Arrays",
+            "authors": [
+                "Beverly A. Sanders",
+                "Jason N. Byrd",
+                "Nakul Jindal",
+                "Victor F. Lotrich",
+                "Dmitry Lyakh",
+                "Ajith Perera",
+                "Rodney J. Bartlett"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_056",
+            "title": "PhiOpenSSL: Using the Xeon Phi Coprocessor for Efficient Cryptographic Calculations",
+            "authors": [
+                "Shun Yao",
+                "Dantong Yu"
+            ],
+            "topics": [
+                "Security",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_057",
+            "title": "Directive-Based Partitioning and Pipelining for Graphics Processing Units",
+            "authors": [
+                "Xuewen Cui",
+                "Thomas R. W. Scogland",
+                "Bronis R. de Supinski",
+                "Wu Feng"
+            ],
+            "topics": [
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "IPDPS_17_058",
+            "title": "ScalaIOExtrap: Elastic I/O Tracing and Extrapolation",
+            "authors": [
+                "Xiaoqing Luo",
+                "Frank Mueller",
+                "Philip Carns",
+                "Jonathan Jenkins",
+                "Robert Latham",
+                "Robert B. Ross",
+                "Shane Snyder"
+            ],
+            "topics": [
+                "Storage",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IPDPS_17_059",
+            "title": "SimProf: A Sampling Framework for Data Analytic Workloads",
+            "authors": [
+                "Jen-Cheng Huang",
+                "Lifeng Nai",
+                "Pranith Kumar",
+                "Hyojong Kim",
+                "Hyesoon Kim"
+            ],
+            "topics": [
+                "Benchmark",
+                "Data"
+            ]
+        },
+        {
+            "key": "IPDPS_17_060",
+            "title": "PaPar: A Parallel Data Partitioning Framework for Big Data Applications",
+            "authors": [
+                "Hao Wang",
+                "Jing Zhang",
+                "Da Zhang",
+                "Sarunya Pumma",
+                "Wu Feng"
+            ],
+            "topics": [
+                "Concurrency",
+                "Data"
+            ]
+        },
+        {
+            "key": "IPDPS_17_061",
+            "title": "swDNN: A Library for Accelerating Deep Learning Applications on Sunway TaihuLight",
+            "authors": [
+                "Jiarui Fang",
+                "Haohuan Fu",
+                "Wenlai Zhao",
+                "Bingwei Chen",
+                "Weijie Zheng",
+                "Guangwen Yang"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "IPDPS_17_062",
+            "title": "Community Detection on the GPU",
+            "authors": [
+                "Md. Naim",
+                "Fredrik Manne",
+                "Mahantesh Halappanavar",
+                "Antonino Tumeo"
+            ],
+            "topics": [
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "IPDPS_17_063",
+            "title": "Scalable Graph Traversal on Sunway TaihuLight with Ten Million Cores",
+            "authors": [
+                "Heng Lin",
+                "Xiongchao Tang",
+                "Bowen Yu",
+                "Youwei Zhuo",
+                "Wenguang Chen",
+                "Jidong Zhai",
+                "Wanwang Yin",
+                "Weimin Zheng"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "IPDPS_17_064",
+            "title": "Partitioning Trillion-edge Graphs in Minutes",
+            "authors": [
+                "George M. Slota",
+                "Sivasankaran Rajamanickam",
+                "Kamesh Madduri",
+                "Karen Devine"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "IPDPS_17_065",
+            "title": "Generating Families of Practical Fast Matrix Multiplication Algorithms",
+            "authors": [
+                "Jianyu Huang",
+                "Leslie Rice",
+                "Devin Matthews",
+                "Robert Van De Geijn"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_066",
+            "title": "Bidiagonalization with Parallel Tiled Algorithms",
+            "authors": [
+                "Mathieu Faverge",
+                "Julien Langou",
+                "Yves Robert",
+                "Jack Dongarra"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_067",
+            "title": "Communication-Avoiding Parallel Algorithms for Solving Triangular Systems of Linear Equations",
+            "authors": [
+                "Tobias Wicky",
+                "Edgar Solomonik",
+                "Torsten Hoefler"
+            ],
+            "topics": [
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_068",
+            "title": "A work-efficient parallel sparse matrix-sparse vector multiplication algorithm",
+            "authors": [
+                "Ariful Azad",
+                "Aydin Bulu\u00e7"
+            ],
+            "topics": [
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_069",
+            "title": "Power Efficient Sharing-Aware GPU Data Management",
+            "authors": [
+                "Abdulaziz Tabbakh",
+                "Murali Annavaram",
+                "Xuehai Qian"
+            ],
+            "topics": [
+                "Energy",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "IPDPS_17_070",
+            "title": "Fly-Over: A Light-Weight Distributed Power-Gating Mechanism for Energy-Efficient Networks-on-Chip",
+            "authors": [
+                "Rahul Boyapati",
+                "Jiayi Huang",
+                "Ningyuan Wang",
+                "Kyung Hoon Kim",
+                "Ki Hwan Yum",
+                "Eun Jung Kim"
+            ],
+            "topics": [
+                "Energy",
+                "Network"
+            ]
+        },
+        {
+            "key": "IPDPS_17_071",
+            "title": "RCube: A Power Efficient and Highly Available Network for Data Centers",
+            "authors": [
+                "Zhenhua Li",
+                "Yuanyuan Yang"
+            ],
+            "topics": [
+                "Energy",
+                "Network",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "IPDPS_17_072",
+            "title": "Cooling-Aware Job Scheduling and Node Allocation for Overprovisioned HPC Systems",
+            "authors": [
+                "Thang Cao",
+                "Wei Huang",
+                "Yuan He",
+                "Masaaki Kondo"
+            ],
+            "topics": [
+                "Energy",
+                "OS",
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_073",
+            "title": "Algorithms for hierarchical and semi-partitioned parallel scheduling",
+            "authors": [
+                "Vincenzo Bonifaci",
+                "Gianlorenzo D'Angelo",
+                "Alberto Marchetti-Spaccamela"
+            ],
+            "topics": [
+                "OS",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_074",
+            "title": "Efficient and Deterministic Scheduling for Parallel State Machine Replication",
+            "authors": [
+                "Odorico M. Mendizabal",
+                "Rud\u00e1 S. T. De Moura",
+                "Fernando Lu\u00eds Dotti",
+                "Fernando Pedone"
+            ],
+            "topics": [
+                "OS",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_075",
+            "title": "Dynamic memory-aware task-tree scheduling",
+            "authors": [
+                "Guillaume Aupy",
+                "Cl\u00e9ment Brasseur",
+                "Loris Marchal"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "IPDPS_17_076",
+            "title": "Approximation Proofs of a Fast and Efficient List Scheduling Algorithm for Task-Based Runtime Systems on Multicores and GPUs",
+            "authors": [
+                "Olivier Beaumont",
+                "Lionel Eyraud-Dubois",
+                "Suraj Kumar"
+            ],
+            "topics": [
+                "OS",
+                "GPGPU",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_077",
+            "title": "Automatic Collapsing of Non-Rectangular Loops",
+            "authors": [
+                "Philippe Clauss",
+                "Ervin Alt\u0131nta\u015f",
+                "Matthieu Kuhn"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "IPDPS_17_078",
+            "title": "HOMP: Automated Distribution of Parallel Loops and Data in Highly Parallel Accelerator-Based Systems",
+            "authors": [
+                "Yonghong Yan",
+                "Jiawen Liu",
+                "Kirk W. Cameron",
+                "Mariam Umar"
+            ],
+            "topics": [
+                "Concurrency",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "IPDPS_17_079",
+            "title": "Multigrain Parallelism: Bridging Coarse-Grain Parallel Programs and Fine-Grain Event-Driven Multithreading",
+            "authors": [
+                "Jaime Arteaga",
+                "Stephane Zuckerman",
+                "Guang R. Gao"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_080",
+            "title": "Improving the integration of task nesting and dependencies in OpenMP",
+            "authors": [
+                "Josep M. Perez",
+                "Vicen\u00e7 Beltran",
+                "Jesus Labarta",
+                "Eduard Ayguad\u00e9"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_081",
+            "title": "Reducing Pagerank Communication via Propagation Blocking",
+            "authors": [
+                "Scott Beamer",
+                "Krste Asanovi\u00e7",
+                "David Patterson"
+            ],
+            "topics": [
+                "Concurrency"
+            ],
+            "award": true
+        },
+        {
+            "key": "IPDPS_17_082",
+            "title": "Clustering Throughput Optimization on the GPU",
+            "authors": [
+                "Michael Gowanlock",
+                "Cody M. Rude",
+                "David M. Blair",
+                "Justin D. Li",
+                "Victor Pankratius"
+            ],
+            "topics": [
+                "GPGPU"
+            ],
+            "award": true
+        },
+        {
+            "key": "IPDPS_17_083",
+            "title": "FlexVC: Flexible Virtual Channel Management in Low-Diameter Networks",
+            "authors": [
+                "Pablo Fuentes",
+                "Enrique Vallejo",
+                "Ram\u00f3n Beivide",
+                "Cyriel Minkenberg",
+                "Mateo Valero"
+            ],
+            "topics": [
+                "Network"
+            ],
+            "award": true
+        },
+        {
+            "key": "IPDPS_17_084",
+            "title": "Relaxations for High-Performance Message Passing on Massively Parallel SIMT Processors",
+            "authors": [
+                "Benjamin Klenk",
+                "Holger Fr\u00f6ning",
+                "Hans Eberle",
+                "Larry Dennison"
+            ],
+            "topics": [
+                "Network",
+                "Concurrency"
+            ],
+            "award": true
+        },
+        {
+            "key": "IPDPS_17_085",
+            "title": "The SEPO Model of Computation to Enable Larger-than-Memory Hash Tables for GPU-accelerated Big Data Analytics",
+            "authors": [
+                "Reza Mokhtari",
+                "Michael Stumm"
+            ],
+            "topics": [
+                "GPGPU",
+                "Data"
+            ]
+        },
+        {
+            "key": "IPDPS_17_086",
+            "title": "Elastic Consistent Hashing for Distributed Storage Systems",
+            "authors": [
+                "Wei Xie",
+                "Yong Chen"
+            ],
+            "topics": [
+                "Data",
+                "Storage",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_087",
+            "title": "An NlogN Parallel Fast Direct Solver for Kernel Metrices",
+            "authors": [
+                "Chenhan D. Yu",
+                "William March",
+                "George Biros"
+            ],
+            "topics": [
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_088",
+            "title": "A robust parallel preconditioner for indefinite systems using hierarchical matrices and randomized sampling",
+            "authors": [
+                "Pieter Ghysels",
+                "Xiaoye Sherry Li",
+                "Christopher Gorman",
+                "Francois-Henry Rouet"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_089",
+            "title": "FFQ: A Fast Single-Producer/Multiple-Consumer Concurrent FIFO Queue",
+            "authors": [
+                "Sergei Arnautov",
+                "Pascal Felber",
+                "Christof Fetzer",
+                "Bohdan Trach"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_090",
+            "title": "Scalable Lock-Free Vector with Combining",
+            "authors": [
+                "Ivan Walulya",
+                "Philippas Tsigas"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_091",
+            "title": "Automatic-Signal Monitors with Multi-Object Synchronization",
+            "authors": [
+                "Wei-Lun Hung",
+                "Vijay K. Garg"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_092",
+            "title": "Optimal Algorithms for a Mesh-Connected Computer with Limited Additional Global Bandwidth",
+            "authors": [
+                "Yujie An",
+                "Quentin F. Stout"
+            ],
+            "topics": [
+                "Concurrency",
+                "Network"
+            ]
+        },
+        {
+            "key": "IPDPS_17_093",
+            "title": "An Adaptive Core-specific Runtime for Energy Efficiency",
+            "authors": [
+                "Sridutt Bhalachandra",
+                "Allan Porterfield",
+                "Stephen L. Olivier",
+                "Jan Prins"
+            ],
+            "topics": [
+                "Energy",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IPDPS_17_094",
+            "title": "Production Hardware Overprovisioning: Real-world Performance Optimization using an Extensible Power-aware Resource Management Framework",
+            "authors": [
+                "Ryuichi Sakamoto",
+                "Thang Cao",
+                "Masaaki Kondo",
+                "Koji Inoue",
+                "Masatsugu Ueda",
+                "Tapasya Patki",
+                "Daniel Ellsworth",
+                "Barry Rountree",
+                "Martin Schulz"
+            ],
+            "topics": [
+                "Energy",
+                "OS"
+            ]
+        },
+        {
+            "key": "IPDPS_17_095",
+            "title": "Co-Run Scheduling with Power Cap on Integrated CPU-GPU Systems",
+            "authors": [
+                "Qi Zhu",
+                "Bo Wu",
+                "Xipeng Shen",
+                "Li Shen",
+                "Zhiying Wang"
+            ],
+            "topics": [
+                "OS",
+                "Energy",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "IPDPS_17_096",
+            "title": "Characterizing and Modeling Power and Energy for Extreme-Scale In-situ Visualization",
+            "authors": [
+                "Vignesh Adhinarayanan",
+                "Wu Feng",
+                "David Rogers",
+                "James Ahrens",
+                "Scott D. Pakin"
+            ],
+            "topics": [
+                "Energy",
+                "Benchmark",
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_097",
+            "title": "Application Level Reordering of Remote Direct Memory Access Operations",
+            "authors": [
+                "Costin Iancu",
+                "Wim Lavrijsen"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "IPDPS_17_098",
+            "title": "Toucan - A Translator for Communication Tolerant MPI Applications",
+            "authors": [
+                "Sergio Martin",
+                "Marsha J. Berger",
+                "Scott B. Baden"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "IPDPS_17_099",
+            "title": "Memory Compression Techniques for Network Address Management in MPI",
+            "authors": [
+                "Yanfei Guo",
+                "Charles Archer",
+                "Michael Blocksome",
+                "Scott Parker",
+                "Wesley Bland",
+                "Ken Raffenetti",
+                "Pavan Balaji"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "IPDPS_17_100",
+            "title": "Transparent Caching for RMA Systems",
+            "authors": [
+                "Salvatore Di Girolamo",
+                "Flavio Vella",
+                "Torsten Hoefler"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "IPDPS_17_101",
+            "title": "When Neurons Fail",
+            "authors": [
+                "El Mahdi El Mhamdi",
+                "Rachid Guerraoui"
+            ],
+            "topics": [
+              "Data"
+            ]
+        },
+        {
+            "key": "IPDPS_17_102",
+            "title": "On Optimizing Distributed Tucker Decomposition for Dense Tensors",
+            "authors": [
+                "Venkatesan T. Chakaravarthy",
+                "Jee W. Choi",
+                "Douglas J. Joseph",
+                "Xing Liu",
+                "Prakash Murali",
+                "Yogish Sabharwal",
+                "Dheeraj Sreedhar"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_103",
+            "title": "Model-Driven Sparse CP Decomposition for High-Order Tensors",
+            "authors": [
+                "Jiajia Li",
+                "Jee W. Choi",
+                "Ioakeim Perros",
+                "Jimeng Sun",
+                "Richard Vuduc"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_104",
+            "title": "Sparse Tensor Factorization on Many-Core Processors with High-Bandwidth Memory",
+            "authors": [
+                "Shaden Smith",
+                "Jongsoo Park",
+                "George Karypis"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_105",
+            "title": "Proximity-Aware Balanced Allocations in Cache Networks",
+            "authors": [
+                "Ali Pourmiri",
+                "Mahdi Jafari Siavoshani",
+                "Seyed Pooya Shariatpanahi"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "IPDPS_17_106",
+            "title": "Addressing Performance Heterogeneity in MapReduce Clusters with Elastic Tasks",
+            "authors": [
+                "Wei Chen",
+                "Jia Rao",
+                "Xiaobo Zhou"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "IPDPS_17_107",
+            "title": "Autonomic Resource Management for Program Orchestration in Large-scale Data Analysis",
+            "authors": [
+                "Masahiro Tanaka",
+                "Kenjiro Taura",
+                "Kentaro Torisawa"
+            ],
+            "topics": [
+                "OS",
+                "Data"
+            ]
+        },
+        {
+            "key": "IPDPS_17_108",
+            "title": "Mimir: Memory-Efficient and Scalable MapReduce for Large Supercomputing Systems",
+            "authors": [
+                "Tao Gao",
+                "Yanfei Guo",
+                "Boyu Zhang",
+                "Pietro Cicotti",
+                "Yutong Lu",
+                "Pavan Balaji",
+                "Michela Taufer"
+            ],
+            "topics": [
+                "Data",
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_109",
+            "title": "Elastic Data Compression with Improved Performance and Space Efficiency for Flash-based Storage Systems",
+            "authors": [
+                "Bo Mao",
+                "Hong Jiang",
+                "Suzhen Wu",
+                "Yaodong Yang",
+                "Zaifa Xi"
+            ],
+            "topics": [
+                "Data",
+                "Storage"
+            ]
+        },
+        {
+            "key": "IPDPS_17_110",
+            "title": "E^2MC: Entropy Encoding based Memory Compression for GPUs",
+            "authors": [
+                "Sohan Lal",
+                "Jan Lucas",
+                "Ben Juurlink"
+            ],
+            "topics": [
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "IPDPS_17_111",
+            "title": "Significantly Improving Lossy Compression for Scientific Data Sets Based on Multidimensional Prediction and Error-Controlled Quantization",
+            "authors": [
+                "Dingwen Tao",
+                "Sheng Di",
+                "Zizhong Chen",
+                "Franck Cappello"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "IPDPS_17_112",
+            "title": "ATM: Approximate Task Memoization in the Runtime System",
+            "authors": [
+                "Iulian Brumar",
+                "Marc Casas",
+                "Miquel Moret\u00f3 Planas",
+                "Gurindar S. Sohi",
+                "Mateo Valero Cort\u00e9s"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "IPDPS_17_113",
+            "title": "Design and Implementation of Papyrus: Parallel Aggregate Persistent Storage",
+            "authors": [
+                "Jungwon Kim",
+                "Kittisak Sajjapongse",
+                "Seyong Lee",
+                "Jeffrey S. Vetter"
+            ],
+            "topics": [
+                "Concurrency",
+                "Storage"
+            ]
+        },
+        {
+            "key": "IPDPS_17_114",
+            "title": "Language-Based Optimizations for Persistence on Nonvolatile Main Memory Systems",
+            "authors": [
+                "Joel Denny",
+                "Seyong Lee",
+                "Jeffrey S. Vetter"
+            ],
+            "topics": [
+                "Compilers",
+                "Storage"
+            ]
+        },
+        {
+            "key": "IPDPS_17_115",
+            "title": "MetaKV: A Key-Value Store for Metadata Management of Distributed Burst Buffers",
+            "authors": [
+                "Teng Wang",
+                "Adam Moody",
+                "Yue Zhu",
+                "Kathryn Mohror",
+                "Kento Sato",
+                "Tanzima Z. Islam",
+                "Weikuan Yu"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "IPDPS_17_116",
+            "title": "Parallelism and Garbage Collection aware I/O Scheduler with Improved SSD Performance",
+            "authors": [
+                "Jiayang Guo",
+                "Yiming Hu",
+                "Bo Mao"
+            ],
+            "topics": [
+                "Concurrency",
+                "Compilers",
+                "Storage",
+                "OS"
+            ]
+        }
+    ]
+}

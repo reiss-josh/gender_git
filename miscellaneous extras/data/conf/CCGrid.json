@@ -1,0 +1,1304 @@
+{
+    "key": "CCGrid_17",
+    "conference": "IEEE/ACM CCGrid",
+    "organization": [
+        "ACM",
+        "IEEE"
+    ],
+    "country": "ES",
+    "postdate": "2017-05-14",
+    "last_deadline": "2016-11-16",
+    "review_days": 60,
+    "submissions": 286,
+    "min_reviews": 4,
+    "total_reviews": "",
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 16,
+    "past_papers": 1691,
+    "past_citations": 10596,
+    "h5_index": 82,
+    "h5_median": 131,
+    "notes": "Excluded workshops, posters, doctoral symposia, industry track, and scale challenge. It does include however short papers, because there was no available information on which papers were full-length research papers vs. short papers. Full-length research paper count is reported to be 59 total (in the proceeding's frontmatter).",
+    "pc_chairs": [
+        "Franck Cappello (Argonne National Laboratory and University of Illinois at Urbana Champaign, USA)",
+        "Geoffrey C. Fox (Indiana University, USA)",
+        "Javier Garcia-Blas (Universidad Carlos III de Madrid, Spain)"
+    ],
+    "pc_members": [
+        "Chunhua Liao (Lawrence Livermore National Laboratory)",
+        "Palden Lama (University of Texas at San Antonio)",
+        "Juan J. Durillo (University of Innsbruck)",
+        "Kaoutar El Maghraoui (IBM)",
+        "Damian Dechev (University of Central Florida)",
+        "Erwin Laure (KTH/PDC)",
+        "Andrew Lenharth (University of Texas at Austin)",
+        "Travis Desell (University of North Dakota)",
+        "Xipeng Shen (North Carolina State University)",
+        "James Cheng (Chinese University of Hong Kong)",
+        "Gihan Mudalige (Oxford e-Research Centre University of Oxford)",
+        "Paolo Romano (INESC-ID/IST)",
+        "Tomas Margalef (Universitat Autonoma de Barcelona)",
+        "Fabrizio Marozzo (University of Calabria)",
+        "Christian Terboven (RWTH Aachen University)",
+        "Fabrice Huet (Universit\u00e9 C\u00f4te d\u2019Azur, CNRS)",
+        "Patrick Carribault (CEA/DAM Ile de France)",
+        "Gagan Agrawal (The Ohio State University)",
+        "Istvan Reguly (P\u00e1zm\u00e1ny P\u00e9ter Catholic University)",
+        "Evelyn Duesterwald (IBM T.J. Watson Research Center)",
+        "Qing Yi (University of Colorado at Colorado Springs)",
+        "Ana Lucia Varbanescu (University of Amsterdam)",
+        "Apan Qasem (Texas State University)",
+        "Roberto Gioiosa (Pacific Northwest National Laboratory)",
+        "Jiangtao Yin (CISCO)",
+        "Shaoliang Peng (National University of Defense Technology)",
+        "Dongyoon Lee (Virginia Tech)",
+        "Hans Vandierendonck (Queen\u2019s University Belfast)",
+        "Hai Jin (Huazhong University of Science and Technology)",
+        "Prasad Calyam (University of Missouri-Columbia)",
+        "Michihiro Koibuchi (National Institute of Informatics)",
+        "Suren Byna (Lawrence Berkeley National Laboratory)",
+        "Dhabaleswar K. Panda (The Ohio State University)",
+        "Huiyang Zhou (NC State Univ)",
+        "Alexey Lastovetsky (University College Dublin)",
+        "Abhinav Vishnu (Pacific Northwest National Laboratory)",
+        "Federico Silla (Technical University of Valencia)",
+        "Rajeev Thakur (Argonne National Laboratory)",
+        "Hatem Ltaief (KAUST)",
+        "Ada Gavrilovska (Georgia Institute of Technology)",
+        "Ronald Brightwell (Sandia National Laboratories)",
+        "Amith Rajith Mamidala (IBM T.J. Watson Research Center)",
+        "Sven-Arne Reinemo (Simula Research Laboratory)",
+        "Dieter Kranzlm\u00fcller (Ludwig-Maximilians-Universitaet Muenchen)",
+        "Shrisha Rao (International Institute of Information Technology \u2013 Bangalore)",
+        "Vatche Ishakian (Boston University, Computer Science Department)",
+        "Dimitrios Tsoumakos (Department of Informatics, Ionian University)",
+        "Hong-Linh Truong (TU Wien, Vienna, Austria)",
+        "Olivier Richard (LIG Laboratory Grenoble)",
+        "Valentin Cristea (University Politehnica of Bucharest \u2013 UPB)",
+        "Zhiyi Huang (Univ of Otago)",
+        "Melissa Smith (Clemson University)",
+        "Sebastien Lafond (\u00c5bo Akademi University)",
+        "Marian Bubak (AGH Krakow PL and University of Amsterdam NL)",
+        "Warren Smith (University of Texas)",
+        "Trilce Estrada (University of New Mexico)",
+        "Ariel Oleksiak (Poznan Supercomputing and Networking Center)",
+        "Ronen Kat (IBM Haifa Research Lab)",
+        "Rong Ge (Clemson University)",
+        "Harald Kornmayer (DHBW Mannheim)",
+        "Robert Ricci (University of Utah)",
+        "Jordi Torres (Barcelona Supercomputing Center (BSC) \u2013 Technical University of Catalonia (UPC))",
+        "Avi Mendelson (Technion)",
+        "Alfredo Cuzzocrea (University of Trieste)",
+        "Satoshi Matsuoka (Tokyo Institute of Technology)",
+        "Yunquan Zhang (Chinese Academy of Sciences)",
+        "Siegfried Benkner (University of Vienna)",
+        "Min Si (Argonne National Laboratory)",
+        "Hari Subramoni (The Ohio State University)",
+        "Jo\u00e3o M. P. Cardoso (University of Porto, Portugal)",
+        "Costin Iancu (Lawrence National Laboratory)",
+        "Zhiling Lan (Illinois Institute of Technology)",
+        "Yanfei Guo (Argonne National Laboratory)",
+        "Kartik Gopalan (Binghamton University)",
+        "Daniel S. Katz (University of Illinois Urbana-Champaign)",
+        "Sunita Chandrasekaran (University of Delaware)",
+        "Alexandre Denis (INRIA)",
+        "Naoya Maruyama (RIKEN AICS)",
+        "Guangming Tan (Institute of Computing Technology, Chinese Academy of Sciences)",
+        "Yanjie Wei (Shenzhen Institute of Advanced Technology)",
+        "Mark Bull (EPCC, University of Edinburgh)",
+        "Xin Yuan (Florida State University)",
+        "David Abramson (Monash University)",
+        "Haiying Shen (Clemson University)",
+        "Jinpil Lee (RIKEN AICS)",
+        "Jingling Xue (University of New South Wales)",
+        "Rafael Ferreira Da Silva (USC Information Sciences Institute)",
+        "George Pallis (Dpt. of Computer Science, University of Cyprus)",
+        "Uwe Schwiegelshohn (TU Dortmund University)",
+        "Denis Trystram (Grenoble university)",
+        "Helen Karatza (Aristotle University of Thessaloniki)",
+        "Maciej Malawski (AGH University of Science and Technology)",
+        "Florina Ciorba (University of Basel)",
+        "Alejandro Calderon (University Carlos III of Madrid)",
+        "Eduardo Huedo (Universidad Complutense de Madrid)",
+        "Nectarios Koziris (National Technical University of Athens)",
+        "Henri Casanova (University of Hawaii at Manoa)",
+        "Miquel Angel Senar (Universidad Aut\u00f3noma de Barcelona)",
+        "Gonzalo P. Rodrigo (Umea University)",
+        "C\u00e9sar A. F. de Rose (Pontifical Catholic University of Rio Grande do Sul)",
+        "Oliver Sinnen (Department of Electrical and Computer Engineering, The University of Auckland)",
+        "Jon Weissman (U Minnesota)",
+        "Dimitrios S. Nikolopoulos (Queen\u2019s University of Belfast)",
+        "Estefania Serrano (University Carlos III of Madrid)",
+        "Vlado Stankovi (University of Ljubljana)",
+        "Anirban Mandal (Renaissance Computing Institute)",
+        "Jordi Guitart (Technical University of Catalonia (UPC))",
+        "Joanna Kolodziej (Cracow University of Technology)",
+        "Anastasios Gounaris (Department of Informatics, Aristotle University of Thessaloniki)",
+        "Wei Zheng (Xiamen University)",
+        "Ramin Yahyapour (GWDG \u2013 University of G\u00f6ttingen)",
+        "Jose Angel Ba\u00f1ares (University of Zaragoza)",
+        "Thomas Fahringer (University of Innsbruck)",
+        "Chase Wu (New Jersey Institute of Technology)",
+        "Sarunas Girdzijauskas (Royal Institute of Technology (KTH))",
+        "Christian Perez (INRIA)",
+        "Miquel Moreto (BSC \u2013 Technical University of Catalonia (UPC))",
+        "Kris Bubendorfer (Victoria University of Wellington)",
+        "Luiz F. Bittencourt (University of Campinas)",
+        "Konstantinos Tsakalozos (Canonical Ltd)",
+        "Silvina Ca\u00edno-Lores (University Carlos III of Madrid)",
+        "Massimo Villar (Universita Degli Studi Di Messina)",
+        "Florin Pop (University Politehnica of Bucharest)",
+        "Rajkumar Buyya ( The University of Melbourne)",
+        "Erik Elmroth (Ume\u00e5 University and Elastisys)",
+        "Alexandru Costan (Inria Rennes)",
+        "Matthieu Dorier (Argonne National Laboratory)",
+        "S\u00e9bastien Monnet (LIP6/University of Paris VI/CNRS/INRIA)",
+        "Osamu Tatebe (University of Tsukuba)",
+        "Bogdan Nicolae (IBM Research Ireland)",
+        "Yogesh Simmhan (Indian Institute of Science)",
+        "Michael Schoettner (Heinrich-Heine University Duesseldorf)",
+        "Domenico Talia (University of Calabria)",
+        "Ciprian Dobre (University Politehnica of Bucharest)",
+        "Radu Tudoran (HUAWEI ERC)",
+        "Indranil Gupta (UIUC)",
+        "Xuanhua Shi (HUST)",
+        "Alexandra Carpen-Amarie (Vienna University of Technology)",
+        "Bingsheng He (Nanyang Technological University)",
+        "Ivona Brandic (TU Wien)",
+        "Stacy Patterson (Rensselaer Polytechnic Institute)",
+        "Nikita Danilov (Seagate)",
+        "Robert Latham (Argonne National Laboratory)",
+        "Florin Isaila (University Carlos III of Madrid)",
+        "Sai Narasimhamurthy (Xyratex)",
+        "Dan Feng (Huazhong University of Science and Technology)",
+        "Qing Gary Liu (Oak Ridge National Lab)",
+        "Jay Lofstead (Sandia National Laboratories)",
+        "Christine Morin (INRIA)",
+        "Adrien L\u00e8bre (Inria / Ecole des Mines)",
+        "Juan Piernas (University of Murcia)",
+        "Michael Kluge (ZIH, TU Dresden)",
+        "John Bent (EMC)",
+        "Quincey Koziol (The HDF Group)",
+        "Yu Hua (Huazhong University of Science and Technology)",
+        "Chris Gniady (University of Arizona)",
+        "Wei-Keng Liao (Northwestern University)",
+        "Jeremy Logan (Oak Ridge National Laboratory)",
+        "Julian Kunkel (DKRZ)",
+        "Tahsin Kurc (Stony Brook University)",
+        "Kesheng Wu (Berkeley Lab)",
+        "Vasily Tarasov (IBM Research \u2013 Almaden)",
+        "Yupu Zhang (HP Labs)",
+        "Shadi Ibrahim (Inria, Rennes Bretagne Atlantique Research Center)",
+        "Andr\u00e9 Brinkmann (Johannes Gutenberg-Universit\u00e4t Mainz)",
+        "Vishwanath Venkatesan (Intel Corporation)",
+        "Robert B. Ross (Argonne National Laboratory)",
+        "Dan Holmes (EPCC-The University of Edinburgh)",
+        "Leonardo Bautista Gomez (Argonne National Laboratory)",
+        "Marc Casas (Barcelona Supercomputing Center)",
+        "Camille Coti (Univ. Paris 13 \u2013 Sorbonne Paris)",
+        "Nathan Debardeleben (Los Alamos National Laboratory)",
+        "Ramon Doallo (University of A. Coru\u00f1a)",
+        "Sheng Di (Argonne National Laboratory)",
+        "Kurt Ferreira (Sandia National Laboratories)",
+        "Amina Guermouche (ICL)",
+        "Sebastien Varrette (University of Luxembourg)",
+        "Ignacio Laguna (Lawrence Livermore National Laboratory)",
+        "Atsushi Hori (RIKEN AICS)",
+        "Christian Engelmann (Oak Ridge National Laboratory)",
+        "Devesh Tiwari (ORNL)",
+        "Jun Pang (University of Luxembourg)",
+        "Javier Fernandez (University Carlos III of Madrid)",
+        "Manuel Dolz (University Carlos III of Madrid)",
+        "Patricia Gonzalez (University of A Coru\u00f1a)",
+        "Ali Shoker (University do Minho)",
+        "Dragi Kimovski (UIBK)",
+        "Tuan Anh Trinh (Budapest University of Technology and Economics)",
+        "Miguel C\u00e1rdenas (CIEMAT)",
+        "Salvatore Distefano (Politecnico di Milano)",
+        "Beno\u00eet Parrein (University of Nantes)",
+        "Arsalan Shadid (University College Dublin)",
+        "Mar\u00eda J. Mart\u00edn (University of a Coru\u00f1a)",
+        "Sasko Ristov (University of Innsbruck, Austria)",
+        "Gabor Kecskemeti (MTA SZTAKI)",
+        "Ivan Rodero (Rutgers University)",
+        "Edgar Gabriel (University of Houston)",
+        "Shajulin Benedict (HPCCLoud Research Laboratory, SXCCE, Anna University)",
+        "Mina Sedaghat (Dept, computing Science, Ume\u00e5 University)",
+        "Sameer Shende (University of Oregon)",
+        "Huiyang Zhou (NC State Univ)",
+        "Nicholas Wright (NERSC/LBNL)",
+        "Heekuck Oh (Hanyang University)",
+        "Tapasya Patki (University of Arizona)",
+        "Karl Fuerlinger (LMU Munich)",
+        "Frederic Suter (CC IN2P3 / CNRS)",
+        "Arnaud Legrand (CNRS, LIG)",
+        "Kathryn Mohror (LLNL)",
+        "Spyros Sioutas (Assistant Professor)",
+        "Simon D. Hammond (Sandia National Laboratories)",
+        "Tristan Glatard (CNRS, CREATIS)",
+        "Douglas Thain (University of Notre Dame)",
+        "Aniruddha Marathe (University of Arizona)",
+        "Vitus J. Leung (Sandia National Laboratories)",
+        "Martin Schulz (Lawrence Livermore National Laboratory)",
+        "Walter Binder (University of Lugano)",
+        "I-Hsin Chung (IBM)",
+        "Suzanne Rivoire (Sonoma State University)",
+        "Wes J. Lloyd (Institute of Technology, University of Washington \u2013 Tacoma)",
+        "David E. Singh (University Carlos III of Madrid.)",
+        "Philipp Gschwandtner (University of Innsbruck)"
+    ],
+    "keynote_speakers": [
+        "Rick Stevens",
+        "Qian Depei",
+        "Willem Deconinck"
+    ],
+    "session_chairs": [
+        "Franck Cappello (Argonne National Laboratory, USA)",
+        "Rajkumar Buyya",
+        "Dhabaleswar K. Panda (The Ohio State University, USA)",
+        "Roy Campbell",
+        "Shikharesh Majumdar (Carleton University, Canada)",
+        "Antonio J. Pe\u00f1a (Barcelona Supercomputing Center (BSC), Spain)",
+        "Michela T\u00e4ufer (University of Delaware, USA)",
+        "Klara Nahrstedt (University of Illinois at Urbana-Champaign, USA)",
+        "Laurent Lefevre (INRIA, France)",
+        "Daniele Lezzi (Barcelona Supercomputing Center (BSC-CNS), Spain)",
+        "Marco Frincu (West University of Timisoara, Romania)",
+        "Taisuke Boku (University of Tsukuba, Japan)",
+        "Hong Jiang (University of Texas Arlington, USA)"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "CCGrid_17_001",
+            "title": "A Comparison of Reinforcement Learning Techniques for Fuzzy Cloud Auto-Scaling",
+            "authors": [
+                "Hamid Arabnejad (Dublin City University (DCU), Ireland)",
+                "Claus Pahl (Free University of Bozen-Bolzano, Italy)",
+                "Pooyan Jamshidi (Imperial College London, United Kingdom)",
+                "Giovani Estrada (Intel, Leixlip, Ireland)"
+            ],
+            "topics": [
+                "Data",
+                "Cloud"
+            ],
+            "award": true
+        },
+        {
+            "key": "CCGrid_17_002",
+            "title": "4CeeD: Real-Time Data Acquisition and Analysis Framework for Material-related Cyber-Physical Environments",
+            "authors": [
+                "Phuong Nguyen (University of Illinois at Urbana-Champaign, USA)",
+                "Steven Konstanty (University of Illinois at Urbana-Champaign, USA)",
+                "Todd Nicholson (University of Illinois at Urbana-Champaign, USA)",
+                "Thomas O'Brien (University of Illinois at Urbana-Champaign, USA)",
+                "Aaron Schwartz-Duval (University of Illinois at Urbana-Champaign, USA)",
+                "Timothy Spila (University of Illinois at Urbana-Champaign, USA)",
+                "Klara Nahrstedt (University of Illinois at Urbana-Champaign, USA)",
+                "Roy Campbell (University of Illinois at Urbana-Champaign, USA)",
+                "Indranil Gupta (University of Illinois at Urbana-Champaign, USA)",
+                "Michael Chan (University of Illinois at Urbana-Champaign, USA)",
+                "Kenton McHenry (University of Illinois at Urbana-Champaign, USA)",
+                "Normand Paquin (University of Illinois at Urbana-Champaign, USA)"
+            ],
+            "topics": [
+                "Data"
+            ],
+            "award": true
+        },
+        {
+            "key": "CCGrid_17_003",
+            "title": "Evaluation of Data Locality Strategies for Hybrid Cloud Bursting of Iterative MapReduce",
+            "authors": [
+                "Francisco J. Clemente-Castell\u00f3 (Universidad Jaume I, Spain)",
+                "Bogdan Nicolae (Huawei Research Germany, Germany)",
+                "Rafael Mayo Gual (University Jaume I, Spain)",
+                "Juan Carlos Fernandez (Universitat Jaume I, Spain)",
+                "M. Mustafa Rafique (IBM Research, Ireland)"
+            ],
+            "topics": [
+                "Cloud",
+                "Data",
+                "Network"
+            ]
+        },
+        {
+            "key": "CCGrid_17_004",
+            "title": "Leveraging Renewable Energy in Edge Clouds for Data Stream Analysis in IoT",
+            "authors": [
+                "Yunbo Li (Mines Nantes, France)",
+                "Anne-C\u00e9cile Orgerie (CNRS, France)",
+                "Ivan Rodero (Rutgers University, USA)",
+                "Manish Parashar (Rutgers University, USA)",
+                "Jean-Marc Menaud (Mines Nantes, France)"
+            ],
+            "topics": [
+                "Energy",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_005",
+            "title": "DOTA: Delay Bounded Optimal Cloudlet Deployment and User Association in WMANs",
+            "authors": [
+                "Longjie Ma (Guangdong University of Technology, China)",
+                "Jigang Wu (Guangdong University of Technology, China)",
+                "Long Chen (Guangdong University of Technology, China)"
+            ],
+            "topics": [
+                "Network",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_006",
+            "title": "Mitigating YARN Container Overhead with Input Splits",
+            "authors": [
+                "Wonbae Kim (UNIST, Korea)",
+                "Young-Ri Choi (UNIST, Korea)",
+                "Beomseok Nam (UNIST, Korea)"
+            ],
+            "topics": [
+                "VM",
+                "Storage"
+            ]
+        },
+        {
+            "key": "CCGrid_17_007",
+            "title": "Parallel Variable Selection for Effective Performance Prediction",
+            "authors": [
+                "Jonathan Wang (UC Berkeley, USA)",
+                "Wucherl Yoo (Lawrence Berkeley National Laboratory, USA)",
+                "Alex Sim (Lawrence Berkeley National Laboratory, USA)",
+                "Peter Nugent (Lawrence Berkeley National Laboratory, USA)",
+                "Kesheng Wu (Berkeley Lab, USA)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "CCGrid_17_008",
+            "title": "Towards Big Data Analytics across Multiple Clusters",
+            "authors": [
+                "Dongyao Wu (Data61, CSIRO, Australia)",
+                "Sherif Sakr (The University of New South Wales, Australia)",
+                "Liming Zhu (Data61, CSIRO, Australia)",
+                "Huijun Wu (Data61, CSIRO, Australia)"
+            ],
+            "topics": [
+                "Cloud",
+                "Data"
+            ]
+        },
+        {
+            "key": "CCGrid_17_009",
+            "title": "CloudSight: A tenant-oriented transparency framework for cross-layer cloud troubleshooting",
+            "authors": [
+                "Hyunwook Baek (University of Utah, USA)",
+                "Abhinav Srivastava (AT&T Labs - Research, USA)",
+                "Jacobus Van der Merwe (University of Utah, USA)"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_010",
+            "title": "CBase: A New Paradigm for Fast Virtual Machine Migration across Data Centers",
+            "authors": [
+                "Fei Zhang (Gessellschaft f\u00fcr wissenschafttiche Datenverarbeitung mbH G\u00f6ttingen (GWDG), G\u00f6ttingen, Germany, Germany)",
+                "Xiaoming Fu (Georg-August-Universit\u00e4t G\u00f6ttingen, Germany)",
+                "Ramin Yahyapour (Gesellschaft f\u00fcr wissenschaftliche Datenverarbeitung mbH G\u00f6ttingen (GWDG), Germany)"
+            ],
+            "topics": [
+                "VM"
+            ]
+        },
+        {
+            "key": "CCGrid_17_011",
+            "title": "Deploying High Throughput Scientific Workflows on Container Schedulers with Makeflow and Mesos",
+            "authors": [
+                "Chao Zheng (University of Notre Dame, USA)",
+                "Ben Tovar (University of Notre Dame, USA)",
+                "Douglas Thain (University of Notre Dame, USA)"
+            ],
+            "topics": [
+                "HPC",
+                "OS",
+                "VM"
+            ]
+        },
+        {
+            "key": "CCGrid_17_012",
+            "title": "APHiD: Hierarchical task placement to enable a tapered fat tree topology for lower power and cost in HPC networks",
+            "authors": [
+                "George Michelogiannakis (LBNL, USA)",
+                "Jeremiah J. Wilke (Sandia national laboratories, USA)",
+                "Joseph P. Kenny (Sandia national laboratories, USA)",
+                "Samuel Knight (Sandia national laboratories, USA)",
+                "Khaled Ibrahim (LBNL, USA)",
+                "John Shalf (LBNL, USA)"
+            ],
+            "topics": [
+                "Network",
+                "HPC"
+            ]
+        },
+        {
+            "key": "CCGrid_17_013",
+            "title": "Swift-X: Accelerating OpenStack Swift with RDMA for Building an Efficient HPC Cloud",
+            "authors": [
+                "Shashank Gugnani (The Ohio State University, India)",
+                "Xiaoyi Lu (The Ohio State University, USA)",
+                "Dhabaleswar K. Panda (The Ohio State University, USA)"
+            ],
+            "topics": [
+                "HPC",
+                "Cloud",
+                "Storage",
+                "Network"
+            ]
+        },
+        {
+            "key": "CCGrid_17_014",
+            "title": "Offloading communication control logic in GPU accelerated applications",
+            "authors": [
+                "Elena Agostini (La Sapienza, Italy)",
+                "Davide Rossetti (NVIDIA, USA)",
+                "Sreeram Potluri (NVIDIA, USA)"
+            ],
+            "topics": [
+                "Network",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "CCGrid_17_015",
+            "title": "Preliminary Performance Analysis of Multi-rail Fat-tree Networks",
+            "authors": [
+                "Noah Wolfe (Rensselaer Polytechnic Institute, USA)",
+                "Misbah Mubarak (Argonne National Labs, USA)",
+                "Nikhil Jain (Lawrence Livermore National Laboratory, USA)",
+                "Jens Domke (Technische Universit\u00e4t Dresden, Germany)",
+                "Abhinav Bhatele (Lawrence Livermore National Laboratory, USA)",
+                "Chris Carothers (RPI, USA)",
+                "Robert B. Ross (Argonne National Laboratory, USA)"
+            ],
+            "topics": [
+                "HPC",
+                "Network"
+            ]
+        },
+        {
+            "key": "CCGrid_17_016",
+            "title": "SynAPTIC: Secure And Persistent connecTIvity for Containers",
+            "authors": [
+                "Alireza Ranjbar (Ericsson Research, Finland)",
+                "Miika Komu (Ericsson Research, Finland)",
+                "Patrik Salmela (Ericsson Research, Finland)",
+                "Tuomas Aura (Aalto University, Finland)"
+            ],
+            "topics": [
+                "Security",
+                "Network",
+                "VM"
+            ]
+        },
+        {
+            "key": "CCGrid_17_017",
+            "title": "Optimal Resource Configuration of Complex Services in the Cloud",
+            "authors": [
+                "Abhinandan Sridhara Rao Prasad (University of Goettingen, Germany)",
+                "David Koll (University of Goettingen, Germany)",
+                "Jesus Omana Iglesias (Nokia Bell Labs, Ireland)",
+                "Jordi Arjona Aroca (Nokia Bell Labs, Ireland)",
+                "Volker Hilt (Nokia Bell Labs, Germany)",
+                "Xiaoming Fu (University of Goettingen, Germany)"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_018",
+            "title": "Modeling Distributed Platforms from Application Traces for Realistic File Transfer Simulation",
+            "authors": [
+                "Anchen Chai (Universite de Lyon, France)",
+                "Mohammad Bazm (Insa de Lyon, France)",
+                "Sorina Camarasu Pop (CREATIS - CNRS, France)",
+                "Tristan Glatard (Concordia University, Canada)",
+                "Hugues Benoit-Cattin (CREATIS - INSA de Lyon, France)",
+                "Frederic Suter (CC IN2P3 / CNRS, France)"
+            ],
+            "topics": [
+                "Storage",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "CCGrid_17_019",
+            "title": "Performance Modelling and Cost Effective Execution for Distributed Graph Processing on Configurable VMs",
+            "authors": [
+                "Zengxiang Li (Institute of High Performance Computing Agency for Science, Technology and Research Singapore, Singapore)",
+                "Bowen Zhang (National University of Singapore, Singapore)",
+                "Shen Ren (Institute of High Performance Computing Agency for Science, Technology and Research Singapore, Singapore)",
+                "Yong Liu (IHPC, Singapore)",
+                "Zheng Qin (Institute of High Performance Computing, Singapore)",
+                "Rick Siow Mong Goh (Institute of High Performance Computing, Singapore)",
+                "Mohan Gurusamy (National University of Singapore, Singapore)"
+            ],
+            "topics": [
+                "Data",
+                "VM"
+            ]
+        },
+        {
+            "key": "CCGrid_17_020",
+            "title": "Fine-grained Nested Virtual Machine Performance Analysis Through First Level Hypervisor Tracing",
+            "authors": [
+                "Hani Nemati (Polytechnique Montreal, Canada)",
+                "Suchakrapani Datt Sharma (Polytechnique Montreal, Canada)",
+                "Michel Dagenais (Polytechnique Montreal, Canada)"
+            ],
+            "topics": [
+                "VM"
+            ]
+        },
+        {
+            "key": "CCGrid_17_021",
+            "title": "A new on-line method for scheduling independent tasks",
+            "authors": [
+                "Giorgio Lucarelli (INRIA Grenoble Rh\u00f4ne-Alpes, France)",
+                "Fernando Mendonca (INRIA, France)",
+                "Denis Trystram (Grenoble university, France)"
+            ],
+            "topics": [
+                "OS",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "CCGrid_17_022",
+            "title": "A Two-Stage Multi-Objective Optimization of Erasure Coding in Overlay Networks",
+            "authors": [
+                "Nishant Saurabh (University of Innsbruck, Austria)",
+                "Dragi Kimovski (University of Innsbruck, Austria)",
+                "Francesco Gaetano (University of Innsbruck, Austria)",
+                "Radu Prodan (University of Innsbruck, Austria)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "CCGrid_17_023",
+            "title": "Multi-dimensional admission control and capacity planning for IaaS clouds with multiple service classes",
+            "authors": [
+                "Marcus Carvalho (Universidade Federal da Paraiba, Brazil)",
+                "Francisco Brasileiro (Universidade Federal de Campina Grande, Brazil)",
+                "Raquel Lopes (Universidade Federal de Campina Grande, Brazil)",
+                "Giovanni Farias (Universidade Federal de Campina Grande, Brazil)",
+                "Alessandro Fook (Universidade Federal de Campina Grande, Brazil)",
+                "Jo\u00e3o Mafra (Universidade Federal de Campina Grande, Brazil)",
+                "Daniel Turull (Ericsson Research, Sweden)"
+            ],
+            "topics": [
+                "Cloud",
+                "OS"
+            ]
+        },
+        {
+            "key": "CCGrid_17_024",
+            "title": "A Robust Tabu Search Heuristic for VM Consolidation under Demand Uncertainity in Virtualized Datacenters",
+            "authors": [
+                "Robayet Nasim (Karlstad University, Sweden)",
+                "Andreas Kassler (Karlstad University, Sweden)"
+            ],
+            "topics": [
+                "VM",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_025",
+            "title": "Efficient Event Correlation over Distributed Systems",
+            "authors": [
+                "Long Cheng (Eindhoven University of Technology, Netherlands)",
+                "Boudewijn van Dongen (Eindhoven University of Technology, Netherlands)",
+                "Wil van der Aalst (Eindhoven University of Technology, Netherlands)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "CCGrid_17_026",
+            "title": "Efficient Cache Update for In-Memory Cluster Computing with Spark",
+            "authors": [
+                "Li-Yung Ho (Academia Sinica, Taiwan)",
+                "Jan-Jan Wu (Institute of Information Science, Academia Sinica, Taiwan)",
+                "Pangfeng Liu (Department of Computer Science and Information Engineering, National Taiwan University, Taiwan)",
+                "Chia-Chun Shih (Chunghwa Telecom Laboratories, Taiwan)",
+                "Chi-Chang Huang (Chunghwa Telecom Laboratories, Taiwan)",
+                "Chao-Wen Huang (Chunghwa Telecom Laboratories, Taiwan)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "CCGrid_17_027",
+            "title": "GPU in-memory processing using Spark for iterative computation",
+            "authors": [
+                "Sumin Hong (Ulsan National Institute of Science and Technology, Korea)",
+                "Woohyuk Choi (Ulsan National Institute of Science and Technology, Korea)",
+                "Won-Ki Jeong (Ulsan National Institute of Science and Technology, Korea)"
+            ],
+            "topics": [
+                "GPGPU",
+                "Data"
+            ]
+        },
+        {
+            "key": "CCGrid_17_028",
+            "title": "Preemptive Software Transactional Memory",
+            "authors": [
+                "Emiliano Silvestri (DIAG - Sapienza Universita' di Roma, Italy)",
+                "Simone Economo (Sapienza Universit\u00e0 di Roma, Italy)",
+                "Pierangelo Di Sanzo (DIAG, Sapienza University of Rome, Italy)",
+                "Alessandro Pellegrini (Sapienza University of Roma, Italy)",
+                "Francesco Quaglia (Sapienza Universit\ufffddi Roma, Italy)"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "CCGrid_17_029",
+            "title": "Supporting Fault-Tolerance in Presence of In-Situ Analytics",
+            "authors": [
+                "Jiaqi Liu (The Ohio State University, USA)",
+                "Gagan Agrawal (The Ohio State University, USA)"
+            ],
+            "topics": [
+                "Data",
+                "HPC"
+            ]
+        },
+        {
+            "key": "CCGrid_17_030",
+            "title": "Advanced Thread Synchronization for Multithreaded MPI Implementations",
+            "authors": [
+                "Hoang-Vu Dang (University of Illinois at Urbana-Champaign, USA)",
+                "Sangmin Seo (Argonne National Laboratory, USA)",
+                "Abdelhalim Amer (Argonne National Laboratory, USA)",
+                "Pavan Balaji (Argonne National Laboratory, USA)"
+            ],
+            "topics": [
+                "Concurrency",
+                "OS",
+                "Network"
+            ]
+        },
+        {
+            "key": "CCGrid_17_031",
+            "title": "Pattern-Directed Replication Scheme for Heterogeneous Object-based Storage",
+            "authors": [
+                "Jiang Zhou (Texas Tech University, USA)",
+                "Wei Xie (Texas Tech University, USA)",
+                "Dong Dai (Texas Tech University, USA)",
+                "Yong Chen (Texas Tech University, USA)"
+            ],
+            "topics": [
+                "Storage",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_032",
+            "title": "A New File System I/O Mode for Ef\ufb01cient User-level Caching",
+            "authors": [
+                "Jiwoong Park (Seoul National University, Korea)",
+                "Cheolgi Min (Seoul National University, Korea)",
+                "Heonyoung Yeom (Seoul National University, Korea)"
+            ],
+            "topics": [
+                "Storage",
+                "DB",
+                "OS"
+            ]
+        },
+        {
+            "key": "CCGrid_17_033",
+            "title": "COPS: Cost Based Object Placement Strategies on Hybrid Storage System for DBaaS Cloud",
+            "authors": [
+                "Djillali Boukhelef (USTHB University, Algeria)",
+                "Kamel Boukhalfa (USTHB University, Algeria)",
+                "Jalil Boukhobza (Universit\u00e9 Bretagne Occidentale, France)",
+                "Hamza Ouarnoughi (Universit\u00e9 Bretagne Occidentale, France)",
+                "Laurent Lemarchand (Universit\u00e9 de Bretagne Occidentale, France)"
+            ],
+            "topics": [
+                "Storage",
+                "Cloud",
+                "DB"
+            ]
+        },
+        {
+            "key": "CCGrid_17_034",
+            "title": "Combating the Bandits in the Cloud: A Moving Target Defense Approach",
+            "authors": [
+                "Terry Penner (Texas State University, USA)",
+                "Mina Guirguis (Texas State University, USA)"
+            ],
+            "topics": [
+                "Security",
+                "Cloud"
+            ],
+            "award": true
+        },
+        {
+            "key": "CCGrid_17_035",
+            "title": "Chrysaor: Fine-Grained, Fault-Tolerant Cloud-of-Clouds MapReduce",
+            "authors": [
+                "Pedro A. R. S. Costa (Faculty of Sciences, University of Lisboa, Portugal)",
+                "Fernando Ramos (Faculty of Sciences, University of Lisboa, Portugal)",
+                "Miguel Correia (INESC-ID, Instituto Superior T\u00e9cnico, Universidade de Lisboa, Portugal)"
+            ],
+            "topics": [
+                "Cloud",
+                "Data"
+            ],
+            "award": true
+        },
+        {
+            "key": "CCGrid_17_036",
+            "title": "Unveiling the Interplay Between Global Link Arrangements and Network Management Algorithms on Dragonfly Networks",
+            "authors": [
+                "Fulya Kaplan (Boston University, USA)",
+                "Ozan Tuncer (Boston University, USA)",
+                "Vitus J. Leung (Sandia National Laboratories, USA)",
+                "Scott Hemmert (Sandia National Laboratories, USA)",
+                "Ayse K. Coskun (Boston University, USA)"
+            ],
+            "topics": [
+                "Network",
+                "HPC"
+            ]
+        },
+        {
+            "key": "CCGrid_17_037",
+            "title": "Application-Agnostic Power Monitoring in Virtualized Environments",
+            "authors": [
+                "James Phung (The University of Sydney, Australia)",
+                "Young Choon Lee (Macquarie University, Australia)",
+                "Albert Y. Zomaya (The University of Sydney, Australia)"
+            ],
+            "topics": [
+                "VM",
+                "Energy"
+            ]
+        },
+        {
+            "key": "CCGrid_17_038",
+            "title": "A performance study of UCX over InfiniBand",
+            "authors": [
+                "Nikela Papadopoulou (National Technical University of Athens, Greece)",
+                "Lena Oden (Argonne National Laboratory, USA)",
+                "Pavan Balaji (Argonne National Laboratory, USA)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "CCGrid_17_039",
+            "title": "Performance Modelling and Verification of Cloud-based Auto-Scaling Policies",
+            "authors": [
+                "Alexandros Evangelidis (University of Birmingham, United Kingdom)",
+                "David Parker (University of Birmingham, United Kingdom)",
+                "Rami Bahsoon (University of Birmingham, United Kingdom)"
+            ],
+            "topics": [
+                "Cloud",
+                "OS"
+            ]
+        },
+        {
+            "key": "CCGrid_17_040",
+            "title": "Dynamic Management of In-memory Storage for Efficiently Integrating Compute- and Data-intensive Computing on HPC Systems",
+            "authors": [
+                "Pengfei Xuan (Clemson University, USA)",
+                "Feng Luo (Clemson University, USA)",
+                "Rong Ge (Clemson University, USA)",
+                "Pradip Srimani (Clemson University, USA)"
+            ],
+            "topics": [
+                "HPC",
+                "Storage"
+            ]
+        },
+        {
+            "key": "CCGrid_17_041",
+            "title": "Energy-efficient I/O Thread Schedulers for NVMe SSDs on NUMA",
+            "authors": [
+                "Junjie Qian (University of Nebraska Lincoln, USA)",
+                "Hong Jiang (University of Texas Arlington, USA)",
+                "Witawas Srisa-An (University of Nebraska Lincoln, USA)",
+                "Sharad Seth (University of Nebraska Lincoln, USA)",
+                "Stan Skelton (NetApp Inc, USA)",
+                "Joseph Moore (NetApp Inc., USA)"
+            ],
+            "topics": [
+                "Energy",
+                "Storage",
+                "Concurrency",
+                "OS"
+            ]
+        },
+        {
+            "key": "CCGrid_17_042",
+            "title": "Enabling Distributed Software-Defined Environments Using Dynamic Infrastructure Service Composition",
+            "authors": [
+                "Moustafa Abdelbaky (Rutgers University, USA)",
+                "Javier Diaz-Montes (Rutgers University, USA)",
+                "Merve Unuvar (IBM Research, USA)",
+                "Melissa Romanus (Rutgers University, USA)",
+                "Malgorzata Gosia Steinder (IBM Research, USA)",
+                "Manish Parashar (Rutgers University, USA)"
+            ],
+            "topics": [
+                "OS",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_043",
+            "title": "Joint Optimization of Scaling and Placement of Virtual Network Services",
+            "authors": [
+                "Sevil Dr\u00e4xler (Paderborn University, Germany)",
+                "Holger Karl (Paderborn Universitry, Germany)",
+                "Zoltan Mann (University of Duisburg-Essen, Germany)"
+            ],
+            "topics": [
+                "VM",
+                "OS"
+            ]
+        },
+        {
+            "key": "CCGrid_17_044",
+            "title": "Acyclic Partitioning of Large Directed Acyclic Graphs",
+            "authors": [
+                "Julien Herrmann (Georgia Institute of Technology, USA)",
+                "Jonathan Kho (Georgia Institute of Technology, USA)",
+                "Bora Ucar (CNRS and LIP ENS Lyon, France)",
+                "Kamer Kaya (Sabanc\u0131 University, Turkey)",
+                "\u00dcmit V. \u00c7ataly\u00fcrek (Georgia Institute of Technology, USA)"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "CCGrid_17_045",
+            "title": "Towards Energy Budget Control in HPC",
+            "authors": [
+                "Pierre-Francois Dutot (Universit\u00e9 Grenoble Alpes, France)",
+                "Yiannis Georgiou (ATOS/BULL, France)",
+                "David Glesser (Bull Atos Technologies, France)",
+                "Laurent Lefevre (INRIA, France)",
+                "Millian Poquet (Univ. Grenoble, MOAIS, LIG, Inria, France)",
+                "Issam Rais (INRIA, France)"
+            ],
+            "topics": [
+                "HPC",
+                "Energy"
+            ]
+        },
+        {
+            "key": "CCGrid_17_046",
+            "title": "On Estimating Minimum Bids for Amazon EC2 Spot Instances",
+            "authors": [
+                "Markus Lumpe (Swinburne University of Technology, Australia)",
+                "Mohan Baruwal Chhetri (Swinburne University of Technology, Australia)",
+                "Bao Vo (Swinburne University of Technology, Australia)",
+                "Ryszard Kowalczyk (Swinburne University of Technology, Australia)"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_047",
+            "title": "Practical Service Placement Approach for Microservices Architecture",
+            "authors": [
+                "Mennan Selimi (Universitat Polit\u00e8cnica de Catalunya, Spain)",
+                "Lloren\u00e7 Cerd\u00e0-Alabern (UPC, Spain)",
+                "Marc S\u00e1nchez-Artigas (Universitat Rovira i Virgili, Spain)",
+                "Felix Freitag (UPC, Spain)",
+                "Lu\u00eds Veiga (INESC-ID, Portugal)"
+            ],
+            "topics": [
+                "Cloud",
+                "OS",
+                "Network"
+            ]
+        },
+        {
+            "key": "CCGrid_17_048",
+            "title": "Security Implications of Blockchain Cloud with Analysis of Block Withholding Attack",
+            "authors": [
+                "Deepak Tosh (Norfolk State University, USA)",
+                "Sachin Shetty (Old Dominion University, USA)",
+                "Xueping Liang (Tennessee State University, USA)",
+                "Charles Kamhoua (AFRL, USA)",
+                "Kevin Kwiat (AFRL, USA)",
+                "Laurent Njilla (AFRL, USA)"
+            ],
+            "topics": [
+                "Security",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_049",
+            "title": "ProvChain: A Blockchain-based Data Provenance Architecture in Cloud Environment with Enhanced Privacy and Availability",
+            "authors": [
+                "Xueping Liang (Tennessee State University, USA)",
+                "Sachin Shetty (Old Dominion University, USA)",
+                "Deepak Tosh (Tennessee State University, USA)",
+                "Charles Kamhoua (AFRL)",
+                "Kevin Kwiat (Cyber Assurance Branch, Air Force Research Laboratory, Rome, NY, USA)",
+                "Laurent Njilla (Cyber Assurance Branch, Air Force Research Laboratory, Rome, NY, USA)"
+            ],
+            "topics": [
+                "Security",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_050",
+            "title": "T-VMI: Trusted Virtual Machine Introspection in Cloud Environments",
+            "authors": [
+                "Lina Jia (Institute of Information Engineering, China)",
+                "Min Zhu (Institute of Information Engineering, China)",
+                "Bibo Tu (Institute of Information Engineering, China)"
+            ],
+            "topics": [
+                "VM",
+                "Cloud",
+                "Security"
+            ]
+        },
+        {
+            "key": "CCGrid_17_051",
+            "title": "Modeling correlation between QoS attributes for trust computation in cloud computing environments",
+            "authors": [
+                "Manel Mrabet (ENSI, Tunisia)",
+                "Yosra Ben Saied (ENSI, Tunisia)",
+                "Leila Azouz Saidane (ENSI, Tunisia)"
+            ],
+            "topics": [
+                "Security",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_052",
+            "title": "Crowdsourced Data Integrity Verification for Key-Value Stores in the Cloud",
+            "authors": [
+                "Grisha Weintraub (The Open University of Israel, Israel)",
+                "Ehud Gudes (Ben-Gurion University of the Negev, Israel)"
+            ],
+            "topics": [
+                "Security",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_053",
+            "title": "An Anomaly Detection Fabric for Clouds Based on Collaborative VM Communities",
+            "authors": [
+                "Rashid Tahir (University of Illinois Urbana-Champaign, USA)",
+                "Ali Raza (Lahore University of Management Sciences, Pakistan)",
+                "Mazhar Naqvi (Lahore University of Management Sciences, Pakistan)",
+                "Fareed Zaffar (Lahore University of Management Sciences, Pakistan)",
+                "Matthew Caesar (University of Illinois at Urbana-Champaign, USA)"
+            ],
+            "topics": [
+                "Cloud",
+                "VM"
+            ]
+        },
+        {
+            "key": "CCGrid_17_054",
+            "title": "LOGAIDER: A tool for mining potential correlations of HPC log events",
+            "authors": [
+                "Sheng Di (Argonne National Laboratory, USA)",
+                "Rinku Gupta (Argonne National Laboratory, USA)",
+                "Marc Snir (University of Illinois Urbana-Champaign, USA)",
+                "Eric Pershey (Argonne National Laboratory, USA)",
+                "Franck Cappello (Argonne National Laboratory, USA)"
+            ],
+            "topics": [
+                "HPC",
+                "Data"
+            ]
+        },
+        {
+            "key": "CCGrid_17_055",
+            "title": "Designing and Modelling Selective Replication for Fault-tolerant HPC Applications",
+            "authors": [
+                "Omer Subasi (Technical University of Catalonia/Barcelona Supercomputing Center, Spain)",
+                "Gulay Yalcin (Abdullah Gul University, Turkey)",
+                "Ferad Zyulkyarov (Barcelona Supercomputing Center, Spain)",
+                "Osman Unsal (Barcelona Supercomputing Center, Spain)",
+                "Jesus Labarta (Barcelona Supercomputing Center, Spain)"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "CCGrid_17_056",
+            "title": "High-Performance Key-Value Store On OpenSHMEM",
+            "authors": [
+                "Huansong Fu (Florida State University, USA)",
+                "Manjunath Gorentla Venkata (Oak Ridge National Laboratory, USA)",
+                "Ahana Roy Choudhury (Florida State University, USA)",
+                "Neena Imam (Oak Ridge National Laboratory, USA)",
+                "Weikuan Yu (Florida State University, USA)"
+            ],
+            "topics": [
+                "HPC",
+                "Data"
+            ]
+        },
+        {
+            "key": "CCGrid_17_057",
+            "title": "AnalyzeThat: A Programmable Shared-Memory System for an Array of Processing-In-Memory Devices",
+            "authors": [
+                "Sangkuen Lee (Oak Ridge National Laboratory, USA)",
+                "Hyogi Sim (Oak Ridge National Laboratory, USA)",
+                "Youngjae Kim (Sogang University, Korea)",
+                "Sudharshan S. Vazhkudai (Oak Ridge National Laboratory, USA)"
+            ],
+            "topics": [
+                "Data",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "CCGrid_17_058",
+            "title": "Implementation and Evaluation of One-sided PGAS Communication in XcalableACC for Accelerated Clusters",
+            "authors": [
+                "Akihiro Tabuchi (Graduate School of Systems and Information Engineering, University of Tsukuba, Japan)",
+                "Masahiro Nakao (RIKEN Advanced Institute for Computational Science, Japan)",
+                "Hitoshi Murai (RIKEN, Japan)",
+                "Taisuke Boku (University of Tsukuba, Japan)",
+                "Mitsuhisa Sato (RIKEN AICS/ University of Tsukuba, Japan)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_059",
+            "title": "Combining Both a Component Model and a Task-based Model for HPC Applications: a Feasibility Study on GYSELA",
+            "authors": [
+                "Olivier Aumage (Inria, LaBRI, France)",
+                "Julien Bigot (Maison de la Simulation, CEA, CNRS, Univ. Paris-Sud, UVSQ, Universit\u00e9 Paris-Saclay, France)",
+                "H\u00e9l\u00e8ne Coullon (Univ. Lyon, Inria, CNRS, ENS de Lyon, Univ. Claude-Bernard Lyon 1, LIP, France)",
+                "Christian Perez (Univ. Lyon, Inria, CNRS, ENS de Lyon, Univ. Claude-Bernard Lyon 1, LIP, France)",
+                "J\u00e9r\u00f4me Richard (Univ. Lyon, Inria, CNRS, ENS de Lyon, Univ. Claude-Bernard Lyon 1, LIP, France)"
+            ],
+            "topics": [
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "CCGrid_17_060",
+            "title": "Adaptive Hybrid Queue Configuration for Supercomputer Systems",
+            "authors": [
+                "Vineetha Kondameedi (NVIDIA Graphics Private Ltd, Pune, India, India)",
+                "Sathish Vadhiyar (Indian Institute of Science, India)"
+            ],
+            "topics": [
+                "HPC",
+                "OS"
+            ]
+        },
+        {
+            "key": "CCGrid_17_061",
+            "title": "Flexible Scheduling of Distributed Analytic Applications",
+            "authors": [
+                "Francesco Pace (Eurecom, France)",
+                "Daniele Venzano (Eurecom, France)",
+                "Damiano Carra (University of Verona, Italy)",
+                "Pietro Michiardi (Eurecom, France)"
+            ],
+            "topics": [
+                "Data",
+                "OS"
+            ]
+        },
+        {
+            "key": "CCGrid_17_062",
+            "title": "CtrlCloud: Performance-Aware Adaptive Control for Shared Resources in Clouds",
+            "authors": [
+                "Omer Adam (The University of Sydney, Australia)",
+                "Young Choon Lee (Macquarie University, Australia)",
+                "Albert Y. Zomaya (The University of Sydney, Australia)"
+            ],
+            "topics": [
+                "Cloud",
+                "OS"
+            ]
+        },
+        {
+            "key": "CCGrid_17_063",
+            "title": "QoS-Aware Virtual Infrastructures Allocation on SDN-based Clouds",
+            "authors": [
+                "Felipe Rodrigo de Souza (Santa Catarina State University, Brazil)",
+                "Charles Christian Miers (Santa Catarina State University, Brazil)",
+                "Adriano Fiorese (Santa Catarina State University, Brazil)",
+                "Guilherme Koslovski (Santa Catarina State University, Brazil)"
+            ],
+            "topics": [
+                "OS",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_064",
+            "title": "Maximum Sustainable Throughput Prediction for Data Stream Processing over Public Clouds",
+            "authors": [
+                "Shigeru Imai (Rensselaer Polytechnic Institute, USA)",
+                "Stacy Patterson (Rensselaer Polytechnic Institute, USA)",
+                "Carlos Varela (Rensselaer Polytecnic Institute, USA)"
+            ],
+            "topics": [
+                "Data",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_065",
+            "title": "WattsKit: Software-Defined Power Monitoring of Distributed Systems",
+            "authors": [
+                "Maxime Colmant (ADEME / University of Lille / Inria, France)",
+                "Pascal Felber (University of Neuchatel, Switzerland)",
+                "Romain Rouvoy (University of Lille / Inria / IUF, France)",
+                "Lionel Seinturier (University of Lille / Inria / IUF, France)"
+            ],
+            "topics": [
+                "Energy"
+            ]
+        },
+        {
+            "key": "CCGrid_17_066",
+            "title": "Predicting cloud performance for HPC applications: a user-oriented approach",
+            "authors": [
+                "Giovanni Mariani (IBM Research, Netherlands)",
+                "Andreea Anghel (IBM Research - Zurich, Switzerland)",
+                "Rik Jongerius (IBM Research, Netherlands)",
+                "Gero Dittmann (IBM Research - Zurich, Switzerland)"
+            ],
+            "topics": [
+                "HPC",
+                "Benchmark",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_067",
+            "title": "An Approach and Case Study of Cloud Instance Type Selection for Multi-Tier Web Applications",
+            "authors": [
+                "Christian Davatz (University of Zurich, Switzerland)",
+                "Christian Inzinger (University of Zurich, Switzerland)",
+                "Joel Scheuner (University of Zurich, Switzerland)",
+                "Philipp Leitner (University Of Zurich, Switzerland)"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_068",
+            "title": "Toward a Holistic Framework for ConductingScientific Evaluations of OpenStack",
+            "authors": [
+                "Ronan-Alexandre Cherrueau (Inria, France)",
+                "Dimitri Pertin (Inria, France)",
+                "Anthony Simonet (Inria, France)",
+                "Adrien L\u00e8bre (Inria, France)",
+                "Matthieu Simonin (Inria, France)"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_069",
+            "title": "Energy Efficient Algorithm for VNF Placement and Chaining",
+            "authors": [
+                "Oussama Soualah (Institut Mines-Telecom, France)",
+                "Marouen Mechtri (Institut Mines-Telecom, Telecom SudParis, France)",
+                "Chaima Ghribi (Institut Mines-Telecom, Telecom SudParis, France)",
+                "Djamal Zeghlache (T\u00e9l\u00e9com SudParis, France)"
+            ],
+            "topics": [
+                "Energy"
+            ]
+        },
+        {
+            "key": "CCGrid_17_070",
+            "title": "KPI-agnostic Control for Fine-Grained Vertical Elasticity",
+            "authors": [
+                "Ewnetu Bayuh Lakew (Umea University, Sweden)",
+                "Alessandro Vittorio Papadopoulos (M\u00e4lardalen University, Sweden)",
+                "Martina Maggio (Lund University, Sweden)",
+                "Cristian Klein (Umea University, Sweden)",
+                "Erik Elmroth (Ume\u00e5 University and Elastisys, Sweden)"
+            ],
+            "topics": [
+                "VM",
+                "OS"
+            ]
+        },
+        {
+            "key": "CCGrid_17_071",
+            "title": "PCSsampler: Sample based, Private-state Cluster Scheduling",
+            "authors": [
+                "Chunliang Hao (Institute of Software, Chinese Academy of Science, China)",
+                "Jie Shen (Imperial College London, United Kingdom)",
+                "Celia Chen (University of Souther California, USA)",
+                "Heng Zhang (Institute of Software, Chinese Academy of Science, China)",
+                "Yanjun Wu (Institute of Software, Chinese Academy of Science, China)",
+                "Mingshu Li (Institute of Software, Chinese Academy of Science, China)"
+            ],
+            "topics": [
+                "OS",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCGrid_17_072",
+            "title": "Optimized Cloud Deployment of Multi-tenant Software Considering Data Protection Concerns",
+            "authors": [
+                "Zoltan Mann (University of Duisburg-Essen, Germany)",
+                "Andreas Metzger (University of Duisburg-Essen, Germany)"
+            ],
+            "topics": [
+                "Cloud",
+                "VM",
+                "Security"
+            ]
+        }
+    ]
+}

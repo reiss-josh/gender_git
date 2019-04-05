@@ -1,0 +1,608 @@
+{
+    "key": "MobiCom_17",
+    "conference": "International Conference on Mobile Computing and Networking",
+    "organization": [
+        "ACM"
+    ],
+    "country": "US",
+    "postdate": "2017-10-17",
+    "last_deadline": "2017-03-16",
+    "review_days": 84,
+    "submissions": 186,
+    "min_reviews": 3,
+    "total_reviews": 879,
+    "double_blind": true,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 23,
+    "past_papers": 2223,
+    "past_citations": 41781,
+    "h5_index": 45,
+    "h5_median": 82,
+    "notes": "There was a heavy PC and light PC (30 members each). The smaller size of the heavy PC allowed for a more manageable PC peeting, and allowed the members of the light committee to remain involved, but with a lighter load. TPC selection took into account gender, seniority, institution, country, expertise, and academic/industrial background. Review took three phases: 1st, at least three reviews, with the top 107 papers advancing to phase 2 (taking into account not only score but also reviewer confidence and normalizing for reviewer scoring of other papers). In the second phase, 2+ more reviews written per paper, followed by an online discussion, producing 68 papers for the TPC meeting (phase 3). The light PC participated only in the first phase. Each of the accepted 35 papers were shepherded, which served to clarify and improve the paper (not for additional experiments). Included below are two shoerter (8 page) experience papers. Verification papers were also solicited, but none were submitted. The first paper (Webee) appears to be a demo paper, but shows up as a regular paper in the ACM TOC.",
+    "pc_chairs": [
+        "Ben Greenstein (Google, USA)",
+        "Kannan Srinivasan (Ohio State University, USA)"
+    ],
+    "pc_members": [
+        "Fadel Adib (Massachusetts Institute of Technology)",
+        "Sharad Agarwal (Microsoft Research Redmond)",
+        "Victor Bahl (Microsoft Research Redmond)",
+        "Aruna Balasubramanian (Stony Brook University)",
+        "Tarun Bansal (Google)",
+        "Elizabeth Belding (University of California, Santa Barbara)",
+        "Srdjan Capkun (ETH Zurich, Switzerland)",
+        "Geoffrey Challen (University at Buffalo)",
+        "Ranveer Chandra (Microsoft Research Redmond)",
+        "Bo Chen (Cisco Meraki)",
+        "Yingying Chen (Stevens Institute of Technology)",
+        "David Chu (Google)",
+        "Samir R. Das (Stony Brook University)",
+        "Christina Fragouli (University of California, Los Angeles)",
+        "Mario Gerla (University of California, Los Angeles)",
+        "Shyamnath Gollakota (University of Washington)",
+        "Marco Gruteser (Rutgers University)",
+        "Haitham Hassanieh (University of Illinois, Urbana Champaign)",
+        "Tian He (University of Minnesota)",
+        "Wenjun Hu (Yale University)",
+        "Y. Charlie Hu (Purdue University)",
+        "Polly Huang (National Taiwan University, Taiwan)",
+        "Kyle Jamieson (Princeton University)",
+        "Sneha Kasera (University of Utah)",
+        "Dimitrios Koutsonikolas (University at Buffalo)",
+        "Robin Kravets (University of Illinois, Urbana Champaign)",
+        "Srikanth Krishnamurthy (University of California, Riverside)",
+        "Swarun Kumar (Carnegie Mellon University)",
+        "Sung-Ju Lee (Korea Advanced Institute of Science and Technology, South Korea)",
+        "Mo Li (Nanyang Technological University, Singapore)",
+        "Robert LiKamWa (Arizona State University)",
+        "Songwu Lu (University of California, Los Angeles)",
+        "Thomas Moscibroda (Microsoft Research Asia)",
+        "Thyaga Nandagopal (National Science Foundation)",
+        "Vishnu Navda (Microsoft Research India)",
+        "Srihari Nelakuditi (University of South Carolina)",
+        "Jason Nieh (Columbia University)",
+        "Panos Papadimitratos (KTH Royal Institute of Technology in Stockholm, Sweeden)",
+        "Giovanni Pau (Laboratoire d'Informatique de Paris 6, France)",
+        "Chunyi Peng (Ohio State University)",
+        "Chiara Petriolli (University of Rome, Italy)",
+        "Matthai Philipose (Microsoft Research Redmond)",
+        "Lili Qiu (University of Texas at Austin)",
+        "Bozidar Radunovic (Microsoft Research Cambridge, UK)",
+        "Eric Rozner (IBM Research Austin)",
+        "Ashutosh Sabarwal (Rice University)",
+        "Souvik Sen (Google)",
+        "Prasun Sinha (Ohio State University)",
+        "Raghupathy Sivakumar (Georgia Institute of Technology)",
+        "Josh Smith (University of Washington)",
+        "Lakshmi Subramanian (New York University)",
+        "Karthik Sundaresan (NEC Laboratories)",
+        "Andreas Terzis (Google)",
+        "He Wang (Purdue University)",
+        "Matt Welsh (Google)",
+        "Jie Xiong (Singapore Management University, Singapore)",
+        "Xinyu Zhang (University of Wisconsin)",
+        "Heather Zheng (University of California, Santa Barbara)",
+        "Lin Zhong (Rice University)",
+        "Xia Zhou (Dartmouth College)"
+    ],
+    "keynote_speakers": [
+        "Hari Balakrishnan (MIT)",
+        "Thyagarajan Nandagopal",
+        "Shyamnath Gollakota"
+    ],
+    "session_chairs": [
+        "Dimitrios Koutsonikolas",
+        "Y. Charlie Hu",
+        "Xinyu Zhang",
+        "Lenin Ravindranath Sivalingam",
+        "Chunyi Peng",
+        "Jie Xiong",
+        "Fadel Adib",
+        "He Wang",
+        "Robin Kravets",
+        "Aruna Balasubramanian (Stony Brook University)"
+    ],
+    "panelists": [
+        "Abhimanyu Gosain (PAWR Project Office)",
+        "Ali Khayrallah (Ericsson Research)",
+        "Ravi Marawar (National Instruments)",
+        "Rebecca Hunter (Crown Castle)"
+    ],
+    "papers": [
+        {
+            "key": "MobiCom_17_001",
+            "title": "WEBee: Physical-Layer Cross-Technology Communication via Emulation",
+            "authors": [
+                "Zhijun Li (University of Minnesota & Harbin Institute of Technology)",
+                "Tian He (University of Minnesota)"
+            ],
+            "topics": [
+                "Network"
+            ],
+            "award": true
+        },
+        {
+            "key": "MobiCom_17_002",
+            "title": "WiFi-Assisted 60 GHz Wireless Networks",
+            "authors": [
+                "Sanjib Sur (University of Wisconsin-Madison & Hewlett Packard Labs)",
+                "Ioannis Pefkianakis (Hewlett Packard Labs)",
+                "Xinyu Zhang (University of California, San Diego)",
+                "Kyu-Han Kim (Hewlett Packard Labs)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_003",
+            "title": "Pose Information Assisted 60 GHz Networks: Towards Seamless Coverage and Mobility Support",
+            "authors": [
+                "Teng Wei (University of Wisconsin - Madison)",
+                "Xinyu Zhang (University of California San Diego)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_004",
+            "title": "A Control-Plane Perspective on Reducing Data Access Latency in LTE Network",
+            "authors": [
+                "Yuanjie Li (University of California, Los Angeles)",
+                "Zengwen Yuan (University of California, Los Angeles)",
+                "Chunyi Peng (Purdue University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_005",
+            "title": "An Open Platform for Experimentation with Commercial Mobile Broadband Networks",
+            "authors": [
+                "\u00d6zg\u00fc Alay (Simula Research Laboratory)",
+                "Andra Lutu (Simula Research Laboratory)",
+                "Miguel Pe\u00f3n-Quir\u00f3s (IMDEA Networks Institute)",
+                "Vincenzo Mancuso (IMDEA Networks Institute)",
+                "Thomas Hirsch (Celerway Communications)",
+                "Kristian Evensen (Celerway Communications)",
+                "Audun Hansen (Celerway Communications)",
+                "Stefan Alfredsson (Karlstad University)",
+                "Jonas Karlsson (Karlstad University)",
+                "Anna Brunstrom (Karlstad University)",
+                "Ali Safari Khatouni (Politecnico di Torino)",
+                "Marco Mellia (Politecnico di Torino)",
+                "Marco Ajmone Marsan (IMDEA Networks Institute & Politecnico di Torino)"
+            ],
+            "topics": [
+                "Network",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "MobiCom_17_006",
+            "title": "Automating Diagnosis of Cellular Radio Access Network Problems",
+            "authors": [
+                "Anand Padmanabha Iyer (University of California, Berkeley)",
+                "Li Erran Li (Uber Technologies)",
+                "Ion Stoica (University of California, Berkeley)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_007",
+            "title": "Adding the Next Nine: An Investigation of Mobile Broadband Networks Availability",
+            "authors": [
+                "Ahmed Elmokashfi (Simula Research Laboratory)",
+                "Dong Zhou (Simula Research Laboratory)",
+                "D\u017eiugas Baltrunas (Simula Research Laboratory)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_008",
+            "title": "The Tick Programmable Low-Latency SDR System",
+            "authors": [
+                "Haoyang Wu (Peking University)",
+                "Tao Wang (Peking University)",
+                "Zengwen Yuan (University of California, Los Angeles)",
+                "Chunyi Peng (Purdue University)",
+                "Zhiwei Li (Peking University)",
+                "Zhaowei Tan (University of California, Los Angeles)",
+                "Boyan Ding (Peking University)",
+                "Xiaoguang Li (Peking University)",
+                "Yuanjie Li (University of California, Los Angeles)",
+                "Jun Liu (Peking University)",
+                "Songwu Lu (University of California, Los Angeles)"
+            ],
+            "topics": [
+                "Network"
+            ],
+            "award": true
+        },
+        {
+            "key": "MobiCom_17_009",
+            "title": "BiPass: Enabling End-to-End Full Duplex",
+            "authors": [
+                "Lu Chen (Ohio State University)",
+                "Fei Wu (Ohio State University)",
+                "Jiaqi Xu (Ohio State University)",
+                "Kannan Srinivasan (Ohio State University)",
+                "Ness Shroff (Ohio State University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_010",
+            "title": "Orion: RAN Slicing for a Flexible and Cost-Effective Multi-Service Mobile Network Architecture",
+            "authors": [
+                "Xenofon Foukas (University of Edinburgh)",
+                "Mahesh K. Marina (University of Edinburgh)",
+                "Kimon Kontovasilis (NCSR Demokritos)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_011",
+            "title": "Accelerating Multipath Transport Through Balanced Subflow Completion",
+            "authors": [
+                "Yihua Ethan Guo (University of Michigan)",
+                "Ashkan Nikravesh (University of Michigan)",
+                "Z. Morley Mao (University of Michigan)",
+                "Feng Qian (Indiana University)",
+                "Subhabrata Sen (AT&T Labs \u2013 Research)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_012",
+            "title": "FSONet: A Wireless Backhaul for Multi-Gigabit Picocells Using Steerable Free Space Optics",
+            "authors": [
+                "Max Curran (Stony Brook University)",
+                "Md. Shaifur Rahman (Stony Brook University)",
+                "Himanshu Gupta (Stony Brook University)",
+                "Kai Zheng (Stony Brook University)",
+                "Jon Longtin (Stony Brook University)",
+                "Samir R. Das (Stony Brook University)",
+                "Thanvir Mohamed (Stony Brook University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_013",
+            "title": "MagneComm: Magnetometer-based Near-Field Communication",
+            "authors": [
+                "Hao Pan (Shanghai Jiao Tong University)",
+                "Yi-Chao Chen (Shanghai Jiao Tong University)",
+                "Guangtao Xue (Shanghai Jiao Tong University)",
+                "Xiaoyu Ji (Zhejiang University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_014",
+            "title": "PassiveVLC: Enabling Practical Visible Light Backscatter Communication for Battery-free IoT Applications",
+            "authors": [
+                "Xieyang Xu (Peking University)",
+                "Yang Shen (Peking University)",
+                "Junrui Yang (Stanford University)",
+                "Chenren Xu (Peking University)",
+                "Guobin Shen (Zepp Labs, Inc.)",
+                "Guojun Chen (Peking University)",
+                "Yunzhe Ni (Peking University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_015",
+            "title": "ReflexCode: Coding with Superposed Reflection Light for LED-Camera Communication",
+            "authors": [
+                "Yanbing Yang (Nanyang Technological University)",
+                "Jiangtian Nie (Nanyang Technological University)",
+                "Jun Luo (Nanyang Technological University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_016",
+            "title": "Pulsar: Towards Ubiquitous Visible Light Localization",
+            "authors": [
+                "Chi Zhang (University of Wisconsin-Madison)",
+                "Xinyu Zhang (University of California San Diego)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_017",
+            "title": "RF-Echo: A Non-Line-of-Sight Indoor Localization System Using a Low-Power Active RF Reflector ASIC Tag",
+            "authors": [
+                "Li-Xuan Chuo (University of Michigan)",
+                "Zhihong Luo (University of Michigan)",
+                "Dennis Sylvester (University of Michigan)",
+                "David Blaauw (University of Michigan)",
+                "Hun-Seok Kim (University of Michigan)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_018",
+            "title": "Simultaneous Power-Based Localization of Transmitters for Crowdsourced Spectrum Monitoring",
+            "authors": [
+                "Mojgan Khaledi (University of Utah)",
+                "Mehrdad Khaledi (Rensselaer Polytechnic Institute)",
+                "Shamik Sarkar (University of Utah)",
+                "Sneha Kasera (University of Utah)",
+                "Neal Patwari (University of Utah)",
+                "Kurt Derr (Idaho National Labs)",
+                "Samuel Ramirez (Idaho National Labs)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_019",
+            "title": "Minding the Billions: Ultra-wideband Localization for Deployed RFIDs",
+            "authors": [
+                "Yunfei Ma (Massachusetts Institute of Technology)",
+                "Nicholas Selby (Massachusetts Institute of Technology)",
+                "Fadel Adib (Massachusetts Institute of Technology)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_020",
+            "title": "RIO: A Pervasive RFID-based Touch Gesture Interface",
+            "authors": [
+                "Swadhin Pradhan (University of Texas at Austin)",
+                "Eugene Chai (NEC Laboratories America)",
+                "Karthikeyan Sundaresan (NEC Laboratories America)",
+                "Lili Qiu (University of Texas at Austin)",
+                "Mohammad A. Khojastepour (NEC Laboratories America)",
+                "Sampath Rangarajan (NEC Laboratories America)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_021",
+            "title": "FlipTracer: Practical Parallel Decoding for Backscatter Communication",
+            "authors": [
+                "Meng Jin (Northwest University)",
+                "Yuan He (Tsinghua University)",
+                "Xin Meng (Northwest University)",
+                "Yilun Zheng (Tsinghua University)",
+                "Dingyi Fang (Northwest University)",
+                "Xiaojiang Chen (Northwest University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_022",
+            "title": "TagScan: Simultaneous Target Imaging and Material Identification with Commodity RFID Devices",
+            "authors": [
+                "Ju Wang (Northwest University)",
+                "Jie Xiong (Singapore Management University)",
+                "Xiaojiang Chen (Northwest University)",
+                "Hongbo Jiang (Huazhong University of Science and Technology)",
+                "Rajesh Krishna Balan (Singapore Management University)",
+                "Dingyi Fang (Northwest University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_023",
+            "title": "Analog On-Tag Hashing: Towards Selective Reading as Hash Primitives in Gen2 RFID Systems",
+            "authors": [
+                "Lei Yang (Hong Kong Polytechnic University)",
+                "Qiongzheng Lin (Hong Kong Polytechnic University)",
+                "Chunhui Duan (Tsinghua University & Hong Kong Polytechnic University)",
+                "Zhenlin An (Hong Kong Polytechnic University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_024",
+            "title": "Cardiac Scan: A Non-contact and Continuous Heart-based User Authentication System",
+            "authors": [
+                "Feng Lin (University at Buffalo SUNY)",
+                "Chen Song (University at Buffalo SUNY)",
+                "Yan Zhuang (University at Buffalo SUNY)",
+                "Wenyao Xu (University at Buffalo SUNY)",
+                "Changzhi Li (Texas Tech University)",
+                "Kui Ren (University at Buffalo SUNY)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "MobiCom_17_025",
+            "title": "Automating Visual Privacy Protection Using a Smart LED",
+            "authors": [
+                "Shilin Zhu (University of California-San Diego)",
+                "Chi Zhang (University of Wisconsin-Madison)",
+                "Xinyu Zhang (University of California-San Diego)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "MobiCom_17_026",
+            "title": "Continuous Authentication for Voice Assistants",
+            "authors": [
+                "Huan Feng (University of Michigan)",
+                "Kassem Fawaz (University of Michigan)",
+                "Kang G. Shin (University of Michigan)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "MobiCom_17_027",
+            "title": "NICScatter: Backscatter as a Covert Channel in Mobile Device",
+            "authors": [
+                "Zhice Yang (ShanghaiTech University & Hong Kong University of Science and Technology)",
+                "Qianyi Huang (Hong Kong University of Science and Technology)",
+                "Qian Zhang (Hong Kong University of Science and Technology)"
+            ],
+            "topics": [
+                "Network",
+                "Security"
+            ]
+        },
+        {
+            "key": "MobiCom_17_028",
+            "title": "UIWear: Easily Adapting User Interfaces for Wearable Devices",
+            "authors": [
+                "Jian Xu (Stony Brook University)",
+                "Qingqing Cao (Stony Brook University)",
+                "Aditya Prakash (Stony Brook University)",
+                "Aruna Balasubramanian (Stony Brook University)",
+                "Donald E. Porter (University of North Carolina at Chapel Hill)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_029",
+            "title": "TinyLink: A Holistic System for Rapid Development of IoT Applications",
+            "authors": [
+                "Gaoyang Guan (Zhejiang University)",
+                "Wei Dong (Zhejiang University)",
+                "Yi Gao (Zhejiang University)",
+                "Kaibo Fu (Zhejiang University)",
+                "Zhihao Cheng (Zhejiang University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_030",
+            "title": "BlueMountain: An Architecture for Customized Data Management on Mobile Systems",
+            "authors": [
+                "Sharath Chandrashekhara (University at Buffalo, The State University of New York)",
+                "Taeyeon Ki (University at Buffalo, The State University of New York)",
+                "Kyungho Jeon (University at Buffalo, The State University of New York)",
+                "Karthik Dantu (University at Buffalo, The State University of New York)",
+                "Steven Y. Ko (University at Buffalo, The State University of New York)"
+            ],
+            "topics": [
+                "Network",
+                "Data"
+            ]
+        },
+        {
+            "key": "MobiCom_17_031",
+            "title": "Furion: Engineering High-Quality Immersive Virtual Reality on Today's Mobile Device",
+            "authors": [
+                "Zeqi Lai (Tsinghua University)",
+                "Y. Charlie Hu (Purdue University)",
+                "Yong Cui (Tsinghua University)",
+                "Linhui Sun (Tsinghua University)",
+                "Ningwei Dai (Tsinghua University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_032",
+            "title": "RAVEN: Perception-aware Optimization of Power Consumption for Mobile Games",
+            "authors": [
+                "Chanyou Hwang (Korea Advanced Institute of Science and Technology)",
+                "Saumay Pushp (Korea Advanced Institute of Science and Technology)",
+                "Changyoung Koh (Korea Advanced Institute of Science and Technology)",
+                "Jungpil Yoon (Korea Advanced Institute of Science and Technology)",
+                "Yunxin Liu (Microsoft Research)",
+                "Seungpyo Choi (Korea Advanced Institute of Science and Technology)",
+                "Junehwa Song (Korea Advanced Institute of Science and Technology)"
+            ],
+            "topics": [
+                "Energy"
+            ]
+        },
+        {
+            "key": "MobiCom_17_033",
+            "title": "Advertising-based Measurement: A Platform of 7 Billion Mobile Devices",
+            "authors": [
+                "Mark Corner (University of Massachusetts Amherst)",
+                "Brian N. Levine (University of Massachusetts Amherst)",
+                "Omar Ismail (University of Massachusetts Amherst)",
+                "Angela Upreti (University of Massachusetts Amherst)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_034",
+            "title": "NutShell: Scalable Whittled Proxy Execution for Low-Latency Web over Cellular Networks",
+            "authors": [
+                "Ashiwan Sivakumar (Purdue University)",
+                "Chuan Jiang (Purdue University)",
+                "Yun Seong Nam (Purdue University)",
+                "Shankaranarayanan Puzhavakath Narayanan (AT&T Labs - Research)",
+                "Vijay Gopalakrishnan (AT&T Labs - Research)",
+                "Sanjay G. Rao (Purdue University)",
+                "Subhabrata Sen (AT&T Labs - Research)",
+                "Mithuna Thottethodi (Purdue University)",
+                "T. N. Vijaykumar (Purdue University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "MobiCom_17_035",
+            "title": "Stateful Inter-Packet Signal Processing for Wireless Networking",
+            "authors": [
+                "Shangqing Zhao (University of South Florida)",
+                "Zhengping Luo (University of South Florida)",
+                "Zhuo Lu (University of South Florida)",
+                "Xiang Lu (Chinese Academy of Sciences & University of Chinese Academy of Sciences)",
+                "Yao Liu (University of South Florida)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        }
+    ]
+}

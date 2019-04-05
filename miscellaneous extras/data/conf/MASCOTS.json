@@ -1,0 +1,400 @@
+{
+    "key": "MASCOTS_17",
+    "conference": "International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",
+    "organization": [
+        "IEEE"
+    ],
+    "country": "CA",
+    "postdate": "2017-09-20",
+    "last_deadline": "2017-04-11",
+    "review_days": 59,
+    "submissions": 84,
+    "min_reviews": 3,
+    "total_reviews": 341,
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 25,
+    "past_papers": 1376,
+    "past_citations": 6178,
+    "h5_index": 19,
+    "h5_median": 27,
+    "notes": "Excluding 6 short papers.",
+    "pc_chairs": [
+        "Tim Brecht (University of Waterloo)",
+        "David Nicol (University of Illinois at Urbana-Champaign)"
+    ],
+    "pc_members": [
+        "Samer Al-Kiswany (University of Waterloo)",
+        "Jussara Almeida (Universidade Federal de Minas Gerais)",
+        "Mostafa Ammar (Georgia Tech)",
+        "Martin Arlitt (HP Labs and University of Calgary)",
+        "Urtzi Ayesta (Institut de Recherche en Informatique de Toulouse (IRIT))",
+        "Randall Berry (Northwestern University)",
+        "Azer Bestavros (Boston University)",
+        "Valeria Cardellini (University of Roma Tor Vergata)",
+        "Niklas Carlsson (Link\u00f6ping University)",
+        "Giuliano Casale (Imperial College London)",
+        "Sophie Chabridon (T\u00e9l\u00e9com Sud Paris)",
+        "Abhishek Chandra (University of Minnesota)",
+        "Lydia Y. Chen (IBM Zurich Research Lab)",
+        "Vijay Chidambaram (University of Texas at Austin)",
+        "Florin Ciucu (University of Warwick)",
+        "Swades De (IIT Delhi)",
+        "Peter Desnoyers (Northeastern University)",
+        "Derek Eager (University of Saskatchewan)",
+        "Dick Epema (TU Delft)",
+        "Anja Feldmann (TU Berlin)",
+        "Jean-Michel Fourneau (University of Versailles)",
+        "Kristy Gardner (CMU)",
+        "Erol Gelenbe (Imperial College London)",
+        "Monia Ghobadi (Microsoft Research)",
+        "Leana Golubchik (University of Southern California)",
+        "Kartik Gopalan (Binghamton University)",
+        "Emir Halepovic (AT&T Labs Research)",
+        "Peter Harrison (Imperial College London)",
+        "Ilias Iliadis (IBM Zurich)",
+        "Djordje Jevdjic (University of Washington)",
+        "Samuel Kounev (University of W\u00fcrzburg)",
+        "Diwakar Krishnamurthy (University of Calgary)",
+        "Ricardo Lent (Imperial College London)",
+        "Zongpeng Li (University of Calgary)",
+        "Jason Liu (Florida International University)",
+        "Mingyan Liu (University of Michigan)",
+        "John C. S. Lui (The Chinese University of Hong Kong)",
+        "Aniket Mahanti (University of Auckland)",
+        "Richard T. B. Ma (National University of Singapore)",
+        "Andrea Marin (Universit\u00e0 Ca' Foscari di Venezia)",
+        "Daniel Menasce (George Mason University)",
+        "Thu D. Nguyen (Rutgers University)",
+        "Sam H. Noh (Ulsan National Institute of Science and Technology)",
+        "Anne Remke (University of M\u00fcnster)",
+        "Dan Rubenstein (Columbia University)",
+        "Max Schuchard (University of Tennessee)",
+        "Sanjeev Setia (George Mason University)",
+        "Srinivas Shakkottai (Texas A&M University)",
+        "Mark Squillante (IBM T.J. Watson Research Center)",
+        "Peter Steenkiste (CMU)",
+        "Christopher Stewart (The Ohio State University)",
+        "Byungchul Tak (IBM T.J. Watson Research Center)",
+        "Y. C. Tay (National University of Singapore)",
+        "Nigel Thomas (Newcastle University)",
+        "Anand Tripathi (University of Minnesota)",
+        "Bhuvan Urgaonkar (Pennsylvania State University)",
+        "Benny Van Houdt (University of Antwerp)",
+        "Chuan Wu (The University of Hong Kong)",
+        "Shouhuai Xu (University of Texas at San Antonio)",
+        "Li Zhang (IBM Research)",
+        "Zhi-Li Zhang (University of Minnesota)"
+    ],
+    "keynote_speakers": [
+        "Balagurana Chidambaram (Boeing)",
+        "Alex Gutarin (Netflix)",
+        "Rei Safavi-Naimi (Calgary)"
+    ],
+    "session_chairs": [
+        "David Nicol (University of Illinois at Urbana-Champaign)",
+        "Jason Liu (Florida International University)",
+        "Benny Van Houdt (University of Antwerp)",
+        "George Kesidis (Penn State University)",
+        "Tim Brecht (University of Waterloo)",
+        "Sem Borst (TUe / Nokia Bell Labs)",
+        "Carey Williamson (University of Calgary)",
+        "Maryam Elahi (University of Calgary)",
+        "William Knottenbelt (Imperial College London)",
+        "Carey Williamson (University of Calgary)",
+        "Anshul Gandhi (Stony Brook University)"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "MASCOTS_17_001",
+            "title": "Performance Evaluation of Priority Queues for Fine-Grained Parallel Tasks on GPUs",
+            "authors": [
+                "Nikolai Baudis",
+                "Florian Jacob",
+                "Philipp Andelfinger (Karlsruhe Institute of Technology)"
+            ],
+            "topics": [
+                "GPGPU",
+                "Benchmark",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_002",
+            "title": "Nexus: Bringing Efficient and Scalable Training to Deep Learning Frameworks",
+            "authors": [
+                "Yandong Wang",
+                "Li Zhang",
+                "Yufei Ren",
+                "Wei Zhang (IBM Thomas J. Watson Research Center)"
+            ],
+            "topics": [
+                "GPGPU",
+                "Data"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_003",
+            "title": "Characterizing Temperature, Power, and Soft-error Behaviors in Data Center Systems: Insights, Challenges, and Opportunities",
+            "authors": [
+                "Bin Nie (College of William and Mary)",
+                "Ji Xue (College of William and Mary)",
+                "Saurabh Gupta (Intel Labs)",
+                "Christian Engelmann (Oak Ridge National Lab)",
+                "Evgenia Smirni (College of William and Mary)",
+                "Devesh Tiwari (Northeastern University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Energy"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_004",
+            "title": "Cost-Benefit Tradeoffs of Content Sharing in Personal Cloud Storage",
+            "authors": [
+                "Glauber Dias Gon\u00e7alves (Universidade Federal de Minas Gerais)",
+                "Alex Borges Vieira (Universidade Federal de Juiz de Fora)",
+                "Idilio Drago (Politecnico di Torino)",
+                "Ana Paula Couto Da Silva",
+                "Jussara Almeida (Universidade Federal de Minas Gerais)"
+            ],
+            "topics": [
+                "Cloud",
+                "Storage"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_005",
+            "title": "MPLEX: In-situ Big Data Processing with Compute-Storage Multiplexing",
+            "authors": [
+                "Joy Rahman",
+                "Palden Lama (University of Texas at San Antonio)"
+            ],
+            "topics": [
+                "Data",
+                "Storage"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_006",
+            "title": "Lightweight Replication Through Remote Backup Memory Sharing for In-Memory Key-Value Stores",
+            "authors": [
+                "Yandong Wang",
+                "Li Zhang",
+                "Michel Hack",
+                "Yufei Ren",
+                "Min Li (IBM Thomas J. Watson Research Center)"
+            ],
+            "topics": [
+                "DB",
+                "Storage"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_007",
+            "title": "Delay versus Stickiness Violation Trade-offs for Load Balancing in Large-Scale Data Centers",
+            "authors": [
+                "Qingkai Liang (MIT)",
+                "Sem Borst (Nokia Bell Labs)"
+            ],
+            "topics": [
+                "OS",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_008",
+            "title": "Toward Managing HPC Burst Buffers Effectively: Draining Strategy to Regulate Bursty I/O Behavior",
+            "authors": [
+                "Kun Tang",
+                "Ping Huang",
+                "Xubin He (Temple University)",
+                "Tao Lu (New Jersey Institute of Technology)",
+                "Sudharshan S. Vazhkudai (Oak Ridge National Laboratory)",
+                "Devesh Tiwari (Northeastern University)"
+            ],
+            "topics": [
+                "Storage",
+                "HPC"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_009",
+            "title": "Swimming with Fishes and Sharks: Beneath the Surface of Queue-based Ethereum Mining Pools",
+            "authors": [
+                "Alexei Zamyatin (SBA-Research / Imperial College London)",
+                "Katinka Wolter (Freie Universit\u00e4t Berlin)",
+                "Sam Werner (imperial.ac.uk)",
+                "Catherine Mulligan",
+                "Peter Harrison",
+                "William .J. Knottenbelt (Imperial College London)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_010",
+            "title": "Testing Black-Box SDN Applications with Formal Behavior Models",
+            "authors": [
+                "Jiangyuan Yao",
+                "Zhiliang Wang",
+                "Xia Yin",
+                "Xingang Shi",
+                "Yahui Li",
+                "Chongrong Li (Tsinghua University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_011",
+            "title": "Free Energy Approximations for CSMA networks",
+            "authors": [
+                "Benny Van Houdt (University of Antwerp)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Energy",
+                "Network"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_012",
+            "title": "QDIME: QoS-aware Dynamic Binary Instrumentation",
+            "authors": [
+                "Pansy Arafa",
+                "Guy Martin Tchamgoue",
+                "Hany Kashif",
+                "Sebastian Fischmeister (University of Waterloo)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_013",
+            "title": "Optimal Peak Shaving Using Batteries at Datacenters: Characterizing the Risks and Benefits",
+            "authors": [
+                "Neda Nasiriani",
+                "George Kesidis (Penn State University)",
+                "Di Wang (Microsoft Research)"
+            ],
+            "topics": [
+                "Energy",
+                "Cloud"
+            ],
+            "award": true
+        },
+        {
+            "key": "MASCOTS_17_014",
+            "title": "An Energy Efficient Demand-Response Model for High Performance Computing Systems",
+            "authors": [
+                "Kishwar Ahmed",
+                "Jason Liu (Florida International University)",
+                "Xingfu Wu (Argonne National Laboratory)"
+            ],
+            "topics": [
+                "Energy",
+                "Benchmark",
+                "HPC"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_015",
+            "title": "SELF: A High Performance and Bandwidth Efficient Approach to Exploiting Die-stacked DRAM as Part of Memory",
+            "authors": [
+                "Yuhua Guo (Virginia Commonwealth University)",
+                "Qing Liu (New Jersey Institute of Technology)",
+                "Weijun Xiao (Virginia Commonwealth University)",
+                "Ping Huang (Temple University)",
+                "Norbert Podhorszki",
+                "Scott Klasky (Oak Ridge National Laboratory)",
+                "Xubin He (Virginia Commonwealth University, Temple University)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_016",
+            "title": "Quantifying the Potential Benefits of On-chip Near-data Computing in Manycore Processors",
+            "authors": [
+                "Jagadish Kotra",
+                "Diana Guttman",
+                "Nachiappan Chidambaram Nachiappan",
+                "Mahmut T. Kandemir",
+                "Chita R. Das (The Pennsylvania State University)"
+            ],
+            "topics": [
+                "Architecture",
+                "Network",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_017",
+            "title": "DEMM: A Dynamic Energy-saving Mechanism for Multicore Memories",
+            "authors": [
+                "Akbar Sharifi (Facebook)",
+                "Wei Ding (Qualcomm)",
+                "Diana Guttman (Intel)",
+                "Hui Zhao (University of North Texas)",
+                "Xulong Tang",
+                "Mahmut T. Kandemir",
+                "Chita R. Das (The Pennsylvania State University)"
+            ],
+            "topics": [
+                "Energy",
+                "Architecture",
+                "Storage"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_018",
+            "title": "An Analytical Model of Hardware Transactional Memory",
+            "authors": [
+                "Daniel Castro (INESC-ID and Instituto Superior Tecnico, Universidade de Lisboa)",
+                "Paolo Romano (INESC-ID and Instituto Superior Tecnico, Universidade de Lisboa)",
+                "Diego Didona (Ecole Polytechnique Federale de Lausanne EPFL)",
+                "Willy Zwaenepoel (Ecole Polytechnique Federale de Lausanne EPFL)"
+            ],
+            "topics": [
+                "Architecture",
+                "Benchmark",
+                "Storage"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_019",
+            "title": "Modeling and Analysis of Performance under Interference in the Cloud",
+            "authors": [
+                "Scott Votke",
+                "Seyyed Ahmad Javadi",
+                "Anshul Gandhi (Stony Brook University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "MASCOTS_17_020",
+            "title": "Competition and Peak-Demand Pricing in Clouds Under Tenants' Demand Response",
+            "authors": [
+                "George Kesidis",
+                "Uday Shanbhag",
+                "Neda Nasiriani",
+                "Bhuvan Urgaonkar (Penn State University)"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        }
+    ]
+}

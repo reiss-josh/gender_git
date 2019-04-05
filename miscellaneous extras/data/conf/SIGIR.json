@@ -1,0 +1,1363 @@
+{
+    "key": "SIGIR_17",
+    "conference": "International Conference on Research and Development in Information Retrieval",
+    "organization": [
+        "ACM"
+    ],
+    "country": "JP",
+    "postdate": "2017-08-07",
+    "last_deadline": "2017-01-24",
+    "review_days": 77,
+    "submissions": 362,
+    "min_reviews": 3,
+    "total_reviews": 1227,
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 46,
+    "past_papers": 4423,
+    "past_citations": 75159,
+    "h5_index": 50,
+    "h5_median": 66,
+    "notes": "There were at least 70 external reviewers in addition to SPC and PC. 1056 authors from 42 countries (299 CN, 232 US, 525 the rest). But not all countries had the same acceptance rate (UK highest with 42%). To increase diversity, the number of Women and people from Asia in the SPC has increased. This isn't a true systems conference; it's included in the data set for comparison. Excluded papers marked as [TOIS], presumably papers previously published in transactions on information systems. Some reviewers (marked below with *award*) were mentioned as outstanding reviewers. Each paper got a meta-review, and if warranted by it, a 4th review by an SPC who hadn't seen the previous reviews.",
+    "pc_chairs": [
+        "Hang Li (Huawei Noah\u2019s Ark Lab)",
+        "Arjen de Vries (Radboud University)",
+        "Ryen White (Microsoft Cortana)"
+    ],
+    "pc_members": [
+        "Eugene Agichtein (Emory University)",
+        "James Allan (University of Massachusetts Amherst)",
+        "Javed Aslam (Northeastern University)",
+        "Leif Azzopardi (University of Strathclyde)",
+        "Ricardo Baeza-Yates (NTENT / UPF / University of Chile)",
+        "Peter Bailey (Microsoft)",
+        "Timothy Baldwin (University of Melbourne)",
+        "Krisztian Balog (University of Stavanger)",
+        "Nicholas Belkin (Rutgers University)",
+        "Michael Bendersky (Google)",
+        "Paul N. Bennett (Microsoft Research)",
+        "Peter Bruza (Queensland University of Technology)",
+        "Jamie Callan (Carnegie Mellon University *award*)",
+        "David Carmel (Yahoo Research)",
+        "Carlos Castillo (Eurecat)",
+        "Yi Chang (Huawei)",
+        "Kevyn Collins-Thompson (University of Michigan)",
+        "Nick Craswell (Microsoft *award*)",
+        "W. Bruce Croft (University of Massachusetts Amherst)",
+        "Brian Davison (Lehigh University)",
+        "Maarten de Rijke (University of Amsterdam)",
+        "David Elsweiler (University of Regensburg *award*)",
+        "Evgeniy Gabrilovich (Google)",
+        "Julio Gonzalo (UNED)",
+        "Jiyin He (Centrum Wiskunde & Informatica *award*)",
+        "Djoerd Hiemstra (University of Twente)",
+        "Katja Hofmann (Microsoft Research)",
+        "Xuanjing Huang (Fudan University)",
+        "Grace Hui Yang (Georgetown University)",
+        "Jaap Kamps (University of Amsterdam *award*)",
+        "Makoto P. Kato (Kyoto University)",
+        "Diane Kelly (University of Tennessee)",
+        "Oren Kurland (Technion, Israel Institute of Technology)",
+        "Wai Lam (The Chinese University of Hong Kong)",
+        "Matt Lease (University of Texas at Austin)",
+        "Ee-Peng Lim (Singapore Management University)",
+        "Christina Lioma (University of Copenhagen)",
+        "Tie-Yan Liu (Microsoft Research Asia)",
+        "Yiqun Liu (Tsinghua University)",
+        "Yoelle Maarek (Yahoo Research)",
+        "Qiaozhu Mei (University of Michigan)",
+        "Donald Metzler (Google)",
+        "Josiane Mothe (Universit\u00e9 de Toulouse, Institut de Recherche en Informatique de Toulouse)",
+        "Isabelle Moulinier (Thomson Reuters)",
+        "Vanessa Murdock (Microsoft)",
+        "Jian-Yun Nie (Universit\u00e9 de Montr\u00e9al)",
+        "Douglas Oard (University of Maryland *award*)",
+        "Iadh Ounis (University of Glasgow)",
+        "Benjamin Piwowarski (LIP6, Sorbonne Universit\u00e9s/UPMC/CNRS)",
+        "Barbara Poblete (University of Chile)",
+        "Berthier Ribeiro-Neto (Google / Universidade Federal de Minas Gerais)",
+        "Mark Sanderson (RMIT University)",
+        "Chirag Shah (Rutgers University)",
+        "Fabrizio Silvestri (Facebook)",
+        "Mark Smucker (University of Waterloo)",
+        "Ian Soboroff (National Institute of Standards and Technology *award*)",
+        "Ruihua Song (Microsoft Research Asia)",
+        "Jaime Teevan (Microsoft Research *award*)",
+        "Andrew Trotman (University of Otago)",
+        "Jun Wang (University College London)",
+        "Jun Xu (Chinese Academy of Sciences)",
+        "Emine Yilmaz (University College London)",
+        "ChengXiang Zhai (University of Illinois at Urbana-Champaign)",
+        "Min Zhang (Tsinghua University)",
+        "Yi Zhang (University of California, Santa Cruz)",
+        "Justin Zobel (University of Melbourne)",
+        "Mikhail Ageev (Moscow State University)",
+        "Luca Maria Aiello (Bell Labs)",
+        "Elif Aktolga (Apple)",
+        "Omar Alonso (Microsoft)",
+        "Ismail Sengor Altingovde (Middle East Technical University)",
+        "Enrique Amig\u00f3 (Universidad Nacional de Educaci\u00f3n)",
+        "Massih-Reza Amini (Universit\u00e9 Grenoble Alpes)",
+        "Avi Arampatzis (Democritus University of Thrace)",
+        "Ioannis Arapakis (Telefonica Research *award*)",
+        "Jaime Arguello (University of North Carolina at Chapel Hill)",
+        "Xiao Bai (Yahoo Research)",
+        "Zhifeng Bao (RMIT University)",
+        "Gaurav Baruah (University of Waterloo)",
+        "Klaus Berberich (Max Planck Institute for Informatics)",
+        "Lidong Bing (Tencent)",
+        "Roi Blanco (University of A Coru\u00f1a *award*)",
+        "Mohand Boughanem (Institut de Recherche en Informatique de Toulouse)",
+        "Deng Cai (Zhejiang University)",
+        "Iv\u00e1n Cantador (Universidad Aut\u00f3noma de Madrid)",
+        "Robert Capra (University of North Carolina at Chapel Hill)",
+        "James Caverlee (Texas A&M University)",
+        "Kevin Chang (University of Illinois at Urbana-Champaign)",
+        "Hsin-Hsi Chen (National Taiwan University)",
+        "Ruey-Cheng Chen (RMIT University)",
+        "Zhumin Chen (Shandong University *award*)",
+        "Adrian-Gabriel Chifu (Aix-Marseille Universit\u00e9)",
+        "Grzegorz Chrupala (Tilburg University)",
+        "Tat-Seng Chua (National University of Singapore)",
+        "Stephane Clinchant (Xerox Research Centre Europe)",
+        "Michael Cole (LexisNexis)",
+        "Gordon V. Cormack (University of Waterloo *award*)",
+        "J. Shane Culpepper (RMIT University *award*)",
+        "Tonya Curtis (Thomson Reuters *award*)",
+        "Jeffrey Dalton (Google)",
+        "Gianluca Demartini (University of Sheffield)",
+        "Thomas Demeester (Ghent University)",
+        "Dina Demner (National Institutes of Health)",
+        "Hongbo Deng (Google)",
+        "Laura Dietz (University of New Hampshire)",
+        "B. Taner Dincer (University of Mugla)",
+        "Shuai Ding (Google)",
+        "Debora Donato (Mix Tech *award*)",
+        "Zhicheng Dou (Renmin University of China)",
+        "Doug Downey (Northwestern University)",
+        "George Drosatos (Democritus University of Thrace)",
+        "Carsten Eickhoff (ETH Z\u00fcrich)",
+        "Tamer Elsayed (Qatar University)",
+        "Yuan Fang (Institute for Infocomm Research)",
+        "Yi Fang (Santa Clara University)",
+        "Henry Feild (Endicott College)",
+        "Nicola Ferro (University of Padua)",
+        "Marcus Fontoura (Microsoft)",
+        "Norbert Fuhr (University of Duisburg-Essen)",
+        "Patrick Gallinari (Universit\u00e9 Pierre et Marie Curie)",
+        "Debasis Ganguly (IBM Research, Dublin)",
+        "Bin Gao (Microsoft Research)",
+        "Eric Gaussier (Joseph Fourier University)",
+        "Shlomo Geva (Queensland University of Technology)",
+        "Peter B. Golbus (Wayfair)",
+        "Marcos Goncalves (Federal University of Minas Gerais *award*)",
+        "Roberto Gonz\u00e1lez-Ib\u00e1\u00f1ez (Universidad de Santiago de Chile)",
+        "David Graus (FD Mediagroep)",
+        "Jiafeng Guo (Chinese Academy of Sciences)",
+        "Ido Guy (eBay Research)",
+        "Martin Halvey (University of Strathclyde)",
+        "Allan Hanbury (TU Wien)",
+        "Morgan Harvey (Northumbria University)",
+        "Ahmed Hassan Awadallah (Microsoft Research)",
+        "Claudia Hauff (Delft University of Technology)",
+        "Ben He (Chinese Academy of Sciences)",
+        "Qi He (LinkedIn)",
+        "Xiangnan He (National University of Singapore)",
+        "Daqing He (University of Pittsburgh)",
+        "Chathra Hendahewa (Rutgers University)",
+        "Liangjie Hong (Etsy)",
+        "Frank Hopfgartner (University of Glasgow)",
+        "Winston Hsu (National Taiwan University)",
+        "Yuening Hu (Yahoo Research)",
+        "Sam Huston (Google)",
+        "Radu Tudor Ionescu (University of Bucharest *award*)",
+        "Shoaib Jameel (Cardiff University)",
+        "Shen Jialie (Northumbria University)",
+        "Jiepu Jiang (University of Massachusetts Amherst)",
+        "Joemon Jose (University of Glasgow)",
+        "Evangelos Kanoulas (University of Amsterdam *award*)",
+        "Jussi Karlgren (Gavagai / KTH Royal Institute of Technology)",
+        "Enver Kayaaslan (NTENT Hispania)",
+        "Heikki Keskustalo (University of Tampere)",
+        "Evgeny Kharitonov (Criteo *award*)",
+        "Irwin King (The Chinese University of Hong Kong)",
+        "Julia Kiseleva (Eindhoven University of Technology *award*)",
+        "Weize Kong (Google)",
+        "Alexander Kotov (Wayne State University)",
+        "Kriste Krstovski (Harvard-Smithsonian Center for Astrophysics)",
+        "Udo Kruschwitz (University of Essex *award*)",
+        "Dmitry Lagun (Google)",
+        "Will Lamond (Wayfair)",
+        "Sylvain Lamprier (Universit\u00e9 Pierre et Marie Curie)",
+        "Yanyan Lan (Chinese Academy of Sciences *award*)",
+        "Ni Lao (Google)",
+        "L\u00e9a Laporte (LIRIS *award*)",
+        "Birger Larsen (Aalborg University)",
+        "Martha Larson (Radboud University)",
+        "Chia-Jung Lee (Microsoft)",
+        "Cheng-Te Li (National Cheng Kung University)",
+        "Rui Li (University of Illinois at Urbana-Champaign)",
+        "Cheng Li (University of Michigan)",
+        "Chenliang Li (Wuhan University *award*)",
+        "Liangda Li (Yahoo Research)",
+        "Shangsong Liang (University College London *award*)",
+        "Jimmy Lin (University of Waterloo)",
+        "Huan Liu (Arizona State University)",
+        "Xiaozhong Liu (Indiana University Bloomington)",
+        "Chang Liu (Peking University)",
+        "Bing Liu (University of Illinois at Chicago)",
+        "Jingjing Liu (University of South Carolina)",
+        "Claudio Lucchese (ISTI-CNR)",
+        "Ping Luo (Chinese Academy of Sciences)",
+        "Mihai Lupu (TU Wien)",
+        "Yuanhua Lv (Microsoft Research)",
+        "Hao Ma (Microsoft Research)",
+        "Craig Macdonald (University of Glasgow)",
+        "Joao Magalhaes (Universidade Nova de Lisboa)",
+        "Ilya Markov (University of Amsterdam)",
+        "Yosi Mass (IBM Research)",
+        "Julian Mcauley (University of California, San Diego)",
+        "Richard McCreadie (University of Glasgow)",
+        "Rishabh Mehrotra (University College London)",
+        "Tao Mei (Microsoft Research)",
+        "Edgar Meij (Bloomberg)",
+        "Massimo Melucci (University of Padua)",
+        "Mandar Mitra (Indian Statistical Institute)",
+        "Bhaskar Mitra (Microsoft *award*)",
+        "Alistair Moffat (University of Melbourne *award*)",
+        "Alessandro Moschitti (Qatar Computing Research Institute, HBKU)",
+        "Yashar Moshfeghi (University of Glasgow *award*)",
+        "Franco Maria Nardini (ISTI-CNR *award*)",
+        "Liqiang Nie (National University of Singapore)",
+        "Alexandros Ntoulas (LinkedIn)",
+        "Salvatore Orlando (Universit\u00e0 C\u00e0 Foscari Di Venezia)",
+        "Jiaul Paik (Indian Institute of Technology Kharagpur)",
+        "Laurence Park (Western Sydney University)",
+        "Dae Hoon Park (Yahoo Research)",
+        "Gabriella Pasi (University of Milano-Bicocca)",
+        "Virgil Pavlu (Northeastern University)",
+        "Jian Pei (Simon Fraser University)",
+        "Raffaele Perego (ISTI-CNR)",
+        "Vassilis Plachouras (Thomson Reuters)",
+        "Pernilla Quarfordt (FX Palo Alto Laboratory *award*)",
+        "Kira Radinsky (eBay *award*)",
+        "Filip Radlinski (Google *award*)",
+        "Fiana Raiber (Yahoo Research)",
+        "Karthik Raman (Google)",
+        "Edie Rasmussen (University of British Columbia)",
+        "Hadas Raviv (Technion, Israel Institute of Technology)",
+        "Zhaochun Ren (JD.com)",
+        "Xiang Ren (University of Illinois at Urbana-Champaign)",
+        "Haggai Roitman (IBM Research)",
+        "Oleg Rokhlenko (Amazon)",
+        "Altigran S. Da Silva (Universidade Federal do Amazonas)",
+        "Alan Said (University of Sk\u00f6vde)",
+        "Rodrygo L. T. Santos (Universidade Federal de Minas Gerais)",
+        "Denis Savenkov (Facebook)",
+        "Ralf Schenkel (Trier University)",
+        "Pavel Serdyukov (Yandex)",
+        "Huawei Shen (Chinese Academy of Sciences)",
+        "Gianmaria Silvello (University of Padua)",
+        "Marc Sloan (Context Scout)",
+        "Aya Soffer (IBM *award*)",
+        "Alessandro Sordoni (Universit\u00e9 Pierre et Marie Curie)",
+        "Laure Soulier (Universit\u00e9 Pierre et Marie Curie)",
+        "Damiano Spina (RMIT University)",
+        "Kazunari Sugiyama (National University of Singapore *award*)",
+        "Le Sun (Chinese Academy of Sciences)",
+        "Aixin Sun (Nanyang Technological University)",
+        "S.M.M. Tahaghoghi (Microsoft)",
+        "Jiliang Tang (Michigan State University)",
+        "Jie Tang (Tsinghua University)",
+        "Paul Thomas (Microsoft)",
+        "Thibaut Thonet (Institut de Recherche en Informatique de Toulouse *award*)",
+        "Nicola Tonellotto (ISTI-CNR)",
+        "Christoph Trattner (MODUL University Vienna)",
+        "Manos Tsagkias (904 Labs)",
+        "Andrew Turpin (University of Melbourne)",
+        "Kazutoshi Umemoto (University of Tokyo)",
+        "David Vallet (Google)",
+        "Emre Velipasaoglu (Lightbend *award*)",
+        "Adriano Veloso (Universidade Federal de Minas Gerais)",
+        "Rossano Venturini (University of Pisa)",
+        "Vishwa Vinay (Adobe Research)",
+        "Quan Wang (Chinese Academy of Sciences)",
+        "Bin Wang (Chinese Academy of Sciences)",
+        "Jian Wang (Google)",
+        "Xuanhui Wang (Google)",
+        "Meng Wang (Hefei University of Technology)",
+        "Shuaiqiang Wang (University of Manchester)",
+        "Lidan Wang (University of Maryland)",
+        "Yue Wang (University of Michigan)",
+        "Hongning Wang (University of Virginia *award*)",
+        "Ingmar Weber (Qatar Computing Research Institute)",
+        "Gerhard Weikum (Max Planck Institute for Informatics)",
+        "Ji-Rong Wen (Renmin University of China)",
+        "Wei Wu (Microsoft Research Asia)",
+        "Chenyan Xiong (Carnegie Mellon University)",
+        "Makoto Yamada (RIKEN AIP)",
+        "Ting Yao (Microsoft Research Asia)",
+        "Zheng Ye (York University)",
+        "Dawei Yin (JD.com)",
+        "Xiaojun Yuan (University at Albany, State University of New York)",
+        "Dell Zhang (Birkbeck, University of London)",
+        "Qi Zhang (Fudan University)",
+        "Weinan Zhang (Shanghai Jiao Tong University)",
+        "Yongfeng Zhang (University of Massachusetts Amherst)",
+        "Le Zhao (Houzz Inc.)",
+        "Ke Zhou (University of Nottingham)",
+        "Nivio Ziviani (Federal University of Minas Gerais)",
+        "Guido Zuccon (Queensland University of Technology)"
+    ],
+    "keynote_speakers": [
+        "Stephen E. Robertson",
+        "Yoelle Maarek"
+    ],
+    "session_chairs": [
+        "Barbara Poblete (University of Chile)",
+        "ChengXiang Zhai (University of Illinois at Urbana-Champaign)",
+        "Jian-Yun Nie (Universit\u00e9 de Montr\u00e9al)",
+        "Emine Yilmaz (University College London)",
+        "Jun Wang (University College London)",
+        "Djoerd Hiemstra (University of Twente)",
+        "Jaime Teevan (Microsoft Research)",
+        "Min Zhang (Tsinghua University)",
+        "Jaap Kamps (University of Amsterdam)",
+        "Diane Kelly (University of Tennessee)",
+        "Jun Xu (Chinese Academy of Sciences)",
+        "Yoelle Maarek (Yahoo Research)",
+        "Benjamin Piwowarski (LIP6, Sorbonne Universit\u00e9s/UPMC/CNRS)",
+        "Yi Zhang (University of California, Santa Cruz)",
+        "Andrew Trotman (University of Otago)",
+        "Ian Soboroff (National Institute of Standards and Technology)",
+        "Peter Bailey (Microsoft)",
+        "Mark Sanderson (RMIT University)",
+        "David Carmel (Yahoo Research)"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "SIGIR_17_001",
+            "title": "Navigating Imprecision in Relevance Assessments on the Road to Total Recall: Roger and Me",
+            "authors": [
+                "Gordon V. Cormack (University of Waterloo)",
+                "Maura R. Grossman (University of Waterloo)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_002",
+            "title": "Meta-evaluation of Online and Offline Web Search Evaluation Metrics",
+            "authors": [
+                "Ye Chen (Tsinghua University)",
+                "Ke Zhou (University of Nottingham)",
+                "Yiqun Liu (Tsinghua University)",
+                "Min Zhang (Tsinghua University)",
+                "Shaoping Ma (Tsinghua University)"
+            ],
+            "topics": [
+                "Data",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "SIGIR_17_003",
+            "title": "The Probability that Your Hypothesis Is Correct, Credible Intervals, and Effect Sizes for IR Evaluation",
+            "authors": [
+                "Tetsuya Sakai (Waseda University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_004",
+            "title": "Can Deep Effectiveness Metrics Be Evaluated Using Shallow Judgment Pools?",
+            "authors": [
+                "Xiaolu Lu (RMIT University)",
+                "Alistair Moffat (University of Melbourne)",
+                "J. Shane Culpepper (RMIT University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_005",
+            "title": "Learning to Rank Using Localized Geometric Mean Metrics",
+            "authors": [
+                "Yuxin Su (Chinese University of Hong Kong)",
+                "Irwin King (Chinese University of Hong Kong)",
+                "Michael Lyu (Chinese University of Hong Kong)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_006",
+            "title": "End-to-End Neural Ad-hoc Ranking with Kernel Pooling",
+            "authors": [
+                "Chenyan Xiong (Carnegie Mellon University)",
+                "Zhuyun Dai (Carnegie Mellon University)",
+                "Jamie Callan (Carnegie Mellon University)",
+                "Zhiyuan Liu (Tsinghua University)",
+                "Russell Power (Allen Institute for AI)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_007",
+            "title": "Neural Ranking Models with Weak Supervision",
+            "authors": [
+                "Mostafa Dehghani (University of Amsterdam)",
+                "Hamed Zamani (University of Massachusetts Amherst)",
+                "Aliaksei Severyn (Google Research)",
+                "Jaap Kamps (University of Amsterdam)",
+                "W. Bruce Croft (University of Massachusetts Amherst)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_008",
+            "title": "Variational Deep Semantic Hashing for Text Documents",
+            "authors": [
+                "Suthee Chaidaroon (Santa Clara University)",
+                "Yi Fang (Santa Clara University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_009",
+            "title": "ICE: Item Concept Embedding via Textual Information",
+            "authors": [
+                "Chuan-Ju Wang (Academia Sinica)",
+                "Ting-Hsiang Wang (Academia Sinica)",
+                "Hsiu-Wei Yang (Academia Sinica)",
+                "Bo-Sin Chang (National Chengchi University)",
+                "Ming-Feng Tsai (National Chengchi University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_010",
+            "title": "Leveraging Contextual Sentence Relations for Extractive Summarization Using a Neural Attention Model",
+            "authors": [
+                "Pengjie Ren (Shandong University)",
+                "Zhumin Chen (Shandong University)",
+                "Zhaochun Ren (Data Science Lab JD.com)",
+                "Furu Wei (Microsoft Research Asia)",
+                "Jun Ma (Shandong University)",
+                "Maarten de Rijke (University of Amsterdam)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_011",
+            "title": "Stacking Bagged and Boosted Forests for Effective Automated Classification",
+            "authors": [
+                "Raphael Campos (Federal University of Minas Gerais)",
+                "S\u00e9rgio Canuto (Federal University of Minas Gerais)",
+                "Thiago Salles (Federal University of Minas Gerais)",
+                "Clebson C. A. de S\u00e1 (Federal University of Minas Gerais)",
+                "Marcos Andr\u00e9 Gon\u00e7alves (Federal University of Minas Gerais)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_012",
+            "title": "Deep Learning for Extreme Multi-label Text Classification",
+            "authors": [
+                "Jingzhou Liu (Carnegie Mellon University)",
+                "Wei-Cheng Chang (Carnegie Mellon University)",
+                "Yuexin Wu (Carnegie Mellon University)",
+                "Yiming Yang (Carnegie Mellon University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_013",
+            "title": "Engaged or Frustrated? Disambiguating Emotional State in Search",
+            "authors": [
+                "Ashlee Edwards (University of North Carolina at Chapel Hill)",
+                "Diane Kelly (University of Tennessee)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_014",
+            "title": "A Study of Snippet Length and Informativeness: Behaviour, Performance and User Experience",
+            "authors": [
+                "David Maxwell (University of Glasgow)",
+                "Leif Azzopardi (University of Strathclyde)",
+                "Yashar Moshfeghi (University of Glasgow)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_015",
+            "title": "Improving Exploratory Search Experience through Hierarchical Knowledge Graphs",
+            "authors": [
+                "Bahareh Sarrafzadeh (University of Waterloo)",
+                "Edward Lank (University of Waterloo & University of Lille)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_016",
+            "title": "Searching on the Go: The Effects of Fragmented Attention on Mobile Web Search Tasks",
+            "authors": [
+                "Morgan Harvey (Northumbria University)",
+                "Matthew Pointon (Northumbria University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_017",
+            "title": "User Interaction Sequences for Search Satisfaction Prediction",
+            "authors": [
+                "Rishabh Mehrotra (University College London & Microsoft Research)",
+                "Imed Zitouni (Microsoft)",
+                "Ahmed Hassan (Microsoft Research)",
+                "Ahmed El Kholy (Microsoft)",
+                "Madian Khabsa (Microsoft Research)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_018",
+            "title": "Multi-site User Behavior Modeling and Its Application in Video Recommendation",
+            "authors": [
+                "Chunfeng Yang (The Chinese University of Hong Kong)",
+                "Huan Yan (Tsinghua University)",
+                "Donghan Yu (Tsinghua University)",
+                "Yong Li (Tsinghua University)",
+                "Dah Ming Chiu (The Chinese University of Hong Kong)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_019",
+            "title": "Item Silk Road: Recommending Items from Information Domains to Social Users",
+            "authors": [
+                "Xiang Wang (National University of Singapore)",
+                "Xiangnan He (National University of Singapore)",
+                "Liqiang Nie (ShanDong University)",
+                "Tat-Seng Chua (National University of Singapore)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_020",
+            "title": "Cross-Domain Recommendation via Clustering on Multi-Layer Graphs",
+            "authors": [
+                "Aleksandr Farseev (National University of Singapore)",
+                "Ivan Samborskii (ITMO University & National University of Singapore)",
+                "Andrey Filchenkov (ITMO University)",
+                "Tat-Seng Chua (National University of Singapore)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_021",
+            "title": "Optimizing Trade-offs Among Stakeholders in Real-Time Bidding by Incorporating Multimedia Metrics",
+            "authors": [
+                "Xiang Chen (National University of Singapore)",
+                "Bowei Chen (University of Lincoln)",
+                "Mohan Kankanhalli (National University of Singapore)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_022",
+            "title": "A Probabilistic Reformulation of Memory-Based Collaborative Filtering \u2013 Implications on Popularity Biases",
+            "authors": [
+                "Roc\u00edo Ca\u00f1amares (Universidad Aut\u00f3noma de Madrid)",
+                "Pablo Castells (Universidad Aut\u00f3noma de Madrid)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_023",
+            "title": "Deep Semantic Hashing with Generative Adversarial Networks",
+            "authors": [
+                "Zhaofan Qiu (University of Science and Technology of China)",
+                "Yingwei Pan (University of Science and Technology of China)",
+                "Ting Yao (Microsoft Research Asia)",
+                "Tao Mei (Microsoft Research Asia)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_024",
+            "title": "Characterizing and Predicting Enterprise Email Reply Behavior",
+            "authors": [
+                "Liu Yang (University of Massachusetts Amherst)",
+                "Susan T. Dumais (Microsoft Research)",
+                "Paul N. Bennett (Microsoft Research)",
+                "Ahmed Hassan Awadallah (Microsoft Research)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_025",
+            "title": "ReAct: Online Multimodal Embedding for Recency-Aware Spatiotemporal Activity Modeling",
+            "authors": [
+                "Chao Zhang (University of Illinois at Urbana-Champaign)",
+                "Keyang Zhang (University of Illinois at Urbana-Champaign)",
+                "Quan Yuan (University of Illinois at Urbana-Champaign)",
+                "Fangbo Tao (University of Illinois at Urbana-Champaign)",
+                "Luming Zhang (Hefei University of Technology)",
+                "Tim Hanratty (U.S. Army Research Lab)",
+                "Jiawei Han (University of Illinois at Urbana-Champaign)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_026",
+            "title": "EntiTables: Smart Assistance for Entity-Focused Tables",
+            "authors": [
+                "Shuo Zhang (University of Stavanger)",
+                "Krisztian Balog (University of Stavanger)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_027",
+            "title": "Understanding and Modeling Success in Email Search",
+            "authors": [
+                "Jinyoung Kim (Snap Inc.)",
+                "Nick Craswell (Microsoft)",
+                "Susan T. Dumais (Microsoft)",
+                "Filip Radlinski (Microsoft)",
+                "Fang Liu (Microsoft)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_028",
+            "title": "Investigating Examination Behavior of Image Search Users",
+            "authors": [
+                "Xiaohui Xie (Tsinghua University)",
+                "Yiqun Liu (Tsinghua University)",
+                "Xiaochuan Wang (Sogou Incorporation)",
+                "Meng Wang (Hefei Institute of Technology)",
+                "Zhijing Wu (Tsinghua University)",
+                "Yingying Wu (The University of Texas at Austin uta)",
+                "Min Zhang (Tsinghua University)",
+                "Shaoping Ma (Tsinghua University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_029",
+            "title": "Extracting Hierarchies of Search Tasks & Subtasks via a Bayesian Nonparametric Approach",
+            "authors": [
+                "Rishabh Mehrotra (University College London)",
+                "Emine Yilmaz (University College London)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_030",
+            "title": "Using Information Scent to Understand Mobile and Desktop Web Search Behavior",
+            "authors": [
+                "Kevin Ong (RMIT University)",
+                "Kalervo J\u00e4rvelin (University of Tampere)",
+                "Mark Sanderson (RMIT University)",
+                "Falk Scholer (RMIT University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_031",
+            "title": "Deep Character-Level Click-Through Rate Prediction for Sponsored Search",
+            "authors": [
+                "Bora Edizel (Pompeu Fabra University and Eurecat & Yahoo)",
+                "Amin Mantrach (Criteo Labs & Yahoo)",
+                "Xiao Bai (Yahoo Research)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_032",
+            "title": "Personalized Key Frame Recommendation",
+            "authors": [
+                "Xu Chen (Tsinghua University)",
+                "Yongfeng Zhang (University of Massachusetts Amherst)",
+                "Qingyao Ai (University of Massachusetts Amherst)",
+                "Hongteng Xu (Georgia Institute of Technology)",
+                "Junchi Yan (East China Normal University & IBM Research China)",
+                "Zheng Qin (Tsinghua University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_033",
+            "title": "Personalized Itinerary Recommendation with Queuing Time Awareness",
+            "authors": [
+                "Kwan Hui Lim (The University of Melbourne)",
+                "Jeffrey Chan (RMIT University)",
+                "Shanika Karunasekera (The University of Melbourne)",
+                "Christopher Leckie (The University of Melbourne)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_034",
+            "title": "Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention",
+            "authors": [
+                "Jingyuan Chen (National University of Singapore)",
+                "Hanwang Zhang (Columbia University)",
+                "Xiangnan He (National University of Singapore)",
+                "Liqiang Nie (ShanDong University)",
+                "Wei Liu (Tencent AI Lab)",
+                "Tat-Seng Chua (National University of Singapore)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_035",
+            "title": "Neural Rating Regression with Abstractive Tips Generation for Recommendation",
+            "authors": [
+                "Piji Li (The Chinese University of Hong Kong)",
+                "Zihao Wang (The Chinese University of Hong Kong)",
+                "Zhaochun Ren (Data Science Lab, JD.com)",
+                "Lidong Bing (AI Lab Tencent Inc.)",
+                "Wai Lam (The Chinese University of Hong Kong)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_036",
+            "title": "Neural Factorization Machines for Sparse Predictive Analytics",
+            "authors": [
+                "Xiangnan He (National University of Singapore)",
+                "Tat-Seng Chua (National University of Singapore)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_037",
+            "title": "Accounting for the Correspondence in Commented Data",
+            "authors": [
+                "Renqin Cai (University of Virginia)",
+                "Chi Wang (Microsoft Research)",
+                "Hongning Wang (University of Virginia)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_038",
+            "title": "Jointly Learning Word Embeddings and Latent Topics",
+            "authors": [
+                "Bei Shi (Chinese University of Hong Kong)",
+                "Wai Lam (Chinese University of Hong Kong)",
+                "Shoaib Jameel (Cardiff University)",
+                "Steven Schockaert (Cardiff University)",
+                "Kwun Ping Lai (Chinese University of Hong Kong)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_039",
+            "title": "On the Power Laws of Language: Word Frequency Distributions",
+            "authors": [
+                "Flavio Chierichetti (Sapienza University of Rome)",
+                "Ravi Kumar (Google)",
+                "Bo Pang (Google)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_040",
+            "title": "Retrieval Consistency in the Presence of Query Variations",
+            "authors": [
+                "Peter Bailey (Microsoft)",
+                "Alistair Moffat (University of Melbourne)",
+                "Falk Scholer (RMIT University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_041",
+            "title": "Comparing In Situ and Multidimensional Relevance Judgments",
+            "authors": [
+                "Jiepu Jiang (University of Massachusetts Amherst)",
+                "Daqing He (University of Pittsburgh)",
+                "James Allan (University of Massachusetts Amherst)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_042",
+            "title": "Online In-Situ Interleaved Evaluation of Real-Time Push Notification Systems",
+            "authors": [
+                "Adam Roegiest (University of Waterloo)",
+                "Luchen Tan (University of Waterloo)",
+                "Jimmy Lin (University of Waterloo)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_043",
+            "title": "Evaluating Web Search with a Bejeweled Player Model",
+            "authors": [
+                "Fan Zhang (Tsinghua University)",
+                "Yiqun Liu (Tsinghua University)",
+                "Xin Li (Tsinghua University)",
+                "Min Zhang (Tsinghua University)",
+                "Yinghui Xu (Alibaba Group)",
+                "Shaoping Ma (Tsinghua University)"
+            ],
+            "topics": [
+                "Data"
+            ],
+            "award": true
+        },
+        {
+            "key": "SIGIR_17_044",
+            "title": "Evaluating Mobile Search with Height-Biased Gain",
+            "authors": [
+                "Cheng Luo (Tsinghua University)",
+                "Yiqun Liu (Tsinghua University)",
+                "Tetsuya Sakai (Waseda University)",
+                "Fan Zhang (Tsinghua University)",
+                "Min Zhang (Tsinghua University)",
+                "Shaoping Ma (Tsinghua University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_045",
+            "title": "Efficient Cost-Aware Cascade Ranking in Multi-Stage Retrieval",
+            "authors": [
+                "Ruey-Cheng Chen (RMIT University)",
+                "Luke Gallagher (RMIT University)",
+                "Roi Blanco (RMIT University)",
+                "J. Shane Culpepper (RMIT University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_046",
+            "title": "Computational Social Indicators: A Case Study of Chinese University Ranking",
+            "authors": [
+                "Fuli Feng (National University of Singapore)",
+                "Liqiang Nie (Shandong University)",
+                "Xiang Wang (National University of Singapore)",
+                "Richang Hong (Hefei University of Technology)",
+                "Tat-Seng Chua (National University of Singapore)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_047",
+            "title": "Information Retrieval Meets Game Theory: The Ranking Competition Between Documents\u2019 Authors",
+            "authors": [
+                "Nimrod Raifer (Technion)",
+                "Fiana Raiber (Yahoo Research & Technion)",
+                "Moshe Tennenholtz (Technion)",
+                "Oren Kurland (Technion)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_048",
+            "title": "On Application of Learning to Rank for E-Commerce Search",
+            "authors": [
+                "Shubhra Kanti Karmaker Santu (University of Illinois Urbana Champaign)",
+                "Parikshit Sondhi (Walmart Labs)",
+                "ChengXiang Zhai (University of Illinois Urbana Champaign)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_049",
+            "title": "Intent-Aware Semantic Query Annotation",
+            "authors": [
+                "Rafael Glater (Federal University of Minas Gerais)",
+                "Rodrygo L. T. Santos (Federal University of Minas Gerais)",
+                "Nivio Ziviani (Federal University of Minas Gerais)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_050",
+            "title": "Efficient & Effective Selective Query Rewriting with Efficiency Predictions",
+            "authors": [
+                "Craig Macdonald (University of Glasgow)",
+                "Nicola Tonellotto (CNR)",
+                "Iadh Ounis (University of Glasgow)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_051",
+            "title": "Relevance-based Word Embedding",
+            "authors": [
+                "Hamed Zamani (University of Massachusetts Amherst)",
+                "W. Bruce Croft (University of Massachusetts Amherst)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_052",
+            "title": "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models",
+            "authors": [
+                "Jun Wang (University College London)",
+                "Lantao Yu (Shanghai Jiao Tong University)",
+                "Weinan Zhang (Shanghai Jiao Tong University)",
+                "Yu Gong (Alibaba Inc.)",
+                "Yinghui Xu (Alibaba Inc.)",
+                "Benyou Wang (Tianjin University)",
+                "Peng Zhang (Tianjin University)",
+                "Dell Zhang (Birkbeck University of London)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_053",
+            "title": "Personalized PageRank in Uncertain Graphs with Mutually Exclusive Edges",
+            "authors": [
+                "Jung Hyun Kim (Arizona State University)",
+                "Mao-Lin Li (Arizona State University)",
+                "K. Sel\u00e7uk Candan (Arizona State University)",
+                "Maria Luisa Sapino (University of Torino)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_054",
+            "title": "Adapting Markov Decision Process for Search Result Diversification",
+            "authors": [
+                "Long Xia (Chinese Academy of Sciences)",
+                "Jun Xu (Chinese Academy of Sciences)",
+                "Yanyan Lan (Chinese Academy of Sciences)",
+                "Jiafeng Guo (Chinese Academy of Sciences)",
+                "Wei Zeng (Chinese Academy of Sciences)",
+                "Xueqi Cheng (Chinese Academy of Sciences)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_055",
+            "title": "Learning to Diversify Search Results via Subtopic Attention",
+            "authors": [
+                "Zhengbao Jiang (Renmin University of China)",
+                "Ji-Rong Wen (Renmin University of China)",
+                "Zhicheng Dou (Renmin University of China)",
+                "Wayne Xin Zhao (Renmin University of China)",
+                "Jian-Yun Nie (Universit\u00e9 de Montr\u00e9al)",
+                "Ming Yue (Renmin University of China)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_056",
+            "title": "Retrieval Algorithms Optimized for Human Learning",
+            "authors": [
+                "Rohail Syed (University of Michigan)",
+                "Kevyn Collins-Thompson (University of Michigan)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_057",
+            "title": "Content Recommendation for Viral Social Influence",
+            "authors": [
+                "Sergei Ivanov (Skoltech)",
+                "Konstantinos Theocharidis (University of Peloponnese & Institute for the Management of Information Systems Athena Research and Innovation Center)",
+                "Manolis Terrovitis (Institute for the Management of Information Systems Athena Research and Innovation Center)",
+                "Panagiotis Karras (Aalborg University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_058",
+            "title": "Exploiting Food Choice Biases for Healthier Recipe Recommendation",
+            "authors": [
+                "David Elsweiler (University of Regensburg)",
+                "Christoph Trattner (MODUL University Vienna)",
+                "Morgan Harvey (Northumbria University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_059",
+            "title": "Embedding Factorization Models for Jointly Recommending Items and User Generated Lists",
+            "authors": [
+                "Da Cao (Xiamen University of Technology Xiamen University)",
+                "Liqiang Nie (Shandong University)",
+                "Xiangnan He (National University of Singapore)",
+                "Xiaochi Wei (Beijing Institute of Technology)",
+                "Shunzhi Zhu (Xiamen University of Technology)",
+                "Shunxiang Wu (Xiamen University)",
+                "Tat-Seng Chua (National University of Singapore)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_060",
+            "title": "Classification by Retrieval: Binarizing Data and Classifiers",
+            "authors": [
+                "Fumin Shen (University of Electronic Science and Technology of China)",
+                "Yadong Mu (Peking University)",
+                "Yang Yang (University of Electronic Science and Technology of China)",
+                "Wei Liu (Tencent AI Lab)",
+                "Li Liu (Malong Technologies)",
+                "Jingkuan Song (University of Electronic Science and Technology of China)",
+                "Heng Tao Shen (University of Electronic Science and Technology of China)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_061",
+            "title": "BitFunnel: Revisiting Signatures for Search",
+            "authors": [
+                "Bob Goodwin (Microsoft)",
+                "Michael Hopcroft (Microsoft)",
+                "Dan Luu (Microsoft)",
+                "Alex Clemmer (Heptio)",
+                "Mihaela Curmei (Microsoft)",
+                "Sameh Elnikety (Microsoft)",
+                "Yuxiong He (Microsoft)"
+            ],
+            "topics": [
+                "Data"
+            ],
+            "award": true
+        },
+        {
+            "key": "SIGIR_17_062",
+            "title": "Efficient Data Structures for Massive N-Gram Datasets",
+            "authors": [
+                "Giulio Ermanno Pibiri (University of Pisa and ISTI-CNR)",
+                "Rossano Venturini (University of Pisa and ISTI-CNR)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_063",
+            "title": "Faster BlockMax WAND with Variable-sized Blocks",
+            "authors": [
+                "Antonio Mallia (University of Pisa)",
+                "Giuseppe Ottaviano (ISTI-CNR)",
+                "Elia Porciani (University of Pisa)",
+                "Nicola Tonellotto (ISTI-CNR)",
+                "Rossano Venturini (University of Pisa)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_064",
+            "title": "LoSHa: A General Framework for Scalable Locality Sensitive Hashing",
+            "authors": [
+                "Jinfeng Li (The Chinese University of Hong Kong)",
+                "James Cheng (The Chinese University of Hong Kong)",
+                "Fan Yang (The Chinese University of Hong Kong)",
+                "Yuzhen Huang (The Chinese University of Hong Kong)",
+                "Yunjian Zhao (The Chinese University of Hong Kong)",
+                "Xiao Yan (The Chinese University of Hong Kong)",
+                "Ruihao Zhao (The Chinese University of Hong Kong)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_065",
+            "title": "Learning a Hierarchical Embedding Model for Personalized Product Search",
+            "authors": [
+                "Qingyao Ai (University of Massachusetts Amherst)",
+                "Yongfeng Zhang (University of Massachusetts Amherst)",
+                "Keping Bi (University of Massachusetts Amherst)",
+                "Xu Chen (Tsinghua University)",
+                "W. Bruce Croft (University of Massachusetts Amherst)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_066",
+            "title": "Exploring User-Specific Information in Music Retrieval",
+            "authors": [
+                "Zhiyong Cheng (School of Computing, National University of Singapore)",
+                "Jialie Shen (Northumbria University)",
+                "Liqiang Nie (Shandong University)",
+                "Tat-Seng Chua (School of Computing, National University of Singapore)",
+                "Mohan Kankanhalli (smu.edu.sg School of Computing, National University of Singapore)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_067",
+            "title": "The Utility and Privacy Effects of a Click",
+            "authors": [
+                "Rachid Guerraoui (EPFL)",
+                "Anne-Marie Kermarrec (Inria)",
+                "Mahsa Taziki (EPFL)"
+            ],
+            "topics": [
+                "Data",
+                "Security"
+            ]
+        },
+        {
+            "key": "SIGIR_17_068",
+            "title": "Privacy through Solidarity: A User-Utility-Preserving Framework to Counter Profiling",
+            "authors": [
+                "Asia J. Biega (Max Planck Institute for Informatics)",
+                "Rishiraj Saha Roy (Max Planck Institute for Informatics)",
+                "Gerhard Weikum (Max Planck Institute for Informatics)"
+            ],
+            "topics": [
+                "Data",
+                "Security"
+            ]
+        },
+        {
+            "key": "SIGIR_17_069",
+            "title": "Joint Learning of Response Ranking and Next Utterance Suggestion in Human-Computer Conversation System",
+            "authors": [
+                "Rui Yan (Peking University)",
+                "Dongyan Zhao (Peking University)",
+                "Weinan E (Beijing Institute of Big Data Research)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_070",
+            "title": "Learning to Rank Question Answer Pairs with Holographic Dual LSTM Architecture",
+            "authors": [
+                "Yi Tay (Nanyang Technological University)",
+                "Minh C Phan (Nanyang Technological University)",
+                "Luu Anh Tuan (Agency for Science Technology and Research (A*Star))",
+                "Siu Cheung Hui (Nanyang Technological University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_071",
+            "title": "Incomplete Follow-up Question Resolution using Retrieval based Sequence to Sequence Learning",
+            "authors": [
+                "Vineet Kumar (IBM Research Labs)",
+                "Sachindra Joshi (IBM Research Labs)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_072",
+            "title": "Modelling Information Needs in Collaborative Search Conversations",
+            "authors": [
+                "Sosuke Shiga (University of Tsukuba)",
+                "Hideo Joho (University of Tsukuba)",
+                "Roi Blanco (RMIT University)",
+                "Johanne Trippas (RMIT University)",
+                "Mark Sanderson (RMIT University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_073",
+            "title": "Predicting Which Topics You Will Join in the Future on Social Media",
+            "authors": [
+                "Haoran Huang (Fudan University)",
+                "Qi Zhang (Fudan University)",
+                "Jindou Wu (Fudan University)",
+                "Xuanjing Huang (Fudan University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_074",
+            "title": "What Are You Known For? Learning User Topical Profiles with Implicit and Explicit Footprints",
+            "authors": [
+                "Cheng Cao (Texas A&M University)",
+                "Hancheng Ge (Texas A&M University)",
+                "Haokai Lu (Texas A&M University)",
+                "Xia Hu (Texas A&M University)",
+                "James Caverlee (Texas A&M University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_075",
+            "title": "Hierarchical Community-Level Information Diffusion Modeling in Social Networks",
+            "authors": [
+                "Yuan Zhang (Peking University)",
+                "Tianshu Lyu (Peking University)",
+                "Yan Zhang (Peking University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_076",
+            "title": "Word-Entity Duet Representations for Document Ranking",
+            "authors": [
+                "Chenyan Xiong (Carnegie Mellon University)",
+                "Jamie Callan (Carnegie Mellon University)",
+                "Tie-Yan Liu (Microsoft Research)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_077",
+            "title": "Dynamic Factual Summaries for Entity Cards",
+            "authors": [
+                "Faegheh Hasibi (Norwegian University of Science and Technology)",
+                "Krisztian Balog (University of Stavanger)",
+                "Svein Erik Bratsberg (Norwegian University of Science and Technology)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGIR_17_078",
+            "title": "MEmbER: Max-Margin Based Embeddings for Entity Retrieval",
+            "authors": [
+                "Shoaib Jameel (Cardiff University)",
+                "Zied Bouraoui (Cardiff University)",
+                "Steven Schockaert (Cardiff University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        }
+    ]
+}

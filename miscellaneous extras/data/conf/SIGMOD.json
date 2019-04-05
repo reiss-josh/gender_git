@@ -1,0 +1,1538 @@
+{
+    "key": "SIGMOD_17",
+    "conference": "International Conference on Management of Data",
+    "organization": [
+        "ACM"
+    ],
+    "country": "US",
+    "postdate": "2017-05-14",
+    "last_deadline": "2016-11-11",
+    "review_days": 145,
+    "submissions": 489,
+    "min_reviews": 3,
+    "total_reviews": 1567,
+    "double_blind": true,
+    "rebuttal": true,
+    "open_access": false,
+    "age": 47,
+    "past_papers": 5408,
+    "past_citations": 131930,
+    "h5_index": 65,
+    "h5_median": 93,
+    "notes": "Authors can optionally submit data for ACM's 'Reproducibile Label'. Therew were two rounds of submissions. There were 7 single-author submissions, all rejected. One author submitted 13 papers. Typical review load: 9-10 papers. Most papers had 3 reviews, 9 had 5 reviews. Average review length was 3,000 chars.",
+    "pc_chairs": [
+        "Dan Suciu (University of Washington, UW)",
+        "Magdalena Balazinska (University of Washington, UW)",
+        "Dan Olteanu (University of Oxford)"
+    ],
+    "pc_members": [
+        "Philip A. Bernstein (Microsoft Research, USA)",
+        "Yi Chen (New Jersey Institute of Technology, USA)",
+        "Carlo Curino (Microsoft, USA)",
+        "Xin Dong (Google, USA)",
+        "Juliana Freire (New York University, USA)",
+        "Benny Kimelfeld (Technion \u2013 Israel Institute of Technology, Israel)",
+        "Hank Korth (Lehigh University, USA)",
+        "Ioana Manolescu (INRIA Saclay and Ecole Polytechnique, France)",
+        "Aditya Parameswaran (University of Illinois Urbana-Champaign, USA)",
+        "Neoklis Polyzotis (Google, USA)",
+        "S. Sudarshan (IIT Bombay, India)",
+        "Yufei Tao (University of Queensland, Australia)",
+        "Jens Teubner (TU Dortmund, Germany)",
+        "Ashraf Aboulnaga",
+        "Eugene Agichtein",
+        "Yanif Ahmad",
+        "Peter Alvaro",
+        "Yael Amsterdamer",
+        "Nicolas Anciaux",
+        "Lyublena Antova",
+        "Arvind Arasu",
+        "Walid Aref",
+        "Peter Bailis",
+        "Zhuowei Bao",
+        "Senjuti Basu Roy",
+        "Michael Benedikt",
+        "Elisa Bertino",
+        "Carsten Binnig",
+        "Spyros Blanas",
+        "Angela Bonifati",
+        "K. Sel\u00e7uk Candan",
+        "Bogdan Cautis",
+        "Stefano Ceri",
+        "Lei Chen",
+        "James Cheney",
+        "Reynold Cheng",
+        "Alvin Cheung",
+        "John Cieslewicz",
+        "Radu Ciucanu",
+        "Sarah Cohen-Boulakia",
+        "Dario Colazzo",
+        "Tyson Condie",
+        "Graham Cormode",
+        "Gautam Das",
+        "Mahashweta Das",
+        "Sudipto Das",
+        "Altigran-Soares Dasilva",
+        "Daniel Deutch",
+        "Alin Deutsch",
+        "Jens Dittrich",
+        "Harish Doraiswamy",
+        "Eduard Dragut",
+        "Jennie Duggan",
+        "Curtis Dyreson",
+        "Wenfei Fan",
+        "Alan Fekete",
+        "Avrilia Floratou",
+        "Jing Gao",
+        "Wolfgang Gatterbauer",
+        "Tingjian Ge",
+        "Rainer Gemulla",
+        "Boris Glavic",
+        "Fran\u00e7ois Goasdou\u00e9",
+        "Todd Green",
+        "Raman Grover",
+        "Torsten Grust",
+        "Oktie Hassanzadeh",
+        "Michael Hay",
+        "Thomas Heinis",
+        "Melanie Herschel",
+        "Katja Hose",
+        "Bill Howe",
+        "Stratos Idreos",
+        "Ihab Ilyas",
+        "Zachary G. Ives",
+        "H. V. Jagadish",
+        "Alekh Jindal",
+        "Srikanth Kandula",
+        "Yaron Kanza",
+        "Konstantinos Karanasos",
+        "Asterios Katsifodimos",
+        "Yannis Katsis",
+        "Raghav Kaushik",
+        "Oliver Kennedy",
+        "Kristian Kersting",
+        "George Konstantinidis",
+        "Lucja Kot",
+        "Paraschos Koutris",
+        "Tim Kraska",
+        "Rajasekar Krishnamurthy",
+        "Arun Kumar",
+        "Yongchul Kwon",
+        "Alexandros Labrinidis",
+        "Julien Leblay",
+        "Wolfgang Lehner",
+        "Alberto Lerner",
+        "Justin Levandoski",
+        "Chen Li",
+        "Feifei Li",
+        "Guoliang Li",
+        "Jianxin Li",
+        "Yang Li",
+        "Yinan Li",
+        "Xuemin Lin",
+        "Chengfei Liu",
+        "Ling Liu",
+        "Ziyang Liu",
+        "Ashwin Machanavajjhala",
+        "Nikos Mamoulis",
+        "Stefan Manegold",
+        "Davide Martinenghi",
+        "Florent Masseglia",
+        "Giansalvatore Mecca",
+        "Alexandra Meliou",
+        "Sebastian Michel",
+        "Tova Milo",
+        "Mohamed Mokbel",
+        "Bongki Moon",
+        "Ingo M\u00fcller",
+        "Arnab Nandi",
+        "Thomas Neumann",
+        "Frank Neven",
+        "Beng Chin Ooi",
+        "Carlos Ordonez",
+        "Vincent Oria",
+        "Giorgio Orsi",
+        "M. Tamer Ozsu",
+        "Stavros Papadopoulos",
+        "Yannis Papakonstantinou",
+        "Stelios Paparizos",
+        "Paolo Papotti",
+        "Jignesh M. Patel",
+        "Andrew Pavlo",
+        "Peter Pietzuch",
+        "Holger Pirk",
+        "Dan Ports",
+        "Elisa Quintarelli",
+        "Tilmann Rabl",
+        "Vibhor Rastogi",
+        "Theodoros Rekatsinas",
+        "Matthias Renz",
+        "Sudeepa Roy",
+        "Elke Rundensteiner",
+        "Florin Rusu",
+        "Mohammad Sadoghi",
+        "Semih Salihoglu",
+        "Carlo Sartiani",
+        "Mohamed Sarwat",
+        "Sebastian Schelter",
+        "Russell Sears",
+        "Pierre Senellart",
+        "Emad Soroush",
+        "Michael Spear",
+        "Julia Stoyanovich",
+        "Ryan Stutsman",
+        "Letizia Tanca",
+        "Nan Tang",
+        "Nesime Tatbul",
+        "Arash Termehchy",
+        "Martin Theobald",
+        "Pinar Tozun",
+        "Anthony K. H. Tung",
+        "Federico Ulliana",
+        "Vasilis Vassalos",
+        "Yannis Velegrakis",
+        "Stratis Viglas",
+        "Daisy Zhe Wang",
+        "Haixun Wang",
+        "Hui Wang",
+        "Jiannan Wang",
+        "Raymond Chi-Wing Wong",
+        "Eugene Wu",
+        "Wentao Wu",
+        "Cong Yu",
+        "Jeffrey Xu Yu",
+        "Bo Zhao"
+    ],
+    "keynote_speakers": [],
+    "session_chairs": [
+        "Magdalena Balazinska",
+        "Dan Suciu",
+        "Magdalena Balazinska",
+        "Dan Suciu",
+        "Dan Olteanu",
+        "Alan Fekete",
+        "Sadoghi Hamedani",
+        "Bongki Moon",
+        "Arun Kumar",
+        "Holger Pirk",
+        "Philip A. Bernstein",
+        "Mehul Shah",
+        "Semih Salihoglu",
+        "Mohamed Mokbel",
+        "Boris Glavic",
+        "Mohamed Sarwat",
+        "Reynold Cheng",
+        "Pierre Senellart",
+        "Arash Termehchy",
+        "Hank Korth",
+        "Florin Rusu",
+        "Julia Stoyanovich",
+        "Vincent Oria",
+        "Theodoros Rekatsinas",
+        "Eugen Wu",
+        "Arvind Arasu",
+        "George Konstantinidis",
+        "Yufei Tao",
+        "Guoliang Li",
+        "Gautam Das",
+        "Michael Hay",
+        "Paris Koutris",
+        "Jiannan Wang",
+        "Walid Aref",
+        "Thomas Neuman",
+        "Donald Kossmann",
+        "Donald Kossmann",
+        "Badrish Chandramouli"
+    ],
+    "panelists": [
+        "Donald Kossmann (Microsoft)",
+        "C. Mohan (IBM)",
+        "Sailesh Krishnamurthy (Amazon)",
+        "John Cieslewicz (Google)",
+        "Shasank Chavan (Oracle)",
+        "Jianjun Chen (Huawei)",
+        "Mostafa Mokhtar (Cloudera)"
+    ],
+    "papers": [
+        {
+            "key": "SIGMOD_17_001",
+            "title": "Transaction Repair for Mult-Version Concurrency Control",
+            "authors": [
+                "Mohammad Dashti",
+                "Sachin Basil John",
+                "Amir Shaikhha",
+                "Christoph Koch"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_002",
+            "title": "Distributed Algorithms on Exact Personalized PageRank",
+            "authors": [
+                "Tao Guo",
+                "Xin Cao",
+                "Gao Cong",
+                "Jiaheng Lu",
+                "Xuemin Lin"
+            ],
+            "topics": [
+                "Concurrency",
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_003",
+            "title": "Two-Level Sampling for Join Size Estimation",
+            "authors": [
+                "Yu Chen",
+                "Ke Yi"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_004",
+            "title": "Extracting Top-K Insights from Multi-dimensional Data",
+            "authors": [
+                "Bo Tang",
+                "Shi Han",
+                "Man Lung Yiu",
+                "Rui Ding",
+                "Dongmei Zhang"
+            ],
+            "topics": [
+                "DB",
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_005",
+            "title": "Schema Independent Relational Learning",
+            "authors": [
+                "Jose Picado",
+                "Arash Termehchy",
+                "Alan Fern",
+                "Parisa Ataei"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_006",
+            "title": "Debunking the Myths of Influence Maximization: An In-Depth Benchmarking Study",
+            "authors": [
+                "Akhil Arora",
+                "Sainyam Galhotra",
+                "Sayan Ranu"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_007",
+            "title": "QFix: Diagnosing errors through query histories",
+            "authors": [
+                "Eugene Wu",
+                "Xiaolan Wang",
+                "Alexandra Meliou"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_008",
+            "title": "Distributed Provenance Compression",
+            "authors": [
+                "Chen Chen",
+                "Harshal Tushar Lehri",
+                "Lay Kuan Loh",
+                "Limin Jia",
+                "Boon Thau Loo",
+                "Wenchao Zhou"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_009",
+            "title": "DAG Reduction: Fast Answering Reachability Queries",
+            "authors": [
+                "Junfeng Zhou",
+                "Shijie Zhou",
+                "Jeffrey Xu Yu",
+                "Hao Wei",
+                "Ziyang Chen",
+                "Xian Tang"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_010",
+            "title": "MacroBase: Prioritizing Attention in Fast Data",
+            "authors": [
+                "Peter Bailis",
+                "Edward Gan",
+                "Samuel Madden",
+                "Deepak Narayanan",
+                "Kexin Rong",
+                "Sahaana Suri"
+            ],
+            "topics": [
+                "DB",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_011",
+            "title": "Efficient Ad-Hoc Graph Inference and Matching in Biological Databases",
+            "authors": [
+                "Xiang Lian",
+                "Dongchul Kim"
+            ],
+            "topics": [
+                "Data",
+                "HPC",
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_012",
+            "title": "Wide Table Layout Optimization based on Column Ordering and Duplication",
+            "authors": [
+                "Haoqiong Bian",
+                "Ying Yan",
+                "Wenbo Tao",
+                "Liang Chen",
+                "Yueguo Chen",
+                "Xiaoyong Du",
+                "Thomas Moscibroda"
+            ],
+            "topics": [
+                "Data",
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_013",
+            "title": "Waldo: An Adaptive Human Interface for Crowd Entity Resolution",
+            "authors": [
+                "Vasilis Verroios",
+                "Hector Garcia-Molina",
+                "Yannis Papakonstantinou"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_014",
+            "title": "Efficient Computation of Regret-ratio Minimizing Set: A Compact Maxima Representative",
+            "authors": [
+                "Abolfazl Asudeh",
+                "Azade Nazi",
+                "Nan Zhang",
+                "Gautam Das"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_015",
+            "title": "Heterogeneity-aware Distributed Parameter Servers",
+            "authors": [
+                "Jiawei Jiang",
+                "Bin Cui",
+                "Ce Zhang",
+                "Lele Yu"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_016",
+            "title": "QUILTS: Multidimensional Data Partitioning Based on Query Aware, Skew Tolerant Space Filling Curves",
+            "authors": [
+                "Shoji Nishimura",
+                "Haruo Yokota"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_017",
+            "title": "Enabling Signal Processing over Data Streams",
+            "authors": [
+                "Milos Nikolic",
+                "Badrish Chandramouli",
+                "Jonathan Goldstein"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_018",
+            "title": "Flexible and Feasible Support Measures for Mining Frequent Patterns in Large Labeled Graphs",
+            "authors": [
+                "Jinghan Meng",
+                "Yicheng Tu"
+            ],
+            "topics": [
+                "DB",
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_019",
+            "title": "The BUDS Language for Distributed Machine Learning",
+            "authors": [
+                "Luis Perez",
+                "Zekai Gao",
+                "Shangyu Luo",
+                "Chris Jermaine"
+            ],
+            "topics": [
+                "DB",
+                "Data",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_020",
+            "title": "Online Deduplication for Databases",
+            "authors": [
+                "Lianghong Xu",
+                "Andrew Pavlo",
+                "Sudipta Sengupta",
+                "Gregory R. Ganger"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_021",
+            "title": "Computing A Near-Maximum Independent Set in Linear Time by Reducing-Peeling",
+            "authors": [
+                "Lijun Chang",
+                "Wei Li",
+                "Wenjie Zhang"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_022",
+            "title": "Utility Cost of Formal Privacy for Releasing National Employer-Employee Statistics",
+            "authors": [
+                "Samuel Haney",
+                "Ashwin Machanavajjhala",
+                "John Abowd",
+                "Matthew Graham",
+                "Mark Kutzbach",
+                "Lars Vilhuber"
+            ],
+            "topics": [
+                "Security",
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_023",
+            "title": "Staging User Feedback toward Rapid Conflict Resolution in Data Fusion",
+            "authors": [
+                "Romila Pradhan",
+                "Siarhei Bykau",
+                "Sunil Prabhakar"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_024",
+            "title": "Parallelizing Sequential Graph Computations",
+            "authors": [
+                "Wenfei Fan",
+                "Jingbo Xu",
+                "Yinghui Wu",
+                "Jiaxin Jiang",
+                "Zeyu Zheng",
+                "Bohan Zhang",
+                "Yang Cao",
+                "Chao Tian"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ],
+            "award": true
+        },
+        {
+            "key": "SIGMOD_17_025",
+            "title": "All-in-One: Graph Processing in RDBMSs Revisited",
+            "authors": [
+                "Kangfei Zhao",
+                "Jeffrey Xu Yu"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_026",
+            "title": "Incremental Graph Computations: Doable and Undoable",
+            "authors": [
+                "Wenfei Fan",
+                "Chunming Hu",
+                "Chao Tian"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_027",
+            "title": "Pythia: Data Dependent Differentially Private Algorithm Selection",
+            "authors": [
+                "Ios Kotsogiannis",
+                "Ashwin Machanavajjhala",
+                "Gerome Miklau",
+                "Michael Hay"
+            ],
+            "topics": [
+                "DB",
+                "Security"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_028",
+            "title": "FPGA Based Data Partitioning",
+            "authors": [
+                "Kaan Kara",
+                "Jana Giceva",
+                "Gustavo Alonso"
+            ],
+            "topics": [
+                "Architecture",
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_029",
+            "title": "Complete Event Trend Detection in High-Rate Event Streams",
+            "authors": [
+                "Olga Poppe",
+                "Chuan Lei",
+                "Salah Ahmed",
+                "Elke Rundensteiner"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_030",
+            "title": "Cryptanalysis of Comparable Encryption in SIGMOD\u201916",
+            "authors": [
+                "Caleb Horst",
+                "Ryo Kikuchi",
+                "Keita Xagawa"
+            ],
+            "topics": [
+                "DB",
+                "Security"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_031",
+            "title": "Extracting and Analyzing Hidden Graphs from Relational Databases",
+            "authors": [
+                "Konstantinos Xirogiannopoulos",
+                "Amol Deshpande"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_032",
+            "title": "BePI: Fast and Memory-Efficient Method for Billion-Scale Random Walk with Restart",
+            "authors": [
+                "Jinhong Jung",
+                "Namyong Park",
+                "Sael Lee",
+                "U Kang"
+            ],
+            "topics": [
+                "DB",
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_033",
+            "title": "SLiMFast: Guaranteed Results for Data Fusion and Source Reliability",
+            "authors": [
+                "Theodoros Rekatsinas",
+                "Manas Joglekar",
+                "Hector Garcia-Molina",
+                "Aditya Parameswaran",
+                "Christopher Re"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_034",
+            "title": "Discovering Your Selling Points: Personalized Social Influential Tag Exploration",
+            "authors": [
+                "Yuchen Li",
+                "Ju Fan",
+                "Dongxiang Zhang",
+                "Kian-Lee Tan"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_035",
+            "title": "Crowdsourced Top-k Queries by Confidence-Aware Pairwise Judgments",
+            "authors": [
+                "Ngai Meng Kou",
+                "Yan Li",
+                "Hao Wang",
+                "Leong Hou U",
+                "Zhiguo Gong"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_036",
+            "title": "Accelerating Pattern Matching Queries in Hybrid CPU-FPGA Architectures",
+            "authors": [
+                "David Sidler",
+                "Zsolt Istvan",
+                "Muhsen Owaida",
+                "Gustavo Alonso"
+            ],
+            "topics": [
+                "DB",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_037",
+            "title": "Landmark indexing for scalable evaluation of label-constrained reachability queries",
+            "authors": [
+                "Lucien Valstar",
+                "George H. L. Fletcher",
+                "Yuichi Yoshida"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_038",
+            "title": "Exploiting Common Patterns for Tree-Structured Data",
+            "authors": [
+                "Zhiyi Wang",
+                "Shimin Chen"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_039",
+            "title": "Revisiting Reuse in Main Memory Database Systems",
+            "authors": [
+                "Kayhan Dursun",
+                "Carsten Binnig",
+                "Ugur Cetintemel",
+                "Tim Kraska"
+            ],
+            "topics": [
+                "DB",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_040",
+            "title": "From In-Place Updates to In-Place Appends: Revisiting Out-of-Place Updates on Flash",
+            "authors": [
+                "Sergey Hardock",
+                "Ilia Petrov",
+                "Robert Gottstein",
+                "Alejandro Buchmann"
+            ],
+            "topics": [
+                "DB",
+                "Storage"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_041",
+            "title": "BatchDB: Efficient Isolated Execution of Hybrid OLTP+OLAP Workloads",
+            "authors": [
+                "Darko Makreshanski",
+                "Jana Giceva",
+                "Claude Barthels",
+                "Gustavo Alonso"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_042",
+            "title": "Scaling Up Hands-Off Crowdsourced Entity Matching: An RDBMS Approach",
+            "authors": [
+                "Sanjib Das",
+                "Paul Suganthan",
+                "Anhai Doan",
+                "Jeffrey Naughton",
+                "Ganesh Krishnan",
+                "Rohit Deep",
+                "Esteban Arcaute",
+                "Vijay Raghavendra",
+                "Youngchoon Park"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_043",
+            "title": "Handling environments in a nested relational algebra with combinators and an implementation in a verified query compiler",
+            "authors": [
+                "Joshua Auerbach",
+                "Martin Hirzel",
+                "Louis Mandel",
+                "Avraham Shinnar",
+                "Jerome Simeon"
+            ],
+            "topics": [
+                "DB",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_044",
+            "title": "Template Skycube Algorithms for Heterogeneous Parallelism on Multicore and GPU Architectures",
+            "authors": [
+                "Kenneth S. B\u00f8gh",
+                "Sean Chester",
+                "Darius Idlauskas",
+                "Ira Assent"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_045",
+            "title": "A General-Purpose Counting Filter: Making Every Bit Count",
+            "authors": [
+                "Prashant Pandey",
+                "Michael A. Bender",
+                "Rob Johnson"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_046",
+            "title": "An Experimental Study of Bitmap Compression vs. Inverted List Compression",
+            "authors": [
+                "Jianguo Wang",
+                "Chunbin Lin",
+                "Yannis Papakonstantinou",
+                "Steven Swanson"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_047",
+            "title": "Utility-Aware Ridesharing on Road Networks",
+            "authors": [
+                "Peng Cheng",
+                "Hao Xin",
+                "Lei Chen"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_048",
+            "title": "FEXIPRO: Fast and Exact Inner Product Retrieval in Recommender Systems",
+            "authors": [
+                "Hui Li",
+                "Tsz Nam Chan",
+                "Man Lung Yiu",
+                "Nikos Mamoulis"
+            ],
+            "topics": [
+                "DB",
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_049",
+            "title": "Synthesizing Mapping Relationship Using Table Corpus",
+            "authors": [
+                "Yue Wang",
+                "Yeye He"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_050",
+            "title": "Fast Failure Recovery for Main-Memory DBMSs on Multicores",
+            "authors": [
+                "Yingjun Wu",
+                "Wentian Guo",
+                "Chee-Yong Chan",
+                "Kian-Lee Tan"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_051",
+            "title": "ZipG: A Memory-efficient Graph Store for Interactive Queries",
+            "authors": [
+                "Anurag Khandelwal",
+                "Zongheng Yang",
+                "Evan Ye",
+                "Rachit Agarwal",
+                "Ion Stoica"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_052",
+            "title": "Database Learning: Toward a Database that Becomes Smarter Every Time",
+            "authors": [
+                "Yongjoo Park",
+                "Ahmad Shahab Tajik",
+                "Michael Cafarella",
+                "Barzan Mozafari"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_053",
+            "title": "TrillionG: A Trillion-scale Synthetic Graph Generator using a Recursive Vector Model",
+            "authors": [
+                "Himchan Park",
+                "Min-Soo Kim"
+            ],
+            "topics": [
+                "DB",
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_054",
+            "title": "Cicada: Dependably Fast Multi-Core In-Memory Transactions",
+            "authors": [
+                "Hyeontaek Lim",
+                "Michael Kaminsky",
+                "David G. Andersen"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_055",
+            "title": "A Top-Down Approach to Achieving Performance Predictability in Database Systems",
+            "authors": [
+                "Jiamin Huang",
+                "Barzan Mozafari",
+                "Thomas F. Wenisch",
+                "Grant Schoenebeck"
+            ],
+            "topics": [
+                "DB",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_056",
+            "title": "QIRANA: a Framework for Scalable Query Pricing",
+            "authors": [
+                "Shaleen Deep",
+                "Paraschos Koutris"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_057",
+            "title": "ROBUS: Fair Cache Allocation for Data-parallel Workloads",
+            "authors": [
+                "Mayuresh Kunjir",
+                "Brandon Fain",
+                "Kamesh Munagala",
+                "Shivnath Babu"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_058",
+            "title": "Controlling False Discoveries During Interactive Data Exploration",
+            "authors": [
+                "Zheguang Zhao",
+                "Lorenzo De Stefani",
+                "Emanuel Zgraggen",
+                "Carsten Binnig",
+                "Eli Upfal",
+                "Tim Kraska"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_059",
+            "title": "Feedback-Aware Social Event-Participant Arrangement",
+            "authors": [
+                "Lei Chen",
+                "Jieying She",
+                "Yongxin Tong",
+                "Tianshu Song"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_060",
+            "title": "Scaling Locally Linear Embedding",
+            "authors": [
+                "Yasuhiro Fujiwara",
+                "Naoki Marumo",
+                "Mathieu Blondel",
+                "Koh Takeuchi",
+                "Hideaki Kim",
+                "Iwata Tomoharu",
+                "Naonori Ueda"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_061",
+            "title": "Optimization of Disjunctive Predicates for Main Memory Column Stores",
+            "authors": [
+                "Fisnik Kastrati",
+                "Guido Moerkotte"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_062",
+            "title": "OctopusFS: A Distributed File System with Tiered Storage Management",
+            "authors": [
+                "Elena Kakoulli",
+                "Herodotos Herodotou"
+            ],
+            "topics": [
+                "DB",
+                "Storage"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_063",
+            "title": "UGuide \u2013 User-Guided Discovery of FD-Detectable Errors",
+            "authors": [
+                "Saravanan Thirumuruganathan",
+                "Laure Berti-Equille",
+                "Mourad Ouzzani",
+                "Jorge-Arnulfo Quiane-Ruiz",
+                "Nan Tang"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_064",
+            "title": "Pufferfish Privacy Mechanisms for Correlated Data",
+            "authors": [
+                "Shuang Song",
+                "Yizhen Wang",
+                "Kamalika Chaudhuri"
+            ],
+            "topics": [
+                "DB",
+                "Security"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_065",
+            "title": "Beta Probabilistic Databases: A Scalable Approach to Belief Updating and Parameter Learning",
+            "authors": [
+                "Niccolo\u2019 Meneghetti",
+                "Oliver Kennedy",
+                "Wolfgang Gatterbauer"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_066",
+            "title": "The Dynamic Yannakakis Algorithm: Compact and Efficient Query Processing Under Updates",
+            "authors": [
+                "Muhammad Idris",
+                "Stijn Vansummeren",
+                "Martin Ugarte"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_067",
+            "title": "Interactive Mapping Specification with Exemplar Tuples",
+            "authors": [
+                "Angela Bonifati",
+                "Ugo Comignani",
+                "Emmanuel Coquery",
+                "Romuald Thion"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_068",
+            "title": "Automatic Database Management System Tuning Through Large-scale Machine Learning",
+            "authors": [
+                "Dana Van Aken",
+                "Andrew Pavlo",
+                "Geoff Gordon"
+            ],
+            "topics": [
+                "DB",
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_069",
+            "title": "Concerto: A High Concurrency Key-value Store with Integrity",
+            "authors": [
+                "Arvind Arasu",
+                "Ken Eguro",
+                "Raghav Kaushik",
+                "Donald Kossmann",
+                "Pingfan Meng",
+                "Vineet Pandey",
+                "Ravi Ramamurthy"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_070",
+            "title": "Bringing Modular Concurrency Control to the Next Level",
+            "authors": [
+                "Chunzhi Su",
+                "Chao Xie",
+                "Natacha Crooks",
+                "Cong Ding",
+                "Lorenzo Alvisi"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_071",
+            "title": "Efficient Computation of Top-k Frequent Terms over Spatial-Temporal Ranges",
+            "authors": [
+                "Pritom Ahmed",
+                "Mahbub Hasan",
+                "Abhijith Kashyap",
+                "Vagelis Hristidis",
+                "Vassilis J. Tsotras"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_072",
+            "title": "BLOCKBENCH: A Framework for Analyzing Private Blockchains",
+            "authors": [
+                "Anh Dinh",
+                "Ji Wang",
+                "Gang Chen",
+                "Rui Liu",
+                "Beng Chin Ooi",
+                "Kian-Lee Tan"
+            ],
+            "topics": [
+                "DB",
+                "Benchmark",
+                "Security"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_073",
+            "title": "Foofah: Transforming Data By Example",
+            "authors": [
+                "Zhongjun Jin",
+                "Michael R. Anderson",
+                "Michael Cafarella",
+                "H. V. Jagadish"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_074",
+            "title": "Scalable Kernel Density Classification using Threshold-Based Pruning",
+            "authors": [
+                "Edward Gan",
+                "Peter Bailis"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_075",
+            "title": "CDB: Optimizing Queries with Crowd-Based Selections and Joins",
+            "authors": [
+                "Guoliang Li",
+                "Chengliang Chai",
+                "Xueping Weng",
+                "Ju Fan",
+                "Jian Li",
+                "Yudian Zheng",
+                "Yuanbing Li",
+                "Xiang Yu",
+                "Xiaohang Zhang",
+                "Haitao Yuan"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_076",
+            "title": "ACIDRain: Concurrency-Related Attacks on Database-Backed Web Applications",
+            "authors": [
+                "Todd Warszawski",
+                "Peter Bailis"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_077",
+            "title": "Distance Oracle on Terrain Surface",
+            "authors": [
+                "Victor Junqiu Wei",
+                "Raymond Chi-Wing Wong",
+                "Cheng Long",
+                "David Mount"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_078",
+            "title": "Solving the Join Ordering Problem via Mixed Integer Linear Programming",
+            "authors": [
+                "Immanuel Trummer",
+                "Christoph Koch"
+            ],
+            "topics": [
+                "DB",
+                "HPC"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_079",
+            "title": "Leveraging Re-costing for Online Optimization of Parameterized Queries with Guarantees",
+            "authors": [
+                "Anshuman Dutt",
+                "Vivek Narasayya",
+                "Surajit Chaudhuri"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_080",
+            "title": "Incremental View Maintenance over Array Data",
+            "authors": [
+                "Weijie Zhao",
+                "Florin Rusu",
+                "Bin Dong",
+                "Kesheng Wu",
+                "Peter Nugent"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_081",
+            "title": "A Cost-based Optimizer for Gradient Descent Optimization",
+            "authors": [
+                "Zoi Kaoudi",
+                "Jorge Arnulfo Quiane Ruiz",
+                "Saravanan Thirumuruganathan",
+                "Sanjay Chawla",
+                "Divyakant Agrawal"
+            ],
+            "topics": [
+                "DB",
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_082",
+            "title": "A Memory Bandwidth-Efficient Hybrid Radix Sort on GPUs",
+            "authors": [
+                "Elias Stehle",
+                "Hans-Arno Jacobsen"
+            ],
+            "topics": [
+                "DB",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_083",
+            "title": "Determining the Impact Regions of Competing Options in Preference Space",
+            "authors": [
+                "Bo Tang",
+                "Kyriakos Mouratidis",
+                "Man Lung Yiu"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_084",
+            "title": "Coarsening Massive Influence Networks for Scalable Diffusion Analysis",
+            "authors": [
+                "Naoto Ohsaka",
+                "Tomohiro Sonobe",
+                "Sumio Fujita",
+                "Ken-Ichi Kawarabayashi"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_085",
+            "title": "Living in Parallel Realities \u2014 Co-Existing Schema Versions with a Bidirectional Database Evolution Language",
+            "authors": [
+                "Kai Herrmann",
+                "Hannes Voigt",
+                "Andreas Behrend",
+                "Jonas Rausch",
+                "Wolfgang Lehner"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_086",
+            "title": "Bolt-on Differential Privacy for Scalable Stochastic Gradient Descent-Based Analytics",
+            "authors": [
+                "Xi Wu",
+                "Fengan Li",
+                "Arun Kumar",
+                "Kamalika Chaudhuri",
+                "Somesh Jha",
+                "Jeffrey Naughton"
+            ],
+            "topics": [
+                "DB",
+                "Security"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_087",
+            "title": "Massively Parallel Processing of Whole Genome Sequence Data: An In-Depth Performance Study",
+            "authors": [
+                "Abhishek Roy",
+                "Yanlei Diao",
+                "Toby Bloom",
+                "Uday Evani",
+                "Clinton Howarth"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_088",
+            "title": "Access Path Selection in Main-Memory Optimized Data Systems: Should I Scan or Should I Probe?",
+            "authors": [
+                "Michael Kester",
+                "Manos Athanassoulis",
+                "Stratos Idreos"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_089",
+            "title": "Dynamic Density Based Clustering",
+            "authors": [
+                "Junhao Gan",
+                "Yufei Tao"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_090",
+            "title": "Data Canopy: Accelerating Exploratory Statistical Analysis",
+            "authors": [
+                "Abdul Wasay",
+                "Stratos Idreos"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_091",
+            "title": "Query Centric Partitioning and Allocation for Partially Replicated Database Systems",
+            "authors": [
+                "Tilmann Rabl",
+                "Hans-Arno Jacobsen"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_092",
+            "title": "Optimizing Iceberg Queries with Complex Joins",
+            "authors": [
+                "Brett Walenz",
+                "Sudeepa Roy",
+                "Jun Yang"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_093",
+            "title": "Monkey: Optimal Navigable Key-Value Store",
+            "authors": [
+                "Niv Dayan",
+                "Manos Athanassoulis",
+                "Stratos Idreos"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_094",
+            "title": "CrowdDQS: Dynamic Question Selection in Crowdsourcing Systems",
+            "authors": [
+                "Asif Khan",
+                "Hector Garcia-Molina"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_095",
+            "title": "DEX: Query Execution in a Delta-based Storage System",
+            "authors": [
+                "Amit Chavan",
+                "Amol Deshpande"
+            ],
+            "topics": [
+                "DB",
+                "Storage"
+            ]
+        },
+        {
+            "key": "SIGMOD_17_096",
+            "title": "Fast Searchable Encryption with Tunable Locality",
+            "authors": [
+                "Ioannis Demertzis",
+                "Charalampos Papamanthou"
+            ],
+            "topics": [
+                "DB",
+                "Security"
+            ]
+        }
+    ]
+}

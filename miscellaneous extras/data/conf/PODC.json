@@ -1,0 +1,541 @@
+{
+    "key": "PODC_17",
+    "conference": "Symposium on Principles of Distributed Computing",
+    "organization": [
+        "ACM"
+    ],
+    "country": "US",
+    "postdate": "2017-07-25",
+    "last_deadline": "2017-02-15",
+    "review_days": 70,
+    "submissions": 154,
+    "min_reviews": 3,
+    "total_reviews": 500,
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 35,
+    "past_papers": 1746,
+    "past_citations": 20260,
+    "h5_index": 25,
+    "h5_median": 31,
+    "notes": "There were over 140 external reviewers.",
+    "pc_chairs": [
+        "Alexander Schwarzmann (University of Connecticut)"
+    ],
+    "pc_members": [
+        "Lorenzo Alvisi (University of Texas Austin and Cornell University, USA)",
+        "Hagit Attiya (The Technion, Israel)",
+        "Michael A. Bender (Stony Brook University, USA)",
+        "Borzoo Bonakdarpour (McMaster University, Canada)",
+        "Silvia Bonomi (Sapienza Universit\u00e0 di Roma, Italy)",
+        "Christian Cachin (IBM Research, Switzerland)",
+        "Irina Calciu (VMware Research, USA)",
+        "Bogdan Chlebus (University of Colorado Denver, USA)",
+        "Carole Delporte-Gallet (Universit\u00e9 Paris Diderot, Paris 7, France)",
+        "Shlomi Dolev (Ben-Gurion University, Israel)",
+        "Greg Eisenhauer (Georgia Tech, USA)",
+        "Faith Ellen (University of Toronto, Canada)",
+        "Panagiota Faturu (University of Crete, Greece)",
+        "Antonio Fernandez Anta (IMDEA, Spain)",
+        "Paola Flocchini (University of Ottawa, Canada)",
+        "Chryssis Georgiou (University of Cyprus, Cyprus)",
+        "Andreas Haeberlen (University of Pennsylvania, USA)",
+        "Magnus Halldorsson (Reykjavik University, Iceland)",
+        "Anne-Marie Kermarrec (INRIA, Rennes, France)",
+        "Aggelos Kiayias (Edinburgh University, UK)",
+        "Kishori Konwar (MIT, USA)",
+        "Nancy Lynch (MIT, USA)",
+        "Calvin Newport (Georgetown University, USA)",
+        "Cristina Nita-Rotaru (Northeastern Univ, USA)",
+        "Merav Parter (Weizmann Institute, Israel)",
+        "Andrzej Pelc (University of Quebec, Canada)",
+        "Franck Petit (Universit\u00e9 Pierre-et-Marie-Curie, Paris 6, France)",
+        "Maria Potop-Butucaru (Universit\u00e9 Pierre-et-Marie-Curie, Paris 6, France)",
+        "Michel Raynal (IRISA, Rennes, France)",
+        "Andrea Richa (Arizona State University, USA)",
+        "Luis Rodrigues (IST, ULisboa, Portugal)",
+        "Elad Schiller (Chalmers University Tech., Sweden)",
+        "Robert Soul\u00e9 (USI, Lugano, Switzerland)",
+        "Paul Spirakis (University Liverpool, UK & CTI, Greece)",
+        "Gadi Taubenfeld (IDC Herzliya, Israel)",
+        "Nitin Vaidya (University of Illinois, USA)",
+        "Robbert van Renesse (Cornell University, USA)",
+        "Jennifer Welch (Texas A&M University, USA,)"
+    ],
+    "keynote_speakers": [
+        "Guy Blelloch",
+        "Maurice Herlihy",
+        "Rosario Gennaro"
+    ],
+    "session_chairs": [
+        "Jennifer Welch",
+        "Faith Ellen",
+        "Kishori Konwar",
+        "Calvin Newport",
+        "Nancy Lynch",
+        "Gadi Taubenfeld",
+        "Lorenzo Alvisi",
+        "Irina Calciu",
+        "Alexander Schwarzmann"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "PODC_17_001",
+            "title": "Exploiting Spontaneous Transmissions for Broadcasting and Leader Election in Radio Networks",
+            "authors": [
+                "Artur Czumaj (University of Warwick)",
+                "Peter Davies (University of Warwick)"
+            ],
+            "topics": [
+                "Network",
+                "Concurrency"
+            ],
+            "award": true
+        },
+        {
+            "key": "PODC_17_002",
+            "title": "The Space Requirement of Local Forwarding on Acyclic Networks",
+            "authors": [
+                "Boaz Patt-Shamir (Tel Aviv University)",
+                "Will Rosenbaum (Tel Aviv University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "PODC_17_003",
+            "title": "Communication Primitives in Cognitive Radio Networks",
+            "authors": [
+                "Seth Gilbert (National University of Singapore)",
+                "Fabian Kuhn (University of Freiburg)",
+                "Chaodong Zheng (Nanjing University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "PODC_17_004",
+            "title": "Broadcasting in Noisy Radio Networks",
+            "authors": [
+                "Bernhard Haeupler (Carnegie Mellon University)",
+                "Ellis Hershkowitz (Carnegie Mellon University)",
+                "Goran Zuzic (Carnegie Mellon University)",
+                "Keren Censor-Hillel (Technion)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "PODC_17_005",
+            "title": "Distributed Learning Dynamics in Social Groups",
+            "authors": [
+                "L. Elisa Celis (EPFL)",
+                "Peter Krafft (MIT)",
+                "Nisheeth Vishnoi (EPFL)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_006",
+            "title": "Analyzing Contention and Backoff in Asynchronous Shared Memory",
+            "authors": [
+                "Naama Ben-David (Carnegie Mellon University)",
+                "Guy Blelloch (Carnegie Mellon University)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_007",
+            "title": "Layered Architecture for Erasure-Coded Consistent Distributed Storage",
+            "authors": [
+                "Kishori Konwar (MIT)",
+                "Prakash Narayana Moorthy",
+                "Nancy Lynch (MIT)",
+                "Muriel Medard (MIT)"
+            ],
+            "topics": [
+                "Storage",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_008",
+            "title": "Seeing is Believing: A client-centric specification of database isolation",
+            "authors": [
+                "Natacha Crooks (University of Texas)",
+                "Youer Pu (Cornell University)",
+                "Lorenzo Alvisi (University of Texas)",
+                "Allen Clement (Google)"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_009",
+            "title": "The Space Complexity of Fault Tolerant Register Emulations",
+            "authors": [
+                "Gregory Chockler (Royal Holloway, University of London)",
+                "Alexander Spiegelman (Technion)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_010",
+            "title": "LCL problems on grids",
+            "authors": [
+                "Sebastian Brandt (ETH Z\u00fcrich)",
+                "Juho Hirvonen (IRIF AND CNRS University Paris Diderot)",
+                "Janne H. Korhonen (Aalto University)",
+                "Tuomo Lempi\u00e4inen (Aalto University)",
+                "Patric R. J. \u00d6sterg\u00e5rd (Aalto University)",
+                "Christopher Purcell (Aalto University)",
+                "Joel Rybicki (Aalto University)",
+                "Jukka Suomela (Aalto University)",
+                "Przemyslaw Uznanski (ETH Z\u00fcrich)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_011",
+            "title": "The Multiparty Communication Complexity of Testing Triangle-Freeness",
+            "authors": [
+                "Orr Fischer (Tel Aviv University)",
+                "Shay Gershtein (Tel Aviv University)",
+                "Rotem Oshman (Tel Aviv University)"
+            ],
+            "topics": [
+                "Network",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_012",
+            "title": "What can be sampled locally?",
+            "authors": [
+                "Weiming Feng (Nanjing University)",
+                "Yuxin Sun (Nanjing University)",
+                "Yitong Yin (Nanjing University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "PODC_17_013",
+            "title": "Distributed MST and Routing in Almost Mixing Time",
+            "authors": [
+                "Mohsen Ghaffari (ETH Zurich)",
+                "Fabian Kuhn (University of Freiburg)",
+                "Hsin-Hao Su (MIT)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_014",
+            "title": "Distributed MIS via All-to-All Communication",
+            "authors": [
+                "Mohsen Ghaffari (ETH Zurich)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Network"
+            ]
+        },
+        {
+            "key": "PODC_17_015",
+            "title": "A Simple Deterministic Distributed MST Algorithm, with Near-Optimal Time and Message Complexities",
+            "authors": [
+                "Michael Elkin (Ben-Gurion University of the Negev)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Network"
+            ],
+            "award": true
+        },
+        {
+            "key": "PODC_17_016",
+            "title": "Distributed Approximation of Maximum Independent Set and Maximum Matching",
+            "authors": [
+                "Reuven Bar-Yehuda (Technion IIT)",
+                "Keren Censor-Hillel (Technion IIT)", 
+                "Mohsen Ghaffari (MIT)",
+                "Gregory Schwartzman (Technion IIT)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_017",
+            "title": "Deterministic Distributed Edge-Coloring, and Vertex-Coloring of Graphs with Bounded Diversity",
+            "authors": [
+                "Leonid Barenboim (Open University of Israel)",
+                "Michael Elkin (Ben-Gurion University of the Negev)",
+                "Tzalik Maimon (Open University of Israel)"
+            ],
+            "topics": [
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "PODC_17_018",
+            "title": "Optimal Distance Labeling Schemes for Trees",
+            "authors": [
+                "Ofer Freedman (University of Haifa)",
+                "Pawel Gawrychowski (University of Haifa)",
+                "Patrick Nicholson (Bell Labs)",
+                "Oren Weimann (University of Haifa)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_019",
+            "title": "Recoverable Mutual Exclusion in Sub-logarithmic Time",
+            "authors": [
+                "Wojciech Golab (University of Waterloo)",
+                "Danny Hendler (Ben-Gurion University)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_020",
+            "title": "Randomized Abortable Mutual Exclusion with Constant Amortized RMR Complexity on the CC model",
+            "authors": [
+                "George Giakkoupis (INRIA Rennes)",
+                "Philipp Woelfel (University of Calgary)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_021",
+            "title": "Transactional Lock Elision Meets Combining",
+            "authors": [
+                "Alex Kogan (Oracle Labs)",
+                "Yossi Lev (Oracle Labs)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_022",
+            "title": "Using Time Without Clocks via Zigzag Causality",
+            "authors": [
+                "Asa Dan (Technion)",
+                "Rajit Manohar (Yale)",
+                "Yoram Moses (Technion)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_023",
+            "title": "Effectiveness of Delaying Timestamp Computation",
+            "authors": [
+                "Sandeep Kulkarni (Michigan State University)",
+                "Nitin Vaidya (UIUC)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_024",
+            "title": "Symmetry Breaking with Noisy Processes",
+            "authors": [
+                "Seth Gilbert (National University of Singapore)",
+                "Calvin Newport (Georgetown University)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_025",
+            "title": "The Power of Choice in Priority Scheduling",
+            "authors": [
+                "Dan Alistarh (ETH)",
+                "Justin Kopinsky (MIT)",
+                "Jerry Li (University of Washington)",
+                "Giorgi Nadiradze (ETH)"
+            ],
+            "topics": [
+                "Concurrency",
+                "OS"
+            ]
+        },
+        {
+            "key": "PODC_17_026",
+            "title": "Template For Implementing Fast Lock-free Trees Using HTM",
+            "authors": [
+                "Trevor Brown (University of Toronto)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_027",
+            "title": "Adding Concurrency to Smart Contracts",
+            "authors": [
+                "Thomas Dickerson (Brown University)",
+                "Paul Gazzillo (Yale University)",
+                "Maurice Herlihy (Brown University)",
+                "Eric Koskinen (Yale University)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_028",
+            "title": "Fruitchains: A Fair Blockchain",
+            "authors": [
+                "Rafael Pass (Cornell Tech)",
+                "Elaine Shi (Cornell)"
+            ],
+            "topics": [
+                "Security",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_029",
+            "title": "Coordination Without Prior Agreement",
+            "authors": [
+                "Gadi Taubenfeld (The Interdisciplinary Center)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_030",
+            "title": "Ignore or Comply? On Breaking Symmetry in Consensus",
+            "authors": [
+                "Petra Berenbrink (University of Hamburg)",
+                "Andrea Clementi (Universit\u00e0 di Roma Tor Vergata)",
+                "Robert Els\u00e4sser (University of Salzburg)",
+                "Peter Kling (University of Hamburg)",
+                "Frederik Mallmann-Trenn (\u00c9cole normale sup\u00e9rieure)",
+                "Emanuele Natale (Max-Planck-Institut)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_031",
+            "title": "\"Life Beyond Set Agreement\"",
+            "authors": [
+                "David Yu Cheng Chan (University of Toronto)",
+                "Vassos Hadzilacos (University of Toronto)",
+                "Sam Toueg (University of Toronto)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_032",
+            "title": "Greedy Routing and the Algorithmic Small-World Phenomenon",
+            "authors": [
+                "Karl Bringmann (Max Planck Institute for Informatics)",
+                "Ralph Keusch (ETH Zurich)",
+                "Johannes Lengler (ETH Zurich)",
+                "Yannic Maus (University of Freiburg)",
+                "Anisur Molla (NISER Bhubaneswar)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Network"
+            ]
+        },
+        {
+            "key": "PODC_17_033",
+            "title": "Triangle Finding and Listing in CONGEST networks",
+            "authors": [
+                "Taisuke Izumi (Nagoya Institute of Technology)",
+                "Francois Le Gall (Kyoto University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "PODC_17_034",
+            "title": "Asynchronous Shared Channel",
+            "authors": [
+                "Gianluca De Marco (University of Salerno)",
+                "Grzegorz Stachowiak (University of Wroclaw)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "PODC_17_035",
+            "title": "Self-organized segregation on the grid",
+            "authors": [
+                "Hamed Omidvar (UCSD)",
+                "Massimo Franceschetti (UCSD)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODC_17_036",
+            "title": "Towards Efficient Verification of Population Protocols",
+            "authors": [
+                "Michael Blondin (Technische Universit\u00e4t M\u00fcnchen)",
+                "Javier Esparza (Technische Universit\u00e4t M\u00fcnchen)",
+                "Stefan Jaax (Technische Universit\u00e4t M\u00fcnchen)",
+                "Philipp J. Meyer (Technische Universit\u00e4t M\u00fcnchen)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "PODC_17_037",
+            "title": "Clocked population protocols",
+            "authors": [
+                "James Aspnes (Yale University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "PODC_17_038",
+            "title": "Gossip in a Smartphone Peer-to-Peer Network",
+            "authors": [
+                "Calvin Newport (Georgetown University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        }
+    ]
+}

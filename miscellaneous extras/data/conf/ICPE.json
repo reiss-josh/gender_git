@@ -1,0 +1,478 @@
+{
+    "key": "ICPE_17",
+    "conference": "ACM/SPEC International Conference on Performance Engineering",
+    "organization": [
+        "ACM",
+        "SPEC"
+    ],
+    "country": "IT",
+    "postdate": "2017-04-22",
+    "last_deadline": "2016-10-14",
+    "review_days": 42,
+    "submissions": 83,
+    "min_reviews": 3,
+    "total_reviews": 249,
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 19,
+    "past_papers": 579,
+    "past_citations": 2810,
+    "h5_index": 21,
+    "h5_median": 25,
+    "notes": "Three tracks: research (65 submissions, 22 full papers accepted, 2 short); work-in-progress (14 of 25 papers selected); and industry/experience (5 of 18 selected). The PC has used the Review Quality Collector review grading and certification process for peer feedback on review quality. The Best Reviewer Award according to this peer feedback went to Petr Tuma, Charles University.",
+    "pc_chairs": [
+        "Anne Koziolek (Karlsruhe Institute of Technology)",
+        "Evgenia Smirni (College of William and Mary)"
+    ],
+    "pc_members": [
+        "Amy Apon (Clemson University)",
+        "Martin Arlitt (HP Labs and University of Calgary)",
+        "Alberto Avritzer (Sonatype Performance Engineering)",
+        "Steffen Becker (University of Technology Chemnitz)",
+        "Robert Birke (IBM Zurich Research Laboratory)",
+        "Andre B. Bondi (Software Performance and Scalability Consulting)",
+        "Niklas Carlsson (Linkoping University)",
+        "Lydia Y. Chen (IBM Research)",
+        "Ludmila Cherkasova (HP Labs)",
+        "Vittoria de Nitto Person\u00e8 (Universit\u00e0 di Roma Tor Vergata)",
+        "Antinisca Di Marco (Universit\u00e0 dell'Aquila)",
+        "Wilhelm Hasselbring (Kiel University)",
+        "Alexandru Iosup (Delft University of Technology)",
+        "Evangelia Kalyvianaki (City University London)",
+        "Samuel Kounev (University of Wuerzburg)",
+        "Heiko Koziolek (ABB Corporate Research)",
+        "Diwakar Krishnamurthy (University of Calgary)",
+        "Patrick P. C. Lee (The Chinese University of Hong Kong)",
+        "Catalina M. Llad\u00f3 (Universitat Illes Balears)",
+        "Lei Lu (VMware)",
+        "Andrea Marin (University of Venice)",
+        "Daniel Menasce (George Mason University)",
+        "Daniel Sadoc Menasch\u00e9 (Federal University of Rio de Janeiro)",
+        "Jos\u00e9 Merseguer (Universidad de Zaragoza)",
+        "Ningfang Mi (Northeastern University)",
+        "Raffaela Mirandola (Politecnico di Milano)",
+        "Manoj Nambiar (Tata Consultancy Services)",
+        "Dorina Petriu (Carleton University)",
+        "Denys Poshyvanyk (College of William and Mary)",
+        "Ralf Reussner (Karlsruhe Institute of Technology (KIT))",
+        "Alma Riska (Network Appliances)",
+        "Jerry Rolia",
+        "Rekha Singhal (Tata Consultancy Services)",
+        "Mirco Tribastone (IMT Institute for Advanced Studies Lucca)",
+        "Catia Trubiani (Gran Sasso Science Institute)",
+        "Petr Tuma (Charles University)",
+        "Ana Lucia Varbanescu (University of Amsterdam)",
+        "Enrico Vicario (University of Florence)",
+        "Katinka Wolter (Freie Universitaet zu Berlin)",
+        "Murray Woodside (Carleton University)",
+        "Feng Yan (University of Nevada-Reno)",
+        "Xiaoyun Zhu (Futurewei Technologies, Inc.)"
+    ],
+    "keynote_speakers": [
+        "Thomas Wuerthinger",
+        "Francesco Quaglia",
+        "Arif Merchant"
+    ],
+    "session_chairs": [
+        "Murray Woodside",
+        "Katinka Wolter",
+        "Vittoria de Nitto",
+        "Meikel Poess",
+        "Andre B. Bondi",
+        "Rekha Singhal",
+        "Catia Trubiani",
+        "Alberto Avritzer",
+        "Lubom\u00edr Bulej"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "ICPE_17_001",
+            "title": "A Comprehensive Java Benchmark Study on Memory and Garbage Collection Behavior of DaCapo, DaCapo Scala, and SPECjvm2008",
+            "authors": [
+                "Philipp Lengauer",
+                "Verena Bitto",
+                "Hanspeter M\u00f6ssenb\u00f6ck"
+            ],
+            "topics": [
+                "Benchmark",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "ICPE_17_002",
+            "title": "An Incremental Methodology for Energy Measurement and Modeling",
+            "authors": [
+                "Abdelhafid Mazouz",
+                "David Wong",
+                "David Kuck",
+                "William Jalby"
+            ],
+            "topics": [
+                "Benchmark",
+                "Energy"
+            ]
+        },
+        {
+            "key": "ICPE_17_003",
+            "title": "Detecting Memory-Boundedness with Hardware Performance Counters",
+            "authors": [
+                "Daniel Molka",
+                "Robert Schoene",
+                "Daniel Hackenberg",
+                "Wolfgang E. Nagel"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ICPE_17_004",
+            "title": "Transferring Performance Prediction Models Across Different Hardware Platforms",
+            "authors": [
+                "Pavel Valov",
+                "Jean-Christophe Petkovich",
+                "Jianmei Guo",
+                "Sebastian Fischmeister",
+                "Krzysztof Czarnecki"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ICPE_17_005",
+            "title": "Using Libception to Understand and Improve HTTP Streaming Video Server Throughput",
+            "authors": [
+                "Tyler Szepesi",
+                "Benjamin Cassell",
+                "Tim Brecht",
+                "Derek Eager",
+                "Jim Summers",
+                "Bernard Wong"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "ICPE_17_006",
+            "title": "An Empirical Analysis of Amazon EC2 Spot Instance Features Affecting Cost-effective Resource Procurement",
+            "authors": [
+                "Cheng Wang",
+                "Qianlin Liang",
+                "Bhuvan Urgaonkar"
+            ],
+            "topics": [
+                "Benchmark",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "ICPE_17_007",
+            "title": "An Experimental Performance Evaluation of Autoscaling Policies for Complex Workflows",
+            "authors": [
+                "Alexey Ilyushkin",
+                "Ahmed Ali-Eldin",
+                "Nikolas Herbst",
+                "Alessandro Vittorio Papadopoulos",
+                "Bogdan Ghit",
+                "Dick Epema",
+                "Alexandru Iosup"
+            ],
+            "topics": [
+                "Benchmark",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ICPE_17_008",
+            "title": "Latency Aware Elastic Switching-based Stream Processing Over Compressed Data Streams",
+            "authors": [
+                "Sajith Ravindra",
+                "Miyuru Dayarathna",
+                "Sanath Jayasena"
+            ],
+            "topics": [
+                "Cloud",
+                "Network"
+            ]
+        },
+        {
+            "key": "ICPE_17_009",
+            "title": "On Moving Averages, Histograms and Time-Dependent Rates for Online Measurement",
+            "authors": [
+                "Michael Menth",
+                "Frederik Hauser"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "ICPE_17_010",
+            "title": "AutoPerf: Automated Load Testing and Resource Usage Pro\ufb01ling of Multi-Tier Internet Applications",
+            "authors": [
+                "Varsha Apte",
+                "T. V. S. Viswanath",
+                "Akhilesh Kommireddy",
+                "Devidas Gawali",
+                "Anshul Gupta"
+            ],
+            "topics": [
+                "Benchmark",
+                "Cloud"
+            ],
+            "award": true
+        },
+        {
+            "key": "ICPE_17_011",
+            "title": "Deriving Parameters for Open and Closed QN Models of Operational Systems Through Black Box Optimization",
+            "authors": [
+                "Mahmoud Awad",
+                "Daniel Menasce"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "ICPE_17_012",
+            "title": "IRIS: Iterative and Intelligent Experiment Selection",
+            "authors": [
+                "Raoufeh Hashemian",
+                "Niklas Carlsson",
+                "Diwakar Krishnamurthy",
+                "Martin Arlitt"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "ICPE_17_013",
+            "title": "A Performance-Centric Approach to Complex Decisions Support",
+            "authors": [
+                "Ate Penders",
+                "Gregor Pavlin",
+                "Ana Lucia Varbanescu",
+                "Henk Sips"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "ICPE_17_014",
+            "title": "CloudPerf: A Performance Test Framework for Distributed and Dynamic Multi-Tenant Environments",
+            "authors": [
+                "Nicolas Michael",
+                "Nitin Ramannavar",
+                "Yixiao Shen",
+                "Sheetal Patil",
+                "Jan-Lung Sung"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        },
+        {
+            "key": "ICPE_17_015",
+            "title": "Cost-Efficient and Reliable Reporting of Highly Bursty Video Game Crash Data",
+            "authors": [
+                "Drew Zagieboylo"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "ICPE_17_016",
+            "title": "Technique for Detecting Early-Warning Signals of Performance Deterioration in Large Scale Software Systems",
+            "authors": [
+                "Raghu Ramakrishnan",
+                "Arvinder Kaur"
+            ],
+            "topics": [
+                "Benchmark",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "ICPE_17_017",
+            "title": "HPC Supported Mission-Critical Cloud Architecture",
+            "authors": [
+                "Tae Joon Jun",
+                "Myong Hwan Yoo",
+                "Daeyoung Kim",
+                "Kyu Tae Cho",
+                "Seungyoung Lee",
+                "Kyuoke Yeun"
+            ],
+            "topics": [
+                "HPC",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "ICPE_17_018",
+            "title": "A Tool Supporting the Analytical Evaluation of Service Level Agreements",
+            "authors": [
+                "Peter Buchholz",
+                "Falko Bause",
+                "Johannes May"
+            ],
+            "topics": [
+                "Benchmark",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ICPE_17_019",
+            "title": "Analytic Models of Checkpointing for Concurrent Component-Based Software Systems ",
+            "authors": [
+                "Noor Bajunaid",
+                "Daniel Menasce"
+            ],
+            "topics": [
+                "Concurrency",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "ICPE_17_020",
+            "title": "Practical Implication of Analytical Models for SSD Write Amplification",
+            "authors": [
+                "Changhyun Park",
+                "Seongjin Lee",
+                "Youjip Won",
+                "Soohan Ahn"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "ICPE_17_021",
+            "title": "Schedulability and Memory Interference Analysis of Multicore Preemptive Real-time Systems",
+            "authors": [
+                "Jalil Boudjadar",
+                "Simin Nadjm-Tehrani"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ICPE_17_022",
+            "title": "Timeliness Evaluation of Intermittent Mobile Connectivity over Pub/Sub Systems",
+            "authors": [
+                "Georgios Bouloukakis",
+                "Nikolaos Georgantas",
+                "Ajay Kattepur",
+                "Val\u00e9rie Issarny"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "ICPE_17_023",
+            "title": "Conducting Repeatable Experiments in Highly Variable Cloud Computing Environments",
+            "authors": [
+                "Ali Abedi",
+                "Tim Brecht"
+            ],
+            "topics": [
+                "Benchmark",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "ICPE_17_024",
+            "title": "HTAPBench: Hybrid Transactional and Analytical Processing Benchmark",
+            "authors": [
+                "F\u00e1bio Andr\u00e9 Coelho",
+                "Joao Paulo",
+                "Ricardo Vila\u00e7a",
+                "Jose Pereira",
+                "Rui Oliveira"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "ICPE_17_025",
+            "title": "TARUC: A Topology-Aware Resource Usability and Contention Benchmark",
+            "authors": [
+                "Gavin Baker",
+                "Chris Lupo"
+            ],
+            "topics": [
+                "Benchmark",
+                "Network"
+            ]
+        },
+        {
+            "key": "ICPE_17_026",
+            "title": "An Empirical Study of Computation-Intensive Loops for Identifying and Classifying Loop Kernels",
+            "authors": [
+                "Masatomo Hashimoto",
+                "Masaaki Terai",
+                "Toshiyuki Maeda",
+                "Kazuo Minami"
+            ],
+            "topics": [
+                "Benchmark",
+                "HPC"
+            ]
+        },
+        {
+            "key": "ICPE_17_027",
+            "title": "An Exploratory Study of the State of Practice of Performance Testing in Java-Based Open Source Projects",
+            "authors": [
+                "Philipp Leitner",
+                "Cor-Paul Bezemer"
+            ],
+            "topics": [
+                "Benchmark",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "ICPE_17_028",
+            "title": "Empirical Study of Usage and Performance of Java Collections",
+            "authors": [
+                "Diego Costa",
+                "Artur Andrzejak",
+                "Janos Seboek",
+                "David Lo"
+            ],
+            "topics": [
+                "Benchmark",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "ICPE_17_029",
+            "title": "Unit Testing Performance in Java Projects: Are We There Yet?",
+            "authors": [
+                "Petr Stefan",
+                "Vojt\u011bch Hork\u00fd",
+                "Lubom\u00edr Bulej",
+                "Petr Tuma"
+            ],
+            "topics": [
+                "Benchmark",
+                "Compilers"
+            ]
+        }
+    ]
+}

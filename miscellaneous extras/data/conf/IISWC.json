@@ -1,0 +1,519 @@
+{
+    "key": "IISWC_17",
+    "conference": "International Symposium on Workload Characterization",
+    "organization": [
+        "IEEE"
+    ],
+    "country": "US",
+    "postdate": "2017-10-02",
+    "last_deadline": "2017-06-09",
+    "review_days": 53,
+    "submissions": 83,
+    "min_reviews": "",
+    "total_reviews": 301,
+    "double_blind": true,
+    "rebuttal": "",
+    "open_access": false,
+    "age": 19,
+    "past_papers": 361,
+    "past_citations": 4247,
+    "h5_index": 19,
+    "h5_median": 37,
+    "notes": "Ten papers were shephereded by a PC member.",
+    "pc_chairs": [
+        "Antonia Zhai (University of Minnesota UMN)"
+    ],
+    "pc_members": [
+        "Dennis Abts (Google)",
+        "Sandeep R. Agrawal (Oracle)",
+        "Amro Awad (Sandia National Lab)",
+        "Yungang Bao (Chinese Academy of Sciences)",
+        "Lizhong Chen (Oregon State University)",
+        "Luiz DeRose (Cray)",
+        "Zhenman Fang (UCLA)",
+        "Dimitris Gizopoulos (University of Athensk)",
+        "Boris Grot (University of Edinburgh)",
+        "Drew Hilton (Duke University)",
+        "Changhee Jung (Virginia Tech)",
+        "Ulya R. Karpuzcu (University of Minnesota)",
+        "Omer Khan (University of Connecticut)",
+        "I-Ting Angelina Lee (Washington University in St. Louis)",
+        "Lei Liu (Chinese Academy of Sciences)",
+        "Daniel Lustig (NVIDIA)",
+        "Andreas Moshovos (University of Toronto)",
+        "Vignyan Reddy (Qualcomm Research)",
+        "Rui Hou (Chinese Academy of Sciences)",
+        "Devesh Tiwari (Northeastern University)",
+        "cheng wang (Google)",
+        "Wenwen Wang (Unversity of Minnesota)",
+        "Carole-Jean Wu (Arizona State)",
+        "Jieming Yin (AMD)",
+        "Weihua Zhang (Fudan University)",
+        "Jishen Zhao (UCSC)",
+        "Pingqiang Zhou (ShanghaiTech University)"
+    ],
+    "keynote_speakers": [
+        "Jason Cong (UCLA)",
+        "Derek Chiou"
+    ],
+    "session_chairs": [
+        "Amro Awad",
+        "Eric Chung",
+        "Jieming Yin",
+        "Changhee Jung",
+        "Andrew Putnam",
+        "Jieming Yin",
+        "Michael Papamichael"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "IISWC_17_001",
+            "title": "MeNa: A Memory Navigator for Modern Hardware in Scale-out Environment",
+            "authors": [
+                "Hosein Mohammadi Makrani",
+                "Houman Homayoun (George Mason University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "IISWC_17_002",
+            "title": "Evaluating Energy Storage for a Multitude of Uses in the Datacenter",
+            "authors": [
+                "Iyswarya Narayanan (Penn State)",
+                "Di Wang (Microsoft)",
+                "Abdullah-al Mamun",
+                "Anand Sivasubramaniam",
+                "Hosam Fathy (Penn State)",
+                "Sean James (Microsoft)"
+            ],
+            "topics": [
+                "Energy",
+                "Storage",
+                "Cloud",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IISWC_17_003",
+            "title": "Co-Locating and Concurrent Fine-Tuning MapReduce Applications on Microservers for Energy Efficienc",
+            "authors": [
+                "Maria Malik",
+                "Houman Homayoun (George Mason University)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Data",
+                "Energy"
+            ]
+        },
+        {
+            "key": "IISWC_17_004",
+            "title": "AutoMatch: An Automated Framework for Relative Performance Estimation and Workload Distribution on Heterogeneous HPC System",
+            "authors": [
+                "Ahmed E. Helal",
+                "Wu Feng",
+                "Changhee Jung",
+                "Yasser Y. Hanafy (Virginia Tech)"
+            ],
+            "topics": [
+                "Benchmark",
+                "HPC"
+            ]
+        },
+        {
+            "key": "IISWC_17_005",
+            "title": "Performance Characterization, Prediction, and Optimization for Heterogeneous Systems with Multi-Level Memory Interference",
+            "authors": [
+                "Shin-Ying Lee",
+                "Carole-Jean Wu (Arizona State University)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IISWC_17_006",
+            "title": "A Graphics Tracing Framework for Exploring CPU+GPU Memory Systems",
+            "authors": [
+                "Andreas Sembrant",
+                "Trevor E. Carlsson",
+                "Erik Hagersten",
+                "David Black-Schaffer (Uppsala University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "IISWC_17_007",
+            "title": "Demystifying the Characteristics of 3D-Stacked Memories: A Case Study for Hybrid Memory Cub",
+            "authors": [
+                "Ramyad Hadidi",
+                "Bahar Asgari",
+                "Burhan Ahmad Mudassar",
+                "Saibal Mukhopadhyay",
+                "Sudhakar Yalamanchili",
+                "Hyesoon Kim (Georgia Tech)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "IISWC_17_008",
+            "title": "Understanding System Characteristics of Online Erasure Coding on Scalable, Distributed and Large-Scale SSD Array Systems",
+            "authors": [
+                "Sungjoon Koh",
+                "Jie Zhang",
+                "Miryeong Kwon",
+                "Jungyeon Yoon (SK Telecom)",
+                "David Donofrio (Lawrence Berkeley National Laboratory LBNL)",
+                "Nam Sung Kim (UIUC)",
+                "Myoungsoo Jung (Yonsei University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Storage",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IISWC_17_009",
+            "title": "TraceTracker: Hardware/Software Co-Evaluation for Large-Scale I/O Workload Reconstruction",
+            "authors": [
+                "Miryeong Kwon",
+                "Jie Zhang",
+                "Gyuyoung Park",
+                "Wonil Choi (Penn State)",
+                "David Donofrio",
+                "John Shalf (Lawrence Berkeley Lab LBNL)",
+                "Mahmut T. Kandemir (Penn State)",
+                "Myoungsoo Jung (Yonsei University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Storage"
+            ]
+        },
+        {
+            "key": "IISWC_17_010",
+            "title": "Cross-Layer Workload Characterization of Meta-Tracing JIT VMs",
+            "authors": [
+                "Berkin Ilbeyi (Cornell University)",
+                "Carl Friedrich Bolz-Tereick (Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf)",
+                "Christopher Batten (Cornell University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "VM"
+            ]
+        },
+        {
+            "key": "IISWC_17_011",
+            "title": "Analyzing Graphics Workloads on Tile-based GPUs",
+            "authors": [
+                "German Ceballos",
+                "Andreas Sembrant",
+                "Trevor E. Carlson",
+                "David Black-Schaffer (Uppsala University)"
+            ],
+            "topics": [
+                "GPGPU",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IISWC_17_012",
+            "title": "Understanding Power-performance Relationship of Energy-efficient Modern DRAM Devices for Chip Multiprocessor Workloads",
+            "authors": [
+                "Sukhan Lee",
+                "Yuhwan Ro (Seoul National University)",
+                "Young Hoon Son",
+                "Hyunyoon Cho (Samsung Electronics)",
+                "Nam Sung Kim (UIUC)",
+                "Jung Ho Ahn (Seoul National University)"
+            ],
+            "topics": [
+                "Energy",
+                "Benchmark",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "IISWC_17_013",
+            "title": "Memory Requirements of Hadoop, Spark, and MPI Based Big Data Applications on Commodity Server Class Architecture",
+            "authors": [
+                "Hosein Mohammadi Makrani",
+                "Houman Homayoun (George Mason University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Data",
+                "Network"
+            ]
+        },
+        {
+            "key": "IISWC_17_014",
+            "title": "Fine-Grained Energy Profiling for deep Convolutional Neural Network on the Jetson TX1",
+            "authors": [
+                "Crefeda Faviola Rodrigues",
+                "Graham Riley",
+                "Mikel Luj\u00e1n (The University of Manchester)"
+            ],
+            "topics": [
+                "Energy",
+                "Data",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "IISWC_17_015",
+            "title": "Approximeter: Automatically Finding and Quantifying Code Sections for Approximation",
+            "authors": [
+                "Riad Akram",
+                "Abdullah Muzahid (University of Texas at San Antonio)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "IISWC_17_016",
+            "title": "Determining Work Partitioning on Closely Coupled Heterogeneous Computing Systems Using Statistical Design of Experiments",
+            "authors": [
+                "Yectli A. Huerta",
+                "Brent Swartz",
+                "David J. Lilja (University of Minnesota)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IISWC_17_017",
+            "title": "A Framework for Fast and Fair Evaluation of Automata Processing Hardware",
+            "authors": [
+                "Xiaodong Yu",
+                "Kaixi Hou",
+                "Hao Wang",
+                "Wu Feng (Virginia Tech)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "IISWC_17_018",
+            "title": "Understanding the Thermal Challenges of High-Performance Mobile Devices with a Detailed Platform Temperature Model",
+            "authors": [
+                "Ying-Ju Yu",
+                "Carole-Jean Wu (Arizona State University)"
+            ],
+            "topics": [
+                "Energy",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IISWC_17_019",
+            "title": "Workload Characterization of Interactive Cloud Services on Big and Small Server Platforms",
+            "authors": [
+                "Shuang Chen",
+                "Shay Galon",
+                "Christina Delimitrou (Cornell University)",
+                "Srilatha Manne (Cavium Inc.)",
+                "Jos\u00e9 F. Mart\u00ednez (Cornell University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "IISWC_17_020",
+            "title": "Why Do Programs Have Heavy Tails",
+            "authors": [
+                "Hiroshi Sasaki",
+                "Fang-Hsiang Su (Columbia University)",
+                "Teruo Tanimoto (Kyushu University)",
+                "Simha Sethumadhavan (Columbia University)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IISWC_17_021",
+            "title": "Congestion-Aware Memory Management on NUMA Platforms: A VMware ESXi Case Study",
+            "authors": [
+                "Jagadish Kotra (Penn State)",
+                "Seongbeom Kim (Google)",
+                "Kamesh Madduri",
+                "Mahmut T. Kandemir (Penn State)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "IISWC_17_022",
+            "title": "Work as a Team or Individual: Characterizing System-level Impacts of Main Memory Partitioning",
+            "authors": [
+                "Jung Ho Ahn",
+                "Daejin Jung",
+                "Eojin Lee",
+                "Jongwook Chung",
+                "Sukhan Lee (Seoul National University)",
+                "Sheng Li (Intel)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IISWC_17_023",
+            "title": "Exploring the Impact of Memory Block Permutation on Performance of a Crossbar ReRAM Main Memory",
+            "authors": [
+                "Morteza Ramezani",
+                "Nima Elyasi (Penn State)",
+                "Mohammad Arjomand (Georgia Tech)",
+                "Mahmut T. Kandemir",
+                "Anand Sivasubramaniam (Penn State)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "IISWC_17_024",
+            "title": "Exploring Computation-Communication Tradeoffs in Camera Systems",
+            "authors": [
+                "Amrita Mazumdar",
+                "Thierry Moreau",
+                "Sung Kim",
+                "Armin Alaghi",
+                "Luis Ceze",
+                "Mark Oskin",
+                "Visvesh Sathe (University of Washington)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IISWC_17_025",
+            "title": "Characterizing Diverse Handheld Apps for Customized Hardware Acceleration",
+            "authors": [
+                "Prasanna Venkatesh Rengasamy",
+                "Haibo Zhang",
+                "Nachiappan Chidambaram Nachiappan",
+                "Shulin Zhao",
+                "Anand Sivasubramaniam",
+                "Mahmut T. Kandemir",
+                "Chita R. Das (Penn State)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "IISWC_17_026",
+            "title": "Moka: Model-based Concurrent Kernel Analysis",
+            "authors": [
+                "Leiming Yu",
+                "Xun Gong",
+                "Yifan Sun",
+                "Qianqian Fang (Northeastern University)",
+                "Norm Rubin (NVIDIA Research)",
+                "David R. Kaeli (Northeastern University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IISWC_17_027",
+            "title": "Understanding the Performance-Accuracy Tradeoffs of Floating-Point Arithmetic on GPUs",
+            "authors": [
+                "Sruthikesh Surineni",
+                "Huyen Nguyen (University of Missouri)",
+                "Ruidong Gu",
+                "Michela Becchi (North Carolina State University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "IISWC_17_028",
+            "title": "LORE: A Loop Repository for the Evaluation of Compilers",
+            "authors": [
+                "\"Zhi Chen\" (UC Irvine)",
+                "Zhangxiaowen Gong",
+                "Justin Josef Szaday (UIUC)",
+                "David C. Wong (Intel)",
+                "David Padua (UIUC)",
+                "Alexandru Nicolau",
+                "Alexander V Veidenbaum",
+                "Neftali Watkinson (UC Irvine)",
+                "Zehra Sura (IBM Research) Saeed Maleki (Microsoft Research)",
+                "Josep Torrellas",
+                "Gerald DeJong (UIUC)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "IISWC_17_029",
+            "title": "FLiT: Cross-Platform Floating-Point Result-Consistency Tester and Workload",
+            "authors": [
+                "Geof Sawaya",
+                "Michael Bentley",
+                "Ian Briggs",
+                "Ganesh Gopalakrishnan (University of Utah)",
+                "Dong H. Ahn (Lawrence Livermore National Laboratory)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IISWC_17_030",
+            "title": "HeteroSync: A Benchmark Suite for Fine-Grained Synchronization on Tightly Coupled GPUs",
+            "authors": [
+                "Matthew D. Sinclair",
+                "Johnathan Alsop",
+                "Sarita V. Adve (UIUC)"
+            ],
+            "topics": [
+                "Benchmark",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "IISWC_17_031",
+            "title": "Characterizing The Impact of Soft Errors Across Microarchitectural Structures and Implications for Predictability",
+            "authors": [
+                "Bagus Wibowo",
+                "Abhinav Agrawal",
+                "James Tuck (North Carolina State University)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Architecture"
+            ]
+        }
+    ]
+}

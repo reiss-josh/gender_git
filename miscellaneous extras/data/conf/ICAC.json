@@ -1,0 +1,286 @@
+{
+    "key": "ICAC_17",
+    "conference": "International Conference on Autonomic Computing",
+    "organization": [
+        "IEEE"
+    ],
+    "country": "US",
+    "postdate": "2017-07-18",
+    "last_deadline": "2017-02-28",
+    "review_days": 53,
+    "submissions": 73,
+    "min_reviews": 3,
+    "total_reviews": 271,
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 14,
+    "past_papers": "",
+    "past_citations": "",
+    "h5_index": 26,
+    "h5_median": 38,
+    "notes": "Excludes short papers. The paper allocation was based on six topic areas to align with appropriate reviewers. 25% of PC members were from industry, 60% from US, 25% from Europe. This conference started as IEEE/ACM with USENIX support, but split in 2011 to ICAC and ICCAC. ICAC was initially paired with USENIX ATC, but has eventually returned to IEEE.",
+    "pc_chairs": [
+        "Christopher Stewart (The Ohio State University, USA)",
+        "Hui Lei (IBM T. J. Watson Research Center, USA)"
+    ],
+    "pc_members": [
+        "Tarek Abdelzaher (University of Illinois at Urbana-Champaign, USA)",
+        "Artur Andrzejak (Heidelberg University, Germany)",
+        "Luciano Baresi (DEIB \u2013 Politecnico di Milano, Italy)",
+        "Jacob Beal (BBN Technologies, USA)",
+        "Christian Becker (University of Mannheim, Germany)",
+        "Kirstie Bellman (The Aerospace Corporation, USA)",
+        "Giacomo Cabri (Universita di Modena e Reggio Emilia, Italy)",
+        "Lydia Y. Chen (IBM Zurich, Switzerland)",
+        "Betty Cheng (Michigan State University, USA)",
+        "Nan Deng (Google, USA)",
+        "Ada Diaconescu (Telecom ParisTech, France)",
+        "Elisabetta Di Nitto (Politecnico di Milano, Italy)",
+        "Jose Fortes (University of Florida, USA)",
+        "Anshul Gandhi (SUNY Stony Brook, USA)",
+        "David Garlan (Carnegie Mellon University, USA)",
+        "Holger Giese (Hasso Plattner Institute, Germany)",
+        "Hassan Gomaa (George Mason University, USA)",
+        "Rean Griffith (VMWare, USA)",
+        "Indranil Gupta (UIUC, USA)",
+        "Yuxiong He (Microsoft Research, USA)",
+        "Tom Holvoet (KU Leuven Belgium)",
+        "Jeff Kephart (IBM T.J. Watson Research Center, USA)",
+        "Michael A. Kozuch (Intel, USA)",
+        "Philippe Lalanda (University of Grenoble, France)",
+        "Hui Lei (IBM T. J. Watson Research Center, USA)",
+        "Marin Litoiu (York University, Canada)",
+        "Ying Lu (University of Nebraska \u2013 Lincoln, USA)",
+        "Sam Malek (UC Irvine, USA)",
+        "Serge Mankovski (CA Labs, USA)",
+        "Julie McCann (Imperial College London, UK)",
+        "Ole Mengshoel (Carnegie Mellon University, USA)",
+        "Arif Merchant (Google, USA)",
+        "Ningfang Mi (Northeastern University, USA)",
+        "Hausi Muller (University of Victoria, Canada)",
+        "Bashar Nuseibeh (The Open University, UK)",
+        "Alessandro Papadopoulos (M\u00e4lardalen University, Sweden)",
+        "Dario Pompili (Rutgers University, USA)",
+        "Calton Pu (Georgia Institute of Technology, USA)",
+        "Rohit Ranchal (IBM Research, USA)",
+        "Shaolei Ren (Florida International University, USA)",
+        "Eric Rutten (NRIA Grenoble Rh\u00f4ne-Alpes, France)",
+        "Hartmut Schmeck (Karlsruhe Institute of Technology, Germany)",
+        "Evgenia Smirni (College of William and Mary, USA)",
+        "\"Mike Smit\" (Dalhousie University, Canada)",
+        "Christopher Stewart (Ohio State University, USA)",
+        "Ladan Tahvildar (Waterloo University, Canada)",
+        "Jim Torresen (University of Oslo, Norway)",
+        "Bhuvan Urgaonkar (Penn State, USA)",
+        "Di Wang (Microsoft Research, USA)",
+        "Haining Wang (Univ of Delaware, USA)",
+        "Jun Wang (Huawei US R&D, USA)",
+        "Danny Weyns (Linnaeus University, Sweden)",
+        "Timothy Wood (George Washington University, USA)",
+        "Rolf Wuertz (Ruhr-Universitat Bochum, Germany)",
+        "Zichen Xu (Nanchang University, China)",
+        "Feng Yan (University of Nevado at Reno, USA)",
+        "Hui Zhang (NEC Research Lab, USA)",
+        "Wenli Zheng (Shanghai Jiaotong University, China)",
+        "Xiaobo Zhou (University of Colorado, USA)",
+        "Xiaoyun Zhu (Futurewei Technologies, USA)",
+        "Xiaorui Wang (The Ohio State University, USA)",
+        "Naser Sedaghati (Imagination Technologies, USA)",
+        "Jiang Hu (Texas A&M University, USA)"
+    ],
+    "keynote_speakers": [
+        "Nelly Bencomo",
+        "Mark Patton",
+        "Ragunathan Rajkumar",
+        "John Wilkes"
+    ],
+    "session_chairs": [
+        "Zichen Xu",
+        "Christopher Stewart",
+        "Jose Fortes",
+        "Xiaoyun Zhu",
+        "Nan Deng",
+        "Kirstie Bellman"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "ICAC_17_001",
+            "title": "DIAL: Reducing Tail Latencies for Cloud Applications via Dynamic Interference-aware Load Balancing",
+            "authors": [
+                "Seyyed Ahmad Javadi",
+                "Anshul Gandhi"
+            ],
+            "topics": [
+                "Cloud",
+                "OS"
+            ]
+        },
+        {
+            "key": "ICAC_17_002",
+            "title": "AccStream: Accuracy-aware Overload Management for Stream Processing Systems",
+            "authors": [
+                "Haiyang Sun",
+                "Robert Birke",
+                "Walter Binder",
+                "Mathias Bjoerkqvist",
+                "Lydia Y. Chen"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICAC_17_003",
+            "title": "ESP: A Machine Learning Approach to Predicting Application Interference",
+            "authors": [
+                "Nikita Mishra",
+                "John Lafferty",
+                "Henry Hoffmann"
+            ],
+            "topics": [
+                "Data",
+                "OS"
+            ]
+        },
+        {
+            "key": "ICAC_17_004",
+            "title": "CoSmart: Coordinating Smartphone with Desktop Computer for Joint Energy Savings",
+            "authors": [
+                "Kuangyu Zheng",
+                "Bruce Beitman",
+                "Xiaorui Wang"
+            ],
+            "topics": [
+                "Energy"
+            ]
+        },
+        {
+            "key": "ICAC_17_005",
+            "title": "Hierarchical Self-Tuning of Concurrency, Resource Units in Data-Analytics Frameworks",
+            "authors": [
+                "Gil Lee",
+                "Jose Fortes"
+            ],
+            "topics": [
+                "OS",
+                "Data"
+            ]
+        },
+        {
+            "key": "ICAC_17_006",
+            "title": "Multiverse: Easy Conversion Of Runtime Systems Into OS Kernels Via Automatic Hybridization",
+            "authors": [
+                "Kyle Hale",
+                "Conor Hetland",
+                "Peter Dinda"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "ICAC_17_007",
+            "title": "MONAD: Self-adaptive Micro-service Infrastructure for Heterogeneous Scientific Workflows",
+            "authors": [
+                "Phuong Nguyen",
+                "Klara Nahrstedt"
+            ],
+            "topics": [
+                "HPC",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ICAC_17_008",
+            "title": "A Reinforcement Learning-based Framework for the Generation and Evolution of Adaptation Rules",
+            "authors": [
+                "Tianqi Zhao",
+                "Wei2 Zhang",
+                "Haiyan Zhao",
+                "Zhi Jin"
+            ],
+            "topics": [
+                "Data",
+                "OS"
+            ]
+        },
+        {
+            "key": "ICAC_17_009",
+            "title": "Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures",
+            "authors": [
+                "Sona Ghahremani",
+                "Holger Giese",
+                "Thomas Vogel"
+            ],
+            "topics": [
+                "OS"
+            ],
+            "award": true
+        },
+        {
+            "key": "ICAC_17_010",
+            "title": "Self-corrective Dynamic Networks via Decentralized Reverse Computations",
+            "authors": [
+                "Evangelos Pournaras",
+                "Jovan Nikolic"
+            ],
+            "topics": []
+        },
+        {
+            "key": "ICAC_17_011",
+            "title": "Deep Learning with Edge Computing for Localization of Epileptogenicity using Multimodal rs-fMRI, EEG Big Data",
+            "authors": [
+                "Mohammad-Parsa Hosseini",
+                "Tuyen Tran",
+                "Dario Pompili",
+                "Kost Elisevich",
+                "Hamid Soltanian-Zadeh"
+            ],
+            "topics": [
+                "Data",
+                "Network"
+            ]
+        },
+        {
+            "key": "ICAC_17_012",
+            "title": "GOVERNOR: Smoother Stream Processing Through Smarter Backpressure",
+            "authors": [
+                "Xin Chen",
+                "Ymir Vigfusson",
+                "Douglas M. Blough",
+                "Fang Zheng",
+                "Kun-Lung Wu",
+                "Liting Hu"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ICAC_17_013",
+            "title": "Smartphone Radio Interface Management for Longer Battery Lifetime",
+            "authors": [
+                "Marco Brocanelli",
+                "Xiaorui Wang"
+            ],
+            "topics": [
+                "Network",
+                "Energy"
+            ]
+        },
+        {
+            "key": "ICAC_17_014",
+            "title": "Social Fusion: Integrating Twitter, Instagram for Event Monitoring",
+            "authors": [
+                "Prasanna Giridhar",
+                "Shiguang Wang",
+                "Tarek Abdelzaher",
+                "Lance Kaplan",
+                "Tanvir Al Amin"
+            ],
+            "topics": []
+        }
+    ]
+}

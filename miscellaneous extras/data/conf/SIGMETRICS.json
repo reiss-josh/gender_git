@@ -1,0 +1,463 @@
+{
+    "key": "SIGMETRICS_17",
+    "conference": "SIGMETRICS",
+    "organization": [
+        "ACM"
+    ],
+    "country": "US",
+    "postdate": "2017-06-05",
+    "last_deadline": "2017-01-17",
+    "review_days": 147,
+    "submissions": 203,
+    "min_reviews": 3,
+    "total_reviews": 1071,
+    "double_blind": true,
+    "rebuttal": true,
+    "open_access": false,
+    "age": 44,
+    "past_papers": 1621,
+    "past_citations": 19204,
+    "h5_index": 40,
+    "h5_median": 66,
+    "notes": "There were two pairs of paper submission deadlines, one in October with 73 review days (76 submissions) and one in January with 74 days (127 submissions). Papers are open access during the week of the conference, authors have the right to publish them on their website and other non-profit academic archive (arxiv etc.) but they are not required to (unless if they do choose the opt-out option in which the paper is not published in our journal, then they are required to publish it in one of those open archive). Authors also had a choice to publish their paper in a new journal. Unlike proceedings, there is no length limit to the journal version. Some reviews (up to 4 per PC) are designated 'heavy' and are required to verify the technical correctness of the paper. See more here: https://www.sigmetrics.org/sigmetrics2017/SIGMETRICSInfoforAuthors.html",
+    "pc_chairs": [
+        "Augustin Chaintreau (Columbia University)",
+        "Leana Golubchik (University of Southern California)",
+        "Zhi-Li Zhang (University of Minnesota)"
+    ],
+    "pc_members": [
+        "Murali Annavaram (University of Southern California)",
+        "Urtzi Ayesta (CNRS-LAAS & Ikerbasque-UPV/EHU)",
+        "Thomas Bonald (Telecom ParisTech)",
+        "Sem Borst (Bell Labs, Eindhoven University of Technology)",
+        "Niklas Carlsson (Linkoping University)",
+        "Giuliano Casale (Imperial College London)",
+        "Augustin Chaintreau (Columbia University)",
+        "Abhishek Chandra (University of Minnesota)",
+        "Cheng-Fu Chou (National Taiwan University)",
+        "Florin Ciucu (Warwick University)",
+        "Giulia Fanti (University of Illinois Urbana Champaign)",
+        "Daniel Figueiredo (Federal University of Rio de Janeiro)",
+        "Giuliana Franceschinis (Universit\u00e0, del Piemonte Orientale \u201cAmedeo Avogadro\u201d)",
+        "Lixin Gao (University of Massachusetts Amherst)",
+        "Nicolas Gast (INRIA)",
+        "Javad Ghaderi (Columbia University)",
+        "Leana Golubchik (University of Southern California)",
+        "Roch Guerin (Washington University in St. Louis)",
+        "Mor Harchol-Balter (Carnegie Mellon University)",
+        "Nidhi Hegde (Bell Labs)",
+        "Longbo Huang (Tsinghua University)",
+        "Sandip Kundu (University of Massachusetts Amherst)",
+        "Marc Lelarge (INRIA-ENS)",
+        "Yanhua Li (Worcester Polytechnic Institut)",
+        "Mingyan Liu (University of Michigan)",
+        "Yi Lu (University of Illinois Urbana Champaign)",
+        "John C. S. Lui (The Chinese University of Hong Kong)",
+        "Laurent Massouli\u00e9 (INRIA, Microsoft Research)",
+        "Michela Meo (Polytechnic University of Turin)",
+        "Alan Mislove (Northeastern University)",
+        "Vishal Misra (Columbia University)",
+        "Eytan Modiano (Massachusetts Institute of Technology)",
+        "Erich Nahum (IBM Research)",
+        "Alexandre Proutiere (KTH Royal Institute of Technology)",
+        "Konstantinos Psounis (University of Southern California)",
+        "Dan Rubenstein (Columbia University)",
+        "Shubho Sen (AT&T Research)",
+        "Stefan Schmid (Technical University of Berlin)",
+        "Ramesh K. Sitaraman (University of Massachusetts Amherst)",
+        "Peter Steenkiste (Carnegie Mellon University)",
+        "Mark Squillante (IBM Research)",
+        "Sasha Stolyar (Lehigh University)",
+        "Y. C. Tay (National University of Singapore NSU)",
+        "My T. Thai (University of Florida)",
+        "Don Towsley (University of Massachusetts Amherst)",
+        "Bhuvan Urgaonkar (Pennsylvania State University)",
+        "Steve Uhlig (Queen Mary University of London)",
+        "Peter Van De Ven (Centrum Wiskunde & Informatica)",
+        "Benny Van Houdt (University of Antwerp)",
+        "Milan Vojnovic (Microsoft Research)",
+        "Anwar Walid (Nokia Bell-Labs)",
+        "Jia Wang (AT&T Research)",
+        "Adam Wierman (California Institute of Technology)",
+        "Carey Williamson (University of Calgary)",
+        "Cathy Xia (Ohio State University)",
+        "Cheng-Zhong Xu (Chinese Academy of Science, Shenzhen Advanced Institute of Technology/Wayne State)",
+        "Li Zhang (IBM Research)",
+        "Zhi-Li Zhang (University of Minnesota)",
+        "Gil Zussman (Columbia University)"
+    ],
+    "keynote_speakers": [
+        "Vahab Mirrokni",
+        "Michael I. Jordan"
+    ],
+    "session_chairs": [
+        "Philippe Robert (INRIA)",
+        "Y. C. Tay (National University of Singapore)",
+        "Adam Wierman (California Institute of Technology)",
+        "Mor Harchol-Balter (Carnegie Mellon University)",
+        "Bhuvan Urgaonkar (Pennsylvania State University)",
+        "Anshul Gandhi (Stony Brook University)",
+        "Lei Ying (Arizona State University)",
+        "Nicolas Gast (INRIA)",
+        "Giuliano Casale (Imperial College London)"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "SIGMETRICS_17_001",
+            "title": "A Low-Complexity Approach to Distributed Cooperative Caching with Geographic Constraints",
+            "authors": [
+                "Konstantin Avrachenkov (INRIA Sophia Antipolis)",
+                "Jasper Goseling (University of Twente)",
+                "Berksan Serbetci (University of Twente)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_002",
+            "title": "Optimal Service Elasticity in Large-Scale Distributed Systems",
+            "authors": [
+                "Debankur Mukherjee (Eindhoven University of Technology)",
+                "Souvik Dhara (Eindhoven University of Technology)",
+                "Sem Borst (Eindhoven University of Technology and Nokia Bell Labs)",
+                "Johan S. H. van Leeuwaarden (Eindhoven University of Technology)"
+            ],
+            "topics": [
+                "Cloud",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_003",
+            "title": "Queue-Proportional Sampling: A Better Approach to Crossbar Scheduling for Input-Queued Switches",
+            "authors": [
+                "Long Gong (Georgia Institute of Technology)",
+                "Paul Tune",
+                "Liang Liu (Georgia Institute of Technology)",
+                "Sen Yang (Georgia Institute of Technology)",
+                "Jun Jim Xu (Georgia Institute of Technology)"
+            ],
+            "topics": [
+                "OS",
+                "Network"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_004",
+            "title": "Hieroglyph: Locally-Sufficient Graph Processing via Compute-Sync-Merge",
+            "authors": [
+                "Xiaoen Ju (University of Michigan)",
+                "Hani Jamjoom (IBM T.J. Watson Research Center)",
+                "Kang G. Shin (University of Michigan)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_005",
+            "title": "A Simple Yet Effective Balanced Edge Partition Model for Parallel Computing",
+            "authors": [
+                "Lingda Li (Rutgers University)",
+                "Robel Geda (Rutgers University)",
+                "Ari B. Hayes (Rutgers University)",
+                "Pranav Chaudhari (Rutgers University)",
+                "Eddy Zheng Zhang (Rutgers University)",
+                "Mario Szegedy (Rutgers University)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_006",
+            "title": "Overcommitment in Cloud Services - Bin Packing with Chance Constraints",
+            "authors": [
+                "Maxime C. Cohen (New York University (NYU) - Leonard N. Stern School of Business)",
+                "Philipp Keller (Google)",
+                "Vahab Mirrokni (Google)",
+                "Morteza Zadimoghaddam (Google)"
+            ],
+            "topics": [
+                "Cloud",
+                "OS"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_007",
+            "title": "Investigation of the 2016 Linux TCP Stack Vulnerability at Scale",
+            "authors": [
+                "Alan Quach (University of California, Riverside UCR)",
+                "Zhongjie Wang (University of California, Riverside UCR)",
+                "Zhiyun Qian (University of California, Riverside UCR)"
+            ],
+            "topics": [
+                "Network",
+                "Security"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_008",
+            "title": "Characterizing and Modeling Patching Practices of Industrial Control Systems",
+            "authors": [
+                "Brandon Wang (University of Iowa)",
+                "Xiaoye Li (University of Iowa)",
+                "Leandro P. de Aguiar (Siemens)",
+                "Daniel Sadoc Menasch\u00e9 (Federal University of Rio de Janeiro)",
+                "Zubair Shafiq (University of Iowa)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_009",
+            "title": "Security Game with Non-additive Utilities and Multiple Attacker Resources",
+            "authors": [
+                "Sinong Wang (The Ohio State University)",
+                "Ness Shroff (The Ohio State University)"
+            ],
+            "topics": [
+                "Security"
+            ],
+            "award": true
+        },
+        {
+            "key": "SIGMETRICS_17_010",
+            "title": "Stein's Method for Mean Field Approximations in Light and Heavy Traffic Regimes",
+            "authors": [
+                "Lei Ying (Arizona State University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "SIGMETRICS_17_011",
+            "title": "Expected Values Estimated via Mean-Field Approximation are 1/N-Accurate",
+            "authors": [
+                "Nicolas Gast (Inria)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "SIGMETRICS_17_012",
+            "title": "Analysis of a Stochastic Model of Replication in Large Distributed Storage Systems: A Mean-Field Approach",
+            "authors": [
+                "Wen Sun (INRIA)",
+                "Veronique Simon (UPMC Paris)",
+                "S\u00e9bastien Monnet (LIP6/University of Paris VI/CNRS/INRIA)",
+                "Philippe Robert (INRIA)",
+                "Pierre Sens (UPMC Paris)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Storage"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_013",
+            "title": "Understanding Reduced-Voltage Operation in Modern DRAM Devices: Experimental Characterization, Analysis, and Mechanisms",
+            "authors": [
+                "Donghyuk Lee (NVIDIA)",
+                "Samira Khan (University of Virginia)",
+                "Lavanya Subramanian (Carnegie Mellon University)",
+                "Saugata Ghose (Carnegie Mellon University)",
+                "Rachata Ausavarungnirun (Carnegie Mellon University)",
+                "Gennady Pekhimenko (Microsoft Research)",
+                "Vivek Seshadri (Microsoft Research)",
+                "Onur Mutlu (ETH Zurich)"
+            ],
+            "topics": [
+                "Energy",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_014",
+            "title": "Exploiting Data Longevity for Enhancing the Lifetime of Flash-based Storage Class Memory",
+            "authors": [
+                "Wonil Choi (The Pennsylvania State University)",
+                "Mohammad Arjomand (The Pennsylvania State University)",
+                "Myoungsoo Jung (Yonsei University)",
+                "Mahmut T. Kandemir (The Pennsylvania State University)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_015",
+            "title": "Design-Induced Latency Variation in Modern DRAM Chips: Characterization, Analysis, and Latency Reduction Mechanisms",
+            "authors": [
+                "Kevin R. Chang (Carnegie Mellon University)",
+                "Abdullah Giray Yaglikci (Carnegie Mellon University)",
+                "Saugata Ghose (Carnegie Mellon University)",
+                "Abhijith Kashyap (NVIDIA)",
+                "Hasan Hassan (TOBB University)",
+                "Aditya Agrawal (NVIDIA)",
+                "Niladrish Chatterjee (NVIDIA)",
+                "Donghyuk Lee (NVIDIA)",
+                "Mike O'Connor (NVIDIA / UT-Austin)",
+                "Onur Mutlu (ETH)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_016",
+            "title": "Hadoop on Named Data Networking: Experience and Results",
+            "authors": [
+                "Mathias Gibbens (University of Arizona)",
+                "Chris Gniady (University of Arizona)",
+                "Beichuan Zhang (University of Arizona)",
+                "Lei Ye (University of Arizona)"
+            ],
+            "topics": [
+                "Data",
+                "Network"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_017",
+            "title": "Using Burstable Instances in the Public Cloud: Why, When and How?",
+            "authors": [
+                "Cheng Wang (Penn State University)",
+                "Bhuvan Urgaonkar (Penn State University)",
+                "Neda Nasiriani (Penn State University)",
+                "George Kesidis (Penn State University)"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_018",
+            "title": "Dandelion: Redesigning the Bitcoin Network for Anonymity",
+            "authors": [
+                "Shaileshh Bojja Venkatakrishnan (University of Illinois at Urbana-Champaign)",
+                "Giulia Fanti (University of Illinois at Urbana-Champaign)",
+                "Pramod Viswanath (University of Illinois at Urbana-Champaign)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_019",
+            "title": "Portfolio-driven Resource Management for Transient Cloud Servers",
+            "authors": [
+                "Prateek Sharma (University of Massachusetts Amherst)",
+                "David Irwin (University of Massachusetts Amherst)",
+                "Prashant Shenoy (University of Massachusetts Amherst)"
+            ],
+            "topics": [
+                "OS",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_020",
+            "title": "Optimal Posted Prices for Online Cloud Resource Allocation",
+            "authors": [
+                "Zijun Zhang (University of Calgary)",
+                "Zongpeng Li (University of Calgary)",
+                "Chuan Wu (The University of Hong Kong)"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_021",
+            "title": "On Optimal Two-Sided Pricing of Congested Networks",
+            "authors": [
+                "Xin Wang (University of Science and Technology of China)",
+                "Richard T. B. Ma (National University of Singapore)",
+                "Yinlong Xu (University of Science and Technology of China)"
+            ],
+            "topics": [
+                "Network",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_022",
+            "title": "Outward Influence and Cascade Size Estimation in Billion-scale Networks",
+            "authors": [
+                "Hung T. Nguyen (Virginia Commonwealth University)",
+                "Tri P. Nguyen (Virginia Commonwealth University)",
+                "Tam Vu (University of Colorado)",
+                "Thang N. Dinh (Virginia Commonwealth Unviersity)"
+            ],
+            "topics": [
+                "Cloud",
+                "Network"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_023",
+            "title": "Accelerating Performance Inference over Closed Systems by Asymptotic Methods",
+            "authors": [
+                "Giuliano Casale (Imperial College London)"
+            ],
+            "topics": [
+                "Benchmark"
+            ],
+            "award": true
+        },
+        {
+            "key": "SIGMETRICS_17_024",
+            "title": "Quality and Cost of Deterministic Network Calculus \u2013 Design and Evaluation of an Accurate and Fast Analysis",
+            "authors": [
+                "Steffen Bondorf (Distributed Computer Systems DISCO Lab University of Kaiserslautern, Germany)",
+                "Paul Nikolaus (Distributed Computer Systems DISCO Lab, University of Kaiserslautern, Germany)",
+                "Jens B. Schmitt (Distributed Computer Systems DISCO Lab, University of Kaiserslautern, Germany)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_025",
+            "title": "A Case Study in Power Substation Network Dynamics",
+            "authors": [
+                "David Formby (Georgia Institute of Technology)",
+                "Anwar Walid (Bell Laboratories)",
+                "Raheem Beyah (Georgia Institute of Technology)"
+            ],
+            "topics": [
+                "Energy",
+                "Network"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_026",
+            "title": "Persistent Spread Measurement for Big Network Data Based on Register Intersection",
+            "authors": [
+                "You Zhou (Department of Computer & Information Science & Engineering, University of Florida)",
+                "Yian Zhou (Department of Computer & Information Science & Engineering, University of Florida)",
+                "Min Chen (Department of Computer & Information Science & Engineering, University of Florida)",
+                "Shigang Chen (Department of Computer & Information Science & Engineering, University of Florida)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "SIGMETRICS_17_027",
+            "title": "Deconstructing the Energy Consumption of the Mobile Page Load",
+            "authors": [
+                "Yi Cao (Stony Brook University)",
+                "Javad Nejati (Stony Brook University)",
+                "Muhammad Wajahat (Stony Brook University)",
+                "Aruna Balasubramanian (Stony Brook University)",
+                "Anshul Gandhi (Stony Brook University)"
+            ],
+            "topics": [
+                "Energy"
+            ]
+        }
+    ]
+}

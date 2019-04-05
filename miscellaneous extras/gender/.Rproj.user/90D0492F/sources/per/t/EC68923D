@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528749142003.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3164030077",
+    "id" : "EC68923D",
+    "lastKnownWriteTime" : 1528754360,
+    "last_content_update" : 1528754360754,
+    "path" : "~/gender/genderR.Rmd",
+    "project_path" : "genderR.Rmd",
+    "properties" : {
+        "cursorPosition" : "25,14",
+        "last_setup_crc32" : "452A44896b099cdf",
+        "scrollLine" : "11",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

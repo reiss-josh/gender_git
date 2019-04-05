@@ -1,0 +1,429 @@
+{
+    "key": "IGSC_17",
+    "conference": "International Green and Sustainable Computing Conference",
+    "organization": [
+        "IEEE"
+    ],
+    "country": "US",
+    "postdate": "2017-10-23",
+    "last_deadline": "2017-06-16",
+    "review_days": 31,
+    "submissions": "",
+    "min_reviews": 3,
+    "total_reviews": "",
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 8,
+    "past_papers": "",
+    "past_citations": "",
+    "h5_index": 17,
+    "h5_median": 37,
+    "notes": "The web site for the conference disappeared shortly after the conference took place, and the PC chair was unreachable. Additionally, the proceedings and papers did not show up on IEEE Xplore for 6 months after the conference.",
+    "pc_chairs": [
+        "Sudeep Pasricha (Colorado State University, USA)"
+    ],
+    "pc_members": [
+        "Cristinel Ababei (Marquette University, USA)",
+        "Abhishek Agrawal (Intel, USA)",
+        "Nilanjan Banerjee (UMBC, United Kingdom)",
+        "Paul Bogdan (University of Southern California, USA)",
+        "Eli Bozorgzadeh (University of California, Irvine, USA)",
+        "Ali R. Butt (Virginia Tech, USA)",
+        "Anup Das (University of Southampton, United Kingdom)",
+        "Petru Eles (Link pings universitet, Sweden)",
+        "Ryan Friese (Pacific Northwest National Laboratory, USA)",
+        "Song Fu (University of North Texas, USA)",
+        "Amlan Ganguly (RIT, USA)",
+        "Chris Gniady (University of Arizona, USA)",
+        "Na Gong (North Dakota State University, USA)",
+        "Houman Homayoun (George Mason University, USA)",
+        "Wei Huang (AMD, USA)",
+        "Ali Hurson (Missouri S&T, USA)",
+        "Congfeng Jiang (Hangzhou Dianzi University, China)",
+        "Lennart Johnsson (University of Houston, USA)",
+        "Alex K. Jones (University of Pittsburgh, USA)",
+        "Mahmut T. Kandemir (Pennstate University, USA)",
+        "Bhavesh Khemka (Colorado State University, USA)",
+        "Israel Koren (Univ. of Massachusetts, USA)",
+        "Thu D. Nguyen (Rutgers University, USA)",
+        "Mahdi Nikdast (Polytechnique Montreal, Canada)",
+        "Mark Oxley (Colorado State University, USA)",
+        "Maurizio Palesi (Kore University, Italy)",
+        "Preeti Panda (Indian Institute of Technology Delhi, India)",
+        "Partha Pande (Washington State University, USA)",
+        "Lu Peng (Louisiana State University, USA)",
+        "Jean-Marc Pierson (University of Toulouse, IRIT, France)",
+        "Kirk Pruhs (University of Pittsburgh, USA)",
+        "Karthick Rajamani (IBM Research, USA)",
+        "Vasanth Rajamani (Oracle Corporation, USA)",
+        "Binoy Ravindran (ECE, Virginia Tech, USA)",
+        "Shaolei Ren (University of California, Riverside, USA)",
+        "Sahra Sedigh Sarvestani (Missouri University of Science and Technology, USA)",
+        "Muhammad Shafique (Vienna University of Technology (TU Wien), Austria)",
+        "Shuaiwen Song (Pacific Northwest National Lab, USA)",
+        "Christof Teuscher (Portland State University, USA)",
+        "Ishan Thakkar (Colorado State University, USA)",
+        "Devesh Tiwari (Northeastern University, USA)",
+        "Bhuvan Urgaonkar (Pennsylvania State University, USA)",
+        "Huangxin Wang (George Mason University, USA)",
+        "Xiaorui Wang (The Ohio State University, USA)",
+        "Chun Jason Xue (City University of Hong Kong, Hong Kong)",
+        "Dakai Zhu (University of Texas at San Antonio, USA)",
+        "Qi Zhu (Electrical Engineering, UC Riverside, USA)",
+        "Ziliang Zong (Texas State University, USA)"
+    ],
+    "keynote_speakers": [
+        "Israel Koren (Univ. of Massachusetts, USA)"
+    ],
+    "session_chairs": [
+        "Behrooz Shirazi (Washington state)",
+        "Behrooz Shirazi (Washington state)",
+        "Ali Hurson (Missouri S&T, USA)",
+        "Hakan Aydin (George Mason U.)",
+        "Amlan Ganguly (RIT, USA)",
+        "Mahdi Nikdast (Polytechnique Montreal, Canada)",
+        "Xiaorui Wang (The Ohio State University, USA)",
+        "Erik Brunvand (U. of Utah)",
+        "Alex K. Jones (U. of Pittsburgh)",
+        "Ishfaq Ahmad (U. Texas Arlington)",
+        "Krishna Kant (Temple University)"
+    ],
+    "panelists": [
+        "Devesh Tiwari (Northeastern University)",
+        "Krishna Kant (Temple University)",
+        "Ann Gordon Ross (University of Florida, Gainesville)",
+        "Jim Brandt (Sandia National Lab)",
+        "Jack Harwood (Dell/EMC)",
+        "Dae Hyun Kim (Washington State University)",
+        "Paul Franzon (North Carolina State University)",
+        "Kambiz Samadi (Qualcomm)"
+    ],
+    "papers": [
+        {
+            "key": "IGSC_17_001",
+            "title": "Selective Checkpointing for Minimizing Recovery Energy and Efforts of Smartphone Apps",
+            "authors": [
+                "Li Li",
+                "Yunhao Bai",
+                "Xiaorui Wang",
+                "Mai Zheng",
+                "Feng Qin"
+            ],
+            "topics": [
+                "Energy"
+            ]
+        },
+        {
+            "key": "IGSC_17_002",
+            "title": "Context-Driven Power Management in Cache-Enabled Base Stations using a Bayesian Neural Network",
+            "authors": [
+                "Luhao Wang",
+                "Shuang Chen",
+                "Massoud Pedram"
+            ],
+            "topics": [
+                "Energy",
+                "Data"
+            ]
+        },
+        {
+            "key": "IGSC_17_003",
+            "title": "eDelta: Pinpointing Energy Deviations in Smartphone Apps via Comparative Trace Analysis",
+            "authors": [
+                "Li Li",
+                "Bruce Beitman",
+                "Mai Zheng",
+                "Xiaorui Wang",
+                "Feng Qin"
+            ],
+            "topics": [
+                "Energy",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IGSC_17_004",
+            "title": "Sustainable Fault Management and Error Correction for Next-Generation Main Memories",
+            "authors": [
+                "Donald Kline Jr.",
+                "Rami Melhem",
+                "Alex K. Jones"
+            ],
+            "topics": [
+                "Energy",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "IGSC_17_005",
+            "title": "Increasing Interposer Utilization: A Scalable, Energy Efficient and High Bandwidth Multichip Integration Solution",
+            "authors": [
+                "M Meraj Ahmed",
+                "Naseef Mansoor",
+                "Sayed Ashraf Mamun",
+                "Amlan Ganguly"
+            ],
+            "topics": [
+                "Energy",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "IGSC_17_006",
+            "title": "Energy Efficiency Analysis of Query Optimizations on MongoDB and Cassandra",
+            "authors": [
+                "Divya Mahajan",
+                "Ziliang Zong"
+            ],
+            "topics": [
+                "Energy",
+                "Benchmark",
+                "DB"
+            ]
+        },
+        {
+            "key": "IGSC_17_007",
+            "title": "Scheduling Multithreaded Applications onto Heterogeneous Composite Cores Architectures",
+            "authors": [
+                "Hossein Sayadi",
+                "Houman Homayoun"
+            ],
+            "topics": [
+                "OS",
+                "Concurrency",
+                "Energy"
+            ]
+        },
+        {
+            "key": "IGSC_17_008",
+            "title": "Evaluating the Impact of Data Layout and Placement on the Energy Efficiency of Heterogeneous Applications",
+            "authors": [
+                "Apan Qasem",
+                "Samuel Teich"
+            ],
+            "topics": [
+                "Energy",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "IGSC_17_009",
+            "title": "Energy-Efficient Primary/Backup Scheduling Techniques for Heterogeneous Multicore Systems",
+            "authors": [
+                "Abhishek Roy",
+                "Hakan Aydin",
+                "Dakai Zhu"
+            ],
+            "topics": [
+                "Energy",
+                "OS",
+                "GPGPU",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IGSC_17_010",
+            "title": "Evaluating Energy and Power Profiling Techniques for HPC Workloads",
+            "authors": [
+                "Ryan Grant",
+                "James Laros",
+                "Michael Levenhagen",
+                "Stephen L. Olivier",
+                "Kevin Pedretti",
+                "Lee Ward",
+                "Andrew J. Younge"
+            ],
+            "topics": [
+                "Energy",
+                "Benchmark",
+                "HPC"
+            ]
+        },
+        {
+            "key": "IGSC_17_011",
+            "title": "Energy Consumption in Java: An Early Experience",
+            "authors": [
+                "Mohit Kumar",
+                "Youhuizi Li",
+                "Weisong Shi"
+            ],
+            "topics": [
+                "Energy",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "IGSC_17_012",
+            "title": "REEWA: Runtime Energy Estimation for Web Activities on Smartphones",
+            "authors": [
+                "Zichen Xu",
+                "Xiaorui Wang"
+            ],
+            "topics": [
+                "Energy"
+            ]
+        },
+        {
+            "key": "IGSC_17_013",
+            "title": "A Detailed Analysis of OpenMP Runtime Configurations for Power Constrained Systems",
+            "authors": [
+                "Md Abdullah Shahneous Bari",
+                "Abid Malik",
+                "Ahmad Qawasmeh",
+                "Barbara Chapman"
+            ],
+            "topics": [
+                "Concurrency",
+                "Energy"
+            ]
+        },
+        {
+            "key": "IGSC_17_014",
+            "title": "Implementing Data Center Network Energy Management Capabilities in NS3",
+            "authors": [
+                "Sanjeev Sondur",
+                "Madhurima Ray",
+                "Joyanta Biswas",
+                "Krishna Kant"
+            ],
+            "topics": [
+                "Energy",
+                "Network"
+            ]
+        },
+        {
+            "key": "IGSC_17_015",
+            "title": "Energy Efficiency in Colocation Data Centers: A Joint Incentive Mechanism Approach",
+            "authors": [
+                "Youshi Wang",
+                "Fa Zhang",
+                "Shaolei Ren",
+                "Fangming Liu",
+                "Rui Wang",
+                "Zhiyong Liu"
+            ],
+            "topics": [
+                "Energy",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "IGSC_17_016",
+            "title": "Model-based Optimization of the Energy Efficiency of Multi-threaded Applications",
+            "authors": [
+                "Thomas Rauber",
+                "Gudula Ruenger",
+                "Matthias Stachowski"
+            ],
+            "topics": [
+                "Energy",
+                "Benchmark",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IGSC_17_017",
+            "title": "An Energy-constrained Makespan Optimization Framework in Fine- to Coarse-grain Partitioned Multicore Systems",
+            "authors": [
+                "Shervin Hajiamini",
+                "Behrooz Shirazi",
+                "Chris Cain",
+                "Dongbo Hong"
+            ],
+            "topics": [
+                "Energy",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IGSC_17_018",
+            "title": "Performance Evaluation of Diverse Techniques for Performance, Energy, and Temperature Efficient Task Allocation",
+            "authors": [
+                "Hafiz Fahad Sheikh",
+                "Ishfaq Ahmad",
+                "Sheheryar Arshad",
+                "Alexander Aved"
+            ],
+            "topics": [
+                "Benchmark",
+                "Energy",
+                "OS"
+            ]
+        },
+        {
+            "key": "IGSC_17_019",
+            "title": "Sustainable IC Design and Fabrication",
+            "authors": [
+                "Donald Kline Jr.",
+                "Nikolas Parshook",
+                "Alex Johnson",
+                "James Stine",
+                "William Stanchina",
+                "Erik Brunvand",
+                "Alex K. Jones"
+            ],
+            "topics": [
+                "Energy",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "IGSC_17_020",
+            "title": "PowerAnalyzer: An Energy-Aware Power Monitor System Aiming at Energy-Saving",
+            "authors": [
+                "Yifan Wang",
+                "Xingzhou Zhang",
+                "Lu Chao",
+                "Lang Wu",
+                "Xiaohui Peng"
+            ],
+            "topics": [
+                "Energy",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "IGSC_17_021",
+            "title": "Thermal-aware Joint CPU and Memory Scheduling for Hard Real-Time Tasks on Multicore 3D Platforms",
+            "authors": [
+                "Gustavo A. Chaparro-Baquero",
+                "Shi Sha",
+                "Soamar Homsi",
+                "Wujie Wen",
+                "Gang Quan"
+            ],
+            "topics": [
+                "Energy",
+                "OS",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "IGSC_17_022",
+            "title": "SAFER: An IoT-Based Perpetual Safe Community Awareness and Alerting Network",
+            "authors": [
+                "Nailah Alhassoun",
+                "Md Yusuf Sarwar Uddin",
+                "Nalini Venkatasubramanian"
+            ],
+            "topics": [
+                "Energy"
+            ]
+        },
+        {
+            "key": "IGSC_17_023",
+            "title": "Lessons learnt from Software Tuning of a Memchaced-Backed, Multi-Tier, Web Cloud Application",
+            "authors": [
+                "Muhammad Wajahat",
+                "Salman Masood",
+                "Abhinav Sau",
+                "Anshul Gandhi"
+            ],
+            "topics": [
+                "Energy",
+                "Cloud"
+            ]
+        }
+    ]
+}

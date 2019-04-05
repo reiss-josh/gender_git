@@ -1,0 +1,903 @@
+{
+    "key": "ASPLOS_17",
+    "conference": "ACM International Conference on Architectural Support for Programming Languages and Operating Systems",
+    "organization": [
+        "ACM"
+    ],
+    "country": "CN",
+    "postdate": "2017-04-08",
+    "last_deadline": "2016-08-15",
+    "review_days": 87,
+    "submissions": 320,
+    "min_reviews": 3,
+    "total_reviews": 1440,
+    "double_blind": true,
+    "rebuttal": true,
+    "open_access": false,
+    "age": 35,
+    "past_papers": 670,
+    "past_citations": 23803,
+    "h5_index": 49,
+    "h5_median": 102,
+    "notes": "162 papers proceeded to second phase, and had a rebuttal opportunity. PC Chair monitored all reviews for quality and expertise mismatch.",
+    "pc_chairs": [
+        "John Carter (IBM)"
+    ],
+    "pc_members": [
+        "Jade Alglave (Microsoft Research Cambridge and University College London)",
+        "David G. Andersen (Carnegie Mellon University)",
+        "Yungang Bao (ICT - Chinese Academy of Sciences)",
+        "Muli Ben-Yehuda (LightBits Labs)",
+        "Ricardo Bianchini (Microsoft Research)",
+        "Haibo Chen (Shanghai Jaitong University)",
+        "Liqun Cheng (Google)",
+        "Wenguang Chen (Tsinghua University)",
+        "Fred Chong (University of Chicago)",
+        "Eric Chung (Microsoft Research)",
+        "John Criswell (University of Rochester)",
+        "Christina Delimitrou (Cornell University)",
+        "Angela Demke Brown (University of Toronto)",
+        "Chen Ding (University of Rochester)",
+        "Lieven Eeckhout (Ghent University)",
+        "Elmootazbellah Elnozahy (King Abdullah University of Science and Technology (Saudi Arabia))",
+        "Natalie Enright Jerger (University of Toronto)",
+        "Christopher W. Fletcher (Massachusetts Institute of Technology)",
+        "Jason Flinn (University of Michigan)",
+        "Ada Gavrilovska (Georgia Institute of Technology)",
+        "Qi Guo (ICT, Cambricon Tech.)",
+        "Sudhanva Gurumurthi (IBM)",
+        "Kim Hazelwood (Facebook)",
+        "Wilson Hsieh (Google)",
+        "Hillery Hunter (IBM Research)",
+        "Martha Kim (Columbia University)",
+        "Benjamin C. Lee (Duke University)",
+        "Shan Lu (University of Chicago)",
+        "Srilatha Manne (Cavium)",
+        "Tipp Moseley (Google)",
+        "David Nellans (Nvidia)",
+        "Mark Oskin (University of Washington)",
+        "John Regehr (University of Utah)",
+        "Adrian Sampson (Cornell University)",
+        "Vivek Sarkar (Rice University)",
+        "Marc Shapiro (INRIA)",
+        "Xipeng Shen (North Carolina State University)",
+        "Arrvindh Shriraman (Simon Fraser University)",
+        "Armando Solar-Lezama (Massachusetts Institute of Technology)",
+        "Yan Solihin (North Carolina State University)",
+        "Karin Strauss (Microsoft Research and University of Washington)",
+        "Michael M. Swift (University of Wisconsin)",
+        "Lingjia Tang (University of Michigan)",
+        "Mohit Tiwari (University of Texas - Austin)",
+        "Haris Volos (Hewlett-Packard Enterprise)",
+        "Emmett Witchel (University of Texas - Austin)",
+        "Ming Wu (Microsoft Research)",
+        "Guoqing Harry Xu (University of California - Irvine)",
+        "Lidong Zhou (Microsoft Research)"
+    ],
+    "keynote_speakers": [
+        "Jingren Zhou",
+        "Ricardo Bianchini"
+    ],
+    "session_chairs": [
+        "Yunji Chen",
+        "Steve Blackburn",
+        "Vivek Sarkar",
+        "Karin Strauss",
+        "Yun Liang",
+        "Wenguang Chen",
+        "Xipeng Shen",
+        "John Carter",
+        "Michael M. Swift",
+        "Adrian Sampson",
+        "Shan Lu",
+        "Lingjia Tang",
+        "Dongyoon Lee",
+        "Yungyang Bao",
+        "Guoqing Harry Xu",
+        "Yu Hua",
+        "Christina Delimitrou"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "ASPLOS_17_001",
+            "title": "Determining Application-specific Peak Power and Energy Requirements for Ultra-low-power Processors",
+            "authors": [
+                "Hari Cherupalli (University of Minnesota)",
+                "Henry Duwe (University of Illinois)",
+                "Weidong Ye (University of Illinois)",
+                "Rakesh Kumar (University of Illinois)",
+                "John Sartori (University of Minnesota)"
+            ],
+            "topics": [
+                "Energy",
+                "Architecture"
+            ],
+            "award": true
+        },
+        {
+            "key": "ASPLOS_17_002",
+            "title": "Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse Scale Computers",
+            "authors": [
+                "Quan Chen (Shanghai Jiao Tong University)",
+                "Hailong Yang (Beihang University)",
+                "Minyi Guo (Shanghai Jiao Tong University)",
+                "Ram Srivatsa Kannan (University of Michigan - Ann Arbor)",
+                "Jason Mars",
+                "Lingjia Tang (University of Michigan - Ann Arbor)"
+            ],
+            "topics": [
+                "Architecture",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_003",
+            "title": "Mallacc: Accelerating Memory Allocation",
+            "authors": [
+                "Svilen Kanev",
+                "Sam Likun Xi",
+                "Gu-Yeon Wei",
+                "David Brooks (Harvard University)"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_004",
+            "title": "REDSPY: Exploring Value Locality in Software",
+            "authors": [
+                "Shasha Wen (College of William and Mary)",
+                "Milind Chabbi (Hewlett-Packard Enterprise)",
+                "Xu Liu (College of William and Mary)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "ASPLOS_17_005",
+            "title": "Translation-Triggered Prefetching",
+            "authors": [
+                "Abhishek Bhattacharjee (Rutgers University)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_006",
+            "title": "Typed Architectures: Architectural Support for Lightweight Scripting",
+            "authors": [
+                "Channoh Kim (Sungkyunkwan University)",
+                "Jaehyeok Kim (Sungkyunkwan University)",
+                "Sungmin Kim (Sungkyunkwan University)",
+                "Dooyoung Kim (Sungkyunkwan University)",
+                "Namho Kim (Seoul National University)",
+                "Gitae Na (Sungkyunkwan University)",
+                "Young H. Oh (Sungkyunkwan University)",
+                "Hyeon Gyu Cho (Sungkyunkwan University)",
+                "Jae W. Lee (Seoul National University)"
+            ],
+            "topics": [
+                "Architecture",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_007",
+            "title": "Failure-Atomic Slotted Paging for Persistent Memory",
+            "authors": [
+                "Jihye Seo",
+                "Wook-hee Kim",
+                "Woongki Baek",
+                "Beomseok Nam",
+                "Sam H. Noh (UNIST)"
+            ],
+            "topics": [
+                "Architecture",
+                "OS"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_008",
+            "title": "What Scalable Programs Need from Transactional Memory",
+            "authors": [
+                "Donald Nguyen (Synthace Limited)",
+                "Keshav Pingali (The University of Texas at Austin)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_009",
+            "title": "TriCheck: Memory Model Verification at the Trisection of Software, Hardware, and ISA",
+            "authors": [
+                "Caroline Trippel (ctrippel@princeton.edu)",
+                "Yatin A. Manerkar (Princeton University)",
+                "Michael Pellauer (NVIDIA Research)",
+                "Daniel Lustig (NVIDIA Research)",
+                "Margaret Martonosi (Princeton University)"
+            ],
+            "topics": [
+                "Architecture",
+                "OS"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_010",
+            "title": "An Analysis of Persistent Memory Use with WHISPER",
+            "authors": [
+                "Sanketh Nalli (University of Wisconsin-Madison)",
+                "Swapnil Haria (University of Wisconsin-Madison)",
+                "Michael M. Swift (University of Wisconsin-Madison)",
+                "Mark D. Hill (University of Wisconsin-Madison)",
+                "Haris Volos",
+                "Kimberly Keeton"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_011",
+            "title": "ProRace: Practical Data Race Detection for Production Use",
+            "authors": [
+                "Tong Zhang",
+                "Changhee Jung",
+                "Dongyoon Lee (Virginia Tech)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_012",
+            "title": "Crossing Guard: Mediating Host-Accelerator Coherence Interactions",
+            "authors": [
+                "Lena E. Olson",
+                "Mark D. Hill",
+                "David A. Wood (University of Wisconsin-Madison)"
+            ],
+            "topics": [
+                "GPGPU",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_013",
+            "title": "An Architecture Supporting Formal and Compositional Binary Analysis",
+            "authors": [
+                "Joseph McMaHan (University of California, Santa Barbara)",
+                "Michael Christensen (University of California, Santa Barbara)",
+                "Lawton Nichols (University of California, Santa Barbara)",
+                "Jared Roesch (University of Washington, Seattle)",
+                "Sung-Yee Guo (University of California, Santa Barbara)",
+                "Ben Hardekopf (University of California, Santa Barbara)",
+                "Timothy Sherwood (University of California, Santa Barbara)"
+            ],
+            "topics": [
+                "Architecture",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_014",
+            "title": "AsyncClock: Scalable Inference of Asynchronous Event Causality",
+            "authors": [
+                "Chun-Hung Hsiao (University of Michigan)",
+                "Satish Narayanasamy (University of Michigan)",
+                "Essam Muhammad Idris (University of Michigan)",
+                "Cristiano L. Pereira (Intel, Inc)",
+                "Gilles Pokam (Intel, Inc)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_015",
+            "title": "Black-box Concurrent Data Structures for NUMA Architectures",
+            "authors": [
+                "Irina Calciu (VMware Research Group)",
+                "Siddhartha Sen (Microsoft Research)",
+                "Mahesh Balakrishnan (Yale University)",
+                "Marcos K. Auguilera (VMware Research Group)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Architecture"
+            ],
+            "award": true
+        },
+        {
+            "key": "ASPLOS_17_016",
+            "title": "CoRAL: Confined Recovery in Distributed Asynchronous Graph Processing",
+            "authors": [
+                "Keval Vora (University of California, Riverside)",
+                "Chen Tian (Huawei US R&D Center)",
+                "Rajiv Gupta (University of California, Riverside)",
+                "Ziang Hu (Huawei US R&D Center)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_017",
+            "title": "KickStarter: Fast and Accurate Computations on Streaming Graphs via Trimmed Approximations",
+            "authors": [
+                "Keval Vora (University of California, Riverside)",
+                "Rajiv Gupta (University of California, Riverside)",
+                "Guoqing Harry Xu (University of California, Irvine)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_018",
+            "title": "Browsix: Bridging the Gap Between Unix and the Browser",
+            "authors": [
+                "Bobby Powers",
+                "John Vilk",
+                "Emery Berger (University of Massachusetts Amherst)"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_019",
+            "title": "Optimizing CNNs on Multicores for Scalability, Performance and Goodput",
+            "authors": [
+                "Samyam Rajbhandari (The Ohio State University)",
+                "Yuxiong He (Microsoft Research)",
+                "Olatunji Ruwase (Microsoft Research)",
+                "Michael Carbin (Microsoft Research)",
+                "Trishul Ochilimbi (Microsoft Research)"
+            ],
+            "topics": [
+                "Data",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_020",
+            "title": "Locality Transformations for Nested Recursive Iteration Spaces",
+            "authors": [
+                "Kirshanthan Sundararajah",
+                "Laith Sakka",
+                "Milind Kulkarni (Purdue University)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_021",
+            "title": "Locality-Aware CTA Clustering For Modern GPUs",
+            "authors": [
+                "Ang Li (Pacific Northwest National Lab)",
+                "Shuaiwen Leon Song (Pacific Northwest National Lab)",
+                "Weifeng Liu (University of Copenhagen)",
+                "Xu Liu (College of William and Mary)",
+                "Akash Kumar (Technische University Dresden)",
+                "Henk Corporaal (Eindhoven University of Technology)"
+            ],
+            "topics": [
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_022",
+            "title": "Sound Loop Superoptimization for Google Native Client",
+            "authors": [
+                "Berkeley Churchill",
+                "Rahul Sharma",
+                "Jean-Francois Bastien",
+                "Alex Aiken (Stanford University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "ASPLOS_17_023",
+            "title": "DudeTM: Building Durable Transactions with Decoupling for Persistent Memory",
+            "authors": [
+                "Mengxing Liu (Tsinghua University)",
+                "Mingxing Zhang (Tsinghua University)",
+                "Kang Chen (Tsinghua University)",
+                "Xuehai Qian (University of Southern California)",
+                "Yongwei Wu (Tsinghua University)",
+                "Weimin Zheng (Tsinghua University)",
+                "Jinglei Ren (Microsoft Research)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_024",
+            "title": "ReFlex: Remote Flash == Local Flash",
+            "authors": [
+                "Ana Klimovic (Stanford University)",
+                "Heiner Litz (Stanford University)",
+                "Christos Kozyrakis (Stanford University)"
+            ],
+            "topics": [
+                "Storage",
+                "Network"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_025",
+            "title": "Approximate Storage of Compressed and Encrypted Videos",
+            "authors": [
+                "Djordje Jevdjic (University of Washington)",
+                "Karin Strauss (Microsoft Research)",
+                "Luis Ceze (University of Washington)",
+                "Henrique Malvar (Microsoft Research)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_026",
+            "title": "Exploiting Intra-Request Slack to Improve SSD Performance",
+            "authors": [
+                "Nima Elyasi (Pennsylvania State University)",
+                "Mohammad Arjomand (Pennsylvania State University)",
+                "Anand Sivasubramaniam (Pennsylvania State University)",
+                "Mahmut T. Kandemir (Pennsylvania State University)",
+                "Chita R. Das (Pennsylvania State University)",
+                "Myoungsoo Jung (Yonsei University)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_027",
+            "title": "Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code",
+            "authors": [
+                "Kai Wang",
+                "Aftab Hussain",
+                "Zhiqiang Zuo",
+                "Guoqing Harry Xu",
+                "Ardalan Amiri (University of California, Irvine)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_028",
+            "title": "SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing",
+            "authors": [
+                "Ao Ren (Syracuse University)",
+                "Ji Li (University of Southern California)",
+                "Zhe Li (Syracuse University)",
+                "Caiwen Ding (Syracuse University)",
+                "Xuehai Qian (University of Southern California)",
+                "Qinru Qiu (Syracuse University)",
+                "Bo Yuan (The City College of New York)",
+                "Yanzhi Wang (Syracuse University)"
+            ],
+            "topics": [
+                "Data",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_029",
+            "title": "3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers",
+            "authors": [
+                "Jerry Ajay",
+                "Chen Song",
+                "Aditya Singh Rathore",
+                "Chi Zhou",
+                "Wenyao Xu (University at Buffalo)"
+            ],
+            "topics": [
+                "Architecture",
+                "Energy"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_030",
+            "title": "Efficient Address Translation for Architectures with Multiple Page Sizes",
+            "authors": [
+                "Guilherme Cox",
+                "Abhishek Bhattacharjee (Rutgers University)"
+            ],
+            "topics": [
+                "Architecture",
+                "OS"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_031",
+            "title": "Page Fault Support for Network Controllers",
+            "authors": [
+                "Ilya Lesokhin (Technion and Mellanox)",
+                "Haggai Eran (Technion and Mellanox)",
+                "Shachar Raindel (Mellanox)",
+                "Guy Shapiro (Mellanox)",
+                "Sagi Grimberg (Mellanox)",
+                "Liran Liss (Mellanox)",
+                "Muli Ben-Yehuda (Technion)",
+                "Nadav Amit (Technion and VMware Research)",
+                "Dan Tsafrir (Technion)"
+            ],
+            "topics": [
+                "OS",
+                "Network"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_032",
+            "title": "Towards \u201cFull Containerization\u201d in Containerized Network Function Virtualization",
+            "authors": [
+                "Yang Hu (University of Florida)",
+                "Tao Li (NSF/University of Florida)"
+            ],
+            "topics": [
+                "VM",
+                "Network"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_033",
+            "title": "FLEP: Enabling Flexible and Efficient Preemption on GPUs",
+            "authors": [
+                "Bo Wu (Colorado School of Mines)",
+                "Xu Liu (College of William and Mary)",
+                "Xiaobo Zhou (University of Colorado, Colorado Springs)",
+                "Changjun Jiang (Tongji University)"
+            ],
+            "topics": [
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_034",
+            "title": "SaberLDA: Sparsity-Aware Learning of Topic Models on GPUs",
+            "authors": [
+                "Kaiwei Li",
+                "Jianfei Chen",
+                "Wengguan Chen",
+                "Jun Zhu (Tsinghua University)"
+            ],
+            "topics": [
+                "GPGPU",
+                "Data"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_035",
+            "title": "Moonwalk: NRE Optimization in ASIC Clouds",
+            "authors": [
+                "Moein Khazraee",
+                "Lu Zhang",
+                "Luis Vega",
+                "Michael Taylor"
+            ],
+            "topics": [
+                "Architecture",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_036",
+            "title": "Dynamic Resource Management for Efficient Utilization of Multitasking GPUs",
+            "authors": [
+                "Jason Jong Kyu Park (University of Michigan)",
+                "Yongjun Park (Hongik University)",
+                "Scott Mahlke (University of Michigan)"
+            ],
+            "topics": [
+                "GPGPU",
+                "OS"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_037",
+            "title": "Identifying Security Critical Properties for the Dynamic Verification of a Processor",
+            "authors": [
+                "Rui Zhang",
+                "Natalie Stanley",
+                "Christopher Griggs",
+                "Andrew Chi",
+                "Cynthia Sturton (UNC Chapel Hill)"
+            ],
+            "topics": [
+                "Security",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_038",
+            "title": "Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis",
+            "authors": [
+                "Andrew Ferraiuolo (Cornell University)",
+                "Rui Xu (Cornell University)",
+                "Danfeng Zhang (Pennsylvania State University)",
+                "Andrew C. Myers (Cornell University)",
+                "Edward Suh (Cornell Universiy)"
+            ],
+            "topics": [
+                "Security",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_039",
+            "title": "CHERI JNI: Sinking the Java Security Model into the C",
+            "authors": [
+                "David Chisnall (University of Cambridge)",
+                "Brooks Davis (SRI International)",
+                "Khilan Gudka",
+                "Alexandre Joannou (University of Cambridge)",
+                "Robert N. M. Waston (University of Cambridge)",
+                "David Brazdil",
+                "Jonathan Woodruff",
+                "A. Theodore Markettos (University of Cambridge)",
+                "J. Edward Maste",
+                "Robert Norton (University of Cambridge)",
+                "Stacey Son",
+                "Michael Roe (University of Cambridge)",
+                "Simon W. Moore (University of Cambridge)",
+                "Peter G. Neumann (SRI International)",
+                "Ben Laurie (Google)"
+            ],
+            "topics": [
+                "Compilers",
+                "Security"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_040",
+            "title": "GRIFFIN: Guarding Control Flows Using Intel Processor Trace",
+            "authors": [
+                "Xinyang Ge (The Pennsylvania State University)",
+                "Weidong Cui (Microsoft Research)",
+                "Trent Jaeger (The Pennsylvania State University)"
+            ],
+            "topics": [
+                "Architecture",
+                "Security"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_041",
+            "title": "Bolt: I Know What You Did Last Summer... In the Cloud",
+            "authors": [
+                "Christina Delimitrou (Cornell University)",
+                "Christos Kozyrakis (Stanford University)"
+            ],
+            "topics": [
+                "Cloud",
+                "Security"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_042",
+            "title": "Neurosurgeon: Collaborative Intelligence Between Cloud and the Mobile Edge",
+            "authors": [
+                "Yiping Kang",
+                "Johann Hauswald",
+                "Cao Gao",
+                "Austin Rovinski",
+                "Trevor Mudge",
+                "Jason Mars",
+                "Lingjia Tang"
+            ],
+            "topics": [
+                "Cloud"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_043",
+            "title": "Thermostat: Application-transparent Page Management for Two-tiered Main Memory",
+            "authors": [
+                "Neha Agarwal",
+                "Thomas F. Wenisch (University of Michigan)"
+            ],
+            "topics": [
+                "OS"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_044",
+            "title": "Breaking the Boundaries in Heterogeneous-ISA Datacenters",
+            "authors": [
+                "Antonio Barbalace",
+                "Robert Lyerly",
+                "Christopher Jelesnianski",
+                "Anthony Carno",
+                "Ho-ren Chuang",
+                "Vincent Legout",
+                "Binoy Ravindran (Virginia Tech)"
+            ],
+            "topics": [
+                "Architecture",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_045",
+            "title": "Automated Synthesis of Comprehensive Memory Model Litmus Test Suites",
+            "authors": [
+                "Daniel Lustig (NVIDIA)",
+                "Andrew Wright (MIT)",
+                "Alexanders Papakonstantinou (NVIDIA)",
+                "Olivier Giroux (NVIDIA)"
+            ],
+            "topics": [
+                "GPGPU",
+                "Benchmark",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_046",
+            "title": "DCatch: Automatically Detecting Distributed Concurrency Bugs in Cloud Systems",
+            "authors": [
+                "Haopeng Liu (University of Chicago)",
+                "Guangpu Li (University of Chicago)",
+                "Jeffrey F. Lukman (University of Chicago)",
+                "Jiaxin Li (University of Chicago)",
+                "Shan Lu (University of Chicago)",
+                "Haryadi Gunawi (University of Chicago)",
+                "Chen Tian (Huawei US R&D Center)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_047",
+            "title": "Towards Practical Default-On Multi-Core Record/Replay",
+            "authors": [
+                "Ali Jose Mashtizadeh (Stanford University)",
+                "Tal Garfinkel (N/A)",
+                "David Terei (Stanford University)",
+                "David Mazieres (Stanford University/Intrinsic)",
+                "Mendel Rosenblum (Stanford University/Google)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_048",
+            "title": "Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path",
+            "authors": [
+                "Jian Huang (Georgia Tech)",
+                "Michael R. Allen-Bond (Washington State University)",
+                "Xuechen Zhang (Washington State University)"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_049",
+            "title": "Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling",
+            "authors": [
+                "Jagadish Kotra (The Pennsylvania State University)",
+                "Narges Shahidi (The Pennsylvania State University)",
+                "Zeshan A. Chishti (Intel Corporation)",
+                "Mahmut T. Kandemir (The Pennsylvania State University)"
+            ],
+            "topics": [
+                "Architecture",
+                "OS"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_050",
+            "title": "Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy",
+            "authors": [
+                "Jinchun Kim (Texas A&M University)",
+                "Elvira Teran (Texas A&M University)",
+                "Paul V. Gratz (Texas A&M University)",
+                "Daniel A. Jimenez (Texas A&M University)",
+                "Seth H. Pugsley (Intel Labs)",
+                "Chris Wilkerson (Intel Labs)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_051",
+            "title": "TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory",
+            "authors": [
+                "Mingyu Gao",
+                "Jing Pu",
+                "Xuan Yang",
+                "Mark Horowitz",
+                "Christos Kozyrakis (Stanford University)"
+            ],
+            "topics": [
+                "Architecture",
+                "Data"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_052",
+            "title": "History-Based Arbitration for Fairness in Processor-Interconnect of NUMA Servers",
+            "authors": [
+                "Wonjun Song (KAIST)",
+                "Gwangsun Kim (KAIST)",
+                "Hyungjoon Jung (KAIST)",
+                "Jongwook Chung (Seoul National University)",
+                "Jung Ho Ahn (Seoul National University)",
+                "Jae W. Lee (Seoul National University)",
+                "John Kim (KAIST)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_053",
+            "title": "Enabling Lightweight Transactions with Precision Time",
+            "authors": [
+                "Pulkit A. Misra (Duke University)",
+                "Jeffrey S. Chase (Microsoft)",
+                "Johannes Gehrke (Duke University)",
+                "Alvin R. Lebeck (Duke University)"
+            ],
+            "topics": [
+                "Architecture",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_054",
+            "title": "IncBricks: Toward In-Network Computation with an In-Network Cache",
+            "authors": [
+                "Ming Liu (University of Washington)",
+                "Liang Luo (University of Washington)",
+                "Kishore Atreya (Cavium)",
+                "Luis Ceze (University of Washington)",
+                "Arvind Krishnamurthy (University of Washington)",
+                "Jacob Nelson (Microsoft Research)"
+            ],
+            "topics": [
+                "Network",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_055",
+            "title": "AMNESIAC: Amnesic Automatic Computer",
+            "authors": [
+                "Ismail Akturk",
+                "Ulya R. Karpuzcu (University of Minnesota)"
+            ],
+            "topics": [
+                "Storage",
+                "Energy"
+            ]
+        },
+        {
+            "key": "ASPLOS_17_056",
+            "title": "Voltage Regulator Efficiency Aware Power Management",
+            "authors": [
+                "Yuxin Bai (University of Rochester)",
+                "Victor W. Lee (Intel)",
+                "Engin Ipek (University of Rochester)"
+            ],
+            "topics": [
+                "Architecture",
+                "Energy"
+            ]
+        }
+    ]
+}

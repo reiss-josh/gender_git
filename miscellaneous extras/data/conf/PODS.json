@@ -1,0 +1,435 @@
+{
+    "key": "PODS_17",
+    "conference": "Symposium on Principles of Database Systems",
+    "organization": [
+        "ACM"
+    ],
+    "country": "US",
+    "postdate": "2017-05-14",
+    "last_deadline": "2016-12-18",
+    "review_days": 140,
+    "submissions": 101,
+    "min_reviews": 4,
+    "total_reviews": 554,
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": true,
+    "age": 36,
+    "past_papers": 954,
+    "past_citations": 25765,
+    "h5_index": 26,
+    "h5_median": 55,
+    "notes": "Two rounds of submissions, with the first round allowing authors to revise and resubmit papers (no rebuttal; two of those ended up rejected). The first round saw 28 papers submitted, of which 3 were accepted and 13 invited to resubmit (9 of those were eventuall accepted). In the second cycle, 73 papers were submitted, of which 17 were accepted. All reviewers can see and comment on all papers (except with conflict of interest). Double-blind makes no sense in the small PODS community, where identity is easy to figure out. There was at least one more review for papers with PC authors.",
+    "pc_chairs": [
+        "Floris Geerts (University of Antwep)"
+    ],
+    "pc_members": [
+        "Leopoldo Bertossi (Carleton University)",
+        "Meghyn Bienvenu (CNRS, University of Montpellier)",
+        "Angela Bonifati (Universit\u00e9 de Lyon)",
+        "Andrea Cal\u00ec (University of London)",
+        "Rada Chirkova (NC State University)",
+        "Giuseppe De Giacomo (Sapienza Universit\u00e0 di Roma)",
+        "Ting Deng (Beihang University)",
+        "Diego Figueira (CNRS)",
+        "Georg Gottlob (Oxford University)",
+        "Paraschos Koutris (University of Wisconsin-Madison)",
+        "Andrew McGregor (University of Massachusetts)",
+        "Gerome Miklau (University of Massachusetts)",
+        "Jeff Phillips (University of Utah)",
+        "Andreas Pieris (Vienna University of Technology)",
+        "Juan L. Reutter (Pontificia Universidad Cat\u00f3lica)",
+        "Thomas Schwentick (Universitt Dortmund)",
+        "Francesco Silvestri (IT University of Copenhagen)",
+        "Yufei Tao (Chinese University of Hong Kong)",
+        "Stijn Vansummeren (Universit\u00e9 Libre de Bruxelles)",
+        "Jef Wijsen (Universit\u00e9 de Mons)",
+        "Qin Zhang (Indiana University Bloomington)"
+    ],
+    "keynote_speakers": [
+        "Susan Davidson"
+    ],
+    "session_chairs": [
+        "Jan Van den Bussche (Hasselt University)",
+        "Paris Koutris (University of Wisconsin-Madison)",
+        "Floris Geerts (University of Antwerp)",
+        "Floris Geerts (University of Antwerp)",
+        "Stijn Vansummeren (Universit\u00e9 Libre de Bruxelles)",
+        "Andreas Pieris (University of Edinburgh)",
+        "Ke Yi (Hong Kong University of Science and Technology)",
+        "Yufei Tao (University of Queensland)",
+        "Angela Bonifati (Universit\u00e9 de Lyon)"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "PODS_17_001",
+            "title": "Circuit Treewidth, Sentential Decision, and Query Compilation",
+            "authors": [
+                "Simone Bova",
+                "Stefan Szeider"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_002",
+            "title": "A Worst-Case Optimal Multi-Round Algorithm for Parallel Computation of Conjunctive Queries",
+            "authors": [
+                "Bas Ketsman",
+                "Dan Suciu"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODS_17_003",
+            "title": "Answering Conjunctive Queries under Updates",
+            "authors": [
+                "Christoph Berkholz",
+                "Jens Keppeler",
+                "Nicole Schweikardt"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_004",
+            "title": "On Asymptotic Cost of Triangle Listing in Random Graphs",
+            "authors": [
+                "Di Xiao",
+                "Yi Cui",
+                "Daren B. H. Cline",
+                "Dmitri Loguinov"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_005",
+            "title": "The Complexity of Ontology-Based Data Access with OWL2QL and Bounded Treewidth Queries",
+            "authors": [
+                "Meghyn Bienvenu",
+                "Stanislav Kikot",
+                "Roman Kontchakov",
+                "Vladimir Podolskii",
+                "Vladislav Ryzhikov",
+                "Michael Zakharyaschev"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_006",
+            "title": "Efficient and Provable Multi-Query Optimization",
+            "authors": [
+                "Tarun Kathuria",
+                "S. Sudarshan"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_007",
+            "title": "Stable Model Semantics for Tuple-Generating Dependencies Revisited",
+            "authors": [
+                "Mario Alviano",
+                "Michael Morak",
+                "Andreas Pieris"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_008",
+            "title": "Private Incremental Regression",
+            "authors": [
+                "Shiva Kasiviswanathan",
+                "Kobbi Nissim",
+                "Hongxia Jin"
+            ],
+            "topics": [
+                "DB",
+                "Security"
+            ]
+        },
+        {
+            "key": "PODS_17_009",
+            "title": "Benchmarking the chase",
+            "authors": [
+                "Michael Benedikt",
+                "George Konstantinidis",
+                "Giansalvatore Mecca",
+                "Boris Motik",
+                "Paolo Papotti",
+                "Donatello Santoro",
+                "Efthymia Tsamoura"
+            ],
+            "topics": [
+                "DB",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "PODS_17_010",
+            "title": "A Relational Framework for Classifier Engineering",
+            "authors": [
+                "Benny Kimelfeld",
+                "Christopher Re"
+            ],
+            "topics": [
+                "DB",
+                "Data"
+            ]
+        },
+        {
+            "key": "PODS_17_011",
+            "title": "BPTree: an L2 heavy hitters algorithm using constant memory",
+            "authors": [
+                "Vladimir Braverman",
+                "Stephen Chestnut",
+                "Nikita Ivkin",
+                "Jelani Nelson",
+                "Zhengyu Wang",
+                "David Woodruff"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_012",
+            "title": "How Fast can a Distributed Transaction Commit?",
+            "authors": [
+                "Rachid Guerraoui",
+                "Jingjing Wang"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODS_17_013",
+            "title": "What do Shannon-type inequalities, submodular width, and disjunctive datalog have to do with one another?",
+            "authors": [
+                "Mahmoud Abo Khamis",
+                "Hung Ngo",
+                "Dan Suciu"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_014",
+            "title": "J-Logic: Logical foundations for JSON querying",
+            "authors": [
+                "Jan Hidders",
+                "Jan Paredaens",
+                "Jan Van den Bussche"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_015",
+            "title": "Counting and Enumerating (Preferred) Database Repairs",
+            "authors": [
+                "Ester Livshits",
+                "Benny Kimelfeld"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_016",
+            "title": "Dichotomies in Ontology-Mediated Querying with the Guarded Fragment",
+            "authors": [
+                "Andr\u00e9 Hernich",
+                "Carsten Lutz",
+                "Fabio Papacchini",
+                "Frank Wolter"
+            ],
+            "topics": [
+                "DB"
+            ],
+            "award": true
+        },
+        {
+            "key": "PODS_17_017",
+            "title": "Efficiently Enumerating Minimal Triangulation",
+            "authors": [
+                "Nofar Carmeli",
+                "Batya Kenig",
+                "Benny Kimelfeld"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_018",
+            "title": "Output-optimal Parallel Algorithms for Similarity Joins",
+            "authors": [
+                "Xiao Hu",
+                "Yufei Tao",
+                "Ke Yi"
+            ],
+            "topics": [
+                "DB",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODS_17_019",
+            "title": "Querying Probabilistic Preferences in Databases",
+            "authors": [
+                "Batya Kenig",
+                "Benny Kimelfeld",
+                "Haoyue Ping",
+                "Julia Stoyanovich"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_020",
+            "title": "Reverse Engineering SPJ-Queries from Examples",
+            "authors": [
+                "Yaacov Y. Weiss",
+                "Sara Cohen"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_021",
+            "title": "Schema Mappings for Data Graphs",
+            "authors": [
+                "Nadime Francis",
+                "Leonid Libkin"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_022",
+            "title": "Dependencies for Graphs",
+            "authors": [
+                "Wenfei Fan",
+                "Ping Lu"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_023",
+            "title": "2-3 Cuckoo Filters for Faster Triangle Listing and Set Intersection",
+            "authors": [
+                "David Eppstein",
+                "Michael Goodrich",
+                "Michael Mitzenmacher",
+                "Manuel Torres"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_024",
+            "title": "Tight Space-Approximation Tradeoff for the Multi-Pass Streaming Set Cover Problem",
+            "authors": [
+                "Sepehr Assadi"
+            ],
+            "topics": [
+                "DB"
+            ],
+            "award": true
+        },
+        {
+            "key": "PODS_17_025",
+            "title": "Write-Optimized Skip Lists",
+            "authors": [
+                "Michael A. Bender",
+                "Martin Farach-Colton",
+                "Rob Johnson",
+                "Simon Mauras",
+                "Tyler Mayer",
+                "Cynthia Phillips",
+                "Helen Xu"
+            ],
+            "topics": [
+                "DB",
+                "Storage"
+            ]
+        },
+        {
+            "key": "PODS_17_026",
+            "title": "Streaming Algorithms for Measuring H-Impact",
+            "authors": [
+                "Priya Govindan",
+                "Morteza Monemizadeh",
+                "S Muthukrishnan"
+            ],
+            "topics": [
+                "DB"
+            ]
+        },
+        {
+            "key": "PODS_17_027",
+            "title": "Efficient Matrix Sketching over Distributed Data",
+            "authors": [
+                "Zengfeng Huang",
+                "Xuemin Lin",
+                "Wenjie Zhang",
+                "Ying Zhang"
+            ],
+            "topics": [
+                "DB",
+                "HPC",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PODS_17_028",
+            "title": "JSON: data model, query languages and schema specification",
+            "authors": [
+                "Pierre Bourhis",
+                "Juan L. Reutter",
+                "Fernando Suarez",
+                "Domagoj Vrgoc"
+            ],
+            "topics": [
+                "DB",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "PODS_17_029",
+            "title": "Conjunctive Queries on Probabilistic Graphs: Combined Complexity",
+            "authors": [
+                "Antoine Amarilli",
+                "Mikael Monet",
+                "Pierre Senellart"
+            ],
+            "topics": [
+                "DB"
+            ]
+        }
+    ]
+}

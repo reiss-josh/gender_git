@@ -1,0 +1,261 @@
+{
+    "key": "HotI_17",
+    "conference": "Annual Symposium on High-Performance Interconnects",
+    "organization": [
+        "IEEE"
+    ],
+    "country": "US",
+    "postdate": "2017-08-28",
+    "last_deadline": "2017-05-19",
+    "review_days": 35,
+    "submissions": 39,
+    "min_reviews": 3,
+    "total_reviews": "",
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 25,
+    "past_papers": "",
+    "past_citations": "",
+    "h5_index": "",
+    "h5_median": "",
+    "notes": "Some papers end up published in IEEE Micro.",
+    "pc_chairs": [
+        "Ryan Grant (Sandia National Laboratories)",
+        "Jitu Jitendra Padhye (Microsoft)"
+    ],
+    "pc_members": [
+        "Patrick Bridges (University of New Mexico UNM)",
+        "Ronald Brightwell (Sandia National Laboratories)",
+        "James Dinan (Intel Corporation)",
+        "Jesus Escudero-Sahuquillo (University of Castilla-La Mancha)",
+        "Pedro Javier Garcia (Universidad de Castilla-La Mancha)",
+        "Paolo Giaccone (Politecnico di Torino)",
+        "Brice Goglin (INRIA)",
+        "Taylor Groves (NSERC)",
+        "Mitch Gusat (IBM Zurich Research Laboratory)",
+        "Da-Wei Huang (Oracle)",
+        "Ajay Joshi (Boston University)",
+        "Avinash Kodi (Ohio University)",
+        "Kirill Kogan (IMDEA Networks)",
+        "Tushar Krishna (Georgia Institute of Technology)",
+        "Ahmed Louri (George Washington University)",
+        "Rami Melhem (U. of Pittsburgh)",
+        "Mondrian Nuessle (Computer Architecture Group, University of Heidelberg)",
+        "Fabrizio Petrini (Intel)",
+        "Galen Shipman (Los Alamos National Laboratory)",
+        "Min Si (Argonne National Laboratory)",
+        "Craig Stunkel (IBM Research)",
+        "Keith D. Underwood (Intel)",
+        "Ricki Williams (Oracle)"
+    ],
+    "keynote_speakers": [
+        "Chuanxiong Guo (Microsoft)"
+    ],
+    "session_chairs": [
+        "Ada Gavrilovska",
+        "Ryan Grant",
+        "James Dinan",
+        "Eitan Zahavi",
+        "Eitan Zahavi",
+        "Madeleine Glick",
+        "Taylor Groves",
+        "Ada Gavrilovska",
+        "Jitu Padhye"
+    ],
+    "panelists": [
+        "Roy Chua (SdXCentral)",
+        "Yogesh Bhatt (Ericsson)",
+        "David Cohen (Intel)",
+        "Pete Fiacco (GigaIO)",
+        "Bithika Khargharia (Extreme Networks)",
+        "Dave Meyer (Brocade)",
+        "Ying Zhang (Facebook)"
+    ],
+    "papers": [
+        {
+            "key": "HotI_17_001",
+            "title": "Improving Non-Minimal and Adaptive Routing Algorithms in Slim Fly Networks",
+            "authors": [
+                "Pedro Yebenes (uclm.es)",
+                "Jesus Escudero-Sahuquillo (uclm.es)",
+                "Pedro Javier Garcia (uclm.es)",
+                "Francisco J. Quiles (uclm.es)",
+                "Torsten Hoefler (eth)"
+            ],
+            "topics": [
+                "Network",
+                "HPC"
+            ],
+            "award": true
+        },
+        {
+            "key": "HotI_17_002",
+            "title": "\"Routing Keys\" Zahavi",
+            "authors": [
+                "Asaf Samuel",
+                "Eitan Zahavi",
+                "Isaac Keslassy"
+            ],
+            "topics": [
+                "Network",
+                "HPC"
+            ],
+            "award": true
+        },
+        {
+            "key": "HotI_17_003",
+            "title": "Fast Networks and Slow Memories: A Mechanism for Mitigating Bandwidth  Mismatches",
+            "authors": [
+                "Timo Schneider (intel, eth)",
+                "Mario Flajslik (intel)",
+                "James Dinan (intel)",
+                "Torsten Hoefler (eth)",
+                "Keith D. Underwood (intel)"
+            ],
+            "topics": [
+                "Network",
+                "Storage"
+            ],
+            "award": true
+        },
+        {
+            "key": "HotI_17_004",
+            "title": "Throughput Models of Interconnection Networks: the Good, the Bad, and the Ugly",
+            "authors": [
+                "Peiman Faizian (fsu.edu)",
+                "Md Atiqul Mollah (fsu.edu)",
+                "Md Shafayat Rahman (fsu.edu)",
+                "Xin Yuan (fsu.edu)",
+                "Scott D. Pakin (lanl)",
+                "Michael K. Lang (lanl)"
+            ],
+            "topics": [
+                "Network",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "HotI_17_005",
+            "title": "A High Speed Hardware Scheduler for 1000-port Optical Packet Switches to Enable Scalable Data Centers",
+            "authors": [
+                "Joshua Benjamin",
+                "Philip M. Watts",
+                "Adam Funnell",
+                "Benn C. Thomsen"
+            ],
+            "topics": [
+                "Network",
+                "OS",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HotI_17_006",
+            "title": "Subchannel Scheduling for Shared Optical On-chip Buses",
+            "authors": [
+                "Sebastian Werner",
+                "Javier Navaridas",
+                "Mikel Luj\u00e1n"
+            ],
+            "topics": [
+                "Network",
+                "OS"
+            ]
+        },
+        {
+            "key": "HotI_17_007",
+            "title": "Utilizing HPC Network Technologies in High Energy Physics Experiments",
+            "authors": [
+                "Jorn Schumacher"
+            ],
+            "topics": [
+                "Network",
+                "HPC"
+            ]
+        },
+        {
+            "key": "HotI_17_008",
+            "title": "On the Impact of Routing Algorithms in the Effectiveness of Queuing Schemes in High-Performance Interconnection Networks",
+            "authors": [
+                "Jose Manuel Rocher-Gonzalez",
+                "Jesus Escudero-Sahuquillo",
+                "Pedro Javier Garcia",
+                "Francisco J. Quiles"
+            ],
+            "topics": [
+                "Network",
+                "HPC"
+            ]
+        },
+        {
+            "key": "HotI_17_009",
+            "title": "Placement of Virtual Network Functions in Hybrid Data Center Networks",
+            "authors": [
+                "Zhenhua Li",
+                "Yuanyuan Yang"
+            ],
+            "topics": [
+                "Network",
+                "VM"
+            ]
+        },
+        {
+            "key": "HotI_17_010",
+            "title": "MPI Process and Network Device Affinitization for Optimal HPC Application Performance",
+            "authors": [
+                "Ravindra Babu Ganapathi",
+                "Aravind Gopalakrishnan",
+                "Russell W. McGuire"
+            ],
+            "topics": [
+                "Network",
+                "HPC",
+                "OS"
+            ]
+        },
+        {
+            "key": "HotI_17_011",
+            "title": "Characterizing Deep Learning over Big Data (DLoBD) Stacks on RDMA-capable Networks",
+            "authors": [
+                "Xiaoyi Lu",
+                "Haiyang Shi",
+                "M. Haseeb Javed",
+                "Rajarshi Biswas",
+                "Dhabaleswar K. Panda"
+            ],
+            "topics": [
+                "Network",
+                "Data"
+            ]
+        },
+        {
+            "key": "HotI_17_012",
+            "title": "Host Software Stack Optimizations to Maximize Aggregate Fabric Throughput",
+            "authors": [
+                "Vignesh T. Ravi",
+                "James Erwin",
+                "Pradeep Sivakumar",
+                "CQ Tang",
+                "Jianxin Xiong",
+                "Ravindra Babu Ganapathi",
+                "Mark Debbage"
+            ],
+            "topics": [
+                "Network",
+                "OS"
+            ]
+        },
+        {
+            "key": "HotI_17_013",
+            "title": "Userspace RDMA Verbs on Commodity Hardware using DPDK",
+            "authors": [
+                "Patrick I. MacArthur (ibm)"
+            ],
+            "topics": [
+                "Network",
+                "OS"
+            ]
+        }
+    ]
+}

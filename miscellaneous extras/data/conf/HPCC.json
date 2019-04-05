@@ -1,0 +1,1213 @@
+{
+    "key": "HPCC_17",
+    "conference": "International Conference on High Performance Computing and Communications",
+    "organization": [
+        "IEEE"
+    ],
+    "country": "TH",
+    "postdate": "2017-12-18",
+    "last_deadline": "2017-07-01",
+    "review_days": 45,
+    "submissions": 176,
+    "min_reviews": 3,
+    "total_reviews": "",
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 19,
+    "past_papers": "",
+    "past_citations": "",
+    "h5_index": 22,
+    "h5_median": 30,
+    "notes": "",
+    "pc_chairs": [
+        "Pavan Balaji (Argonne National Laboratory, USA)",
+        "Howard J. Siegel (Colorado State University, USA)"
+    ],
+    "pc_members": [
+        "Abhinav Vishnu (Pacific Northwest National Laboratory, USA)",
+        "Ahmad Afsahi (Queen\u2019s University, Canada)",
+        "Alexey Lastovetsky (University College Dublin, Ireland)",
+        "Ali Akoglu (The University of Arizona, USA)",
+        "Anna Kobusinska (Poznan University of Technology, Poland)",
+        "Anthony Danalis (University of Tennessee)",
+        "Antonio J. Pe\u00f1a (Barcelona Supercomputing Center, Spain)",
+        "Ashok Srinivasan (Florida State University, USA)",
+        "Ashwin Aji (Virginia Tech, USA)",
+        "Bronis R. de Supinski (Lawrence Livermore National Laboratory, USA)",
+        "David Abramson (Monash University, Australia)",
+        "Dong Li (University of California, Merced)",
+        "Doug Lea (SUNY Oswego, USA)",
+        "Erik Saule (University of North Carolina at Charlotte, USA)",
+        "Federico Silla (Technical University of Valencia, Spain)",
+        "Feng Qin (The Ohio State University, USA)",
+        "Flavia Delicato (Federal University of Rio de Janeiro, Brazil)",
+        "Gregory Koenig (KPMG, USA)",
+        "Guangming Tan (Institute of Computing Technology,Chinese Academy of Sciences, China)",
+        "Hao Wang (Virginia Tech, USA)",
+        "Hari Subramoni (The Ohio State University, USA)",
+        "Holger Fr\u00f6ning (University of Heidelberg, Germany)",
+        "Hyun-Wook Jin (Konkuk University, South Korea)",
+        "Ioana Banicescu (Mississippi State University, USA)",
+        "James Lin (Shanghai Jiao Tong University, China)",
+        "Jay Lofstead (Sandia National Laboratories, USA)",
+        "John Morrison (University College Cork, Ireland)",
+        "Jong-Kook Kim (Korea University, South Korea)",
+        "Kartik Gopalan (Binghamton University, USA)",
+        "Kathryn Mohror (LLNL, USA)",
+        "Kengo Nakajima (The University of Tokyo, Japan)",
+        "Kishore Kothapalli (International Institute of Information Technology, Hyderabad, India)",
+        "Kyle Chard (Computation Institute, University of Chicago and Argonne National Lab, USA)",
+        "Lena Oden (Argonne National Laboratory, USA)",
+        "Madhu Govindaraju (SUNY Binghamton, USA)",
+        "Manisha Gajbe (Intel Corporation, USA)",
+        "Martin Schulz (Lawrence Livermore National Laboratory, USA)",
+        "Masamichi Takagi (Riken, Japan)",
+        "Matthieu Dorier (Argonne National Laboratory, USA)",
+        "Michela Taufer (University of Delaware, USA)",
+        "Min Si (Argonne National Laboratory, USA)",
+        "Mohsen Amini Salehi (University of Louisiana Lafayette, USA)",
+        "Naoya Maruyama (RIKEN AICS, Japan)",
+        "Osamu Tatebe (University of Tsukuba, Japan)",
+        "Palden Lama (University of Texas at San Antonio, USA)",
+        "Qing Yi (University of Colorado at Colorado Springs, USA)",
+        "Ricky Kwok (The University of Hong Kong, China)",
+        "Ronald Brightwell (Sandia National Laboratories, USA)",
+        "Ryan Friese (Pacific Northwest National Laboratory, USA)",
+        "Ryan Grant (Sandia National Laboratories, USA)",
+        "Sameer Shendem (University of Oregon, USA)",
+        "Sandeep Madireddy (Argonne National Laboratory, USA)",
+        "Scott Klasky (Oak Ridge National Laboratory, USA)",
+        "Shinji Sumimoto (Fujitsu Laboratories, Japan)",
+        "Shuaiwen Song (Pacific Northwest National Lab, USA)",
+        "Sriram Krishnamoorthy (Pacific Northwest National Lab, USA)",
+        "Stephen L. Olivier (Sandia National Laboratories, USA)",
+        "Sudeep Pasricha (Colorado State University, USA)",
+        "Sudheer Chunduri (Argonne National Laboratory, USA)",
+        "Sunita Chandrasekaran (University of Delaware, USA)",
+        "Suren Byna (Lawrence Berkeley National Laboratory, USA)",
+        "Tim Mattson (Intel, USA)",
+        "Timothy Hansen (South Dakota State University, USA)",
+        "Toshio Endo (Tokyo Institute of Technology, Japan)",
+        "Trilce Estrada (University of New Mexico, USA)",
+        "Weikuan Yu (Florida State University, USA)",
+        "Xiaoyi Lu (The Ohio State University, USA)",
+        "Xin Yuan (Florida State University, USA)",
+        "Yanfei Guo (Argonne National Laboratory, USA)",
+        "Yanjie Wei (Shenzhen Institute of Advanced Technology, China)",
+        "Yunquan Zhang (Chinese Academy of Sciences, China)",
+        "Zhihui Du (Dept. of Computer Science and Technology, Tsinghua University, Beijing)",
+        "Zhiling Lan (Illinois Institute of Technology, USA)",
+        "Zhiyi Huang (University of Otago, New Zealand)",
+        "Zhuan Chen (University of Rochester, USA)"
+    ],
+    "keynote_speakers": [
+        "Satoshi Matsuoka",
+        "Pete Beckman",
+        "Depei Qian",
+        "Pavan Balaji",
+        "Jos\u00e9 Fortes",
+        "Albert Y. Zomaya"
+    ],
+    "session_chairs": [
+        "Pavan Balaji",
+        "Driss Benhaddou",
+        "Apan Qasem",
+        "Rui Wang",
+        "Howard J. Siegel",
+        "Sarana Yi Nutanong",
+        "Timothy Hansen",
+        "Behrooz Shirazi",
+        "Massimo Marchiori",
+        "Tarek El-Ghazawi",
+        "Alexey Lastovetsky (University College Dublin, Ireland)",
+        "Shiyan Hu",
+        "Chase Wu",
+        "Hailong Yang",
+        "Michael Petrifke",
+        "Albert Y. Zomaya",
+        "Maciej Stasiak",
+        "Rodrigo N. Calheiros",
+        "Bertil Chapuis",
+        "James Yu",
+        "Wu Feng",
+        "Sathish Vadhiyar",
+        "Laurence T. Yang",
+        "Laurence T. Yang",
+        "Hailong Yang",
+        "Song Jiang",
+        "Geyong Min",
+        "Waqar Haque"
+    ],
+    "panelists": [
+        "Siddharth Suryanarayanan",
+        "Song guo",
+        "Wu Feng",
+        "Timothy Hansen",
+        "Alexey Lastovetsky (University College Dublin, Ireland)",
+        "Behrooz Shirazi"
+    ],
+    "papers": [
+        {
+            "key": "HPCC_17_001",
+            "title": "Analysis and Modeling of the End-to-End I/O Performance in OLCF\u2019s Titan Supercomputer",
+            "authors": [
+                "Lipeng Wan (Oak Ridge National Laboratory)",
+                "Matthew Wolf (Oak Ridge National Laboratory)",
+                "Feiyi Wang (Oak Ridge National Laboratory)",
+                "Jong Youl Choi (Oak Ridge National Laboratory)",
+                "George Ostrouchov (Oak Ridge National Laboratory)",
+                "Scott Klasky (Oak Ridge National Laboratory)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Storage",
+                "HPC"
+            ]
+        },
+        {
+            "key": "HPCC_17_002",
+            "title": "Portable Parallel Design of Weighted Multi-Dimensional Scaling for Real-Time Data Analysis",
+            "authors": [
+                "Sajal Dash (Virginia Tech)",
+                "Anshuman Verma (Virginia Tech)",
+                "Chris North (Virginia Tech)",
+                "Wu Feng (Virginia Tech)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Data"
+            ]
+        },
+        {
+            "key": "HPCC_17_003",
+            "title": "A Machine Learning Approach to Automatic Creation of Architecture-sensitive Performance Heuristics",
+            "authors": [
+                "Biplab Saha (Texas State University)",
+                "Saami Rahman",
+                "Tiffany Connors (Texas State University)",
+                "Apan Qasem (Texas State University)"
+            ],
+            "topics": [
+                "Data",
+                "Architecture",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "HPCC_17_004",
+            "title": "Comparative Performance Modeling of Parallel Preconditioned Krylov Methods",
+            "authors": [
+                "Kanika Sood (University Of Oregon)",
+                "Boyana Norris (University Of Oregon)",
+                "Elizabeth Jessup (University of Colorado, Boulder)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "HPCC_17_005",
+            "title": "Libsec: A Hardware Virtualization-based Isolation for Shared Library",
+            "authors": [
+                "Weizhong Qiang (Huazhong University of Science and Technology)",
+                "Yong Cao (Huazhong University of Science and Technology)",
+                "Weiqi Dai (Huazhong University of Science and Technology)",
+                "Deqing Zou (Huazhong University of Science and Technology)",
+                "Hai Jin (Huazhong University of Science and Technology)"
+            ],
+            "topics": [
+                "VM",
+                "Architecture",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "HPCC_17_006",
+            "title": "Urban Waterlogging Detection and Severity Prediction using Artificial Neural Networks",
+            "authors": [
+                "Apoorv Gupta",
+                "Aman Bansal",
+                "Rishab Gupta",
+                "Deepika Naryani",
+                "Apoorvi Sood"
+            ],
+            "topics": [
+                "HPC",
+                "Data"
+            ]
+        },
+        {
+            "key": "HPCC_17_007",
+            "title": "Role of Deep LSTM Neural Networks And Wi-Fi Networks in Support of Occupancy Prediction in Smart Buildings",
+            "authors": [
+                "Basheer Qolomany",
+                "Ala Al-Fuqaha",
+                "Driss Benhaddou",
+                "Ajay Gupta"
+            ],
+            "topics": [
+                "Data",
+                "Network"
+            ]
+        },
+        {
+            "key": "HPCC_17_008",
+            "title": "Multi-agent based Smart Grid System Development for Building Energy and Comfort Management",
+            "authors": [
+                "Batyrkhan Omarov",
+                "Aigerim Altayeva",
+                "Andrey Giyenko",
+                "Young Im Cho"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "HPCC_17_009",
+            "title": "ATF: A Generic Auto-Tuning Framework",
+            "authors": [
+                "Ari Rasch (University of Muenster)",
+                "Michael Haidl (University of Muenster)",
+                "Sergei Gorlatch (University of Muenster)"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "HPCC_17_010",
+            "title": "Revisiting Online Autotuning for Sparse-Matrix Vector Multiplication Kernels on Next-Generation Architectures",
+            "authors": [
+                "Simon Garcia de Gonzalo (University of Illinois at Urbana-Champaign)",
+                "Simon D. Hammond (Sandia National Laboratories)",
+                "Christian Trott (Sandia National Laboratories)",
+                "Wen-Me Hwu (University of Illinois at Urbana-Champaign)"
+            ],
+            "topics": [
+                "HPC",
+                "OS"
+            ]
+        },
+        {
+            "key": "HPCC_17_011",
+            "title": "A Novel Heuristic for Data Distribution in Massively Parallel Phylogenetic Inference Using Site Repeats",
+            "authors": [
+                "Benoit Morel (Heidelberg Institute for Theoretical Studies)",
+                "Tomas Flouri (Heidelberg Institute for Theoretical Studies)",
+                "Alexandros Stamatakis (Karlsruhe Institute of Technology)"
+            ],
+            "topics": [
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "HPCC_17_012",
+            "title": "SNFS: Small Writes Optimization for Log-Structured File System Based-on Non-Volatile Main Memory",
+            "authors": [
+                "Yang Li (National University of Defense Technology)",
+                "Fang Liu (National University of Defense Technology)",
+                "Nong Xiao (National University of Defense Technology)",
+                "Jianqiang Zeng (National University of Defense Technology)",
+                "Lingyu Zhu (National University of Defense Technology)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "HPCC_17_013",
+            "title": "Boosting Disk Performance by Compressing On-board Disk Cache",
+            "authors": [
+                "Wen Jiang (Jinan University)",
+                "Yuhui Deng (Jinan University and Institute of Computing)",
+                "Xiaohua Meng (Jinan University)",
+                "Cheng Hu (Jinan University)",
+                "Yongtao Zhou (Jinan University)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "HPCC_17_014",
+            "title": "KV-FTL: A Novel Key-Value-Based FTL Scheme for Large Scale SSDs",
+            "authors": [
+                "Juan Li (National University of Defense Technology)",
+                "Zhengguo Chen (national university of Defense technology)",
+                "Zhiguang Chen (National University of Defense Technology)",
+                "Nong Xiao (National University of Defense Technology)",
+                "Fang Liu (National University of Defense Technology)",
+                "Wei Chen"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "HPCC_17_015",
+            "title": "Management of Distributed Electrical Storage in Wide Area Communication Systems",
+            "authors": [
+                "Heinz Boehmer",
+                "Mark Hinkle",
+                "Richard Wallace Kenyon",
+                "Alan Mickelson"
+            ],
+            "topics": [
+                "Storage",
+                "Network"
+            ]
+        },
+        {
+            "key": "HPCC_17_016",
+            "title": "Exploring Home and Work Locations in a City from Mobile Phone Data",
+            "authors": [
+                "Lumpsum Tongsinoot",
+                "Veera Muangsin"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "HPCC_17_017",
+            "title": "Metrics-based Assessment of Sustainability in Demand Response",
+            "authors": [
+                "Swagata Sharma",
+                "Venkat Durvasulu",
+                "Berk Celik",
+                "Sid Suryanarayanan",
+                "Timothy Hansen",
+                "Tony Maciejewski",
+                "Howard J. Siegel"
+            ],
+            "topics": [
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "HPCC_17_018",
+            "title": "Hierarchical Parallelization of Multi-coloring Algorithms for Block IC Preconditioners",
+            "authors": [
+                "Masatoshi Kawai (University of Tokyo)",
+                "Akihiro Ida (University of Tokyo)",
+                "Kengo Nakajima (University of Tokyo)"
+            ],
+            "topics": [
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "HPCC_17_019",
+            "title": "DCEIL: Distributed Community Detection with the CEIL Score",
+            "authors": [
+                "Akash Jain (Indian Institute of Technology, Madras)",
+                "Rupesh Nasre (Indian Institute of Technology, Madras)",
+                "Ravindran Balaraman (Indian Institute of Technology, Madras)"
+            ],
+            "topics": [
+                "Data",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "HPCC_17_020",
+            "title": "A Multi-core Multicast Approach for Delay and Delay Variation Multicast Routing",
+            "authors": [
+                "Meghrig Terzian (Concordia University)",
+                "Hovhaness A. Harutyunyan (Concordia University)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Network"
+            ]
+        },
+        {
+            "key": "HPCC_17_021",
+            "title": "Energy-aware VM Placement with Periodical Dynamic Demands in Cloud Datacenters",
+            "authors": [
+                "Qian Zhang (Shandong University)",
+                "Hua Wang (Shandong University)",
+                "Fangjin Zhu (Shandong University)",
+                "Shanwen Yi (Shandong University)",
+                "Kang Feng (Shandong University)",
+                "Linbo Zhai (Shandong University)"
+            ],
+            "topics": [
+                "Energy",
+                "VM",
+                "OS",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "HPCC_17_022",
+            "title": "Energy Efficient Scheduling of Scientific Workflows in Cloud Environment",
+            "authors": [
+                "Manojit Ghose (Indian Institute of Technology, Guwahati)",
+                "Pratyush Verma (Indian Institute of Technology, Guwahati)",
+                "Sushanta Karmakar (Indian Institute of Technology, Guwahati)",
+                "Aryabartta Sahu (Indian Institute of Technology, Guwahati)"
+            ],
+            "topics": [
+                "Energy",
+                "OS",
+                "HPC",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "HPCC_17_023",
+            "title": "Energy Efficient Scheduling of Real-Time Tasks in Cloud Environment",
+            "authors": [
+                "Sawinder Kaur (Indian Institute of Technology, Guwahati)",
+                "Manojit Ghose (Indian Institute of Technology, Guwahati)",
+                "Aryabartta Sahu (Indian Institute of Technology, Guwahati)"
+            ],
+            "topics": [
+                "Energy",
+                "OS",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "HPCC_17_024",
+            "title": "Autonomous Grocery Delivery Service in Urban Areas",
+            "authors": [
+                "Mihai Kocsis",
+                "Johannes Buyer",
+                "Nico Su\u00dfmann",
+                "Raoul Z\u00f6llner",
+                "Gheorghe Mogan"
+            ],
+            "topics": []
+        },
+        {
+            "key": "HPCC_17_025",
+            "title": "The Smart Cheap City: Efficient Waste Management on a Budget",
+            "authors": [
+                "Massimo Marchiori"
+            ],
+            "topics": []
+        },
+        {
+            "key": "HPCC_17_026",
+            "title": "An Analytical Study Towards the UAE Universities Smart Education Innovated Approaches",
+            "authors": [
+                "Nedaa Al Barghuthi",
+                "Sonia Baker",
+                "Huwida Said"
+            ],
+            "topics": []
+        },
+        {
+            "key": "HPCC_17_027",
+            "title": "Process-based Asynchronous Progress Model for MPI Point-To-Point Communication",
+            "authors": [
+                "Min Si (Argonne National Laboratory)",
+                "Pavan Balaji (Argonne National Laboratory)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "HPCC_17_028",
+            "title": "Model-based Scheduling for Stream Processing Systems",
+            "authors": [
+                "Yidan Wang (RMIT)",
+                "Zahir Tari (RMIT)",
+                "M.Reza Hoseinyfarahabady (University of Sydney)",
+                "Albert Y. Zomaya (University of Sydney)"
+            ],
+            "topics": [
+                "OS",
+                "Network"
+            ]
+        },
+        {
+            "key": "HPCC_17_029",
+            "title": "Towards Scalable Deep Learning via I/O Analysis and Optimization",
+            "authors": [
+                "Sarunya Pumma (Virginia Tech)",
+                "Min Si (Argonne National Laboratory)",
+                "Wu Feng (Virginia Tech)",
+                "Pavan Balaji (Argonne National Laboratory)"
+            ],
+            "topics": [
+                "Data",
+                "Storage"
+            ]
+        },
+        {
+            "key": "HPCC_17_030",
+            "title": "iRDMA: Efficient Use of RDMA in Distributed Deep Learning Systems",
+            "authors": [
+                "Yufei Ren (IBM T. J. Watson Research Center)",
+                "Xingbo Wu (University of Texas at Arlington)",
+                "Li Zhang (IBM Research)",
+                "Yandong Wang (IBM T.J Watson Research)",
+                "Wei Zhang (IBM T.J.Watson Research Center)",
+                "Zijun Wang (IBM T.J. Watson Research Center)",
+                "Michel Hack (IBM Research)",
+                "Song Jiang (University of Texas, Arlington)"
+            ],
+            "topics": [
+                "Network",
+                "Concurrency",
+                "Data"
+            ]
+        },
+        {
+            "key": "HPCC_17_031",
+            "title": "Robust Feature Selection for IM Applications at Early Stage Traffic Classification Using Machine Learning Algorithms",
+            "authors": [
+                "Muhammad Shafiq (Harbin Institute of Technology, China)",
+                "Xiangzhan Yu (Harbin Institute of Technology, China)",
+                "Dawei Wang"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "HPCC_17_032",
+            "title": "An Implementation of Number Plate Recognition without Segmentation using Convolutional Neural Network",
+            "authors": [
+                "Jie Liu (Shandong University)",
+                "Xin Li (Shandong University)",
+                "Hao Zhang (Shandong University)",
+                "Chengcheng Liu (Shandong University)",
+                "Lei Dou (Shandong University)",
+                "Lei Ju (Shandong University)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "HPCC_17_033",
+            "title": "Data Mining based Root-cause Analysis of Performance Bottleneck for Big Data Workload",
+            "authors": [
+                "Weichen Qi (Beihang university)",
+                "Yunchun Li (Beihang university)",
+                "Honggang Zhou (Beihang university)",
+                "Wei Li (Beihang university)",
+                "Hailong Yang (Beihang University)"
+            ],
+            "topics": [
+                "Data",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "HPCC_17_034",
+            "title": "Quantifying and Mitigating Computational Inefficiency of Genomics Data Analysis",
+            "authors": [
+                "Xueqi Li (Institute of Computing Technology, Chinese Academy of Sciences)",
+                "Guangming Tan (Institute of Computing Technology, Chinese Academy of Sciences)",
+                "Chunming Zhang (Institute of Computing Technology, Chinese Academy of Sciences)",
+                "Xu Li (Institute of Computing Technology, Chinese Academy of Sciences)",
+                "Zhonghai Zhang (Institute of Computing Technology, Chinese Academy of Sciences)",
+                "Ninghui Sun (Institute of Computing Technology, Chinese Academy of Sciences)"
+            ],
+            "topics": [
+                "Data",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "HPCC_17_035",
+            "title": "An Efficient Type-Agnostic Approach for Finding Sub-sequences in Data",
+            "authors": [
+                "Bertil Chapuis",
+                "Beno\u00eet Garbinato",
+                "Periklis Andritsos"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "HPCC_17_036",
+            "title": "From Densification Power Law to Degree of Separation: A Case Study",
+            "authors": [
+                "James She",
+                "Chen Zhao",
+                "Ming Cheung",
+                "Hao Liang"
+            ],
+            "topics": []
+        },
+        {
+            "key": "HPCC_17_037",
+            "title": "Identifying Dominant Amino Acid Pairs of Known Protein-Protein Interactions via K-Means Clustering",
+            "authors": [
+                "Sudsanguan Ngamsuriyaroj",
+                "Kittirat Thepsutum"
+            ],
+            "topics": [
+                "HPC",
+                "Data"
+            ]
+        },
+        {
+            "key": "HPCC_17_038",
+            "title": "PPTrustCF: A New Privacy Protection Algorithm for Trust Collaborative Filtering",
+            "authors": [
+                "Zhengzheng Xian",
+                "Lei Li",
+                "Xiaoyu Huang",
+                "Gai Li",
+                "Jiyuan Lu"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "HPCC_17_039",
+            "title": "A Scalable Architecture for High Availability Seamless Redundancy (HSR)",
+            "authors": [
+                "James Yu (DePaul University)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "HPCC_17_040",
+            "title": "An Optical Interconnect Network Design for Dynamically Composable Data Centers",
+            "authors": [
+                "Mingwei Yang (University of Arizona)",
+                "Ivan B. Djordjevic (University of Arizona)",
+                "Cihan Tunc (University of Arizona)",
+                "Salim Hariri (University of Arizona)",
+                "Ali Akoglu (University of Arizona)"
+            ],
+            "topics": [
+                "Network",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "HPCC_17_041",
+            "title": "The Model of the Queuing System with Adaptive Traffic",
+            "authors": [
+                "Slawomir Hanczewski (Poznan University of Technology)",
+                "Maciej Stasiak (Poznan University of Technology)",
+                "Joanna Weissenberg (Kazimierz Wielki University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "HPCC_17_042",
+            "title": "EffiView: Trigger-based Monitoring Approach with Low Cost in SDN",
+            "authors": [
+                "Binfeng Wang (National University of Defense Technology)",
+                "Jinshu Su (Science and Technology on Parallel and Distributed Processing Laboratory)",
+                "Junnan Li (National University of Defense Technology)"
+            ],
+            "topics": [
+                "OS",
+                "Network"
+            ]
+        },
+        {
+            "key": "HPCC_17_043",
+            "title": "Deep and Shallow convections in Atmosphere Models on Intel Xeon Phi Coprocessor Systems",
+            "authors": [
+                "Srinivasan Ramesh (University of Oregon)",
+                "Sathish Vadhiyar (Indian Institute of Science)",
+                "Ravi Nanjundiah (Indian Institute of Science)",
+                "Vinaychandran Pn (Indian Institute of Science)"
+            ],
+            "topics": [
+                "HPC",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "HPCC_17_044",
+            "title": "Efficient Mapping of Multi-threaded Applications onto 3D Stacked Chip-Multiprocessor",
+            "authors": [
+                "Rakesh Pandey (Indian Institute of Technology, Guwahati)",
+                "Aryabartta Sahu (Indian Institute of Technology, Guwahati)"
+            ],
+            "topics": [
+                "Concurrency",
+                "OS"
+            ]
+        },
+        {
+            "key": "HPCC_17_045",
+            "title": "Cider: a Rapid Docker Container Deployment System through Sharing Network Storage",
+            "authors": [
+                "Lian Du (Beihang University)",
+                "Tianyu Wo (Beihang University)",
+                "Renyu Yang (Beihang University)",
+                "Chunming Hu (Beihang University)"
+            ],
+            "topics": [
+                "VM",
+                "OS",
+                "Network",
+                "Storage"
+            ]
+        },
+        {
+            "key": "HPCC_17_046",
+            "title": "Diluting the Scalability Boundaries: Exploring the Use of Disaggregated Architectures for High-Level Network Data Analysis",
+            "authors": [
+                "Carlos Vega (Naudit HPCN)",
+                "Jose Fernando Zazo (Naudit HPCN)",
+                "Hugo Meyer (Barcelona Supercomputing Center)",
+                "Ferad Zyulkyarov (Barcelona Supercomputing Center)",
+                "Sergio Lopez-Buedo (Naudit HPCN)",
+                "Javier Aracil (Naudit HPCN)"
+            ],
+            "topics": [
+                "Architecture",
+                "Network",
+                "Data"
+            ]
+        },
+        {
+            "key": "HPCC_17_047",
+            "title": "A Parallel Hybrid Intelligent Algorithm for Fuzzy Mean-CVaR Portfolio Model",
+            "authors": [
+                "Chen Li (Computer Network Information Center, Chinese Academy of Science)",
+                "Zhonghua Lu (Computer Network Information Center, Chinese Academy of Science)",
+                "Yonghong Hu (School of Statistics and Mathematics, Central University of Finance and Economics)",
+                "Fang Liu (National University of Defense Technology)",
+                "Wang Jue (Computer Network Information Center, Chinese Academy of Science)"
+            ],
+            "topics": [
+                "Concurrency",
+                "HPC"
+            ]
+        },
+        {
+            "key": "HPCC_17_048",
+            "title": "FatCBST: Concurrent Binary Search Tree with Fatnodes",
+            "authors": [
+                "Praveen Alapati (Indian Institute of Technology, Madras)",
+                "Venkata Kalyan Tavva (STG Labs, IBM India Pvt. Ltd.)",
+                "Madhu Mutyam (Indian Institute of Technology, Madras)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "HPCC_17_049",
+            "title": "A Cache-Aware Approach to Adaptive Mesh Refinement in Parallel Stencil-based Solvers",
+            "authors": [
+                "Gaurav Saxena (University of Leeds)",
+                "Peter K. Jimack (University of Leeds)",
+                "Mark A. Walkley (University of Leeds)"
+            ],
+            "topics": [
+                "HPC",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "HPCC_17_050",
+            "title": "Sigcon: Simplifying a Graph Based on Degree Correlation and Clustering Coefficient",
+            "authors": [
+                "Hojin Jung (Yonsei University)",
+                "Songkuk Kim (Yonsei University)"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "HPCC_17_051",
+            "title": "User Preference-Based Probability Spreading for Tag-Aware Content Recommendation",
+            "authors": [
+                "Michael Petrifke",
+                "Jan Friedrich",
+                "Christoph Lindemann"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "HPCC_17_052",
+            "title": "Dynamic Learning Optimization Algorithm for P2P-VoD Systems",
+            "authors": [
+                "Amir Nakib",
+                "El-Ghazali Talbi",
+                "Abdelhamid Nafaa"
+            ],
+            "topics": [
+                "Data",
+                "Network"
+            ]
+        },
+        {
+            "key": "HPCC_17_053",
+            "title": "The Paradox of the Shopping Mall: Costumers Flows and Market Efficiency",
+            "authors": [
+                "Massimo Marchiori"
+            ],
+            "topics": []
+        },
+        {
+            "key": "HPCC_17_054",
+            "title": "Lightweight Anonymous RFID Group Ownership Transfer Protocol in Multi-owner Environment",
+            "authors": [
+                "Dali Zhu (Institute of Information Engineering;University of Chinese Academy of Sciences)",
+                "Wenjing Rong (University of Chinese Academy of Sciences)",
+                "Di Wu (University of Chinese Academy of Sciences)",
+                "Na Pang (University of Chinese Academy of Sciences)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "HPCC_17_055",
+            "title": "GAKAV: Group Authentication and Key Agreement for LTE/LTE-A Vehicular Networks",
+            "authors": [
+                "Cheng Xu (Beijing University of Posts and Telecommunications)",
+                "Xiaohong Huang",
+                "Maode Ma",
+                "Hong Bao"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "HPCC_17_056",
+            "title": "The Best Defense Strategy Against Session Hijacking Using Security Game in SDN",
+            "authors": [
+                "Lu Zhenping (NDSC)",
+                "Chen Fucai (National Digital Switching System Engineering & Technological R&D Center)"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "HPCC_17_057",
+            "title": "Block-space GPU Mapping for Embedded Sierpinski Gasket Fractals",
+            "authors": [
+                "Crist\u00f3bal A. Navarro (Universidad Austral de Chile)",
+                "Raimundo Vega (Universidad Austral de Chile)",
+                "Benjam\u00edn Bustos (University of Chile)",
+                "Nancy Hitschfeld (University of Chile)"
+            ],
+            "topics": [
+                "GPGPU",
+                "HPC"
+            ]
+        },
+        {
+            "key": "HPCC_17_058",
+            "title": "Accelerating K-mer Frequency Counting with GPU and Non-Volatile Memory",
+            "authors": [
+                "Nicola Cadenelli (Technical University of Catalonia (UPC) \u2013 Barcelona Supercomputing Center (BSC))",
+                "Jord\u00e0 Polo (Barcelona Supercomputing Center (BSC))",
+                "David Carrera (Technical University of Catalonia (UPC) \u2013 Barcelona Supercomputing Center (BSC))"
+            ],
+            "topics": [
+                "HPC",
+                "GPGPU",
+                "Storage"
+            ]
+        },
+        {
+            "key": "HPCC_17_059",
+            "title": "Automatically Selecting Profitable Thread Block Sizes for Accelerated Kernels",
+            "authors": [
+                "Tiffany Connors (Texas State University)",
+                "Apan Qasem (Texas State University)"
+            ],
+            "topics": [
+                "OS",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "HPCC_17_060",
+            "title": "Integrated Quality Mesh Generation for Poisson Surface Reconstruction in HPC Applications",
+            "authors": [
+                "Han Song (Shanghai Jiao Tong University)",
+                "Yongxin Zhu (Shanghai Jiao Tong University)",
+                "Junjie Hou (Shanghai Jiao Tong University)",
+                "Han Wu (Shanghai Jiao Tong University)",
+                "Long Li (Electric Power Research Institute)",
+                "Qian Wang (Electric Power Research Institute)",
+                "Meikang Qiu (Pace University)"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "HPCC_17_061",
+            "title": "N2DLOF: A New Local Density-Based Outlier Detection Approach for Scattered Data",
+            "authors": [
+                "Shubin Su (Beihang University)",
+                "Limin Xiao (Beihang University)",
+                "Zhoujie Zhang (Beihang University)",
+                "Fei Gu (Beihang University)",
+                "Li Ruan (Beihang University)",
+                "Shupan Li (Beihang University)",
+                "Zhenxue He (Beihang University)",
+                "Zhisheng Huo (Beihang University)",
+                "Baicheng Yan (Beihang University)",
+                "Haitao Wang (Space Star Technology Co., Ltd)"
+            ],
+            "topics": [
+                "Data"
+            ]
+        },
+        {
+            "key": "HPCC_17_062",
+            "title": "Proof of Vote: A High-Performance Consensus Protocol Based on Vote Mechanism & Consortium Blockchain",
+            "authors": [
+                "Kejiao Li (Shenzhen Graduate School, Peking University)",
+                "Hui Li (Shenzhen Graduate School, Peking University)",
+                "Hanxu Hou (Dongguan University of Technology)",
+                "Kedan Li (University of Illinois Urbana-Champaign)",
+                "Yongle Chen (Shenzhen Graduate School, Peking University)"
+            ],
+            "topics": [
+                "Network"
+            ]
+        },
+        {
+            "key": "HPCC_17_063",
+            "title": "Enabling Interactive Video Streaming for Public Safety Monitoring Through Batch Scheduling",
+            "authors": [
+                "Matin Hosseini (University of Louisiana at Lafayette)",
+                "Mohsen Amini Salehi (University of Louisiana at Lafayette)",
+                "Raju Gottumukkala (University of Louisiana at Lafayette)"
+            ],
+            "topics": [
+                "Network",
+                "OS"
+            ]
+        },
+        {
+            "key": "HPCC_17_064",
+            "title": "Periodic Scheduling of Profiling-Based Floating-Window Bandwidth Reservations for Scientific Collaboration",
+            "authors": [
+                "Yongqiang Wang (Northwest University)",
+                "Chase Wu (New Jersey Institute of Technology)",
+                "Aiqin Hou (Northwest University)"
+            ],
+            "topics": [
+                "OS",
+                "Benchmark",
+                "HPC"
+            ]
+        },
+        {
+            "key": "HPCC_17_065",
+            "title": "Optimal Energy-Aware Scheduling in VFI-enabled Multicore Systems",
+            "authors": [
+                "Shervin Hajiamini (Washington State University)",
+                "Behrooz Shirazi (Washington State University)",
+                "Chris Cain (Washington State University)",
+                "Dongbo Hong (Washington State University)"
+            ],
+            "topics": [
+                "Energy",
+                "OS",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "HPCC_17_066",
+            "title": "Virtual Machine Provisioning for Applications with Multiple Deadlines in Resource-Constrained Clouds",
+            "authors": [
+                "Rehana Begam (The University of Texas at San Antonio)",
+                "Wei Wang (The University of Texas at San Antonio)",
+                "Dakai Zhu (The University of Texas at San Antonio)"
+            ],
+            "topics": [
+                "VM",
+                "OS",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "HPCC_17_067",
+            "title": "Guarantee-Aware Cost Effective Virtual Machine Placement Algorithm for the Cloud",
+            "authors": [
+                "Long Li (Electric Power Research Institute)",
+                "Ke Liu (Institute of Computing Technology, Chinese Academy of Sciences)"
+            ],
+            "topics": [
+                "VM",
+                "OS",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "HPCC_17_068",
+            "title": "Cost-Efficient Big Intermediate Data Placement in a Collaborative Cloud Storage Environment",
+            "authors": [
+                "Sonia Ikken (Telecom Sudparis)",
+                "Eric Renault (Telecom Sudparis)",
+                "Amine Barkat (Universite de Bejaia)",
+                "Tahar Kechadi (University of California, Davis)",
+                "Abdelkamel Tari (Universite de Bejaia)"
+            ],
+            "topics": [
+                "OS",
+                "Cloud",
+                "Storage"
+            ]
+        },
+        {
+            "key": "HPCC_17_069",
+            "title": "Sherlock: Lightweight Detection of Performance Interference in Containerized Cloud Services",
+            "authors": [
+                "Kartik Joshi (Indian Institute of Technology, Madras)",
+                "Arun Raj (Indian Institute of Technology, Madras)",
+                "Dharanipragada Janakiram (Indian Institute of Technology, Madras)"
+            ],
+            "topics": [
+                "VM",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "HPCC_17_070",
+            "title": "vScope: A Fine-Grained Approach to Schedule vCPUs in NUMA Systems",
+            "authors": [
+                "Qingtian Gan (Huazhong University of Science and Technology)",
+                "Song Wu (Huazhong University of Science and Technology)",
+                "Hai Jin (Huazhong University of Science and Technology)",
+                "Kun Wang (Huazhong University of Science and Technology)"
+            ],
+            "topics": [
+                "OS",
+                "VM",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "HPCC_17_071",
+            "title": "A Diskless Checkpointing Scheme Based on Vertical Encoding to Lower Fault Tolerance Overhead",
+            "authors": [
+                "Jinmin Yang (Hunan University)",
+                "Enquan Yan (Hunan University)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "HPCC_17_072",
+            "title": "Rejuvenating Shadows: Fault Tolerance with Forward Recovery",
+            "authors": [
+                "Xiaolong Cui (University of Pittsburgh)",
+                "Taieb Znati (University of Pittsburgh)",
+                "Rami Melhem (University of Pittsburgh)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "HPCC_17_073",
+            "title": "File Aware Wear Leveling for PCM-based Mobile Consumer Electronics",
+            "authors": [
+                "Zheng Zhang (Huazhong University of Science and Technology)",
+                "Dan Feng (Huazhong University of Science and Technology)",
+                "Zhipeng Tan (Huazhong University of Science and Technology)",
+                "Jianxi Chen (Wuhan National Laboratory for Optoelectronics and Huazhong University of Science and Technology)",
+                "Wei Zhou (Huazhong University of Science and Technology)",
+                "Laurence T Yang (St. Francis Xavier University)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "HPCC_17_074",
+            "title": "A Load-Aware Data Migration Scheme for Distributed Surveillance Video Processing with Hybrid Storage Architecture",
+            "authors": [
+                "Yangyang Gao (Beijing University of Posts and Telecommunications)",
+                "Haitao Zhang (Beijing University of Posts and Telecommunications)",
+                "Yanpei Zhu (Beijing University of Posts and Telecommunications)",
+                "Bingchang Tang (Beijing University of Posts and Telecommunications)",
+                "Huadong Ma (Beijing University of Posts and Telecommunications)"
+            ],
+            "topics": [
+                "OS",
+                "Concurrency",
+                "Storage"
+            ]
+        },
+        {
+            "key": "HPCC_17_075",
+            "title": "Adaptive Deadlock Detection and Resolution in Real-Time Distributed Environments",
+            "authors": [
+                "Waqar Haque (University of Northern British Columbia)",
+                "Matthew Fontaine (University of Northern British Columbia)",
+                "Adam Vezina (University of Northern British Columbia)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "HPCC_17_076",
+            "title": "A Time-aware Programming Framework for Constructing Predictable Real-Time Systems",
+            "authors": [
+                "Bo Wan (University of Science and Technology of China)",
+                "Xi Li (University of Science and Technology of China)",
+                "Haizhao Luo (University of Science and Technology of China)",
+                "Kaiqi Zhou (University of Science and Technology of China)",
+                "Chao Wang",
+                "Xianlan Chen (University of Science and Technology of China)",
+                "Xuehai Zhou (University of Science and Technology of China)"
+            ],
+            "topics": [
+                "Compilers"
+            ]
+        },
+        {
+            "key": "HPCC_17_077",
+            "title": "Time Mode Based Next Position Prediction System",
+            "authors": [
+                "Chongsheng Yu (Shandong University)",
+                "Xin Li (Shandong University)",
+                "Lei Ju (Shandong University)",
+                "Yu Zhang (Shandong University)",
+                "Jian Qin (Shandong University)",
+                "Lei Dou (Shandong University)",
+                "Jie Lu (Shandong University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "HPCC_17_078",
+            "title": "A Cost Efficient Design of a Multi-Sink Multi-Controller WSN in a Smart Factory",
+            "authors": [
+                "Hamid Reza Faragardi (Malardalen University)",
+                "Hossein Fotouhi (Malardalen University)",
+                "Thomas Nolte (Malardalen University)",
+                "Rahim Rahmani (Stockholm University)"
+            ],
+            "topics": []
+        }
+    ]
+}

@@ -1,0 +1,428 @@
+{
+    "key": "PACT_17",
+    "conference": "International Conference on Parallel Architectures and Compilation Techniques",
+    "organization": [
+        "IEEE",
+        "ACM"
+    ],
+    "country": "US",
+    "postdate": "2017-09-11",
+    "last_deadline": "2017-03-14",
+    "review_days": 50,
+    "submissions": 108,
+    "min_reviews": 5,
+    "total_reviews": 540,
+    "double_blind": true,
+    "rebuttal": true,
+    "open_access": false,
+    "age": 25,
+    "past_papers": 977,
+    "past_citations": 9236,
+    "h5_index": 33,
+    "h5_median": 45,
+    "notes": "Each paper got 4 PC reviews and one from the ERC. 5 of the papers received an 'artifact evaluated' badge.",
+    "pc_chairs": [
+        "David Padua (UIUC)"
+    ],
+    "pc_members": [
+        "Albert Cohen (INRIA)",
+        "Ananth Grama (Purdue University)",
+        "Andreas Kloeckner (University of Illinois at Urbana-Champaign)",
+        "Andrew Lumsdaine (Pacific Northwest National Lab/University of Washington)",
+        "Angeles G. Navarro (Universidad de M\u00e1laga)",
+        "Antony Hosking (The Australian National University/Data61)",
+        "Cristina Silvano (Politecnico di Milano)",
+        "David Gregg (Trinity College Dublin)",
+        "Edgar Solomonik (University of Illinois at Urbana-Champaign)",
+        "Francois Irigoin (MINES Paris Tech)",
+        "Franz Franchetti (Carnegie Mellon University)",
+        "Gagan Agrawal (Ohio State University)",
+        "George Karypis (University of Minnesota)",
+        "Jaejin Lee (Seoul National University)",
+        "Kei Hiraki (The University of Tokyo)",
+        "Keshav Pingali (The University of Texas at Austin)",
+        "Lawrence Rauchwerger (Texas A&M University)",
+        "Mar\u00eda Jes\u00fas Garzar\u00e1n (University of Illinois, USA)",
+        "Michael Burke (Rice University)",
+        "Michel Dubois (University of Southern California)",
+        "P. Sadayappan (Ohio State University)",
+        "Per Stenstr\u00f6m (Chalmers University of Technology)",
+        "R. Govindarajan (Indian Institute of Science, Bangalore)",
+        "Rafael Asenjo (Universidad de M\u00e1laga)",
+        "Rajiv Gupta (University of California, Riverside)",
+        "Ron Cytron (Washington University)",
+        "Saeed Maleki (Microsoft Research)",
+        "Sanjay Rajopadhye (Colorado State University)",
+        "Srinivas Aluru (Georgia Tech)",
+        "Todd Gamblin (Lawrence Livermore National Laboratory)",
+        "Xipeng Shen (North Carolina State University)",
+        "Yunheung Paek (Seoul National University)",
+        "Zehra Sura (IBM Research)"
+    ],
+    "keynote_speakers": [
+        "Marc Tremblay (Microsoft)",
+        "P. Sadayappan",
+        "Pradeep Dubey (Intel)"
+    ],
+    "session_chairs": [
+        "Ravi Iyer (Intel)",
+        "Xipeng Shen (North Carolina State)",
+        "Jaejin Lee (Seoul National University)",
+        "Omesh Tickoo (Intel)",
+        "David Padua (Illinois)",
+        "Lawrence Rauchwerger (Texas A&M)",
+        "Kemal Ebcio\u011flu (Global Supercomputing)",
+        "Nilesh Jain (Intel)",
+        "Srinivas Aluru (Georgia Tech)",
+        "Vijay Janapa Reddi (UT Austin)",
+        "Francois Irigoin (MINES Paris Tech)",
+        "David Padua (Illinois)",
+        "Vijay Janapa Reddi (UT Austin)"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "PACT_17_001",
+            "title": "RCU-HTM: Combining RCU with HTM to Implement Highly Efficient Concurrent Binary Search Trees",
+            "authors": [
+                "Dimitrios Siakavaras",
+                "Konstantinos Nikas",
+                "Georgios Goumas",
+                "Nectarios Koziris (National Technical University of Athens)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Architecture"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PACT_17_002",
+            "title": "Redesigning Go's Built-In Map to Support Concurrent Operations",
+            "authors": [
+                "Louis Jenkins (Bloomsburg University)",
+                "Tingzhe Zhou (Lehigh University)",
+                "Michael Spear (Lehigh University)"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PACT_17_003",
+            "title": "MultiGraph: Efficient Graph Processing on GPUs",
+            "authors": [
+                "Changwan Hong",
+                "Aravind Sukumaran-Rajam",
+                "Jinsung Kim",
+                "P. Sadayappan (The Ohio State University)"
+            ],
+            "topics": [
+                "Data",
+                "GPGPU"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PACT_17_004",
+            "title": "An Ultra Low-power Hardware Accelerator for Acoustic Scoring in Speech Recognition",
+            "authors": [
+                "Hamid Tabani",
+                "Jose Maria Arnau",
+                "Jordi Tubella",
+                "Antonio Gonzalez (Universitat Polit\u00e8cnica de Catalunya)"
+            ],
+            "topics": [
+                "Energy",
+                "Architecture",
+                "GPGPU",
+                "Data"
+            ]
+        },
+        {
+            "key": "PACT_17_005",
+            "title": "DrMP: Mixed Precision-aware DRAM for High Performance Approximate and Precise Computing",
+            "authors": [
+                "Xianwei Zhang",
+                "Youtao Zhang",
+                "Bruce R. Childers",
+                "Jun Yang (University of Pittsburgh)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "PACT_17_006",
+            "title": "SAM: Optimizing Multithreaded Cores for Speculative Parallelism",
+            "authors": [
+                "Maleen Abeydeera",
+                "Suvinay Subramanian",
+                "Mark C. Jeffrey (MIT)",
+                "Joel Emer (MIT/Nvidia)",
+                "Daniel Sanchez (MIT)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Energy"
+            ]
+        },
+        {
+            "key": "PACT_17_007",
+            "title": "Performance Improvement via Always-Abort HTM",
+            "authors": [
+                "Joseph Izraelevitz (University of Rochester)",
+                "Lingxiang Xiang (Intel Corporation)",
+                "Michael L. Scott (University of Rochester)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "PACT_17_008",
+            "title": "DRUT: An Efficient Turbo Boost Solution via Load Balancing in Decoupled Look-ahead Architecture",
+            "authors": [
+                "Raj Parihar (Cadence Design Systems)",
+                "Michael C. Huang (University of Rochester)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "PACT_17_009",
+            "title": "Proxy Benchmarks for Emerging Big-data Workloads",
+            "authors": [
+                "Reena Panda",
+                "Lizy K. John (University of Texas at Austin)"
+            ],
+            "topics": [
+                "Benchmark",
+                "Data"
+            ]
+        },
+        {
+            "key": "PACT_17_010",
+            "title": "Lightweight Provenance Service for High Performance Computing",
+            "authors": [
+                "Dong Dai",
+                "Yong Chen (Texas Tech University)",
+                "Philip Carns",
+                "Jonathan Jenkins",
+                "Robert B. Ross (Argonne National Laboratory)"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "PACT_17_011",
+            "title": "Nexus: A New Approach to Replication in Distributed Shared Caches",
+            "authors": [
+                "Po-An Tsai (MIT)",
+                "Nathan Beckmann (CMU)",
+                "Daniel Sanchez (MIT)"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PACT_17_012",
+            "title": "Leeway: Addressing Variability in Dead-Block Prediction for Last-Level Caches",
+            "authors": [
+                "Priyank Faldu",
+                "Boris Grot (University of Edinburgh)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "PACT_17_013",
+            "title": "Application Clustering Policies to Address System Fairness with Intel's Cache Allocation Technology",
+            "authors": [
+                "Vicent Selfa",
+                "Julio Sahuquillo (Universitat Polit\u00e8cnica de Val\u00e8ncia)",
+                "Lieven Eeckhout (UGENT)",
+                "Salvador Petit",
+                "Maria E. G\u00f3mez (Universitat Polit\u00e8cnica de Val\u00e8ncia)"
+            ],
+            "topics": [
+                "OS",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "PACT_17_014",
+            "title": "Transparent Dual Memory Compression Architecture",
+            "authors": [
+                "Seikwon Kim",
+                "Seonyoung Lee",
+                "Taehoon Kim",
+                "Jaehyuk Huh (KAIST)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "PACT_17_015",
+            "title": "End-to-end Deep Learning of Optimization Heuristics",
+            "authors": [
+                "Chris Cummins",
+                "Pavlos Petoumenos (University of Edinburgh)",
+                "Zheng Wang (Lancaster University)",
+                "Hugh Leather (University of Edinburgh)"
+            ],
+            "topics": [
+                "Data",
+                "Compilers"
+            ],
+            "award": true,
+            "artifact": true
+        },
+        {
+            "key": "PACT_17_016",
+            "title": "Graphie: Large-Scale Asynchronous Graph Traversals on Just a GPU",
+            "authors": [
+                "Wei Han",
+                "Daniel Mawhirter",
+                "Bo Wu (Colorado School of Mines)",
+                "Matthew Buland (Salesforce)"
+            ],
+            "topics": [
+                "Data",
+                "GPGPU"
+            ],
+            "award": true,
+            "artifact": true
+        },
+        {
+            "key": "PACT_17_017",
+            "title": "A GPU-Friendly Skiplist Algorithm",
+            "authors": [
+                "Nurit Moscovici (Technion)",
+                "Nachshon Cohen (EPFL)",
+                "Erez Petrank (Technion)"
+            ],
+            "topics": [
+                "GPGPU"
+            ],
+            "award": true
+        },
+        {
+            "key": "PACT_17_018",
+            "title": "Sthira: A Formal Approach to Minimize Voltage Guardbands under Variation in Networks-on-Chip for Energy Efficiency",
+            "authors": [
+                "Raghavendra Pradyumna Pothukuchi (UIUC)",
+                "Amin Ansari (Qualcomm)",
+                "Bhargava Gopireddy",
+                "Josep Torrellas (UIUC)"
+            ],
+            "topics": [
+                "Architecture",
+                "Network",
+                "Energy"
+            ],
+            "award": true
+        },
+        {
+            "key": "PACT_17_019",
+            "title": "Avoiding TLB Shootdowns through Self-invalidating TLB Entries",
+            "authors": [
+                "Amro Awad (Sandia National Laboratories)",
+                "Arkaprava Basu (AMD Research)",
+                "Sergey Blagodurov (AMD Research)",
+                "Yan Solihin (North Carolina State University)",
+                "Gabriel H. Loh (AMD Research)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "PACT_17_020",
+            "title": "Weak Memory Models: Balancing Definitional Simplicity and Implementation Flexibility",
+            "authors": [
+                "Sizhuo Zhang (MIT)",
+                "Muralidaran Vijayaraghavan (MIT)",
+                "Arvind (MIT)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "PACT_17_021",
+            "title": "Near-Memory Address Translation",
+            "authors": [
+                "Javier Picorel (EPFL)",
+                "Djordje Jevdjic (University of Washington)",
+                "Babak Falsafi (EPFL)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "PACT_17_022",
+            "title": "Efficient Checkpointing of Loop-Based Codes for Non-Volatile Main Memory",
+            "authors": [
+                "Hussein Elnawawy",
+                "Mohammad Alshboul",
+                "James Tuck",
+                "Yan Solihin (North Carolina State University)"
+            ],
+            "topics": [
+                "Architecture",
+                "Storage",
+                "HPC"
+            ]
+        },
+        {
+            "key": "PACT_17_023",
+            "title": "SuperGraph-SLP Auto-Vectorization",
+            "authors": [
+                "Vasileios Porpodas (Intel Corporation)"
+            ],
+            "topics": [
+                "Concurrency",
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PACT_17_024",
+            "title": "Exploiting Asymmetric SIMD Register Configurations in ARM-to-x86 Dynamic Binary Translation",
+            "authors": [
+                "Yu-Ping Liu (National Taiwan University)",
+                "Ding-Yong Hong",
+                "Jan-Jan Wu (Academia Sinica)",
+                "Sheng-Yu Fu",
+                "Wei-Chung Hsu (National Taiwan University)"
+            ],
+            "topics": [
+                "Architecture",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "PACT_17_025",
+            "title": "A Generalized Framework for Automatic Scripting Language Parallelization",
+            "authors": [
+                "Taewook Oh",
+                "Stephen R. Beard",
+                "Nick P. Johnson",
+                "Sergiy Popovych",
+                "David I. August (Princeton University)"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ]
+        }
+    ]
+}

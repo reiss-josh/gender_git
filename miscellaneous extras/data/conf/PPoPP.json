@@ -1,0 +1,512 @@
+{
+    "key": "PPoPP_17",
+    "conference": "SIGPLAN Symposium on Principles and Practice of Parallel Programming",
+    "organization": [
+        "ACM"
+    ],
+    "country": "US",
+    "postdate": "2017-02-04",
+    "last_deadline": "2016-08-01",
+    "review_days": 103,
+    "submissions": 132,
+    "min_reviews": 4,
+    "total_reviews": 660,
+    "double_blind": true,
+    "rebuttal": true,
+    "open_access": false,
+    "age": 29,
+    "past_papers": 862,
+    "past_citations": 11045,
+    "h5_index": 34,
+    "h5_median": 50,
+    "notes": "Almost all papers received 4 reviews in the first phase. After a formal rebuttal phase, about half or less proceeded to the 2nd phase, where they got 2 more reviews. Authors can optionally submit their work for artifact evaluation by a separate committee, receiving a seal of approval on the paper if successful.",
+    "pc_chairs": [
+        "Lawrence Rauchwerger (Texas A&M University)"
+    ],
+    "pc_members": [
+        "Nancy Amato (Texas A&M University)",
+        "I-Ting Angelina Lee (Washington University in St. Louis)",
+        "Mark Batty (University of Kent)",
+        "George Bosilca (University of Tennessee)",
+        "Milind Chabbi (Hewlet Packard)",
+        "Robert Clay (Sandia National Laboratories)",
+        "Albert Cohen (INRIA)",
+        "David Dice (Oracle)",
+        "Sandhya Dwarkadas (University of Rochester)",
+        "Elmootazbellah Elnozahy (King Abdullah University of Science and Technology (Saudi Arabia))",
+        "Mar\u00eda Jes\u00fas Garzar\u00e1n (University of Illinois, USA)",
+        "Seth Copen Goldstein (Carnegie Mellon University)",
+        "R. Govindarajan (Indian Institue of Science, Bangalore)",
+        "Mary Hall (University of Utah)",
+        "Tim Harris (Oracle)",
+        "Akihiro Hayashi (Rice University)",
+        "Yuxiong He (Microsoft)",
+        "Bruce Hendrickson (Sandia National Laboratories)",
+        "Jeff Huang (Texas A&M University)",
+        "Hironori Kasahara (Waseda University)",
+        "Paul H J Kelly (Imperial College London)",
+        "Alex Kogan (Oracle)",
+        "Doug Lea (State University of New York SUNY Oswego)",
+        "Jaejin Lee (Seoul National University)",
+        "Paul E. McKenney (IBM)",
+        "Kathryn S. McKinley (Microsoft)",
+        "John Mellor-Crummey (Rice University)",
+        "Samuel Midkiff (Purdue University)",
+        "Adam Morrison (Tel Aviv University)",
+        "Satish Narayanasamy (University of Michigan)",
+        "Cosmin Oancea (DIKU, University of Copenhagen)",
+        "Kunle Olukotun (Stanford University)",
+        "David Padua (University of Illinois at Urbana-Champaign)",
+        "Erez Petrank (Technion)",
+        "Keshav Pingali (University of Texas, Austin)",
+        "Lawrence Rauchwerger (Texas A&M University)",
+        "Martin Rinard (MIT)",
+        "P. Sadayappan (Ohio State University)",
+        "Michael L. Scott (University of Rochester)",
+        "Tatiana Shpeisman (Intel)",
+        "Armando Solar-Lezama (MIT)",
+        "Jeffrey S. Vetter (Oak Ridge National Laboratory)",
+        "Uzi Vishkin (University of Maryland)",
+        "Chenggang Wu (Institute of Computing Technology, Chinese Academy of Science)"
+    ],
+    "keynote_speakers": [
+        "Guy Steele (Oracle)",
+        "Stephen Keckler (NVidia)",
+        "Frank Seide (Microsoft)"
+    ],
+    "session_chairs": [
+        "Keshav Pingali",
+        "Michael Scott",
+        "Milind Chabbi",
+        "I-Ting Angelina Lee (Washington University in St. Louis)",
+        "Lawrence Rauchwerger",
+        "P. Sadayappan (Ohio State University)",
+        "Samuel Midkiff",
+        "Elmootazbellah Nabil Elnozahy"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "PPoPP_17_001",
+            "title": "Pagoda: Fine-Grained GPU Resource Virtualization for Narrow Tasks",
+            "authors": [
+                "Tsung Tai Yeh",
+                "Amit Sabne",
+                "Putt Sakdhnagool",
+                "Rudolf Eigenmann",
+                "Timothy G. Rogers"
+            ],
+            "topics": [
+                "GPGPU"
+            ],
+            "award": true,
+            "artifact": true
+        },
+        {
+            "key": "PPoPP_17_002",
+            "title": "Tapir: Embedding Fork-Join Parallelism into LLVM's Intermediate Representation",
+            "authors": [
+                "Tao B. Schardl",
+                "William S. Moses",
+                "Charles E. Leiserson"
+            ],
+            "topics": [
+                "Concurrency",
+                "Compilers"
+            ],
+            "award": true,
+            "artifact": true
+        },
+        {
+            "key": "PPoPP_17_003",
+            "title": "Groute: An Asynchronous Multi-GPU Programming Model for Irregular Computations",
+            "authors": [
+                "Tal Ben-Nun",
+                "Michael Sutton",
+                "Sreepathi Pai",
+                "Keshav Pingali"
+            ],
+            "topics": [
+                "GPGPU"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PPoPP_17_004",
+            "title": "Self-Checkpoint: An In-Memory Checkpoint Method Using Less Space and Its Practice on Fault-Tolerant HPL",
+            "authors": [
+                "Xiongchao Tang",
+                "Jidong Zhai",
+                "Bowen Yu",
+                "Wenguang Chen",
+                "Weimin Zheng"
+            ],
+            "topics": [
+                "HPC"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PPoPP_17_005",
+            "title": "SC-Haskell: Sequential Consistency in Languages that Minimize Mutable Shared Heap",
+            "authors": [
+                "Michael Vollmer",
+                "Ryan G. Scott",
+                "Madan Musuvathi",
+                "Ryan R. Newton"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PPoPP_17_006",
+            "title": "Synchronized-by-Default Concurrency for Shared Memory Systems",
+            "authors": [
+                "Martin B\u00e4ttig",
+                "Thomas R. Gross"
+            ],
+            "topics": [
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PPoPP_17_007",
+            "title": "Checking Concurrent Data Structures Under the C/C++11 Memory Model",
+            "authors": [
+                "Peizhao Ou",
+                "Brian Demsky"
+            ],
+            "topics": [
+                "Concurrency",
+                "Compilers"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PPoPP_17_008",
+            "title": "An Efficient Abortable-locking Protocol for Multi-level NUMA Systems",
+            "authors": [
+                "Milind Chabbi",
+                "Halim Amer",
+                "Shasha Wen",
+                "Xu Liu"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PPoPP_17_009",
+            "title": "Silent Data Corruption Resilient Two-sided Matrix Factorizations",
+            "authors": [
+                "Panruo Wu",
+                "Nathan DeBardeleben",
+                "Qiang Guan",
+                "Sean Blanchard",
+                "Jieyang Chen",
+                "Dingwen Tao",
+                "Xin Liang",
+                "Kaiming Ouyang",
+                "Sihuan Li",
+                "Zizhong Chen"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "PPoPP_17_010",
+            "title": "Function Call Re-Vectorization",
+            "authors": [
+                "Rubens Emilio",
+                "Sylvain Collange",
+                "Fernando Magno Quint\u00e3o Pereira"
+            ],
+            "topics": [
+                "Compilers",
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PPoPP_17_011",
+            "title": "Eunomia: Scaling Concurrent Search Trees under Contention Using HTM",
+            "authors": [
+                "Xin Wang",
+                "Weihua Zhang",
+                "Zhaoguo Wang",
+                "Ziyun Wei",
+                "Haibo Chen",
+                "Wenyun Zhao"
+            ],
+            "topics": [
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PPoPP_17_012",
+            "title": "Layout Lock: A Scalable Locking Paradigm for Concurrent Data Layout Modifications",
+            "authors": [
+                "Nachshon Cohen",
+                "Arie Tal",
+                "Erez Petrank"
+            ],
+            "topics": [
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PPoPP_17_013",
+            "title": "Understanding the GPU Microarchitecture to Achieve Bare-Metal Performance Tuning",
+            "authors": [
+                "Xiuxia Zhang",
+                "Guangming Tan",
+                "Shuangbai Xue",
+                "Jiajia Li",
+                "Keren Zhou",
+                "Mingyu Chen"
+            ],
+            "topics": [
+                "Benchmark",
+                "GPGPU"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PPoPP_17_014",
+            "title": "EffiSha: A Software Framework for Enabling Efficient Preemptive Scheduling of GPU",
+            "authors": [
+                "Guoyang Chen",
+                "Yue Zhao",
+                "Xipeng Shen",
+                "Huiyang Zhou"
+            ],
+            "topics": [
+                "Concurrency",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "PPoPP_17_015",
+            "title": "Simple, Accurate, Analytical Time Modeling and Optimal Tile Size Selection for GPGPU Stencils",
+            "authors": [
+                "Nirmal Prajapati",
+                "Waruna Ranasinghe",
+                "Sanjay Rajopadhye",
+                "Rumen Andonov",
+                "Hristo Djidjev",
+                "Tobias Grosser"
+            ],
+            "topics": [
+                "Benchmark",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "PPoPP_17_016",
+            "title": "Using Butterfly-Patterned Partial Sums to Draw from Discrete Distributions",
+            "authors": [
+                "Guy L. Steele Jr.",
+                "Jean-Baptiste Tristan"
+            ],
+            "topics": [
+                "Benchmark",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PPoPP_17_017",
+            "title": "Exploiting Vector and Multicore Parallelism for Recursive Data- and Task-Parallel Programs",
+            "authors": [
+                "Bin Ren",
+                "Sriram Krishnamoorthy",
+                "Kunal Agrawal",
+                "Milind Kulkarni"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PPoPP_17_018",
+            "title": "Thread Data Sharing in Cache: Theory and Measurement",
+            "authors": [
+                "Hao Luo",
+                "Chen Ding"
+            ],
+            "topics": [
+                "Benchmark",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PPoPP_17_019",
+            "title": "Combining SIMD and Many/Multi-core Parallelism for Finite State Machines with Enumerative Speculation",
+            "authors": [
+                "Peng Jiang",
+                "Gagan Agrawal"
+            ],
+            "topics": [
+                "Concurrency",
+                "GPGPU"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PPoPP_17_020",
+            "title": "KiWi: A Key-Value Map for Scalable Real-Time Analytics",
+            "authors": [
+                "Dmitry Basin",
+                "Edward Bortnikov",
+                "Anastasia Braginsky",
+                "Guy Golan Gueta",
+                "Eshcar Hillel",
+                "Idit Keidar",
+                "Moshe Sulamy"
+            ],
+            "topics": [
+                "DB",
+                "Data"
+            ]
+        },
+        {
+            "key": "PPoPP_17_021",
+            "title": "Noise Injection Techniques to Expose Subtle and Unintended Message Races",
+            "authors": [
+                "Kento Sato",
+                "Dong H. Ahn",
+                "Ignacio Laguna",
+                "Gregory L. Lee",
+                "Martin Schulz",
+                "Christopher M. Chambreau"
+            ],
+            "topics": [
+                "Benchmark",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PPoPP_17_022",
+            "title": "Contention in Structured Concurrency: Provably Efficient Dynamic Non-Zero Indicators for Nested Parallelism",
+            "authors": [
+                "Umut A. Acar",
+                "Naama Ben-David",
+                "Mike Rainey"
+            ],
+            "topics": [
+                "Benchmark",
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PPoPP_17_023",
+            "title": "Processor-Oblivious Record and Replay",
+            "authors": [
+                "Robert Utterback",
+                "Kunal Agrawal",
+                "I-Ting Angelina Lee",
+                "Milind Kulkarni"
+            ],
+            "topics": [
+                "Benchmark",
+                "Concurrency"
+            ],
+            "artifact": true
+        },
+        {
+            "key": "PPoPP_17_024",
+            "title": "Model-based Iterative CT Image Reconstruction on GPUs",
+            "authors": [
+                "Amit Sabne",
+                "Xiao Wang",
+                "Sherman Kisner",
+                "Charles Bouman",
+                "Anand Raghunathan",
+                "Samuel Midkiff"
+            ],
+            "topics": [
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "PPoPP_17_025",
+            "title": "A Multicore Path to Connectomics-on-Demand",
+            "authors": [
+                "Alexander Matveev",
+                "Yaron Meirovitch",
+                "Hayk Saribekyan",
+                "Wiktor Jakubiuk",
+                "Timothy Kaler",
+                "Gergely Odor",
+                "David Budden",
+                "Aleksandar Zlateski",
+                "Nir Shavit"
+            ],
+            "topics": [
+                "Concurrency",
+                "Data"
+            ]
+        },
+        {
+            "key": "PPoPP_17_026",
+            "title": "Optimizing the Four-Index Integral Transform Using Data Movement Lower Bounds Analysis",
+            "authors": [
+                "Samyam Rajbhandari",
+                "Fabrice Rastello",
+                "Sriram Krishnamoorthy",
+                "Karol Kowalski",
+                "P. Sadayappan"
+            ],
+            "topics": [
+                "HPC"
+            ]
+        },
+        {
+            "key": "PPoPP_17_027",
+            "title": "S-Caffe: Co-designing MPI Runtimes and Caffe for Scalable Deep Learning on Modern GPU Clusters",
+            "authors": [
+                "Ammar Ahmad Awan",
+                "Khaled Hamidouche",
+                "Jahanzeb Maqbool Hashmi",
+                "Dhabaleswar K. Panda"
+            ],
+            "topics": [
+                "Network",
+                "Data",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "PPoPP_17_028",
+            "title": "Isoefficiency in Practice: Configuring and Understanding the Performance of Task-based Applications",
+            "authors": [
+                "Sergei Shudler",
+                "Alexandru Calotoiu",
+                "Torsten Hoefler",
+                "Felix Wolf"
+            ],
+            "topics": [
+                "HPC",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "PPoPP_17_029",
+            "title": "Grammar-aware Parallelization for Scalable XPath Querying",
+            "authors": [
+                "Lin Jiang",
+                "Zhijia Zhao"
+            ],
+            "topics": [
+                "Concurrency"
+            ]
+        }
+    ]
+}

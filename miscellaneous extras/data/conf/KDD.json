@@ -1,0 +1,1152 @@
+{
+    "key": "KDD_17",
+    "conference": "SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "organization": [
+        "ACM"
+    ],
+    "country": "CA",
+    "postdate": "2017-08-15",
+    "last_deadline": "2017-02-17",
+    "review_days": 91,
+    "submissions": 747,
+    "min_reviews": 3,
+    "total_reviews": 2986,
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": false,
+    "age": 19,
+    "past_papers": 3814,
+    "past_citations": 64359,
+    "h5_index": 73,
+    "h5_median": 112,
+    "notes": "Included only research track papers. Authors were strongly encouraged to share their data and code for reproducibility. All papers had a meta-review by SPC member, and 96%+ had at least 4 reviews. The best reviewer award went to Karthik Raman, Kevin Small, Zoran Obradovic, and Pauli Miettinen",
+    "pc_chairs": [
+        "Ravi Kumar (Google)",
+        "Tina Eliassi-Rad (Northeastern University)"
+    ],
+    "pc_members": [
+        "Naoki Abe (IBM Research)",
+        "Arindam Banerjee (University of Minnesota)",
+        "Paul N. Bennett (Microsoft Research)",
+        "Tanya Berger-Wolf (Department of Computer Science, University of Illinois at Chicago)",
+        "Wray Buntine (Monash University)",
+        "James Caverlee (Texas A&M University)",
+        "Hong Cheng (The Chinese University of Hong Kong)",
+        "Flavio Chierichetti (Sapienza University)",
+        "Diane Cook (Washington State University)",
+        "Cristian Danescu-Niculescu-Mizil (Cornell University)",
+        "Anirban Dasgupta (IIT Gandhinagar)",
+        "Ian Davidson (U.C. Davis)",
+        "Martin Ester (SFU)",
+        "Peter Flach (University of Bristol)",
+        "Benjamin C. M. Fung (McGill University)",
+        "Johannes F\u00fcrnkranz (TU Darmstadt)",
+        "Thomas Gaertner (University of Nottingham)",
+        "Aristides Gionis (Aalto University)",
+        "David F. Gleich (Purdue University)",
+        "Dimitrios Gunopulos (University of Athens)",
+        "Stratis Ioannidis (Northeastern University)",
+        "Panos Ipeirotis (New York University)",
+        "George Karypis (University of Minnesota)",
+        "Eamonn Keogh (UC Riverside)",
+        "Tamara G. Kolda (Sandia National Laboratories)",
+        "Jure Leskovec (Stanford)",
+        "Edo Liberty (Yahoo Labs)",
+        "Chih-Jen Lin (National Taiwan University)",
+        "Tie-Yan Liu (Microsoft Research Asia)",
+        "Qiaozhu Mei (University of Michigan)",
+        "Katharina Morik (TU Dortmund)",
+        "Benjamin Moseley (Washington University in St. Louis)",
+        "Siegfried Nijssen (Katholieke Universiteit Leuven)",
+        "Srinivasan Parthasarathy (Ohio State University)",
+        "B. Aditya Prakash (Virginia Tech)",
+        "Matteo Riondato (Two Sigma Investments, LP)",
+        "Arno Siebes (Universiteit Utrecht)",
+        "Ambuj Singh (University of California, Santa Barbara)",
+        "Yizhou Sun (UCLA)",
+        "Jie Tang (Tsinghua University)",
+        "Dacheng Tao (The Hong Kong Polytechnic University)",
+        "Evimaria Terzi (Boston University)",
+        "Charalampos Tsourakakis (Harvard University)",
+        "Sergei Vassilvitskii (Google)",
+        "Tim Weninger (University of Notre Dame)",
+        "David P. Woodruff (IBM Almaden)",
+        "Elad Yom-Tov (Microsoft Research)",
+        "Jeffrey Xu Yu (Department of Systems Engineering & Engineering Management, Chinese University of Hong Kong)",
+        "Yisong Yue (California Institute of Technology)",
+        "Mohammed Zaki (RPI)",
+        "Bruno Abrahao (Stanford University)",
+        "Tim Althoff (Stanford University)",
+        "Aris Anagnostopoulos (Sapienza University of Rome)",
+        "Ira Assent (Aarhus University)",
+        "Renato Assuncao (Universidade Federal de Minas Gerais)",
+        "Stephen Bach (Stanford University)",
+        "Mohammad Taha Bahadori (Georgia Institute of Technology)",
+        "Eric Balkanski (Harvard University)",
+        "Richard Baraniuk (Rice University)",
+        "Nicola Barbieri (Tumblr)",
+        "Senjuti Basu Roy (New Jersey Institute of Technology)",
+        "Gustavo Batista (University of S\u00e3o Paulo)",
+        "Andras A. Benczur (Institute for Computer Science and Control, Hungarian Academy of Sciences)",
+        "Austin R. Benson (Stanford University)",
+        "Klaus Berberich (Max Planck Institute for Informatics)",
+        "Michael Berthold (University of Konstanz)",
+        "Alex Beutel (Google)",
+        "Sahely Bhadra (Network Science Institute, Northeastern University)",
+        "Smriti Bhagat (Facebook)",
+        "Aditya Bhaskara (University of Utah)",
+        "Siddhartha Bhattacharyya (Information and Decision Sciences, College of Business, University of Illinois, Chicago)",
+        "Jinbo Bi (University of Connecticut)",
+        "Jiang Bian (Microsoft Research)",
+        "Albert Bifet (Telecom ParisTech)",
+        "Mustafa Bilgic (Illinois Institute of Technology)",
+        "Christian B\u00f6hm (Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen)",
+        "Klemens B\u00f6hm (Karlsruhe Institute of Technology (KIT))",
+        "Francesco Bonchi (The ISI Foundation, Turin, Italy)",
+        "Rajesh Bordawekar (IBM research)",
+        "Alessandro Bozzon (Delft University of Technology)",
+        "Ulf Brefeld (Leuphana Universit\u00e4t L\u00fcneburg)",
+        "David Buttler (Lawrence Livermore National Laboratory)",
+        "Jose Cadena (Virginia Tech)",
+        "Deng Cai (Zhejiang University)",
+        "B. Barla Cambazoglu (NTENT Inc.)",
+        "Jian Cao (Department of Computer Science and Engineering, Shanghai Jiao Tong University)",
+        "Longbing Cao (Faculty of IT, University of Technology Sydney)",
+        "Michele Catasta (Ecole Polytechnique F\u00e9d\u00e9rale de Luasanne)",
+        "Jeffrey Chan (Department of Computer Science and Software Engineering, University of Melbourne)",
+        "Vineet Chaoji (Amazon)",
+        "Duen Horng Chau (Georgia Tech)",
+        "Sanjay Chawla (Qatar Computing Research Institute (QCRI), HBKU, Doha, Qatar)",
+        "Bee-Chung Chen (LinkedIn)",
+        "Enhong Chen (University of Science & Technology of China)",
+        "Ming-Syan Chen (National Taiwan Univeresity)",
+        "Ping Chen (UMB)",
+        "Rui Chen (Samsung Research America)",
+        "Shu-Ching Chen (Florida International University)",
+        "Shuo Chen (Blizzard Entertainment)",
+        "Songqing Chen (George Mason University)",
+        "Wei Chen (Microsoft Research Asia)",
+        "Yixin Chen (Washington University)",
+        "James Cheng (Chinese University of Hong Kong)",
+        "Ingemar Cox (University College London & University of Copenhagen)",
+        "Mark Crovella (Boston University)",
+        "Philippe Cudre-Mauroux (University of Fribourg)",
+        "Bin Cui (Peking University)",
+        "Abhimanyu Das (Google)",
+        "Mahashweta Das (Visa Research)",
+        "Gianluca Demartini (University of Sheffield)",
+        "Ayhan Demiriz (Gebze Technical University)",
+        "Alex Deng (Microsoft)",
+        "Amit Dhurandhar (IBM TJ Watson)",
+        "Djellel Eddine Difallah (University of Fribourg)",
+        "Bolin Ding (Microsoft Research)",
+        "Nemanja Djuric (Uber ATG)",
+        "Guozhu Dong (Wright State University)",
+        "Yuxiao Dong (University of Notre Dame)",
+        "Petros Drineas (Purdue)",
+        "Nan Du (Google)",
+        "Saso Dzeroski (Jozef Stefan Institute)",
+        "Alina Ene (Boston University)",
+        "Alessandro Epasto (Google Research)",
+        "Alex Fabrikant (Google Research)",
+        "Boi Faltings (Ecole Polytechnique Federale de Lausanne)",
+        "Liyue Fan (State University of New York Albany)",
+        "Ad Feelders (Universiteit Utrecht)",
+        "Yun Fu (Northeastern University)",
+        "Pavid Fuhry (The Ohio State University)",
+        "Aram Galstyan (USC/ISI)",
+        "Joao Gama (University Porto)",
+        "Bin Gao (Microsoft Research)",
+        "Byron Gao (Texas State University)",
+        "Jing Gao (University at Buffalo)",
+        "David Garcia (ETH Zurich)",
+        "Wolfgang Gatterbauer (CMU Carnegie Mellon University)",
+        "Yong Ge (The University of North Carolina at Charlotte)",
+        "Rumi Ghosh (University of Southern California)",
+        "Amol Ghoting (LinkedIn Corporation)",
+        "Fosca Giannotti (Istituo di Scienza e Tecnologie dell\u2019Informazione, National Research Council of Italy)",
+        "Derek Greene (University College Dublin)",
+        "Quanquan Gu (University of Virginia)",
+        "Francesco Gullo (UniCredit)",
+        "Krishna Gummadi (MPI-SWS)",
+        "Stephan G\u00fcnnemann (Technical University of Munich)",
+        "Abhishek Gupta (LinkedIn)",
+        "Wook-Shin Han (POSTECH)",
+        "Mohammad Hasan (Indiana University Purdue University, Indianapolis)",
+        "Xiaofeng He (East China Normal University)",
+        "Andreas Hotho (University of Wuerzburg)",
+        "Cho-Jui Hsieh (UC Davis)",
+        "Hsun-Ping Hsieh (National Taiwan University)",
+        "Chun-Nan Hsu (UC San Diego)",
+        "Xia Ben Hu (Texas A&M University)",
+        "Jun Luke Huan (University of Kansas)",
+        "Sheng-Jun Huang (Nanjing University of Aeronautics and Astronautics)",
+        "Ian E. H. Yen (CMU Carnegie Mellon University)",
+        "Tomoharu Iwata (NTT)",
+        "Szymon Jaroszewicz (Institute of Computer Science, Polish Academy of Sciences)",
+        "David Jensen (University of Massachusetts Amherst)",
+        "Shuiwang Ji (WSU)",
+        "Yexi Jiang (Florida International University)",
+        "Wen Jin (Independent Researcher)",
+        "Panos Kalnis (King Abdullah University of Science and Technology)",
+        "U Kang (Seoul University University)",
+        "Murat Kantarcioglu (University of Texas at Dallas)",
+        "Ben Kao (The University of Hong Kong)",
+        "Komal Kapoor (University of Minnesota Twin Cities)",
+        "Amin Karbasi (Yale University)",
+        "Panagiotis Karras (Aalborg University)",
+        "Hisashi Kashima (Kyoto University)",
+        "Latifur Khan (UTD)",
+        "Emre Kiciman (Microsoft Research)",
+        "Deguang Kong (Yahoo Research)",
+        "Xiangnan Kong (Worcester Polytechnic Institute)",
+        "Nicolas Kourtellis (Telefonica Research)",
+        "Ioannis Koutis (University of Puerto Rico-Rio Piedras)",
+        "Tim Kraska (Brown University)",
+        "Srijan Kumar (University of Maryland, College Park)",
+        "Himabindu Lakkaraju (Stanford University)",
+        "Laks Lakshmanan (University of British Columbia)",
+        "Theodoros Lappas (Stevens Institute of Technology)",
+        "Longin Jan Latecki (Temple University)",
+        "Neal Lathia (Skyscanner)",
+        "Silvio Lattanzi (Google)",
+        "Kyumin Lee (Utah State University)",
+        "Kristen Lefevre (Google)",
+        "Kristina Lerman (University of Southern California)",
+        "Cheng Li (University of Michigan)",
+        "Cheng-Te Li (National Cheng Kung University)",
+        "Chengkai Li (University of Texas at Arlington)",
+        "Jiuyong Li (University of South Australia)",
+        "Kai Li (University of Central Florida)",
+        "Shuai Li (University of Cambridge)",
+        "Yanen Li (University of Illinois at Urbana-Champaign)",
+        "Zhenhui Li (Penn State University)",
+        "Hsuan-Tien Lin (National Taiwan University)",
+        "Xuemin Lin (The University of New South Wales)",
+        "Chuanren Liu (Rutgers Business School)",
+        "Guimei Liu (Institute for Infocomm Research)",
+        "Huan Liu (Arizona State University)",
+        "Jun Liu (SAS Institute Inc.)",
+        "Xuanzhe Liu (Peking University)",
+        "David Lo (Singapore Management University)",
+        "Peter Lofgren (Stanford)",
+        "Felipe Llinares Lopez (Swiss Federal Institute of Technology, Z\u00fcrich)",
+        "Bo Long (Yahoo! Labs)",
+        "Yin Lou (Airbnb)",
+        "Chang-Tien Lu (Virginia Tech)",
+        "Patrick Lucey (STATS)",
+        "Jiebo Luo (University of Rochester)",
+        "Ping Luo (Institute of Computing Technology, CAS)",
+        "Hao Ma (Microsoft Research)",
+        "Shuai Ma (Beihang University)",
+        "Richard Maclin (University of Minnesota Duluth)",
+        "Malik Magdon-Ismail (Rensselaer Polytechnic Institute)",
+        "Anirban Majumder (Amazon)",
+        "Hiroshi Mamitsuka (Kyoto University)",
+        "Nikos Mamoulis (University of Hong Kong)",
+        "Amin Mantrach (Yahoo!)",
+        "Michael Mathioudakis (Aalto University)",
+        "Julian Mcauley (UC San Diego)",
+        "Wagner Meira Jr. (Universidade Federal de Minas Gerais)",
+        "Weiyi Meng (Department of Computer Science, Binghamton University)",
+        "Pauli Miettinen (Max Planck Instutute for Informatics)",
+        "Baharan Mirzasoleiman (Swiss Federal Institute of Technology, Z\u00fcrich)",
+        "Dunja Mladenic (Jozef Stefan Institute)",
+        "Joshua Moore (Cornell)",
+        "Sebastian Moreno (Universidad Adolfo Iba\u00f1ez)",
+        "Abdullah Mueen (University of New Mexico)",
+        "Kamesh Munagala (Duke University)",
+        "Emmanuel M\u00fcller (Hasso-Plattner-Institute)",
+        "Mirco Nanni (KDD-Lab ISTI-CNR Pisa)",
+        "Olfa Nasraoui (University of Louisville)",
+        "Wilfred Ng (The Hong Kong University of Science and Technology)",
+        "Feiping Nie (Northwestern Polytechnical University, China)",
+        "Zaiqing Nie (Microsoft Research Asia)",
+        "Eirini Ntoutsi (Gottfried Wilhelm Leibniz Universit\u00e4t Hannover)",
+        "Tim Oates (University of Maryland Baltimore County)",
+        "Zoran Obradovic (Temple University)",
+        "Rasmus Pagh (IT University of Copenhagen)",
+        "Themis Palpanas (Paris Descartes University)",
+        "Rong Pan (Sun Yat-sen University)",
+        "Rina Panigrahy (Microsoft Research)",
+        "Evangelos E. Papalexakis (University of California Riverside)",
+        "Jian Pei (Simon Fraser University)",
+        "Bryan Perozzi (Google Research)",
+        "Francois Petitjean (Monash University)",
+        "Bernhard Pfahringer (University of Waikato)",
+        "Dinh Phung (Deakin University)",
+        "Claudia Plant (University of Vienna)",
+        "Tao Qin (Microsoft Research Asia)",
+        "Vladan Radosavljevic (Uber Advanced Technology Group)",
+        "Chedy Ra\u00efssi (INRIA)",
+        "Karthik Raman (Google)",
+        "Jan Ramon (INRIA)",
+        "Huzefa Rangwala (George Mason University)",
+        "Sayan Ranu (IIT Delhi)",
+        "Chotirat Ann Ratanamahatana (Chulalongkorn University)",
+        "Xiang Ren (University of Illinois at Urbana-Champaign)",
+        "Steffen Rendle (Google)",
+        "Matthias Renz (Ludwig-Maximilians University)",
+        "Bruno Ribeiro (Purdue University)",
+        "Manuel Gomez Rodriguez (MPI for Software Systems)",
+        "Oleg Rokhlenko (Amazon)",
+        "Salvatore Ruggieri (Dipartimento di Informatica, Universit\u00e0 di Pisa)",
+        "Joerg Sander (University of Alberta)",
+        "Raul Santos-Rodriguez (University of Bristol)",
+        "Nishanth Sastry (King\u2019s College London)",
+        "Assaf Schuster (Technion)",
+        "C. Seshadhri (University of California, Santa Cruz)",
+        "Aneesh Sharma (Twitter Inc)",
+        "Pannaga Shivaswamy (Netflix Inc.)",
+        "Milad Shokouhi (Microsoft)",
+        "Vikas Sindhwani (IBM Research)",
+        "Yaron Singer (Harvard University)",
+        "Kaushik Sinha (Wichita State University)",
+        "Kevin Small (Amazon)",
+        "Yangqiu Song (The Hong Kong University of Science and Technology)",
+        "Anna Squicciarini (The Pennsylvania State University)",
+        "Mudhakar Srivatsa (IBM T.J. Watson Research Center)",
+        "Michael Steinbach (University of Minnesota)",
+        "Torsten Suel (New York University)",
+        "Mahito Sugiyama (Osaka University)",
+        "Masashi Sugiyama (RIKEN/The University of Tokyo)",
+        "Huan Sun (The Ohio State University)",
+        "Jimeng Sun (Georgia Tech)",
+        "Einoshin Suzuki (Kyushu University)",
+        "Adith Swaminathan (Cornell University)",
+        "Ichiro Takeuchi (Nagoya Institute of Technology)",
+        "Partha Talukdar (Indian Institute of Science)",
+        "Chenhao Tan (Cornell University)",
+        "Jian Tang (University of Michigan)",
+        "Yufei Tao (The University of Queensland)",
+        "Nikolaj Tatti (Aalto University)",
+        "Kai-Ming Ting (Federation University Australia)",
+        "Volker Tresp (Siemens AG)",
+        "Panayiotis Tsaparas (University of Ioannina)",
+        "Vincent S. Tseng (National Chiao Tung University)",
+        "Antti Ukkonen (Finnish Institute of Occupational Health)",
+        "Jaideep Vaidya (Rutgers University)",
+        "Kush Varshney (IBM Thomas J. Watson Research Center)",
+        "Michail Vlachos (IBM Research)",
+        "Jilles Vreeken (Max-Planck Institute for Informatics and Saarland University)",
+        "Slobodan Vucetic (Temple University)",
+        "Anil Kumar Vullikanti (Virginia Tech)",
+        "Can Wang (Zhejiang University)",
+        "Dashun Wang (Kellogg School of Management, Northwestern University)",
+        "Dong Wang (University of Notre Dame)",
+        "Guan Wang (Nio Automotive)",
+        "Hongning Wang (University of Virginia)",
+        "Jian Wang (LinkedIn Corporation)",
+        "Ke Wang (Simon Fraser University)",
+        "Ting Wang (Lehigh University)",
+        "Wei Wang (UCLA)",
+        "Xiang Wang (IBM Research)",
+        "Takashi Washio (ISIR, Osaka Univ.)",
+        "Ingmar Weber (Qatar Computing Research Institute)",
+        "Robert West (\u00c9cole Polytechnique F\u00e9d\u00e9rale de Luasanne)",
+        "Anthony Wirth (The University of Melbourne)",
+        "Ran Wolff (Yahoo Labs)",
+        "Raymond Chi-Wing Wong (The Hong Kong University of Science and Technology)",
+        "Weng-Keen Wong (Oregon State University)",
+        "Jungie Wu (Beihang University)",
+        "Xindong Wu (University of Louisiana of Lafayette)",
+        "Xintao Wu (University of Arkansas)",
+        "Keli Xiao (Stony Brook University)",
+        "Xiaokui Xiao (Nanyang Technological University)",
+        "Hui Xiong (Rutgers University)",
+        "Chang Xu (University of Technology Sydney)",
+        "Jiajing Xu (Pinterest)",
+        "Xiaowei Xu (University of Arkansas at Little Rock)",
+        "Takeshi Yamada (NTT Communication Science Laboratories)",
+        "Xifeng Yan (University of California at Santa Barbara)",
+        "Zhijun Yin (Twitter)",
+        "Hsiang-Fu Yu (Amazon)",
+        "Kui Yu (Hefei University of Technology)",
+        "Lei Yu (Binghamton University)",
+        "Xiao Yu (Google)",
+        "Yang Yu (Nanjing University)",
+        "Chunqiu Zeng (Florida International University)",
+        "Duo Zhang (Kunlun Inc.)",
+        "Kun Zhang (CMU Carnegie Mellon University)",
+        "Min-Ling Zhang (School of Computer Science and Engineering, Southeast University)",
+        "Peng Zhang (Fictitious Economics & Data Technology Research Centre)",
+        "Ping Zhang (IBM Thomas J. Watson Research Center)",
+        "Rui Zhang (IBM Research - Almaden)",
+        "Shichao Zhang (Guangxi Normal University)",
+        "Weinan Zhang (Shanghai Jiao Tong University)",
+        "Wenlu Zhang (Old Dominion University)",
+        "Xiang Zhang (The Pennsylvania State University)",
+        "Ya Zhang (Shanghai Jiao Tong University)",
+        "Yu Zhang (HKUST)",
+        "Zhenjie Zhang (Advanced Digital Sciences Center)",
+        "Bo Zhao (Pinterest)",
+        "Peixiang Zhao (Florida State University)",
+        "Yuchen Zhao (AppDynamics)",
+        "Vincent W. Zheng (Advanced Digital Sciences Center)",
+        "Yu Zheng (Microsoft Research)",
+        "Jiayu Zhou (Michigan State University)",
+        "Mianwei Zhou (Yahoo Lab)",
+        "Wenjun Zhou (University of Tennessee)",
+        "Feida Zhu (Singapore Management University)",
+        "Xingquan Zhu (Florida Atlantic University)"
+    ],
+    "keynote_speakers": [
+        "Cynthia Dwork",
+        "Bin Yu",
+        "Renee J. Miller"
+    ],
+    "session_chairs": [
+        "Tina Eliassi-Rad",
+        "Tilmann Bruckhaus",
+        "Evangelos Simoudis",
+        "Stratis Ioannidis",
+        "Jie Tang",
+        "Shalini Ghosh",
+        "Evangelos Simoudis",
+        "Matteo Riondato",
+        "Naoki Abe",
+        "Luca Foschini",
+        "Lei Li",
+        "Ravi Kumar",
+        "Jennifer Neville",
+        "Evangelos Simoudis",
+        "Tanya Berger-Wolf",
+        "B. Aditya Prakash",
+        "Byron Galbraith",
+        "Usama Fayyad",
+        "Yizhou Sun",
+        "Karl Ni",
+        "Austin Benson",
+        "Martin Ester",
+        "Stan Matwin",
+        "D. Sculley",
+        "Johannes F\u00fcrnkranz",
+        "Tim Weninger",
+        "Leman Akoglu"
+    ],
+    "panelists": [
+        "Muthu Muthukrishnan",
+        "Andrew Tomkins",
+        "Deepak Agarwal",
+        "Usama Fayyad",
+        "Larry Heck",
+        "Bing Liu",
+        "Usama Fayyad",
+        "Arno Candel",
+        "Eduardo Ari\u00f1o de la Rubia",
+        "Szil\u00e1rd Pafka",
+        "Anthony Chong",
+        "JeongYoon Lee"
+    ],
+    "papers": [
+        {
+            "key": "KDD_17_001",
+            "title": "Local Higher-Order Graph Clustering",
+            "authors": [
+                "Hao Yin (Stanford University)",
+                "Austin R. Benson (Stanford University)",
+                "Jure Leskovec (Stanford University)",
+                "David F. Gleich (Purdue University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_002",
+            "title": "Communication-Efficient Distributed Block Minimization for Nonlinear Kernel Machines",
+            "authors": [
+                "Si Si (uta.edu UT Austin)",
+                "Cho-Jui Hsieh (UC Davis)",
+                "Inderjit Dhillon (uta.edu UT Austin)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_003",
+            "title": "Randomization or Condensation?: Linear-Cost Matrix Sketching Via Cascaded Compression Sampling",
+            "authors": [
+                "Kai Zhang (Lawrence Berkeley National Laboratories)",
+                "Chuanren Liu (Drexel University)",
+                "Jie Zhang (Fudan University)",
+                "Hui Xiong (Rutgers University)",
+                "Eric Xing (CMU Carnegie Mellon University)",
+                "Jieping Ye (University of Michigan)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_004",
+            "title": "Scalable and Sustainable Deep Learning via Randomized Hashing",
+            "authors": [
+                "Ryan Spring (Rice University)",
+                "Anshumali Shrivastava (Rice University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_005",
+            "title": "TrioVecEvent: Embedding-Based Online Local Event Detection in Geo-Tagged Tweet Streams",
+            "authors": [
+                "Chao Zhang (University of Illinois at Urbana-Champaign)",
+                "Liyuan Liu (University of Illinois at Urbana-Champaign)",
+                "Dongming Lei (University of Illinois at Urbana-Champaign)",
+                "Quan Yuan (University of Illinois at Urbana-Champaign)",
+                "Honglei Zhuang (University of Illinois at Urbana-Champaign)",
+                "Tim Hanratty (U.S. Army Research Lab)",
+                "Jiawei Han (University of Illinois at Urbana-Champaign)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_006",
+            "title": "Clustering Individual Transactional Data for Masses of Users",
+            "authors": [
+                "Riccardo Guidotti (University of Pisa)",
+                "Anna Monreale (University of Pisa)",
+                "Mirco Nanni (KDD-Lab ISTI-CNR Pisa)",
+                "Fosca Giannotti (ISTI-CNR)",
+                "Dino Pedreschi (University of Pisa)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_007",
+            "title": "Learning certifiably optimal rule lists for categorical data",
+            "authors": [
+                "Elaine Angelino (UC Berkeley)",
+                "Nicholas Larus-Stone (Harvard)",
+                "Daniel Alabi (Harvard)",
+                "Margo Seltzer (Harvard University)",
+                "Cynthia Rudin (Duke)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_008",
+            "title": "Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks",
+            "authors": [
+                "Huan Zhao (HKUST)",
+                "Quanming Yao (HKUST)",
+                "Jianda Li (HKUST)",
+                "Yangqiu Song (HKUST)",
+                "Dik Lee (HKUST)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_009",
+            "title": "Discovering Reliable Approximate Functional Dependencies",
+            "authors": [
+                "Panagiotis Mandros (Max Planck Institute for Informatics)",
+                "Mario Boley (Max Planck Institute for Informatics)",
+                "Jilles Vreeken (Max Planck Institute for Informatics)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_010",
+            "title": "Effective and Real-time In-App Activity Analysis in Encrypted Internet Traffic Streams",
+            "authors": [
+                "Junming Liu (Rutgers University)",
+                "Yanjie Fu (Missouri University of Science and Technology)",
+                "Jingci Ming (Rutgers University)",
+                "Yong Ren (Futurewei Tech. Inc)",
+                "Leilei Sun (Dalian University of Technology)",
+                "Hui Xiong (Rutgers University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_011",
+            "title": "Functional Annotation of Human Protein Coding Isoforms via Non-convex Multi-Instance Learning",
+            "authors": [
+                "Tingjin Luo (National University of Defense Technology)",
+                "Weizhong Zhang (Zhejiang University)",
+                "Shuang Qiu (University of Michigan)",
+                "Yang Yang (Beihang University)",
+                "Dongyun Yi (National University of Defense Technology)",
+                "Guangtao Wang (University of Michigan)",
+                "Jieping Ye (University of Michigan)",
+                "Jie Wang (University of Michigan)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_012",
+            "title": "FORA: Simple and Effective Approximate Single-Source Personalized PageRank",
+            "authors": [
+                "Sibo Wang (Nanyang Technological University)",
+                "Renchi Yang (Nanyang Technological University)",
+                "Xiaokui Xiao (Nanyang Technological University)",
+                "Zhewei Wei (Renmin University of China)",
+                "Yin Yang (Hamad Bin Khalifa University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_013",
+            "title": "A Minimal Variance Estimator for the Cardinality of Big Data Set Intersection",
+            "authors": [
+                "Reuven Cohen (Technion)",
+                "Liran Katzir (Technion)",
+                "Aviv Yehezkel (Technion)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_014",
+            "title": "KATE: K-Competitive Autoencoder for Text",
+            "authors": [
+                "Yu Chen (RPI)",
+                "Mohammed Zaki (RPI)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_015",
+            "title": "Online Ranking with Constraints: A Primal-Dual Algorithm and Applications to Web Traffic-Shaping",
+            "authors": [
+                "Parikshit Shah (Yahoo Research)",
+                "Akshay Soni (Yahoo Research)",
+                "Troy Chevalier (Yahoo Research)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_016",
+            "title": "Discrete Content-aware Matrix Factorization",
+            "authors": [
+                "Defu Lian (University of Electronic Science and Technology of China)",
+                "Rui Liu (University of Electronic Science and Technology of China)",
+                "Yong Ge (University of Arizona)",
+                "Kevin Kai Zheng (University of Queensland)",
+                "Xing Xie (Microsoft Research)",
+                "Longbing Cao (University of Technology Sydney)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_017",
+            "title": "Coresets for Kernel Regression",
+            "authors": [
+                "Yan Zheng (University of Utah)",
+                "Jeff Phillips (University of Utah)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_018",
+            "title": "Robust Top-k Multi-class SVM for Visual Category Recognition",
+            "authors": [
+                "Xiaojun Chang (CMU Carnegie Mellon University)",
+                "Yao-Liang Yu (University of Waterloo)",
+                "Yi Yang (University of Technology Sydney)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_019",
+            "title": "Estimating Treatment Effect in the Wild via Differentiated Confounder Balancing",
+            "authors": [
+                "Kun Kuang (Tsinghua University)",
+                "Peng Cui (Tsinghua University)",
+                "Bo Li (Tsinghua University)",
+                "Meng Jiang (University of Illinois Urbana-Champaign)",
+                "Shiqiang Yang (Tsinghua University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_020",
+            "title": "The Selective Labels Problem: Evaluating Algorithmic Predictions in the Presence of Unobservables",
+            "authors": [
+                "Himabindu Lakkaraju (Stanford University)",
+                "Jon Kleinberg (Cornell University)",
+                "Jure Leskovec (Stanford University)",
+                "Jens Ludwig (University of Chicago)",
+                "Sendhil Mullainathan (Harvard University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_021",
+            "title": "metapath2vec: Scalable Representation Learning for Heterogeneous Networks",
+            "authors": [
+                "Yuxiao Dong (University of Notre Dame)",
+                "Nitesh V. Chawla (University of Notre Dame)",
+                "Ananthram Swami (Army Research Laboratory)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_022",
+            "title": "Linearized GMM Kernels and Normalized Random Fourier Features",
+            "authors": [
+                "Ping Li (Rutgers University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_023",
+            "title": "Long Short Memory Process: Modeling Growth Dynamics of Microscopic Social Connectivity",
+            "authors": [
+                "Chengxi Zang (Department of Computer Science, Tsinghua University)",
+                "Peng Cui (Department of Computer Science, Tsinghua University)",
+                "Christos Faloutsos (Computer Science Department, CMU Carnegie Mellon University)",
+                "Wenwu Zhu (Department of Computer Science, Tsinghua University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_024",
+            "title": "Ego-splitting Framework: from Non-Overlapping to Overlapping Clusters",
+            "authors": [
+                "Alessandro Epasto (Google)",
+                "Silvio Lattanzi (Google)",
+                "Renato Paes Leme (Google)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_025",
+            "title": "Randomized Feature Engineering as a Fast and Accurate Alternative to Kernel Methods",
+            "authors": [
+                "Suhang Wang (Arizona State University)",
+                "Charu Aggarwal (IBM)",
+                "Huan Liu (Professor, Arizona State University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_026",
+            "title": "Matrix Profile V: A Generic Technique to Incorporate Domain Knowledge into Motif Discovery",
+            "authors": [
+                "Hoang Anh Dau (University of California, Riverside)",
+                "Eamonn Keogh (University of California, Riverside)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_027",
+            "title": "Accelerating Innovation Through Analogy Mining",
+            "authors": [
+                "Tom Hope (Hebrew University of Jerusalem)",
+                "Joel Chan (CMU Carnegie Mellon University)",
+                "Aniket Kittur (CMU Carnegie Mellon University)",
+                "Dafna Shahaf (Hebrew University of Jerusalem)"
+            ],
+            "topics": [],
+            "award": true
+        },
+        {
+            "key": "KDD_17_028",
+            "title": "Collaboratively Improving Topic Discovery and Word Embeddings by Coordinating Global and Local Conte",
+            "authors": [
+                "Guangxu Xun (State University of New York at Buffalo)",
+                "Yaliang Li (State University of New York at Buffalo)",
+                "Jing Gao (State University of New York at Buffalo)",
+                "Aidong Zhang (State University of New York at Buffalo)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_029",
+            "title": "Towards an Optimal Subspace for K-Means",
+            "authors": [
+                "Dominik Mautz (Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen)",
+                "Wei Ye (Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen)",
+                "Claudia Plant (Universit\u00e4t Wien)",
+                "Christian B\u00f6hm (Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_030",
+            "title": "Unsupervised Network Discovery for Brain Imaging Data",
+            "authors": [
+                "Zilong Bai (University of California, Davis)",
+                "Peter Walker (Naval Medical Research Center)",
+                "Anna Tschiffely (Naval Medical Research Center)",
+                "Fei Wang (Cornell University)",
+                "Ian Davidson (University of California, Davis)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_031",
+            "title": "Patient Subtyping via Time-Aware LSTM Networks",
+            "authors": [
+                "Inci Baytas (Michigan State University)",
+                "Cao Xiao (IBM T. J. Watson Research Center)",
+                "Xi Zhang (Cornell University)",
+                "Fei Wang (Cornell University)",
+                "Anil K. Jain (Michigan State University)",
+                "Jiayu Zhou (Michigan State University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_032",
+            "title": "AnnexML: Approximate Nearest Neighbor Search for Extreme Multi-label Classification",
+            "authors": [
+                "Yukihiro Tagami (Yahoo Japan Corporation)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_033",
+            "title": "Graph Edge Partitioning via Neighborhood Heuristic",
+            "authors": [
+                "Chenzi Zhang (the University of Hong Kong)",
+                "Fan Wei (Stanford University)",
+                "Qin Liu (Huawei Noah\u2019s Ark Lab)",
+                "Zhihao Gavin Tang (the University of Hong Kong)",
+                "Zhenguo Li (Huawei Noah\u2019s Ark Lab)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_034",
+            "title": "Unsupervised P2P Rental Recommendations via Integer Programming",
+            "authors": [
+                "Yanjie Fu (Missouri University of Science and Technology)",
+                "Guannan Liu (Beihang University)",
+                "Mingfei Teng (Rutgers University)",
+                "Charu Aggarwal (IBM T. J. Watson Research Center)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_035",
+            "title": "\"Similarity Forests\"",
+            "authors": [
+                "Saket Sathe (IBM T. J. Watson Research Center)",
+                "Charu Aggarwal (IBM T. J. Watson Research Center)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_036",
+            "title": "HoORaYs: High-order Optimization of Rating Distance for Recommender Systems",
+            "authors": [
+                "Jingwei Xu (Nanjing University)",
+                "Yuan Yao (Nanjing University)",
+                "Hanghang Tong (City College, CUNY)",
+                "Xianping Tao (Nanjing Univ.)",
+                "Jian Lu (Nanjing University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_037",
+            "title": "An Online Hierarchical Algorithm for Extreme Clustering",
+            "authors": [
+                "Ari Kobren (University of Massachusetts Amherst)",
+                "Nicholas Monath (University of Massachusetts Amherst)",
+                "Akshay Krishnamurthy (University of Massachusetts Amherst)",
+                "Andrew McCallum (University of Massachusetts Amherst)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_038",
+            "title": "Is the Whole Greater Than the Sum of Its Parts?",
+            "authors": [
+                "Liangyue Li (Arizona State University)",
+                "Hanghang Tong (Arizona Stete University)",
+                "Yong Wang (Hong Kong University of Science and Technology)",
+                "Conglei Shi (IBM Research)",
+                "Nan Cao (Tongji University)",
+                "Norbou Buchler (US Army Research Laboratory)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_039",
+            "title": "Multi-Aspect Streaming Tensor Completion",
+            "authors": [
+                "Qingquan Song (Texas A&M University)",
+                "Xiao Huang (Texas A&M University)",
+                "Hancheng Ge (Texas A&M University)",
+                "James Caverlee (Texas A&M University)",
+                "Xia Hu (Texas A&M University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_040",
+            "title": "Groups-Keeping Solution Path Algorithm for Sparse Regression with Automatic Feature Grouping",
+            "authors": [
+                "Bin Gu (University of Texas at Arlington)",
+                "Guodong Liu (Univ. of Texas at Arlington)",
+                "Heng Huang (University of Texas at Arlington)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_041",
+            "title": "EmbedJoin: Efficient Edit Similarity Joins via Embeddings",
+            "authors": [
+                "Haoyu Zhang (Indiana University Bloomington)",
+                "Qin Zhang (Indiana University Bloomington)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_042",
+            "title": "Collaborative Variational Autoencoder for Recommender Systems",
+            "authors": [
+                "Xiaopeng Li (The Hong Kong University of Science and Technology)",
+                "James She (The Hong Kong University of Science and Technology)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_043",
+            "title": "Tracking the Dynamics in Crowdfunding",
+            "authors": [
+                "Hongke Zhao (USTC)",
+                "Hefu Zhang (University of Science and Technology of China)",
+                "Yong Ge (The University of Arizona)",
+                "Qi Liu (USTC)",
+                "Enhong Chen (University of Science & Technology of China)",
+                "Huayu Li (UNCC)",
+                "Le Wu (HeFei University of Technology)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_044",
+            "title": "Human Mobility Synchronization and Trip Purpose Detection with Mixture of Hawkes Processes",
+            "authors": [
+                "Pengfei Wang (University of Chinese Academy of Science & Computer Network Information Center, Chinese Academy of Sciences)",
+                "Guannan Liu (Beihang University)",
+                "Yanjie Fu (Missouri University of Science and Technology)",
+                "Wenqing Hu (Missouri University of Science and Technology)",
+                "Charu Aggarwal (IBM T. J. Watson Research Center)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_045",
+            "title": "Toeplitz Inverse Covariance-Based Clustering of Multivariate Time Series Data",
+            "authors": [
+                "David Hallac (Stanford University)",
+                "Sagar Vare (Stanford University)",
+                "Stephen Boyd (Stanford University)",
+                "Jure Leskovec (Stanford University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_046",
+            "title": "SPARTan: Scalable PARAFAC2 for Large & Sparse Data",
+            "authors": [
+                "Ioakeim Perros (Georgia Institute of Technology)",
+                "Evangelos E. Papalexakis (University of California, Riverside)",
+                "Fei Wang (Weill Cornell Medicine)",
+                "Richard Vuduc (Georgia Institute of Technology)",
+                "Elizabeth Searles (Children's Healthcare of Atlanta)",
+                "Michael Thompson (Children's Healthcare of Atlanta)",
+                "Jimeng Sun (Georgia Institute of Technology)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_047",
+            "title": "Weisfeiler-Lehman Neural Machine for Link Prediction",
+            "authors": [
+                "Muhan Zhang (Washington University in St. Louis)",
+                "Yixin Chen (Washington University in St. Louis)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_048",
+            "title": "A Local Algorithm for Structure-Preserving Graph Cut",
+            "authors": [
+                "Dawei Zhou (Arizona State University)",
+                "Si Zhang (Arizona State University)",
+                "Mehmet Yigit Yildirim (Arizona State University)",
+                "Scott Alcorn (Early Warnings LLC.)",
+                "Hanghang Tong (Arizona State University)",
+                "Hasan Davulcu (Arizona State University)",
+                "Jingrui He (Arizona State University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_049",
+            "title": "Anomaly Detection with Robust Deep Auto-encoders",
+            "authors": [
+                "Chong Zhou (Worcester Polytechnic Institute)",
+                "Randy Paffenroth (Worcester Polytechnic Institute)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_050",
+            "title": "Large-scale Collaborative Ranking in Near-Linear Time",
+            "authors": [
+                "Liwei Wu (University of California, Davis)",
+                "Cho-Jui Hsieh (University of California, Davis)",
+                "James Sharpnack (University of California, Davis)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_051",
+            "title": "Efficient Correlated Topic Modeling with Topic Embedding",
+            "authors": [
+                "Junxian He (CMU Carnegie Mellon University)",
+                "Zhiting Hu (CMU Carnegie mellon university)",
+                "Taylor Berg-Kirkpatrick (CMU Carnegie mellon university)",
+                "Ying Huang (Shanghai Jiaotong University)",
+                "Eric Xing (CMU Carnegie mellon university)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_052",
+            "title": "Interpretable Predictions of Tree-based Ensembles via Actionable Feature Tweaking",
+            "authors": [
+                "Gabriele Tolomei (Yahoo)",
+                "Fabrizio Silvestri (Facebook)",
+                "Andrew Haines (Yahoo Inc)",
+                "Mounia Lalmas (Yahoo)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_053",
+            "title": "Contextual Motifs: Increasing the Utility of Motifs using Contextual Data",
+            "authors": [
+                "Ian Fox (CSE, University of Michigan)",
+                "Lynn Ang (Department of Internal Medicine, Division of Metabolism, Endocrinology and Diabetes, University of Michigan)",
+                "Mamta Jaiswal (Department of Internal Medicine, Division of Metabolism, Endocrinology and Diabetes, University of Michigan)",
+                "Rodica Pop-Busui (Department of Internal Medicine, Division of Metabolism, Endocrinology and Diabetes, University of Michigan)",
+                "Jenna Wiens (CSE, University of Michigan)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_054",
+            "title": "Structural Deep Brain Network Mining",
+            "authors": [
+                "Shen Wang (University of Illinois at Chicago)",
+                "Lifang He (University of Illinois at Chicago)",
+                "Bokai Cao (University of Illinois at Chicago)",
+                "Chun-Ta Lu (University of Illinois at Chicago)",
+                "Philip S. Yu (University of Illinois at Chicago)",
+                "Ann Ragin (Northwestern University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_055",
+            "title": "struc2vec: Learning Node Representations from Structural Identity",
+            "authors": [
+                "Leonardo F. R. Ribeiro (Federal University of Rio de Janeiro), Pedro H. P. Saverese (Federal University of Rio de Janeiro), Daniel R. Figueiredo (Federal University of Rio de Janeiro)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_056",
+            "title": "Network Inference via the Time-Varying Graphical Lasso",
+            "authors": [
+                "David Hallac (Stanford University)",
+                "Youngsuk Park (Stanford University)",
+                "Stephen Boyd (Stanford University)",
+                "Jure Leskovec (Stanford University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_057",
+            "title": "PReP: Path-Based Relevance from a Probabilistic Perspective in Heteogeneous Information Networks",
+            "authors": [
+                "Yu Shi (Dept. of Computer Science, University of Illinois at Urbana-Champaign)",
+                "Po-Wei Chan (Dept. of Computer Science, University of Illinois at Urbana-Champaign)",
+                "Honglei Zhuang (Dept. of Computer Science, University of Illinois at Urbana-Champaign)",
+                "Huan Gui (Dept. of Computer Science, University of Illinois at Urbana-Champaign)",
+                "Jiawei Han (Dept. of Computer Science, University of Illinois at Urbana-Champaign)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_058",
+            "title": "The Co-Evolution Model for Social Network Evolving and Opinion Migration",
+            "authors": [
+                "Yupeng Gu (University of California, Los Angeles)",
+                "Yizhou Sun (University of California, Los Angeles)",
+                "Jianxi Gao (Northeastern University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_059",
+            "title": "Improved Degree Bounds and Full Spectrum Power Laws in Preferential Attachment Networks",
+            "authors": [
+                "Chen Avin (Ben Gurion University of the Negev)",
+                "Zvi Lotker (Ben Gurion University of the Negev)",
+                "Yinon Nahum (Weizmann Institute of Science)",
+                "David Peleg (Weizmann Institute of Science)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_060",
+            "title": "Constructivism Learning: A Learning Paradigm for Transparent Predictive Analytics",
+            "authors": [
+                "Xiaoli Li (University of Kansas)",
+                "Jun Luke Huan (University of Kansas)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_061",
+            "title": "HyperLogLog Hyper Extended: Sketches for Concave Sublinear   Frequency Statistics",
+            "authors": [
+                "Edith Cohen (Google Research)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_062",
+            "title": "Fast Enumeration of Large k-Plexes",
+            "authors": [
+                "Alessio Conte (University of Pisa)",
+                "Donatella Firmani (Roma Tre University)",
+                "Caterina Mordente (Be Think Solve Execute)",
+                "Maurizio Patrignani (Roma Tre University)",
+                "Riccardo Torlone (Roma Tre University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_063",
+            "title": "On Finding Socially Tenuous Groups for Online Social Networks",
+            "authors": [
+                "Chih-Ya Shen (National Tsing Hua University)",
+                "Liang-Hao Huang (Academia Sinica)",
+                "De-Nian Yang (Academia Sinica)",
+                "Hong-Han Shuai (National Chiao Tung University)",
+                "Wang-Chien Lee (The Pennsylvania State University)",
+                "Ming-Syan Chen (National Taiwan University)"
+            ],
+            "topics": []
+        },
+        {
+            "key": "KDD_17_064",
+            "title": "PPDsparse: A Parallel Primal-Dual Sparse Method for Extreme Classification",
+            "authors": [
+                "Ian E. H. Yen (CMU Carnegie Mellon University)",
+                "Xiangru Huang (University of Texas at Austin)",
+                "Wei Dai (CMU Carnegie Mellon University)",
+                "Pradeep Ravikumar (CMU Carnegie Mellon University)",
+                "Inderjit Dhillon (University of Texas at Austin)",
+                "Eric Xing (CMU Carnegie Mellon University)"
+            ],
+            "topics": []
+        }
+    ]
+}

@@ -1,0 +1,332 @@
+{
+    "key": "VEE_17",
+    "conference": "International Conference on Virtual Execution Environments",
+    "organization": [
+        "ACM"
+    ],
+    "country": "CN",
+    "postdate": "2017-04-09",
+    "last_deadline": "2016-11-30",
+    "review_days": 68,
+    "submissions": 43,
+    "min_reviews": 3,
+    "total_reviews": 160,
+    "double_blind": true,
+    "rebuttal": true,
+    "open_access": false,
+    "age": 13,
+    "past_papers": 220,
+    "past_citations": 2866,
+    "h5_index": "",
+    "h5_median": "",
+    "notes": "Received very few short paper submissions, and treated them like regular papers. Followed the ACM SIGPLAM review policies (http://www.sigplan.org/Resources/Guidelines/ProChair/).",
+    "pc_chairs": [
+        "Tim Harris (Oracle Labs)",
+        "Galen Hunt (Microsoft Research)"
+    ],
+    "pc_members": [
+        "Ada Gavrilovska (Georgia Tech)",
+        "Bertil Folliot (LIP6)",
+        "Carl Waldspurger (Carl Waldspurger Consulting)",
+        "Chandra Krintz (University of California, Santa Barbara)",
+        "Dan Heidinga (IBM)",
+        "David Chisnall (University of Cambridge)",
+        "Galen Hunt (Microsoft Research)",
+        "Hann Huang (MediaTek)",
+        "Malgorzata Gosia Steinder (IBM Watson)",
+        "Maoni Stephens (Microsoft)",
+        "Moriyoshi Ohara (IBM)",
+        "Naila Farooqui (Intel)",
+        "Paolo Bonzini (Red Hat)",
+        "Peter Kessler (Oracle Labs)",
+        "Rong Chen (Shanghai JiaoTong University)",
+        "Stefan Marr (Johannes Kepler University)",
+        "Tim Harris (Oracle Labs)",
+        "Tony Hosking (Australian National University)",
+        "Nadav Amit (VMware Research)"
+    ],
+    "keynote_speakers": [
+        "Bin Liu",
+        "Kate Keahey"
+    ],
+    "session_chairs": [
+        "Galen Hunt",
+        "Hann Huang",
+        "David Chisnall",
+        "Paolo Bonzini",
+        "Maoni Stephens",
+        "Paolo Bonzini",
+        "Tim Harris",
+        "Tim Harris"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "VEE_17_001",
+            "title": "Swift Birth and Quick Death: Enabling Fast Parallel Guest Boot and Destruction in the Xen Hypervisor",
+            "authors": [
+                "Vlad Nitu",
+                "Pierre Olivier",
+                "Alain Tchana",
+                "Daniel Chiba",
+                "Antonio Barbalace",
+                "Daniel Hagimont",
+                "Binoy Ravindran"
+            ],
+            "topics": [
+                "VM"
+            ]
+        },
+        {
+            "key": "VEE_17_002",
+            "title": "Unikernels Everywhere: The Case for Elastic CDNs",
+            "authors": [
+                "Simon Kuenzer",
+                "Anton Ivanov",
+                "Filipe Manco",
+                "Jose Mendes",
+                "Yuri Volchkov",
+                "Florian Schmidt",
+                "Kenichi Yasukata",
+                "Michio Honda",
+                "Felipe Huici"
+            ],
+            "topics": [
+                "VM",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "VEE_17_003",
+            "title": "MigVisor: Accurate Prediction of VM Live Migration Behavior using a Working-Set Pattern Model",
+            "authors": [
+                "Jinshi Zhang",
+                "Eddie Dong",
+                "Li Jian",
+                "Haibing Guan"
+            ],
+            "topics": [
+                "VM",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "VEE_17_004",
+            "title": "Catalyst: GPU-assisted rapid memory deduplication in virtualization environments",
+            "authors": [
+                "Anshuj Garg",
+                "Debadatta Mishra",
+                "Purushottam Kulkarni"
+            ],
+            "topics": [
+                "VM",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "VEE_17_005",
+            "title": "Just-In-Time GPU Compilation for Interpreted Languages with Partial Evaluation",
+            "authors": [
+                "Juan Fumero",
+                "Michel Steuwer",
+                "Lukas Stadler",
+                "Christophe Dubach"
+            ],
+            "topics": [
+                "GPGPU",
+                "VM",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "VEE_17_006",
+            "title": "Heterogeneous Managed Runtime Systems: A Computer Vision Case Study",
+            "authors": [
+                "Christos Kotselidis",
+                "James Clarkson",
+                "Andrey Rodchenko",
+                "Andy Nisbet",
+                "John Mawer",
+                "Mikel Luj\u00e1n"
+            ],
+            "topics": [
+                "GPGPU",
+                "VM"
+            ]
+        },
+        {
+            "key": "VEE_17_007",
+            "title": "Dancing with Wolves: Towards Practical Event-driven VMM Monitoring",
+            "authors": [
+                "Liang Deng",
+                "Peng Liu",
+                "Jun Xu",
+                "Ping Chen",
+                "Qingkai Zeng"
+            ],
+            "topics": [
+                "VM"
+            ]
+        },
+        {
+            "key": "VEE_17_008",
+            "title": "Safe Inspection of Live Virtual Machines",
+            "authors": [
+                "Sahil Suneja",
+                "Ricardo Koller",
+                "Canturk Isci",
+                "Eyal de Lara",
+                "Ali B. Hashemi",
+                "Arnamoy Bhattacharyya",
+                "Cristiana Amza"
+            ],
+            "topics": [
+                "VM"
+            ]
+        },
+        {
+            "key": "VEE_17_009",
+            "title": "Improving Virtualized Storage Performance with Sky",
+            "authors": [
+                "Leo Arulraj",
+                "Andrea Arpaci-Dusseau",
+                "Remzi Arpaci-Dusseau"
+            ],
+            "topics": [
+                "VM"
+            ]
+        },
+        {
+            "key": "VEE_17_010",
+            "title": "Security analysis of encrypted virtual machines",
+            "authors": [
+                "Felicitas Hetzelt",
+                "Robert Buhren"
+            ],
+            "topics": [
+                "VM",
+                "Security"
+            ]
+        },
+        {
+            "key": "VEE_17_011",
+            "title": "RERANZ: A Light-Weight Virtual Machine to Mitigate Memory Disclosure Attacks",
+            "authors": [
+                "Zhe Wang",
+                "Chenggang Wu",
+                "Jianjun Li",
+                "Yuanming Lai",
+                "Xiangyu Zhang",
+                "Wei-Chung Hsu",
+                "Yueqiang Cheng"
+            ],
+            "topics": [
+                "VM",
+                "Security"
+            ]
+        },
+        {
+            "key": "VEE_17_012",
+            "title": "Using OS Design Patterns to Provide Reliability and Security as-a-Service for VM-based Clouds",
+            "authors": [
+                "Zachary J. Estrada",
+                "Read Sprabery",
+                "Lok Yan",
+                "Zhongzhi Yu",
+                "Roy Campbell",
+                "Zbigniew Kalbarczyk",
+                "Ravi Iyer"
+            ],
+            "topics": [
+                "Security",
+                "OS",
+                "Cloud",
+                "VM"
+            ]
+        },
+        {
+            "key": "VEE_17_013",
+            "title": "Content Look-Aside Buffer for Redundancy-Free Virtual Disk I/O and Caching",
+            "authors": [
+                "Chun Yang",
+                "Xianhua Liu",
+                "Xu Cheng"
+            ],
+            "topics": [
+                "VM",
+                "Storage"
+            ]
+        },
+        {
+            "key": "VEE_17_014",
+            "title": "HyperMAMBO-X64: Using Virtualization to Support High-Performance Transparent Binary Translation",
+            "authors": [
+                "Amanieu d'Antras",
+                "Cosmin Gorgovan",
+                "Jim Garside",
+                "John Goodacre",
+                "Mikel Luj\u00e1n"
+            ],
+            "topics": [
+                "VM",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "VEE_17_015",
+            "title": "HA-VMSI: A Lightweight Virtual Machine Isolation Approach with Commodity Hardware for ARM",
+            "authors": [
+                "Min Zhu",
+                "Bibo Tu",
+                "Wei Wei",
+                "Dan Meng"
+            ],
+            "topics": [
+                "VM"
+            ]
+        },
+        {
+            "key": "VEE_17_016",
+            "title": "One Process to Reap Them All: Garbage Collection As A Service",
+            "authors": [
+                "Ahmed Hussein",
+                "Mathias Payer",
+                "Tony Hosking",
+                "Christopher A. Vick"
+            ],
+            "topics": [
+                "VM"
+            ]
+        },
+        {
+            "key": "VEE_17_017",
+            "title": "Designing Locality and NUMA Aware MPI Runtime for Nested Virtualization based HPC Cloud with SR-IOV Enabled InfiniBand",
+            "authors": [
+                "Jie Zhang",
+                "Xiaoyi Lu",
+                "Dhabaleswar K. Panda"
+            ],
+            "topics": [
+                "VM",
+                "Network",
+                "HPC",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "VEE_17_018",
+            "title": "Flexible Page-level Memory Access Monitoring Based on Virtualization Hardware",
+            "authors": [
+                "Kai Lu",
+                "Wenzhe Zhang",
+                "Xiaoping Wang",
+                "Mikel Luj\u00e1n",
+                "Andy Nisbet"
+            ],
+            "topics": [
+                "VM",
+                "Architecture"
+            ]
+        }
+    ]
+}

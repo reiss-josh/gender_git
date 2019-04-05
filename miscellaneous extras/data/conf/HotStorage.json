@@ -1,0 +1,363 @@
+{
+    "key": "HotStorage_17",
+    "conference": "Workshop on Hot Topics in Storage and File Systems",
+    "organization": [
+        "USENIX"
+    ],
+    "country": "US",
+    "postdate": "2017-07-10",
+    "last_deadline": "2017-03-16",
+    "review_days": 35,
+    "submissions": 58,
+    "min_reviews": 3,
+    "total_reviews": 188,
+    "double_blind": false,
+    "rebuttal": false,
+    "open_access": true,
+    "age": 9,
+    "past_papers": 126,
+    "past_citations": "",
+    "h5_index": "",
+    "h5_median": "",
+    "notes": "",
+    "pc_chairs": [
+        "Marcos K. Aguilera (VMware)",
+        "Angela Demke Brown (University of Toronto)"
+    ],
+    "pc_members": [
+        "Mahesh Balakrishnan (Yale University)",
+        "Suparna Bhattacharya (HP Enterprise)",
+        "Vijay Chidambaram (The University of Texas at Austin)",
+        "Daniel Ellard (Raytheon BBN Technologies)",
+        "Ashvin Goel (University of Toronto)",
+        "Song Jiang (University of Texas at Arlington)",
+        "Onur Mutlu (ETH Zurich)",
+        "Daniel Peek (Facebook)",
+        "Florentina Popovici (Google)",
+        "Donald E. Porter (University of North Carolina at Chapel Hill)",
+        "Kai Shen (Google)",
+        "Philip Shilane (Dell EMC)",
+        "Keith A. Smith (NetApp)",
+        "Nisha Talagala (Parallel Machines)",
+        "Eno Thereska (Confluent)",
+        "Hakim Weatherspoon (Cornell University)",
+        "Michael Wei (VMware)",
+        "Youjip Won (Hanyang University)",
+        "Bernard Wong (University of Waterloo)",
+        "Erez Zadok (Stony Brook University)",
+        "Yiying Zhang (Purdue University)"
+    ],
+    "keynote_speakers": [
+        "Mahadev Satyanarayanan"
+    ],
+    "session_chairs": [
+        "Daniel Ellard",
+        "Song Jiang",
+        "Keith Smith",
+        "Marcos K. Aguilera",
+        "Angela Demke-Brown",
+        "Michael Wei",
+        "Vijay Chidambaram",
+        "Nisha Talagala"
+    ],
+    "panelists": [],
+    "papers": [
+        {
+            "key": "HotStorage_17_001",
+            "title": "Practical Web-based Delta Synchronization for Cloud Storage Services",
+            "authors": [
+                "He Xiao (tsinghua)",
+                "Zhenhua Li (Tsinghua)",
+                "Ennan Zhai (Yale)",
+                "Tianyin Xu (UCSD)"
+            ],
+            "topics": [
+                "Storage",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "HotStorage_17_002",
+            "title": "Understanding Rack-Scale Disaggregated Storage",
+            "authors": [
+                "Sergey Legtchenko (microsoft)",
+                "Hugh Williams (microsoft)",
+                "Kaveh Razavi (microsoft)",
+                "Austin Donnelly (microsoft)",
+                "Richard Black (microsoft)",
+                "Andrew Douglas (microsoft)",
+                "Nathanael Cheriere (microsoft)",
+                "Daniel Fryer (microsoft)",
+                "Kai Mast (microsoft)",
+                "Angela Demke Brown (microsoft)",
+                "Ana Klimovic (microsoft)",
+                "Andy Slowey (microsoft)",
+                "Antony Rowstron (Microsoft Research)"
+            ],
+            "topics": [
+                "Storage",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "HotStorage_17_003",
+            "title": "BARNS: Towards Building Backup and Recovery for NoSQL Databases",
+            "authors": [
+                "Atish Kathpal (NetApp)",
+                "Priya Sehgal (NetApp)"
+            ],
+            "topics": [
+                "Storage",
+                "DB"
+            ]
+        },
+        {
+            "key": "HotStorage_17_004",
+            "title": "Persistent Memcached: Bringing Legacy Code to Byte-Addressable Persistent Memory",
+            "authors": [
+                "Virendra J. Marathe (oracle)",
+                "Margo Seltzer",
+                "Steve Byan (oracle)",
+                "Tim Harris (Oracle Labs)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "HotStorage_17_005",
+            "title": "Efficient Memory Mapped File I/O for In-Memory File Systems",
+            "authors": [
+                "Jungsik Choi Sungkyunkwan (ATTO)",
+                "Jiwon Kim (ATTO Research)",
+                "Hwansoo Han (Sungkyunkwan)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "HotStorage_17_006",
+            "title": "CrashMonkey: A Framework to Automatically Test File-System Crash Consistency",
+            "authors": [
+                "Ashlie Martinez (uta.edu)",
+                "Vijay Chidambaram (uta.edu)"
+            ],
+            "topics": [
+                "Storage",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "HotStorage_17_007",
+            "title": "Understanding the Fault Resilience of File System Checkers",
+            "authors": [
+                "Om Rameshwar Gatla (nmsu.edu)",
+                "Mai Zheng (nmsu.edu)"
+            ],
+            "topics": [
+                "Storage",
+                "Benchmark"
+            ]
+        },
+        {
+            "key": "HotStorage_17_008",
+            "title": "DeclStore: Layering Is for the Faint of Heart",
+            "authors": [
+                "Noah Watkins (ucsc)",
+                "Michael A. Sevilla (ucsc)",
+                "Ivo Jimenez (ucsc)",
+                "Kathryn Dahlgren (ucsc)",
+                "Peter Alvaro (ucsc)",
+                "Shel Finkelstein (ucsc)",
+                "Carlos Maltzahn (ucsc)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "HotStorage_17_009",
+            "title": "Storage on Your SmartPhone Uses More Energy Than You Think",
+            "authors": [
+                "Jayashree Mohan (uta.edu)",
+                "Dhathri Purohith (uta.edu)",
+                "Matthew Halpern (uta.edu)",
+                "Vijay Chidambaram (uta.edu)",
+                "Vijay Janapa Reddi (uta.edu)"
+            ],
+            "topics": [
+                "Storage",
+                "Energy"
+            ]
+        },
+        {
+            "key": "HotStorage_17_010",
+            "title": "Vulnerability Analysis of On-Chip Access-Control Memory",
+            "authors": [
+                "Chintan Chavda (utsa texas)",
+                "Ethan C. Ahn (utsa Texas at San Antonio)",
+                "Yu-Sheng Chen (ITRI Industrial Technology Research Institute)",
+                "Youngjae Kim (Sogang)",
+                "Kalidas Ganesh (utsa texas)",
+                "Junghee Lee (utsa Texas at San Antonio)"
+            ],
+            "topics": [
+                "Storage",
+                "Security"
+            ]
+        },
+        {
+            "key": "HotStorage_17_011",
+            "title": "Virtual Guard: A Track-Based Translation Layer for Shingled Disks",
+            "authors": [
+                "Mansour Shafaei (northeaster)",
+                "Peter Desnoyers (Northeastern)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "HotStorage_17_012",
+            "title": "Improving Flash Storage Performance by Caching Address Mapping Table in Host Memory",
+            "authors": [
+                "Wookhan Jeong (samsung)",
+                "Hyunsoo Cho (samsung)",
+                "Yongmyung Lee (samsung)",
+                "Jaegyu Lee (samsung)",
+                "Songho Yoon (samsung)",
+                "Jooyoung Hwang (samsung)",
+                "Donggi Lee (samsung)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "HotStorage_17_013",
+            "title": "Managing Array of SSDs When the Storage Device Is No Longer the Performance Bottleneck",
+            "authors": [
+                "Byungseok Kim (UNIST)",
+                "Jaeho Kim (UNIST)",
+                "Sam H. Noh (UNIST)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "HotStorage_17_014",
+            "title": "Parity-Stream Separation and SLC/MLC Convertible Programming for Life Span and Performance Improvement of SSD RAIDs",
+            "authors": [
+                "Yoohyuk Lim (skku.edu)",
+                "Jaemin Lee (skku.edu)",
+                "Cassiano Campes (skku.edu)",
+                "Euiseong Seo (skku.edu)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "HotStorage_17_015",
+            "title": "Enabling NVMe WRR support in Linux Block Layer",
+            "authors": [
+                "Kanchan Joshi (samsung india)",
+                "Kaushal Yadav (SamsungIndia)",
+                "Praval Choudhary (Samsung India)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "HotStorage_17_016",
+            "title": "IOPriority: To The Device and Beyond",
+            "authors": [
+                "Adam Manzanares (Western Digital)",
+                "Filip Blagojevic (Western Digita)",
+                "Cyril Guyot (Western Digital Research)"
+            ],
+            "topics": [
+                "Storage",
+                "OS"
+            ]
+        },
+        {
+            "key": "HotStorage_17_017",
+            "title": "Request-aware Cooperative I/O Scheduling for Scale-out Database Applications",
+            "authors": [
+                "Hyungil Jo (Sungkyunkwan)",
+                "Sung-hun Kim (Sungkyunkwan)",
+                "Sangwook Kim (Apposha)",
+                "Jinkyu Jeong (Sungkyunkwan)",
+                "Joonwon Lee (Sungkyunkwan)"
+            ],
+            "topics": [
+                "Concurrency",
+                "OS",
+                "DB"
+            ]
+        },
+        {
+            "key": "HotStorage_17_018",
+            "title": "CC-Log: Drastically Reducing Storage Requirements for Robots Using Classification and Compression",
+            "authors": [
+                "Santiago Gonzalez (utexas)",
+                "Vijay Chidambaram (utexas)",
+                "Jivko Sinapov (utexas)",
+                "Peter Stone (utexaes)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "HotStorage_17_019",
+            "title": "Customizing Progressive JPEG for Efficient Image Storage",
+            "authors": [
+                "Eddie Yan (uw.edu)",
+                "Kaiyuan Zhang (uw.edu)",
+                "Xi Wang (uw.edu)",
+                "Karin Strauss (Microsoft Research)",
+                "Luis Ceze (uw.edu)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "HotStorage_17_020",
+            "title": "Addressing the Dark Side of Vision Research: Storage",
+            "authors": [
+                "Vishakha Gupta-Cledat (Intel)",
+                "Luis Remis (Intel)",
+                "Christina R Strong (Intel)"
+            ],
+            "topics": [
+                "Storage"
+            ]
+        },
+        {
+            "key": "HotStorage_17_021",
+            "title": "Canopus: Enabling Extreme-Scale Data Analytics on Big HPC Storage via Progressive Refactoring",
+            "authors": [
+                "Tao Lu (New Jersey Institute of Technology)",
+                "Eric Suchyta (ORNL)",
+                "Jong Youl Choi (ORNL)",
+                "Norbert Podhorszki (ORNL)",
+                "Scott Klasky (ORNL)",
+                "Qing Liu (New Jersey Institute of Technology)",
+                "David Pugmire (ORNL)",
+                "Matthew Wolf (ORNL)",
+                "Mark Ainsworth (Brown)"
+            ],
+            "topics": [
+                "Storage",
+                "HPC",
+                "Data"
+            ]
+        }
+    ]
+}

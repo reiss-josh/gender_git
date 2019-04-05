@@ -1,0 +1,977 @@
+{
+    "key": "ISCA_17",
+    "conference": "International Symposium on Computer Architecture",
+    "organization": [
+        "ACM",
+        "IEEE"
+    ],
+    "country": "CA",
+    "postdate": "2017-06-24",
+    "last_deadline": "2016-11-18",
+    "review_days": 110,
+    "submissions": 322,
+    "min_reviews": 5,
+    "total_reviews": 1610,
+    "double_blind": true,
+    "rebuttal": true,
+    "open_access": false,
+    "age": 44,
+    "past_papers": 2089,
+    "past_citations": 48682,
+    "h5_index": 50,
+    "h5_median": 79,
+    "notes": "Several papers were assigned shepherds. Each paper received at least three PC reviews and two EPC reviews. There were more than 1600 total reviews. Most decisions were attempted by consensus among reviewers, and the rest going to vote for the full PC committee.",
+    "pc_chairs": [
+        "David Brooks (Harvard University)"
+    ],
+    "pc_members": [
+        "Aamer Jaleel (Nvidia)",
+        "Abdullah Muzahid (UT San Antonio)",
+        "Abhishek Bhattacharjee (Rutgers)",
+        "Adrian Sampson (Cornell)",
+        "Alper Buyuktosunoglu (IBM)",
+        "Antonia Zhai (U.Minnesota)",
+        "Antonio Gonzalez (UPC)",
+        "Babak Falsafi (EPFL)",
+        "Benjamin C. Lee (Duke)",
+        "Brandon Lucia (CMU)",
+        "Carole-Jean Wu (Arizona State)",
+        "Chia-Lin Yang (National Taiwan University)",
+        "Chris Batten (Cornell)",
+        "Chris Wilkerson (Intel)",
+        "Christina Delimitrou (Cornell)",
+        "Daniel J. Sorin (Duke University)",
+        "Daniel Sanchez (MIT)",
+        "Doug Burger (Microsoft)",
+        "Drew Hilton (Duke)",
+        "Edward Suh (Cornell)",
+        "Emre Ozer (ARM Research)",
+        "Hadi Esmaeilzadeh (Georgia Tech)",
+        "James Hoe (CMU)",
+        "Jangwoo Kim (Seoul National University)",
+        "Josep Torrellas (UIUC)",
+        "Jun Yang (Pittsburgh)",
+        "Jung Ho Ahn (Seoul National University)",
+        "Karthikeyan Sankaralingam (Wisconsin)",
+        "Kei Hiraki (U. Tokyo)",
+        "Kim Hazelwood (Facebook)",
+        "Koji Inoue (Kyushu University)",
+        "Kunle Olukotun (Stanford)",
+        "Lieven Eeckhout (Ghent Univ.)",
+        "Lingjia Tang (Michigan)",
+        "Lisa Wu (Berkeley)",
+        "Lizy K. John (UT Austin)",
+        "Luis Ceze (Washington)",
+        "Martha Kim (Columbia)",
+        "Mattan Erez (UT Austin)",
+        "Michael Ferdman (Stony Brook University)",
+        "Michael Taylor (UCSD)",
+        "Mike O'Connor (Nvidia)",
+        "Moinuddin Qureshi (Georgia Tech)",
+        "Nam Sung Kim (UIUC)",
+        "Natalie Enright-Jerger (U.Toronto)",
+        "Omer Khan (Connecticut)",
+        "Onur Mutlu (ETH)",
+        "Paul Whatmough (Harvard)",
+        "Paul V. Gratz (Texas A&M)",
+        "Pierre Michaud (INRIA)",
+        "Qiang Wu (Facebook)",
+        "Rajeev Balasubramonian (Utah)",
+        "Ramon Canal (Upc_Barcelona Tech)",
+        "Ravi Iyer (Intel)",
+        "Reetuparna Das (Michigan)",
+        "Russ Joseph (Northwestern)",
+        "Sally McKee (Rambus and Chalmers University of Technology)",
+        "Sandhya Dwarkadas (Rochester)",
+        "Shih-Lien Lu (TSMC)",
+        "Simha Sethumadhavan (Columbia/Chip Scan)",
+        "Yakun Sophia Shao (Nvidia)",
+        "Sreenivas Subramoney (Intel)",
+        "Steven Swanson (UCSD)",
+        "Tao Li (University of Florida/NSF)",
+        "Vijay Janapa Reddi (UT Austin)",
+        "Viji Srinivasan (IBM)",
+        "Xiaoyao Liang (Shanghai Jiao Tong University)",
+        "Xuehai Qian (USC)",
+        "Yan Solihin (NSF/NC State)",
+        "Yiannakis Sazeides (U. of Cyprus)"
+    ],
+    "keynote_speakers": [
+        "Mark Bohr (Intel)",
+        "Parthasarathy Ranganathan (Google)"
+    ],
+    "session_chairs": [
+        "Antonio Gonzalez",
+        "Reetuparna Das",
+        "Natalie Enright-Jerger",
+        "Drew Hilton",
+        "Carole-Jean Wu",
+        "Abdullah Muzahid",
+        "Paul Whatmough",
+        "Koji Inoue",
+        "Kunle Olukotun",
+        "G. Edward Suh",
+        "Lisa Wu",
+        "Daniel Sanchez",
+        "Adrian Sampson",
+        "Mike Ferdman",
+        "Yakun Sophia Shao",
+        "Kim Hazelwood",
+        "Josep Terrellas",
+        "Kei Hiraki"
+    ],
+    "panelists": [
+        "Mark D. Hill (Wisconsin)",
+        "Sandhya Dwarkadas (Rochester)",
+        "Hsien-Hsin Sean Lee (TSMC)",
+        "Babak Falsafi (EPFL)",
+        "Margaret Martonosi (Princeton)"
+    ],
+    "papers": [
+        {
+            "key": "ISCA_17_001",
+            "title": "In-Datacenter Performance Analysis of a Tensor Processing Unit",
+            "authors": [
+                "Norman P. Jouppi (Google)",
+                "Cliff Young (Google)",
+                "Nishant Patil (Google)",
+                "David Patterson (Google)",
+                "Gaurav Agrawal (Google)",
+                "Raminder Bajwa (Google)",
+                "Sarah Bates (Google)",
+                "Suresh Bhatia (Google)",
+                "Nan Boden (Google)",
+                "Al Borchers (Google)",
+                "Rick Boyle (Google)",
+                "Pierre-luc Cantin (Google)",
+                "Clifford Chao (Google)",
+                "Chris Clark (Google)",
+                "Jeremy Coriell (Google)",
+                "Mike Daley (Google)",
+                "Matt Dau (Google)",
+                "Jeffrey Dean (Google)",
+                "Ben Gelb (Google)",
+                "Tara Vazir Ghaemmaghami (Google)",
+                "Rajendra Gottipati (Google)",
+                "William Gulland (Google)",
+                "Robert Hagmann (Google)",
+                "C. Richard Ho (Google)",
+                "Doug Hogberg (Google)",
+                "John Hu (Google)",
+                "Robert Hundt (Google)",
+                "Dan Hurt (Google)",
+                "Julian Ibarz (Google)",
+                "Aaron Jaffey (Google)",
+                "Alek Jaworski (Google)",
+                "Alexander Kaplan (Google)",
+                "Harshit Khaitan (Google)",
+                "Daniel Killebrew (Google)",
+                "Andy Koch (Google)",
+                "Naveen Kumar (Google)",
+                "Steve Lacy (Google)",
+                "James Laudon (Google)",
+                "James Law (Google)",
+                "Diemthu Le (Google)",
+                "Chris Leary (Google)",
+                "Zhuyuan Liu (Google)",
+                "Kyle Lucke (Google)",
+                "Alan Lundin (Google)",
+                "Gordon MacKean (Google)",
+                "Adriana Maggiore (Google)",
+                "Maire Mahony (Google)",
+                "Kieran Miller (Google)",
+                "Rahul Nagarajan (Google)",
+                "Ravi Narayanaswami (Google)",
+                "Ray Ni (Google)",
+                "Kathy Nix (Google)",
+                "Thomas Norrie (Google)",
+                "Mark Omernick (Google)",
+                "Narayana Penukonda (Google)",
+                "Andy Phelps (Google)",
+                "Jonathan Ross (Google)",
+                "Matt Ross (Google)",
+                "Amir Salek (Google)",
+                "Emad Samadiani (Google)",
+                "Chris Severn (Google)",
+                "Gregory Sizikov (Google)",
+                "Matthew Snelham (Google)",
+                "Jed Souter (Google)",
+                "Dan Steinberg (Google)",
+                "Andy Swing (Google)",
+                "Mercedes Tan (Google)",
+                "Gregory Thorson (Google)",
+                "Bo Tian (Google)",
+                "Horia Toma (Google)",
+                "Erick Tuttle (Google)",
+                "Vijay Vasudevan (Google)",
+                "Richard Walter (Google)",
+                "Walter Wang (Google)",
+                "Eric Wilcox (Google)",
+                "Doe Hyun Yoon (Google)"
+            ],
+            "topics": [
+                "Architecture",
+                "Data"
+            ]
+        },
+        {
+            "key": "ISCA_17_002",
+            "title": "SCALEDEEP: A Scalable Compute Architecture for Learning and Evaluating Deep Networks",
+            "authors": [
+                "Swagath Venkataramani (Purdue)",
+                "Ashish Ranjan (Purdue)",
+                "Sasikanth Avancha (Intel)",
+                "Ashok Jagannathan (Intel)",
+                "Anand Raghunathan (Purdue)",
+                "Subarno Banerjee (Intel)",
+                "Dipankar Das (Intel)",
+                "Ajaya Durg (Intel)",
+                "Dheemanth Nagaraj (Intel)",
+                "Bharat Kaul (Intel)",
+                "Pradeep Dubey (Intel)"
+            ],
+            "topics": [
+                "Architecture",
+                "Data"
+            ]
+        },
+        {
+            "key": "ISCA_17_003",
+            "title": "SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks",
+            "authors": [
+                "Angshuman Parashar (NVIDIA)",
+                "Minsoo Rhu (NVIDIA)",
+                "Anurag Mukkara (MIT)",
+                "Antonio Puglielli (Berkeley)",
+                "Rangharajan Venkatesan (NVIDIA)",
+                "Brucek Khailany (NVIDIA)",
+                "Joel Emer (NVIDIA, MIT)",
+                "Stephen Keckler (NVIDIA)",
+                "William Dally (NVIDIA, Stanford)"
+            ],
+            "topics": [
+                "Architecture",
+                "Data",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ISCA_17_004",
+            "title": "Bespoke Processors for Applications with Ultra-low Area and Power Constraints",
+            "authors": [
+                "Hari Cherupalli (U. of Minnesota UMN)",
+                "Henry Duwe (Illinois)",
+                "Weidong Ye (Illinois)",
+                "Rakesh Kumar (U. of Illinois)",
+                "John Sartori (U. of Minnesota UMN)"
+            ],
+            "topics": [
+                "Architecture",
+                "Energy"
+            ]
+        },
+        {
+            "key": "ISCA_17_005",
+            "title": "A Programmable Galois Field Processor for the Internet of Things",
+            "authors": [
+                "Yajing Chen (umich)",
+                "Shengshuo Lu (umich)",
+                "Cheng Fu (umich)",
+                "David Blaauw (umich)",
+                "Ronald Dreslinski (umich)",
+                "Trevor Mudge (umich)",
+                "Hun-Seok Kim (U. of Michigan, Ann Arbor umich)"
+            ],
+            "topics": [
+                "GPGPU",
+                "Cloud",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISCA_17_006",
+            "title": "XPro: A Cross-End Processing Architecture for Data Analytics in Wearables",
+            "authors": [
+                "Aosen Wang (SUNY State U. of New York at Buffalo)",
+                "Lizhong Chen (Oregon State U.)",
+                "Wenyao Xu (SUNY State U. of New York at Buffalo)"
+            ],
+            "topics": [
+                "Architecture",
+                "Data"
+            ]
+        },
+        {
+            "key": "ISCA_17_007",
+            "title": "Regaining Lost Cycles with HotCalls: A Fast Interface for SGX Secure Enclaves",
+            "authors": [
+                "Or Weisse (umich)",
+                "Valeria Bertacco (umich)",
+                "Todd Austin (umich)"
+            ],
+            "topics": [
+                "Security",
+                "OS"
+            ]
+        },
+        {
+            "key": "ISCA_17_008",
+            "title": "InvisiMem: Smart Memory Defenses for Memory Bus Side Channel",
+            "authors": [
+                "Shaizeen Aga (umich)",
+                "Satish Narayanasamy (umich U. of Michigan, Ann Arbor)"
+            ],
+            "topics": [
+                "Architecture",
+                "Security"
+            ]
+        },
+        {
+            "key": "ISCA_17_009",
+            "title": "ObfusMem: A Low-Overhead Access Obfuscation for Trusted Memories",
+            "authors": [
+                "Amro Awad (Sandia National Laboratories)",
+                "Yipeng Wang (NCSU North Carolina State U.)",
+                "Deborah Shands (National Science Foundation)",
+                "Yan Solihin (NCSU North Carolina State U.)"
+            ],
+            "topics": [
+                "Architecture",
+                "Security"
+            ]
+        },
+        {
+            "key": "ISCA_17_010",
+            "title": "ThermoGater: Thermally-Aware On-Chip Voltage Regulation",
+            "authors": [
+                "S. Karen Khatamifard (UMN)",
+                "Longfei Wang (usf.edu)",
+                "Weize Yu (usf.edu)",
+                "Selc\u0327uk Ko\u0308se (usf.edu)",
+                "Ulya R. Karpuzcu (UMN)"
+            ],
+            "topics": [
+                "Energy",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISCA_17_011",
+            "title": "PowerChief: Intelligent Power Allocation for Multi-Stage Applications to Improve Responsiveness on Power Constrained CMP",
+            "authors": [
+                "Hailong Yang (Beihang)",
+                "Quan Chen (SJTU)",
+                "Moeiz Riaz (umich)",
+                "Zhongzhi Luan (Beihan)",
+                "Lingjia Tang (umich)",
+                "Jason Mars (umich)"
+            ],
+            "topics": [
+                "Architecture",
+                "Energy"
+            ]
+        },
+        {
+            "key": "ISCA_17_012",
+            "title": "CHARSTAR: Clock Hierarchy Aware Resource Scaling in Tiled ARchitectures",
+            "authors": [
+                "Gokul Subramanian Ravi (wisc)",
+                "Mikko H. Lipasti (wisc)"
+            ],
+            "topics": [
+                "Architecture",
+                "Energy"
+            ]
+        },
+        {
+            "key": "ISCA_17_013",
+            "title": "Chasing Away RAts: Semantics and Evaluation for Relaxed Atomics on Heterogeneous Systems",
+            "authors": [
+                "Matthew D. Sinclair (UIUC)",
+                "Johnathan Alsop (UIUC)",
+                "Sarita V. Adve (UIUC)"
+            ],
+            "topics": [
+                "Architecture",
+                "Concurrency",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ISCA_17_014",
+            "title": "Hiding the Long Latency of Persist Barriers Using Speculative Execution",
+            "authors": [
+                "Seunghee Shin (NCSU)",
+                "James Tuck (NCSU)",
+                "Yan Solihin"
+            ],
+            "topics": [
+                "Architecture",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ISCA_17_015",
+            "title": "Non-Speculative Load-Load Reordering in TSO",
+            "authors": [
+                "Alberto Ros (Department of Computer Engineering, Murcia)",
+                "Trevor E. Carlson (Uppsala)",
+                "Mehdi Alipour (Uppsala)",
+                "Stefanos Kaxiras (Uppsala)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISCA_17_016",
+            "title": "MTraceCheck: Validating Non-Deterministic Behavior of Memory Consistency Models in Post-Silicon Validation",
+            "authors": [
+                "Doowon Lee (umich)",
+                "Valeria Bertacco (umich)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISCA_17_017",
+            "title": "Redundant Memory Array Architecture for Efficient Selective Protection",
+            "authors": [
+                "Ruohuang Zheng (Rochester)",
+                "Michael C. Huang (Rochester)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISCA_17_018",
+            "title": "Clank: Architectural Support for Intermittent Computation",
+            "authors": [
+                "Matthew Hicks (vt.edu Virginia Tech)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISCA_17_019",
+            "title": "MeRLiN: Exploiting Dynamic Instruction Behavior for Fast and Accurate Microarchitecture Level Reliability Assessment",
+            "authors": [
+                "Manolis Kaliorakis (Athens)",
+                "Dimitris Gizopoulos (Department of Informatics & Telecommunications U. of Athens, Greece)",
+                "Ramon Canal (UPC)",
+                "Antonio Gonzalez (UPC)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISCA_17_020",
+            "title": "The Reach Profiler (REAPER): Enabling the Mitigation of DRAM Retention Failures via Profiling at Aggressive Conditions",
+            "authors": [
+                "Minesh Patel (ETH CMU)",
+                "Jeremie S. Kim (ETH CMU)",
+                "Onur Mutlu (ETH CMU)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISCA_17_021",
+            "title": "Quality of Service Support for Fine-Grained Sharing on GPUs",
+            "authors": [
+                "Zhenning Wang (SJTU)",
+                "Jun Yang (pitt.edu)",
+                "Rami Melhem (pitt.edu)",
+                "Bruce R. Childers (pitt.edu)",
+                "Youtao Zhang (pitt.edu)",
+                "Minyi Guo (SJTU)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ISCA_17_022",
+            "title": "Accelerating GPU Hardware Transactional Memory with Snapshot Isolation",
+            "authors": [
+                "Sui Chen (lsu.edu)",
+                "Lu Peng (lsu.edu)",
+                "Samuel Irving (lsu.edu)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ISCA_17_023",
+            "title": "Decoupled Affine Computation for SIMT GPUs",
+            "authors": [
+                "Kai Wang (utexas.edu)",
+                "Calvin Lin (utexas)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ISCA_17_024",
+            "title": "Access Pattern-Aware Cache Management for Improving Data Utilization in GPU",
+            "authors": [
+                "Gunjae Koo (USC), Yunho Oh (Yonsei)",
+                "Won Woo Ro (Yonsei)",
+                "Murali Annavaram (USC)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ISCA_17_025",
+            "title": "MCM-GPU: Multi-Chip-Module GPUs for Continued Performance Scalability",
+            "authors": [
+                "Akhil Arunkumar",
+                "Evgeny Bolotin (NVIDIA)",
+                "Benjamin Cho (utexas)",
+                "Ugljesa Milic (BSC UPC)",
+                "Eiman Ebrahimi (NVIDIA)",
+                "Oreste Villa (NVIDIA)",
+                "Aamer Jaleel (NVIDIA)",
+                "Carole-Jean Wu (asu.edu)",
+                "David Nellans (NVIDIA)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ISCA_17_026",
+            "title": "EDDIE: EM-Based Detection of Deviations in Program Execution",
+            "authors": [
+                "Alireza Nazari",
+                "Nader Sehatbakhsh",
+                "Monjur Alam",
+                "Alenka Zajic",
+                "Milos Prvulovic"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISCA_17_027",
+            "title": "Secure Hierarchy-Aware Cache Replacement Policy (SHARP): Defending Against Cache-Based Side Channel Attacks",
+            "authors": [
+                "Mengjia Yan (UIUC)",
+                "Bhargava Gopireddy (UIUC)",
+                "Thomas Shull (UIUC)",
+                "Josep Torrellas (UIUC)"
+            ],
+            "topics": [
+                "Architecture",
+                "Security"
+            ]
+        },
+        {
+            "key": "ISCA_17_028",
+            "title": "Lemonade from Lemons: Harnessing Device Wearout to Create Limited-Use Security Architectures",
+            "authors": [
+                "Zhaoxia Deng (UCSB)",
+                "Ariel Feldman (Chicago)",
+                "Stuart A. Kurtz (Chicago)",
+                "Frederic T. Chong (Chicago)"
+            ],
+            "topics": [
+                "Architecture",
+                "Security"
+            ]
+        },
+        {
+            "key": "ISCA_17_029",
+            "title": "LogCA: A High-Level Performance Model for Hardware Accelerators",
+            "authors": [
+                "Muhammad Shoaib (wisc)",
+                "Bin Altaf (wisc)",
+                "David A. Wood (wisc AMD)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ISCA_17_030",
+            "title": "Plasticine: A Reconfigurable Architecture for Parallel Patterns",
+            "authors": [
+                "Raghu Prabhakar (Stanford)",
+                "Yaqi Zhang (Stanford)",
+                "David Koeplinger (Stanford)",
+                "Matthew Feldman (Stanford)",
+                "Tian Zhao (Stanford)",
+                "Stefan Hadjis (Stanford)",
+                "Ardavan Pedram (Stanford)",
+                "Christos Kozyrakis (Stanford)",
+                "Kunle Olukotun (Stanford)"
+            ],
+            "topics": [
+                "Architecture",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ISCA_17_031",
+            "title": "A Programmable Hardware Accelerator for Simulating Dynamical Systems",
+            "authors": [
+                "Jaeha Kung (gatech)",
+                "Yun Long (gatech)",
+                "Duckhwan Kim (gatech)",
+                "Saibal Mukhopadhyay (gatech)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ISCA_17_032",
+            "title": "Stream-Dataflow Acceleration",
+            "authors": [
+                "Tony Nowatzki (UCLA, wisc)",
+                "Vinay Gangadhar (wisc)",
+                "Newsha Ardalani (wisc)",
+                "Karthikeyan Sankaralingam (wisc)"
+            ],
+            "topics": [
+                "Architecture",
+                "Data"
+            ]
+        },
+        {
+            "key": "ISCA_17_033",
+            "title": "Hardware Translation Coherence for Virtualized Systems",
+            "authors": [
+                "Zi Yan (Rutgers)",
+                "Ja\u0301n Vesely\u0301 (Rutgers)",
+                "Guilherme Cox (Rutgers)",
+                "Abhishek Bhattacharjee (Rutgers)"
+            ],
+            "topics": [
+                "Architecture",
+                "VM"
+            ]
+        },
+        {
+            "key": "ISCA_17_034",
+            "title": "Hybrid TLB Coalescing: Improving TLB Translation Coverage under Diverse Fragmented Memory Allocations",
+            "authors": [
+                "Changhyun Park",
+                "Taekyung Heo",
+                "Jungi Jeong (KAIST)",
+                "Jaehyuk Huh (KAIST)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISCA_17_035",
+            "title": "Do-It-Yourself Virtual Memory Translation",
+            "authors": [
+                "Hanna Alam (Technion)",
+                "Tianhao Zhang (utexas)",
+                "Mattan Erez (utexas)",
+                "Yoav Etsion (Technion)"
+            ],
+            "topics": [
+                "Architecture",
+                "VM"
+            ]
+        },
+        {
+            "key": "ISCA_17_036",
+            "title": "Rethinking TLB Designs in Virtualized Environments: A Very Large Part-of-Memory TLB",
+            "authors": [
+                "Jee Ho Ryoo (utexas)",
+                "Nagendra Gulur",
+                "Shuang Song (utexas)",
+                "Lizy K. John (UT Austin)"
+            ],
+            "topics": [
+                "Architecture",
+                "VM"
+            ]
+        },
+        {
+            "key": "ISCA_17_037",
+            "title": "Language-level persistency",
+            "authors": [
+                "Aasheesh Kolli (umich)",
+                "Vaibhav Gogte (umich)",
+                "Ali Saidi (umich)",
+                "Stephan Diestelhorst (umich)",
+                "Peter M. Chen (umich)",
+                "Satish Narayanasamy (umich)",
+                "Thomas F. Wenisch (umich)"
+            ],
+            "topics": [
+                "Architecture",
+                "Storage",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "ISCA_17_038",
+            "title": "ShortCut: Architectural Support for Fast Object Access in Scripting Languages",
+            "authors": [
+                "Jiho Choi (UIUC)",
+                "Thomas Shull (UIUC)",
+                "Mar\u00eda Jes\u00fas Garzar\u00e1n (University of Illinois, USA)",
+                "Josep Torrellas (UIUC)"
+            ],
+            "topics": [
+                "Architecture",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "ISCA_17_039",
+            "title": "Architectural Support for Server-Side PHP Processing",
+            "authors": [
+                "Dibakar Gope (wisc)",
+                "David J. Schlais (wisc)",
+                "Mikko H. Lipasti (wisc)"
+            ],
+            "topics": [
+                "Architecture",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "ISCA_17_040",
+            "title": "HeteroOS - OS design for heterogeneous memory management in datacenter",
+            "authors": [
+                "Sudarsun Kannan (wisc)",
+                "Ada Gavrilovska (gatech)",
+                "Vishal Gupta (vmware)",
+                "Karsten Schwan (gatech)"
+            ],
+            "topics": [
+                "Architecture",
+                "OS",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ISCA_17_041",
+            "title": "Maximizing CNN Accelerator Efficiency Through Resource Partitioning",
+            "authors": [
+                "Yongming Shen (stonybrook)",
+                "Michael Ferdman (stonybrook)",
+                "Peter Milder (Stony Brook U.)"
+            ],
+            "topics": [
+                "Architecture",
+                "Data",
+                "OS"
+            ]
+        },
+        {
+            "key": "ISCA_17_042",
+            "title": "Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism",
+            "authors": [
+                "Jiecao Yu (umich)",
+                "Andrew Lukefahr (umich)",
+                "David Palframan (umich)",
+                "Ganesh Dasika (ARM)",
+                "Reetuparna Das (umich)",
+                "Scott Mahlke (umich)"
+            ],
+            "topics": [
+                "Architecture",
+                "Data",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ISCA_17_043",
+            "title": "Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent",
+            "authors": [
+                "Christopher De Sa (Stanford)",
+                "Matthew Feldman (Stanford)",
+                "Christopher Re (Stanford)",
+                "Kunle Olukotun (Stanford)"
+            ],
+            "topics": [
+                "Architecture",
+                "Data"
+            ]
+        },
+        {
+            "key": "ISCA_17_044",
+            "title": "Aggressive Pipelining of Irregular Applications on Reconfigurable Hardware",
+            "authors": [
+                "Zhaoshi Li (tsinghua)",
+                "Leibo Liu (tsinghua)",
+                "Yangdong Deng (tsinghua)",
+                "Shouyi Yin (tsinghua)",
+                "Yao Wang (tsinghua)",
+                "Shaojun Wei (tsinghua)"
+            ],
+            "topics": [
+                "Architecture",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "ISCA_17_045",
+            "title": "Fractal: An Execution Model for Fine-Grain Nested Speculative Parallelism",
+            "authors": [
+                "Suvinay Subramanian (MIT)",
+                "Mark C. Jeffrey (MIT)",
+                "Maleen Abeydeera (MIT)",
+                "Hyun Ryong Lee (MIT)",
+                "Victor A. Ying (MIT)",
+                "Joel Emer (MIT, NVIDIA)",
+                "Daniel Sanchez (MIT)"
+            ],
+            "topics": [
+                "Architecture",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ISCA_17_046",
+            "title": "Parallel Automata Processor",
+            "authors": [
+                "Arun Subramaniyan (umich)",
+                "Reetuparna Das (umich)"
+            ],
+            "topics": [
+                "Architecture",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "ISCA_17_047",
+            "title": "Viyojit: Decoupling Battery and DRAM Capacities for Battery-Backed DRAM",
+            "authors": [
+                "Rajat Kateja (CMU Carnegie Mellon U.)",
+                "Anirudh Badam (Microsoft)",
+                "Sriram Govindan (Microsoft)",
+                "Bikash Sharma (Microsoft)",
+                "Gregory R. Ganger (CMU Carnegie Mellon U.)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISCA_17_048",
+            "title": "DICE: Compressing DRAM Caches for Bandwidth and Capacity",
+            "authors": [
+                "Vinson Young (gatech)",
+                "Prashant J. Nair (gatech)",
+                "Moinuddin Qureshi (gatech)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISCA_17_049",
+            "title": "The Mondrian Data Engine",
+            "authors": [
+                "Mario Drumond",
+                "Alexandros Daglis",
+                "Nooshin Mirzadeh",
+                "Dmitrii Ustiugov",
+                "Javier Picorel",
+                "Babak Falsafi (EcoCloud, EPFL)",
+                "Boris Grot (U. of Edinburgh)",
+                "Dionisios Pnevmatikatos (FORTH-ICS & ECE-TUC)"
+            ],
+            "topics": [
+                "Architecture",
+                "Data"
+            ]
+        },
+        {
+            "key": "ISCA_17_050",
+            "title": "Jenga: Software-Defined Cache Hierarchies",
+            "authors": [
+                "Po-An Tsai (MIT CSAIL)",
+                "Nathan Beckmann (CMU SCS)",
+                "Daniel Sanchez (MIT CSAIL)"
+            ],
+            "topics": [
+                "Architecture"
+            ]
+        },
+        {
+            "key": "ISCA_17_051",
+            "title": "APPROX-NoC: A Data Approximation Framework for Network-On-Chip Architectures",
+            "authors": [
+                "Rahul Boyapati (tamu)",
+                "Jiayi Huang (tamu)",
+                "Pritam Majumder (tamu)",
+                "Ki Hwan (tamu)",
+                "Yum Eun (tamu)",
+                "Jung Kim (tamu)"
+            ],
+            "topics": [
+                "Architecture",
+                "Network"
+            ]
+        },
+        {
+            "key": "ISCA_17_052",
+            "title": "There and Back Again: Optimizing the Interconnect in Networks of Memory Cubes",
+            "authors": [
+                "Matthew Poremba",
+                "Itir Akgun",
+                "Jieming Yin (UMN, AMD)",
+                "Onur Kayiran",
+                "Yuan Xie",
+                "Gabriel H. Loh"
+            ],
+            "topics": [
+                "Architecture",
+                "Network"
+            ]
+        },
+        {
+            "key": "ISCA_17_053",
+            "title": "Footprint: Regulating Routing Adaptiveness in Networks-on-Chip",
+            "authors": [
+                "Binzhang Fu (SKL Computer Achitecture ICT, CAS, Huawei Technologies Co., Ltd.)",
+                "John Kim (School of Computing, KAIST. Hewlett Packard Labs hp.com)"
+            ],
+            "topics": [
+                "Architecture",
+                "Network"
+            ]
+        },
+        {
+            "key": "ISCA_17_054",
+            "title": "EbDa: A New Theory on Design and Verification of Deadlock-free Interconnection Networks",
+            "authors": [
+                "Masoumeh Ebrahimi",
+                "Masoud Daneshtalab"
+            ],
+            "topics": [
+                "Architecture",
+                "Concurrency",
+                "Network"
+            ]
+        }
+    ]
+}

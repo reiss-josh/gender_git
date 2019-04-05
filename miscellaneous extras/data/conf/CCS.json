@@ -1,0 +1,2316 @@
+{
+    "key": "CCS_17",
+    "conference": "Conference on Computer and Communications Security",
+    "organization": [
+        "ACM"
+    ],
+    "country": "US",
+    "postdate": "2017-10-31",
+    "last_deadline": "2017-05-19",
+    "review_days": 49,
+    "submissions": 836,
+    "min_reviews": 2,
+    "total_reviews": "",
+    "double_blind": true,
+    "rebuttal": true,
+    "open_access": false,
+    "age": 24,
+    "past_papers": 3024,
+    "past_citations": 43098,
+    "h5_index": 71,
+    "h5_median": 109,
+    "notes": "A good proportion of papers are available for download from the conference website, but not all. Also, many artifacts are available there. Authors were allowed to submit past reviews and responses. After responses, 17 papers were 'revived'. The chairs PC found (statistically) that authors submitting more than 4 papers were less likely to be accepted (see https://acmccs.github.io). They also computed the distribution of number of co-authors, with a mode of 4 for accepted papers. Only 1 single-author paper was accepted (of 34 submitted). They also computed the distrubtion of papers represented, with most papers coming from a single country (up to 4). American authors submitted 540 papers with 114 accepted, for example, while Chinese authors submitted 132 papers with 12 accepted.",
+    "pc_chairs": [
+        "David Evans (University of Virginia)",
+        "Tal Malkin (Columbia University)",
+        "Dongyan Xu (Purdue University)"
+    ],
+    "pc_members": [
+        "Sadia Afroz (UC Berkeley / ICSI)",
+        "Gail-Joon Ahn (Arizona State University)",
+        "Ehab Al-Shaer (University of North Carolina Charlotte)",
+        "Elias Athanasopoulos (University of Cyprus)",
+        "Foteini Baldimtsi (George Mason University)",
+        "David Basin (ETH Zurich)",
+        "Adam Bates (University of Illinois at Urbana-Champaign)",
+        "Lujo Bauer (Carnegie Mellon University)",
+        "Konstantin Beznosov (University of British Columbia)",
+        "Karthikeyan Bhargavan (INRIA)",
+        "Alex Biryukov (University of Luxembourg)",
+        "Jeremiah Blocki (Purdue University)",
+        "Elette Boyle (IDC Herzliya)",
+        "Levente Butty\u00e1n (CrySyS Lab, BME)",
+        "Juan Caballero (IMDEA Software Institute)",
+        "Joseph Calandrino (Federal Trade Commission)",
+        "Aylin Caliskan (Princeton University)",
+        "Yinzhi Cao (Lehigh University)",
+        "Alvaro A. Cardenas (University of Texas at Dallas)",
+        "Lorenzo Cavallaro (Royal Holloway, University of London)",
+        "Neha Chachra (Facebook)",
+        "Melissa Chase (Microsoft Research)",
+        "Haibo Chen (Shanghai Jiao Tong University)",
+        "Hao Chen (University of California, Davis)",
+        "Omar Chowdhury (University of Iowa)",
+        "Nicolas Christin (Carnegie Mellon University)",
+        "V\u00e9ronique Cortier (Loria (CNRS, France))",
+        "Manuel Costa (Microsoft Research)",
+        "Scott Coull (FireEye)",
+        "Weidong Cui (Microsoft Research)",
+        "Anupam Das (Carnegie Mellon University)",
+        "Anupam Datta (Carnegie Mellon University)",
+        "Lucas Davi (University of Duisburg-Essen)",
+        "Emiliano De Cristofaro (University College London)",
+        "Tamara Denning (University of Utah)",
+        "Xuhua Ding (Singapore Management University)",
+        "Brendan Dolan-Gavitt (New York University)",
+        "Adam Doup\u00e9 (Arizona State University)",
+        "Tudor Dumitra\u0282 (University of Maryland)",
+        "Serge Egelman (UC Berkeley / ICSI)",
+        "Ittay Eyal (Cornell University)",
+        "Sascha Fahl (Saarland University)",
+        "Christopher W. Fletcher (NVIDIA/UIUC)",
+        "Aur\u00e9lien Francillon (EURECOM)",
+        "Matthew Fredrikson (Carnegie Mellon University)",
+        "Xinyang Ge (Microsoft Research)",
+        "Daniel Genkin (University of Pennsylvania / University of Maryland)",
+        "Rosario Gennaro (City College of New York)",
+        "Phillipa Gill (University of Massachusetts Amherst)",
+        "Dov Gordon (George Mason University)",
+        "Andreas Haeberlen (University of Pennsylvania)",
+        "J. Alex Halderman (University of Michigan)",
+        "Shai Halevi (IBM Research)",
+        "Matthew Hicks (MIT Lincoln Laboratory)",
+        "Michael Hicks (University of Maryland)",
+        "Thorsten Holz (Ruhr-Universit\u00e4t Bochum)",
+        "Amir Houmansadr (University of Massachusetts Amherst)",
+        "Yan Huang (Indiana University)",
+        "Kyu Hyung Lee (University of Georgia)",
+        "Trent Jaeger (Penn State University)",
+        "Suman Jana (Columbia University)",
+        "Limin Jia (Carnegie Mellon University)",
+        "Yier Jin (University of Central Florida)",
+        "Aaron Johnson (U.S. Naval Research Laboratory)",
+        "Philipp Jovanovic (\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne)",
+        "Brent ByungHoon Kang (KAIST)",
+        "Aniket Kate (Purdue University)",
+        "Jonathan Katz (University of Maryland)",
+        "Stefan Katzenbeisser (TU Darmstadt)",
+        "Marcel Keller (University of Bristol)",
+        "Aggelos Kiayias (University of Edinburgh)",
+        "Taesoo Kim (Georgia Tech)",
+        "Yongdae Kim (KAIST)",
+        "Engin Kirda (Northeastern University)",
+        "David Kotz (Dartmouth)",
+        "Farinaz Koushanfar (UC San Diego)",
+        "Ralf K\u00fcsters (University of Stuttgart)",
+        "Andrea Lanzi (University of Milan)",
+        "Byoungyoung Lee (Purdue University)",
+        "Wenke Lee (Georgia Tech)",
+        "Brian N. Levine (University of Massachusetts Amherst)",
+        "Zhichun Li (NEC Labs)",
+        "Zhou Li (RSA)",
+        "David Lie (University of Toronto)",
+        "Yao Liu (University of South Florida)",
+        "Matteo Maffei (TU Vienna)",
+        "Mohammad Mahmody (University of Virginia)",
+        "Z. Morley Mao (University of Michigan)",
+        "Ivan Martinovic (University of Oxford)",
+        "Michelle L. Mazurek (University of Maryland)",
+        "Jonathan McCune (Google)",
+        "Andrew Miller (University of Illinois at Urbana-Champaign)",
+        "Tal Moran (IDC Herzliya)",
+        "Muhammad Naveed (University of Southern California)",
+        "Nick Nikiforakis (Stony Brook University)",
+        "Hamed Okhravi (MIT Lincoln Laboratory)",
+        "Alina Oprea (Northeastern University)",
+        "Mathias Payer (Purdue University)",
+        "Adrian Perrig (ETH Zurich)",
+        "Michalis Polychronakis (Stony Brook University)",
+        "Georgios Portokalidis (Stevens Institute of Technology)",
+        "Bart Preneel (KU Leuven)",
+        "Zhiyun Qian (University of California, Riverside)",
+        "Kasper Rasmussen (University of Oxford)",
+        "Aseem Rastogi (Microsoft Research India)",
+        "Mariana Raykova (Yale University)",
+        "Kaveh Razavi (Vrije Universiteit)",
+        "William Robertson (Northeastern University)",
+        "Christian Rossow (Saarland University)",
+        "Mike Rosulek (Oregon State University)",
+        "Patrick Schaumont (Virginia Tech)",
+        "abhi shelat (Northeastern)",
+        "Micah Sherr (Georgetown University)",
+        "Timothy Sherwood (UC Santa Barbara)",
+        "Reza Shokri (Cornell Tech)",
+        "Stelios Sidiroglou-Douskos (MIT)",
+        "Chengyu Song (UC Riverside)",
+        "Douglas Stebila (McMaster University)",
+        "Deian Stefan (UC San Diego)",
+        "Gianluca Stringhini (University College London)",
+        "Kun Sun (George Mason University)",
+        "Ewa Syta (Trinity College)",
+        "Mohit Tiwari (UT Austin)",
+        "Patrick Traynor (University of Florida)",
+        "Carmela Troncoso (IMDEA Software Institute)",
+        "Blase Ur (University of Chicago)",
+        "Marten van Dijk (University of Connecticut)",
+        "Haining Wang (University of Delaware)",
+        "XiaoFeng Wang (Indiana University)",
+        "Zhi Wang (Florida State University)",
+        "Matthew Wright (Rochester Institute of Technology)",
+        "Dinghao Wu (Pennsylvania State University)",
+        "Zhenyu Wu (NEC Laboratories America)",
+        "Luyi Xing (Indiana University)",
+        "Xinyu Xing (Pennsylvania State University)",
+        "Guanhua Yan (Binghamton University)",
+        "Lok Yan (Air Force Research Laboratory)",
+        "Heng Yin (University of California, Riverside)",
+        "Samee Zahur (Google)",
+        "Fengwei Zhang (Wayne State University)",
+        "Kehuan Zhang (Chinese University of Hong Kong)",
+        "Yanchao Zhang (Arizona State University)",
+        "Yinqian Zhang (The Ohio State University)",
+        "Sencun Zhu (Pennsylvania State University)",
+        "Saman A. Zonouz (Rutgers University)"
+    ],
+    "keynote_speakers": [
+        "David Wagner"
+    ],
+    "session_chairs": [
+        "Marcel Keller",
+        "Jeremiah Blocki",
+        "Saman A. Zonouz",
+        "Joseph Calandrino",
+        "Aniket Kate",
+        "Samee Zahur",
+        "Hamed Okhravi",
+        "Georgios Portokalidis",
+        "Michael Hicks",
+        "Christina Garman",
+        "Yan Huang",
+        "Gianluca Stringhini",
+        "Aylin Caliskan",
+        "Shai Halevi",
+        "Nicolas Christin",
+        "Tal Malkin",
+        "Yao Liu",
+        "Mohit Tiwari",
+        "Abhi Shelat",
+        "Yuan Tian",
+        "Samee Zahur",
+        "Kyu Hyung Lee",
+        "Alvaro A. Cardenas",
+        "Hao Chen",
+        "Yinqian Zhang",
+        "XiaoFeng Wang",
+        "Trent Jaeger",
+        "Guanhua Yan",
+        "Amir Houmansadr",
+        "Nick Nikiforakis",
+        "Mariana Raykova",
+        "Mathias Payer",
+        "Shai Halevi",
+        "Marcel Keller",
+        "Haining Wang",
+        "Daniel Genkin",
+        "Hovav Shacham",
+        "Suman Jana",
+        "Dinghao Wu",
+        "Fengwei Zhang",
+        "Heng Yin",
+        "David Kotz",
+        "Micah Sherr",
+        "Matthew Wright",
+        "Daniel Genkin",
+        "Byoungyoung Lee",
+        "Xinyu Xing",
+        "Taesoo Kim",
+        "Stefan Katzenbeisser",
+        "William Robertson (Northeastern University)",
+        "Wenke Lee",
+        "Alex Malozemoff"
+    ],
+    "panelists": [
+        "John C. Havens",
+        "Heather Patterson",
+        "Arthur J Redfern",
+        "Howard Shrobe",
+        "Cliff Wang",
+        "Susanne Wetzel"
+    ],
+    "papers": [
+        {
+            "key": "CCS_17_001",
+            "title": "DUPLO: Unifying Cut-and-Choose for Garbled Circuits",
+            "authors": [
+                "Vladimir Kolesnikov",
+                "Jesper Buus Nielsen",
+                "Mike Rosulek",
+                "Ni Trieu",
+                "Roberto Trifiletti"
+            ],
+            "topics": [
+                "Security",
+                "Architecture",
+                "Network"
+            ]
+        },
+        {
+            "key": "CCS_17_002",
+            "title": "Authenticated Garbling and Efficient Maliciously Secure Two-Party Computation",
+            "authors": [
+                "Xiao Wang",
+                "Samuel Ranellucci",
+                "Jonathan Katz"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ],
+            "award": true
+        },
+        {
+            "key": "CCS_17_003",
+            "title": "Global-Scale Secure Multiparty Computation",
+            "authors": [
+                "Xiao Wang",
+                "Samuel Ranellucci",
+                "Jonathan Katz"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "CCS_17_004",
+            "title": "Hearing Your Voice Is Not Enough: An Articulatory Gesture Based Liveness Detection for Voice Authentication",
+            "authors": [
+                "Linghan Zhang",
+                "Sheng Tan",
+                "Jie Yang"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_005",
+            "title": "VibWrite: Towards Finger-input Authentication on Ubiquitous Surfaces via Physical Vibration",
+            "authors": [
+                "Jian1 Liu",
+                "Chen Wang",
+                "Yingying Chen",
+                "Nitesh Saxena"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_006",
+            "title": "Presence Attestation: The Missing Link In Dynamic Trust Bootstrapping",
+            "authors": [
+                "Zhangkai Zhang",
+                "Xuhua Ding",
+                "Gene Tsudik",
+                "Jinhua Cui",
+                "Zhoujun Li"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_007",
+            "title": "DolphinAttack: Inaudible Voice Commands",
+            "authors": [
+                "Guoming Zhang",
+                "Chen Yan",
+                "Xiaoyu Ji",
+                "Tianchen Zhang",
+                "Taimin Zhang",
+                "Wenyuan Xu"
+            ],
+            "topics": [
+                "Security"
+            ],
+            "award": true
+        },
+        {
+            "key": "CCS_17_008",
+            "title": "Evading Classifiers by Morphing in the Dark",
+            "authors": [
+                "Hung Dang",
+                "Yue Huang",
+                "Ee-Chien Chang"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_009",
+            "title": "MagNet: a Two-Pronged Defense against Adversarial Examples",
+            "authors": [
+                "Dongyu Meng",
+                "Hao Chen"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "CCS_17_010",
+            "title": "Hindsight: Understanding the Evolution of UI Vulnerabilities in Mobile Browsers",
+            "authors": [
+                "Meng Luo",
+                "Oleksii Starov",
+                "Nima Honarmand",
+                "Nick Nikiforakis"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_011",
+            "title": "\"Deterministic Browser\"",
+            "authors": [
+                "Yinzhi Cao",
+                "Zhanhao Chen",
+                "Song Li",
+                "Shujiang Wu"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_012",
+            "title": "Most Websites Don\u2019t Need to Vibrate: A Cost-Benefit Approach to Improving Browser Security",
+            "authors": [
+                "Peter Snyder",
+                "Cynthia Taylor",
+                "Chris Kanich"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_013",
+            "title": "Be Selfish and Avoid Dilemmas: Fork After Withholding (FAW) Attacks on Bitcoin",
+            "authors": [
+                "Yujin Kwon",
+                "Dohyun Kim",
+                "Yunmok Son",
+                "Eugene Vasserman",
+                "Yongdae Kim"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_014",
+            "title": "Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing",
+            "authors": [
+                "Changyu Dong",
+                "Yilei Wang",
+                "Amjad Aldweesh",
+                "Patrick McCorry",
+                "Aad van Moorsel"
+            ],
+            "topics": [
+                "Security",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCS_17_015",
+            "title": "Zero-Knowledge Contingent Payments Revisited: Attacks and Payments for Services",
+            "authors": [
+                "Matteo Campanelli",
+                "Rosario Gennaro",
+                "Steven Goldfeder",
+                "Luca Nizzardo"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_016",
+            "title": "Pool: Scalable On-Demand Secure Computation Service Against Malicious Adversaries",
+            "authors": [
+                "Ruiyu Zhu",
+                "Yan Huang",
+                "Darion Cassel"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_017",
+            "title": "A Framework for Constructing Fast MPC over Arithmetic Circuits with Malicious Adversaries and an Honest-Majority",
+            "authors": [
+                "Yehuda Lindell",
+                "Ariel Nof"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_018",
+            "title": "Efficient, Constant-Round and Actively Secure MPC: Beyond the Three-Party Case",
+            "authors": [
+                "Nishanth Chandran",
+                "Juan Garay",
+                "Payman Mohassel",
+                "Satyanarayana Vusirikala"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_019",
+            "title": "Let\u2019s go in for a closer look: Observing passwords in their natural habitat",
+            "authors": [
+                "Sarah Pearman",
+                "Jeremy Thomas",
+                "Pardis Emami Naeini",
+                "Hana Habib",
+                "Lujo Bauer",
+                "Nicolas Christin",
+                "Lorrie Faith Cranor",
+                "Serge Egelman",
+                "Alain Forget"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_020",
+            "title": "Why Do Developers Get Password Storage Wrong? A Qualitative Usability Study",
+            "authors": [
+                "Alena Naiakshina",
+                "Anastasia Danilova",
+                "Christian Tiefenau",
+                "Marco Herzog",
+                "Sergej Dechand",
+                "Matthew Smith"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_021",
+            "title": "The TypTop System: Personalized Typo-tolerant Password Checking",
+            "authors": [
+                "Rahul Chatterjee",
+                "Joanne Woodage",
+                "Yuval Pnueli",
+                "Anusha Chowdhury",
+                "Thomas Ristenpart"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_022",
+            "title": "Rise of the HaCRS: Augmenting Autonomous Cyber Reasoning Systems with Human Assistance",
+            "authors": [
+                "Yan Shoshitaishvili",
+                "Michael Weissbacher",
+                "Lukas Dresel",
+                "Christopher Salls",
+                "Ruoyu Wang",
+                "Christopher Kruegel",
+                "Giovanni Vigna"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_023",
+            "title": "Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection",
+            "authors": [
+                "Xiaojun Xu",
+                "Chang Liu",
+                "Qian Feng",
+                "Heng Yin",
+                "Le Song",
+                "Dawn Song"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "CCS_17_024",
+            "title": "RAIN: Refinable Attack Investigation with On-demand Inter-Process Information Flow Tracking",
+            "authors": [
+                "Yang Ji",
+                "Sangho Lee",
+                "Evan Downing",
+                "Weiren Wang",
+                "Mattia Fazzini",
+                "Taesoo Kim",
+                "Alessandro Orso",
+                "Wenke Lee"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_025",
+            "title": "Synthesis of Probabilistic Privacy Enforcement",
+            "authors": [
+                "Martin Kucera",
+                "Petar Tsankov",
+                "Timon Gehr",
+                "Marco Guarnieri",
+                "Martin Vechev"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_026",
+            "title": "A Type System for Privacy Properties",
+            "authors": [
+                "V\u00e9ronique Cortier",
+                "Niklas Grimm",
+                "Joseph Lallemand",
+                "Matteo Maffei"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_027",
+            "title": "Generating Synthetic Decentralized Social Graphs with Local Differential Privacy",
+            "authors": [
+                "Zhan Qin",
+                "Yin Yang",
+                "Ting Yu",
+                "Xiaokui Xiao",
+                "Issa Khalil",
+                "Kui Ren"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_028",
+            "title": "Revive: Rebalancing Off-Blockchain Payment Networks",
+            "authors": [
+                "Rami Khalil",
+                "Arthur Gervais"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_029",
+            "title": "Concurrency and Privacy with Payment-Channel Networks",
+            "authors": [
+                "Giulio Malavolta",
+                "Pedro Moreno-Sanchez",
+                "Aniket Kate",
+                "Matteo Maffei",
+                "Srivatsan Ravi"
+            ],
+            "topics": [
+                "Security",
+                "Concurrency",
+                "Cloud"
+            ]
+        },
+        {
+            "key": "CCS_17_030",
+            "title": "Bolt: Anonymous Payment Channels for Decentralized Currencies",
+            "authors": [
+                "Matthew Green",
+                "Ian Miers"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_031",
+            "title": "S3ORAM: A Computation-Efficient and Constant Client Bandwidth Blowup ORAM with Shamir Secret Sharing",
+            "authors": [
+                "Thang Hoang",
+                "Ceyhun D. Ozkaptan",
+                "Attila A. Yavuz",
+                "Jorge Guajardo",
+                "Tam Nguyen"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_032",
+            "title": "Deterministic, Stash-Free Write-Only ORAM",
+            "authors": [
+                "Daniel S. Roche",
+                "Adam J. Aviv",
+                "Seung Geol Choi",
+                "Travis Mayberry"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_033",
+            "title": "Scaling ORAM for Secure Computation",
+            "authors": [
+                "Jack Doerner",
+                "abhi shelat"
+            ],
+            "topics": [
+                "Security"
+            ],
+            "award": true
+        },
+        {
+            "key": "CCS_17_034",
+            "title": "Don\u2019t Let One Rotten Apple Spoil the Whole Barrel: Towards Automated Detection of Shadowed Domains",
+            "authors": [
+                "Daiping Liu",
+                "Zhou Li",
+                "Kun Du",
+                "Haining Wang",
+                "Baojun Liu",
+                "Haixin Duan"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_035",
+            "title": "Herding Vulnerable Cats: A Statistical Approach to Disentangle Joint Responsibility for Web Security in Shared Hosting",
+            "authors": [
+                "Samaneh Tajalizadehkhoob",
+                "Tom Van Goethem",
+                "Maciej Korczy\u0144ski",
+                "Arman Noroozian",
+                "Rainer B\u00f6hme",
+                "Tyler Moore",
+                "Wouter Joosen",
+                "Michel van Eeten"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_036",
+            "title": "Hiding in Plain Sight: A Longitudinal Study of Combosquatting Abuse",
+            "authors": [
+                "Panagiotis Kintis",
+                "Najmeh Miramirkhani",
+                "Charles Lever",
+                "Yizheng Chen",
+                "Rosa Romero-G\u00f3mez",
+                "Nikolaos Pitropakis",
+                "Nick Nikiforakis",
+                "Manos Antonakakis"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_037",
+            "title": "Machine Learning Models that Remember Too Much",
+            "authors": [
+                "Congzheng Song",
+                "Thomas Ristenpart",
+                "Vitaly Shmatikov"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "CCS_17_038",
+            "title": "Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning",
+            "authors": [
+                "Briland Hitaj",
+                "Giuseppe Ateniese",
+                "Fernando Perez-Cruz"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "CCS_17_039",
+            "title": "Oblivious Neural Network Predictions via MiniONN transformations",
+            "authors": [
+                "Jian2 Liu",
+                "Mika Juuti",
+                "Yao Lu",
+                "N. Asokan"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "CCS_17_040",
+            "title": "Verifying Security Policies in Multi-agent Workflows with Loops",
+            "authors": [
+                "Bernd Finkbeiner",
+                "Christian M\u00fcller",
+                "Helmut Seidl",
+                "Eugen Zalinescu"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_041",
+            "title": "Attribute-Based Encryption in the Generic Group Model: Automated Proofs and New Constructions",
+            "authors": [
+                "Miguel Ambrona",
+                "Gilles Barthe",
+                "Romain Gay",
+                "Hoeteck Wee"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_042",
+            "title": "FAME: Fast Attribute-based Message Encryption",
+            "authors": [
+                "Shashank Agrawal",
+                "Melissa Chase"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_043",
+            "title": "Practical UC-Secure Delegatable Credentials with Attributes and Their Application to Blockchain",
+            "authors": [
+                "Jan Camenisch",
+                "Manu Drijvers",
+                "Maria Dubovitskaya"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_044",
+            "title": "Solidus: Confidential Distributed Ledger Transactions via PVORM",
+            "authors": [
+                "Ethan Cecchetti",
+                "Fan Zhang",
+                "Yan Ji",
+                "Ahmed Kosba",
+                "Ari Juels",
+                "Elaine Shi"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_045",
+            "title": "Fairness in an Unfair World: Fair Multiparty Computation from Public Bulletin Boards",
+            "authors": [
+                "Arka Rai Choudhuri",
+                "Matthew Green",
+                "Abhishek Jain",
+                "Gabriel Kaptchuk",
+                "Ian Miers"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_046",
+            "title": "5Gen-C: Multi-input Functional Encryption and Program Obfuscation for Arithmetic Circuits",
+            "authors": [
+                "Brent Carmer",
+                "Alex J. Malozemoff",
+                "Mariana Raykova"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_047",
+            "title": "Iron: Functional Encryption using Intel SGX",
+            "authors": [
+                "Ben Fisch",
+                "Dhinakaran Vinayagamurthy",
+                "Dan Boneh",
+                "Sergey Gorbunov"
+            ],
+            "topics": [
+                "Security",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "CCS_17_048",
+            "title": "Implementing BP-Obfuscation Using Graph-Induced Encoding",
+            "authors": [
+                "Shai Halevi",
+                "Tzipora Halevi",
+                "Victor Shoup",
+                "Noah Stephens-Davidowitz"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_049",
+            "title": "AUTHSCOPE: Towards Automatic Discovery of Vulnerable Authorizations in Online Services",
+            "authors": [
+                "Chaoshun Zuo",
+                "Qingchuan Zhao",
+                "Zhiqiang Lin"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_050",
+            "title": "Mass Discovery of Android Traffic Imprints through Instantiated Partial Execution",
+            "authors": [
+                "Yi Chen",
+                "Wei You",
+                "Yeonjoon Lee",
+                "Kai Chen",
+                "XiaoFeng Wang",
+                "Wei Zou"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_051",
+            "title": "Unleashing the Walking Dead: Understanding Cross-App Remote Infections on Mobile WebViews",
+            "authors": [
+                "Tongxin Li",
+                "Xueqiang Wang",
+                "Mingming Zha",
+                "Kai Chen",
+                "XiaoFeng Wang",
+                "Luyi Xing",
+                "Xiaolong Bai",
+                "Nan Zhang",
+                "Xinhui Han"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_052",
+            "title": "May the Fourth Be With You: A Microarchitectural Side Channel Attack on Several Real-World Applications of Curve25519",
+            "authors": [
+                "Daniel Genkin",
+                "Luke Valenta",
+                "Yuval Yarom"
+            ],
+            "topics": [
+                "Security",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "CCS_17_053",
+            "title": "Stacco: Differentially Analyzing Side-Channel Traces for Detecting SSL/TLS Vulnerabilities in Secure Enclaves",
+            "authors": [
+                "Yuan Xiao",
+                "Mengyuan Li",
+                "Sanchuan Chen",
+                "Yinqian Zhang"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "CCS_17_054",
+            "title": "Precise Detection of Side-Channel Vulnerabilities using Quantitative Cartesian Hoare Logic",
+            "authors": [
+                "Jia Chen",
+                "Yu Feng",
+                "Isil Dillig"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_055",
+            "title": "Better Than Advertised: Improved Collision-Resistance Guarantees for MD-Based Hash Functions",
+            "authors": [
+                "Mihir Bellare",
+                "Joseph Jaeger",
+                "Julia Len"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_056",
+            "title": "Generic Semantic Security against a Kleptographic Adversary",
+            "authors": [
+                "Alexander Russell",
+                "Qiang Tang",
+                "Moti Yung",
+                "Hong-Sheng Zhou"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_057",
+            "title": "Defending Against Key Exfiltration: Efficiency Improvements for Big-Key Cryptography via Large-Alphabet Subkey Prediction",
+            "authors": [
+                "Mihir Bellare (UCSD)",
+                "Wei Dai (UCSD)"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_058",
+            "title": "Client-side Name Collision Vulnerability in the New gTLD Era: A Systematic Study",
+            "authors": [
+                "Qi Alfred Chen",
+                "Matthew Thomas",
+                "Eric Osterweil",
+                "Yulong Cao",
+                "Jie You",
+                "Z. Morley Mao"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_059",
+            "title": "The Wolf of Name Street: Hijacking Domains Through Their Nameservers",
+            "authors": [
+                "Thomas Vissers",
+                "Timothy Barron",
+                "Tom Van Goethem",
+                "Wouter Joosen",
+                "Nick Nikiforakis"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_060",
+            "title": "Faulds: A Non-Parametric Iterative Classifier for Internet-Wide OS Fingerprinting",
+            "authors": [
+                "Zain Shamsi",
+                "Daren B. H. Cline",
+                "Dmitri Loguinov"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "CCS_17_061",
+            "title": "T/Key: Second-Factor Authentication From Secure Hash Chains",
+            "authors": [
+                "Dmitry Kogan",
+                "Nathan Manohar",
+                "Dan Boneh"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_062",
+            "title": "Practical Graphs for Optimal Side-Channel Resistant Memory-Hard Functions",
+            "authors": [
+                "Joel Alwen",
+                "Jeremiah Blocki",
+                "Ben Harsha"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_063",
+            "title": "Better Bounds for Block Cipher Modes of Operation via Nonce-Based Key Derivation",
+            "authors": [
+                "Shay Gueron",
+                "Yehuda Lindell"
+            ],
+            "topics": [
+                "Security"
+            ],
+            "award": true
+        },
+        {
+            "key": "CCS_17_064",
+            "title": "The ART of App Compartmentalization: Compiler-based Library Privilege Separation on Stock Android",
+            "authors": [
+                "Jie Huang",
+                "Oliver Schranz",
+                "Sven Bugiel",
+                "Michael Backes"
+            ],
+            "topics": [
+                "Security",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "CCS_17_065",
+            "title": "Vulnerable Implicit Service: A Revisit",
+            "authors": [
+                "Lingguang Lei",
+                "Yi He",
+                "Kun Sun",
+                "Jiwu Jing",
+                "Yuewu Wang",
+                "Qi Li",
+                "Jian Weng"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_066",
+            "title": "A Stitch in Time: Supporting Android Developers in Writing Secure Code",
+            "authors": [
+                "Duc Cuong Nguyen",
+                "Dominik Wermke",
+                "Yasemin Acar",
+                "Michael Backes",
+                "Charles Weir",
+                "Sascha Fahl"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_067",
+            "title": "Exploiting a Thermal Side Channel for Power Attacks in Multi-Tenant Data Centers",
+            "authors": [
+                "Mohammad A. Islam",
+                "Shaolei Ren",
+                "Adam Wierman"
+            ],
+            "topics": [
+                "Security",
+                "Cloud",
+                "Energy"
+            ]
+        },
+        {
+            "key": "CCS_17_068",
+            "title": "Watch Me, but Don\u2019t Touch Me! Contactless Control Flow Monitoring via Electromagnetic Emanations",
+            "authors": [
+                "Yi Han",
+                "Sriharsha Etigowni",
+                "Hua Liu",
+                "Saman A. Zonouz",
+                "Athina Petropulu"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_069",
+            "title": "Viden: Attacker Identification on In-Vehicle Networks",
+            "authors": [
+                "Kyong-Tak Cho",
+                "Kang G. Shin"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "CCS_17_070",
+            "title": "Practical Attacks Against Graph-based Clustering",
+            "authors": [
+                "Yizheng Chen",
+                "Yacin Nadji",
+                "Athanasios Kountouras",
+                "Fabian Monrose",
+                "Roberto Perdisci",
+                "Manos Antonakakis",
+                "Nikolaos Vasiloglou"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "CCS_17_071",
+            "title": "Automated Crowdturfing Attacks and Defenses in Online Review Systems",
+            "authors": [
+                "Yuanshun Yao",
+                "Bimal Viswanath",
+                "Jenna Cryan",
+                "Haitao Zheng",
+                "Ben Y. Zhao"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_072",
+            "title": "POISED: Spotting Twitter Spam Off the Beaten Paths",
+            "authors": [
+                "Shirin Nilizadeh",
+                "Fran\u00e7ois Labr\u00e8che",
+                "Alireza Sadighian",
+                "Ali Zand",
+                "Jos\u00e9 Fernandez",
+                "Christopher Kruegel",
+                "Gianluca Stringhini",
+                "Giovanni Vigna"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_073",
+            "title": "Practical Secure Aggregation for Privacy-Preserving Machine Learning",
+            "authors": [
+                "Keith Bonawitz",
+                "Vladimir Ivanov",
+                "Ben Kreuter",
+                "Antonio Marcedone",
+                "H. Brendan McMahan",
+                "Sarvar Patel",
+                "Daniel Ramage",
+                "Aaron Segal",
+                "Karn Seth"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "CCS_17_074",
+            "title": "Use Privacy in Data-Driven Systems: Theory and Experiments with Machine Learnt Programs",
+            "authors": [
+                "Anupam Datta",
+                "Matthew Fredrikson",
+                "Gihyuk Ko",
+                "Piotr Mardziel",
+                "Shayak Sen"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "CCS_17_075",
+            "title": "SGX-BigMatrix: A Practical Encrypted Data Analytic Framework With Trusted Processors",
+            "authors": [
+                "Fahad Shaon",
+                "Murat Kantarcioglu",
+                "Zhiqiang Lin",
+                "Latifur Khan"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "CCS_17_076",
+            "title": "Malicious-Secure Private Set Intersection via Dual Execution",
+            "authors": [
+                "Peter Rindal",
+                "Mike Rosulek"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_077",
+            "title": "Fast Private Set Intersection from Homomorphic Encryption",
+            "authors": [
+                "Hao Chen",
+                "Kim Laine",
+                "Peter Rindal"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_078",
+            "title": "Practical Multi-party Private Set Intersection from Symmetric-Key Techniques",
+            "authors": [
+                "Vladimir Kolesnikov",
+                "Naor Matania",
+                "Benny Pinkas",
+                "Mike Rosulek",
+                "Ni Trieu"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_079",
+            "title": "Detecting Structurally Anomalous Logins Within Enterprise Networks",
+            "authors": [
+                "Hossein Siadati",
+                "Nasir Memon"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_080",
+            "title": "DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning",
+            "authors": [
+                "Min Du",
+                "Feifei Li",
+                "Guineng Zheng",
+                "Vivek Srikumar"
+            ],
+            "topics": [
+                "Security",
+                "Data"
+            ]
+        },
+        {
+            "key": "CCS_17_081",
+            "title": "RiskTeller: Predicting the Risk of Cyber Incidents",
+            "authors": [
+                "Leyla Bilge",
+                "Yufei Han",
+                "Matteo Dell\u2019Amico"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_082",
+            "title": "Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2",
+            "authors": [
+                "Mathy Vanhoef",
+                "Frank Piessens"
+            ],
+            "topics": [
+                "Security"
+            ],
+            "award": true
+        },
+        {
+            "key": "CCS_17_083",
+            "title": "CCCP: Closed Caption Crypto Phones to Resist MITM Attacks, Human Errors and Click-Through",
+            "authors": [
+                "Maliheh Shirvanian",
+                "Nitesh Saxena"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_084",
+            "title": "No-Match Attacks and Robust Partnering Definitions \u2014 Defining Trivial Attacks for Security Protocols is Not Trivial",
+            "authors": [
+                "Yong Li",
+                "Sven Sch\u00e4ge"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_085",
+            "title": "Querying for Queries: Indexes of Queries for Efficient and Expressive IT-PIR",
+            "authors": [
+                "Syed Mahbub Hafiz",
+                "Ryan Henry"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_086",
+            "title": "PeGaSus: Data-Adaptive Differentially Private Stream Processing",
+            "authors": [
+                "Yan Chen",
+                "Ashwin Machanavajjhala",
+                "Michael Hay",
+                "Gerome Miklau"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_087",
+            "title": "Composing Differential Privacy and Secure Computation: A case study on scaling private record linkage",
+            "authors": [
+                "Xi He",
+                "Ashwin Machanavajjhala",
+                "Cheryl Flynn",
+                "Divesh Srivastava"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_088",
+            "title": "Where the Wild Warnings Are: Root Causes of Chrome HTTPS Certificate Errors",
+            "authors": [
+                "Mustafa Emre Acer",
+                "Emily Stark",
+                "Adrienne Porter Felt",
+                "Sascha Fahl",
+                "Radhika Bhargava",
+                "Bhanu Dev",
+                "Matt Braithwaite",
+                "Ryan Sleevi",
+                "Parisa Tabriz"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_089",
+            "title": "Data breaches, phishing, or malware? Understanding the risks of stolen credentials",
+            "authors": [
+                "Kurt Thomas",
+                "Frank Li",
+                "Ali Zand",
+                "Jake Barrett",
+                "Juri Ranieri",
+                "Luca Invernizzi",
+                "Yarik Markov",
+                "Oxana Comanescu",
+                "Vijay Eranti",
+                "Angelika Moscicki",
+                "Dan Margolis",
+                "Vern Paxson",
+                "Elie Bursztein"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_090",
+            "title": "Certified Malware: Measuring Breaches of Trust in the Windows Code-Signing PKI",
+            "authors": [
+                "Doowon Kim",
+                "Bum Jun Kwon",
+                "Tudor Dumitra\u015f"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_091",
+            "title": "Forward Secure Dynamic Searchable Symmetric Encryption with Efficient Updates",
+            "authors": [
+                "Kee Sung Kim",
+                "Minkyu Kim",
+                "Dongsoo Lee",
+                "Je Hong Park",
+                "Woo-Hwan Kim"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_092",
+            "title": "Forward and Backward Private Searchable Encryption from Constrained Cryptographic Primitives",
+            "authors": [
+                "Raphael Bost",
+                "Brice Minaud",
+                "Olga Ohrimenko"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_093",
+            "title": "Economic Factors of Vulnerability Trade and Exploitation: Empirical evidence from a prominent Russian cybercrime market",
+            "authors": [
+                "Luca Allodi"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_094",
+            "title": "Quantifying the Pressure of Legal Risks on Third-party Vulnerability Research",
+            "authors": [
+                "Alexander Gamero-Garrido",
+                "Stefan Savage",
+                "Kirill Levchenko",
+                "Alex C. Snoeren"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_095",
+            "title": "Identity-Based Format-Preserving Encryption",
+            "authors": [
+                "Mihir Bellare",
+                "Viet Tung Hoang"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_096",
+            "title": "Standardizing Bad Cryptographic Practice: A teardown of the IEEE standard for protecting electronic-design intellectual property",
+            "authors": [
+                "Animesh Chhotaray",
+                "Adib Nahiyan",
+                "Thomas Shrimpton",
+                "Domenic J. Forte",
+                "Mark Tehranipoor"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_097",
+            "title": "New Techniques for Structural Batch Verification in Bilinear Groups with Applications to Groth-Sahai Proofs",
+            "authors": [
+                "Gottfried Herold",
+                "Max Hoffmann",
+                "Michael Kloo\u00df",
+                "Carla R\u00e0fols",
+                "Andy Rupp"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_098",
+            "title": "Practical Quantum-Safe Voting from Lattices",
+            "authors": [
+                "Rafael del Pino",
+                "Vadim Lyubashevsky",
+                "Gregory Neven",
+                "Gregor Seiler"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_099",
+            "title": "A Touch of Evil: High-Assurance Cryptographic Hardware from Untrusted Components",
+            "authors": [
+                "Vasilios Mavroudis",
+                "Andrea Cerulli",
+                "Petr Svenda",
+                "Dan Cvrcek",
+                "Dusan Klinec",
+                "George Danezis"
+            ],
+            "topics": [
+                "Security",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "CCS_17_100",
+            "title": "Provably-Secure Logic Locking: From Theory To Practice",
+            "authors": [
+                "Muhammad Yasin",
+                "Abhrajit Sengupta",
+                "Mohammed Thari Nabeel",
+                "Mohammed Ashraf",
+                "Jeyavijayan Rajendran",
+                "Ozgur Sinanoglu"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_101",
+            "title": "The Return of Coppersmith\u2019s Attack: Practical Factorization of Widely Used RSA Moduli",
+            "authors": [
+                "Matus Nemec",
+                "Marek Sys",
+                "Petr Svenda",
+                "Dusan Klinec",
+                "Vashek Matyas"
+            ],
+            "topics": [
+                "Security"
+            ],
+            "award": true
+        },
+        {
+            "key": "CCS_17_102",
+            "title": "Algorithm Substitution Attacks from a Steganographic Perspective",
+            "authors": [
+                "Sebastian Berndt",
+                "Maciej Liskiewicz"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_103",
+            "title": "On the Power of Optical Contactless Probing: Attacking Bitstream Encryption of FPGAs",
+            "authors": [
+                "Shahin Tajik",
+                "Heiko Lohrke",
+                "Jean-Pierre Seifert",
+                "Christian Boit"
+            ],
+            "topics": [
+                "Security",
+                "GPGPU"
+            ]
+        },
+        {
+            "key": "CCS_17_104",
+            "title": "The Dynamics of Innocent Flesh on the Bone: Code Reuse Ten Years Later",
+            "authors": [
+                "Victor van der Veen",
+                "Dennis Andriesse",
+                "Manolis Stamatogiannakis",
+                "Xi Chen",
+                "Herbert Bos",
+                "Cristiano Giuffrida"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_105",
+            "title": "Capturing Malware Propagations with Code Injections and Code-Reuse attacks",
+            "authors": [
+                "David Korczynski",
+                "Heng Yin"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_106",
+            "title": "Code-reuse attacks for the Web: Breaking Cross-Site Scripting Mitigations via Script Gadgets",
+            "authors": [
+                "Sebastian Lekies",
+                "Krzysztof Kotowicz",
+                "Samuel Gro\u00df",
+                "Eduardo Vela",
+                "Martin Johns"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_107",
+            "title": "Tail Attacks on Web Applications",
+            "authors": [
+                "Huasong Shan",
+                "Qingyang Wang",
+                "Calton Pu"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_108",
+            "title": "Rewriting History: Changing the Archived Web from the Present",
+            "authors": [
+                "Ada Lerner",
+                "Tadayoshi Kohno",
+                "Franziska Roesner"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_109",
+            "title": "Deemon: Detecting CSRF with Dynamic Analysis and Property Graphs",
+            "authors": [
+                "Giancarlo Pellegrino",
+                "Martin Johns",
+                "Simon Koch",
+                "Michael Backes",
+                "Christian Rossow"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_110",
+            "title": "A Comprehensive Symbolic Analysis of TLS 1.3",
+            "authors": [
+                "Cas Cremers",
+                "Marko Horvat",
+                "Jonathan Hoyland",
+                "Sam Scott",
+                "Thyla van der Merwe"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_111",
+            "title": "HACL*: A Verified Modern Cryptographic Library",
+            "authors": [
+                "Jean-Karim Zinzindohou\u00e9",
+                "Karthikeyan Bhargavan",
+                "Jonathan Protzenko",
+                "Benjamin Beurdouche"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_112",
+            "title": "Jasmin: High-Assurance and High-Speed Cryptography",
+            "authors": [
+                "Jos\u00e9 Bacelar Almeida",
+                "Manuel Barbosa",
+                "Gilles Barthe",
+                "Arthur Blot",
+                "Benjamin Gr\u00e9goire",
+                "Vincent Laporte",
+                "Tiago Oliveira",
+                "Hugo Pacheco",
+                "Benedikt Schmidt",
+                "Pierre-Yves Strub"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_113",
+            "title": "Post-Quantum Zero-Knowledge and Signatures from Symmetric-Key Primitives",
+            "authors": [
+                "Melissa Chase",
+                "David Derler",
+                "Steven Goldfeder",
+                "Claudio Orlandi",
+                "Sebastian Ramacher",
+                "Christian Rechberger",
+                "Daniel Slamanig",
+                "Greg Zaverucha"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_114",
+            "title": "To BLISS-B or not to be - Attacking strongSwan\u2019s Implementation of Post-Quantum Signatures",
+            "authors": [
+                "Peter Pessl",
+                "Leon Groot Bruinderink",
+                "Yuval Yarom"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_115",
+            "title": "Side-Channel Attacks on BLISS Lattice-Based Signatures: Exploiting Branch Tracing Against strongSwan and Electromagnetic Emanations in Microcontrollers",
+            "authors": [
+                "Thomas Espitau",
+                "Pierre-Alain Fouque",
+                "Beno\u00eft G\u00e9rard",
+                "Mehdi Tibouchi"
+            ],
+            "topics": [
+                "Security",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "CCS_17_116",
+            "title": "Nonmalleable Information Flow Control",
+            "authors": [
+                "Ethan Cecchetti",
+                "Andrew C. Myers",
+                "Owen Arden"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_117",
+            "title": "Cryptographically Secure Information Flow Control on Key-Value Stores",
+            "authors": [
+                "Lucas Waye",
+                "Pablo Buiras",
+                "Owen Arden",
+                "Alejandro Russo",
+                "Stephen Chong"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_118",
+            "title": "Object Flow Integrity",
+            "authors": [
+                "Wenhao1 Wang",
+                "Xiaoyang Xu",
+                "Kevin Hamlen"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_119",
+            "title": "BBA+: Improving the Security and Applicability of Privacy-Preserving Point Collection",
+            "authors": [
+                "Gunnar Hartung",
+                "Max Hoffmann",
+                "Matthias Nagel",
+                "Andy Rupp"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_120",
+            "title": "walk2friends: Inferring Social Links from Mobility Profiles",
+            "authors": [
+                "Michael Backes",
+                "Mathias Humbert",
+                "Jun Pang",
+                "Yang Zhang"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_121",
+            "title": "Back to the drawing board: Revisiting the design of optimal location privacy-preserving mechanisms",
+            "authors": [
+                "Simon Oya",
+                "Carmela Troncoso",
+                "Fernando P\u00e9rez-Gonz\u00e1lez"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_122",
+            "title": "Certified Verification of Algebraic Properties on Low-Level Mathematical Constructs in Cryptographic Programs",
+            "authors": [
+                "Ming-Hsien Tsai",
+                "Bow-Yaw Wang",
+                "Bo-Yin Yang"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_123",
+            "title": "A Fast and Verified Software Stack for Secure Function Evaluation",
+            "authors": [
+                "Jos\u00e9 Bacelar Almeida",
+                "Manuel Barbosa",
+                "Gilles Barthe",
+                "Fran\u00e7ois Dupressoir",
+                "Benjamin Gr\u00e9goire",
+                "Vincent Laporte",
+                "Vitor Pereira"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_124",
+            "title": "Verified Correctness and Security of mbedTLS HMAC-DRBG",
+            "authors": [
+                "Katherine Q. Ye",
+                "Matthew Green",
+                "Naphat Sanguansin",
+                "Lennart Beringer",
+                "Adam Petcher",
+                "Andrew W. Appel"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_125",
+            "title": "How Unique is Your .onion? An Analysis of the Fingerprintability of Tor Onion Services",
+            "authors": [
+                "Rebekah Overdorf",
+                "Marc Juarez",
+                "Gunes Acar",
+                "Rachel Greenstadt",
+                "Claudia Diaz"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_126",
+            "title": "The Waterfall of Liberty: Decoy Routing Circumvention that Resists Routing Attacks",
+            "authors": [
+                "Milad Nasr",
+                "Hadi Zolfaghari",
+                "Amir Houmansadr"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "CCS_17_127",
+            "title": "Compressive Traffic Analysis: A New Paradigm for Scalable Traffic Analysis",
+            "authors": [
+                "Milad Nasr",
+                "Amir Houmansadr",
+                "Arya Mazumdar"
+            ],
+            "topics": [
+                "Security",
+                "Network"
+            ]
+        },
+        {
+            "key": "CCS_17_128",
+            "title": "Full accounting for verifiable outsourcing",
+            "authors": [
+                "Riad S. Wahby",
+                "Ye Ji",
+                "Andrew J. Blumberg",
+                "abhi shelat",
+                "Justin Thaler",
+                "Michael Walfish",
+                "Thomas Wies"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_129",
+            "title": "Ligero: Lightweight Sublinear Arguments Without a Trusted Setup",
+            "authors": [
+                "Scott Ames",
+                "Carmit Hazay",
+                "Yuval Ishai",
+                "Muthuramakrishnan Venkitasubramaniam"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_130",
+            "title": "Homomorphic Secret Sharing: Optimizations and Applications",
+            "authors": [
+                "Elette Boyle",
+                "Geoffroy Couteau",
+                "Niv Gilboa",
+                "Yuval Ishai",
+                "Michele Orru"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_131",
+            "title": "DIFUZE: Interface Aware Fuzzing for Kernel Drivers",
+            "authors": [
+                "Jake Corina",
+                "Aravind Machiry",
+                "Christopher Salls",
+                "Yan Shoshitaishvili",
+                "Shuang Hao",
+                "Christopher Kruegel",
+                "Giovanni Vigna"
+            ],
+            "topics": [
+                "Security",
+                "OS"
+            ]
+        },
+        {
+            "key": "CCS_17_132",
+            "title": "SemFuzz: Semantics-based Automatic Generation of Proof-of-Concept Exploits",
+            "authors": [
+                "Wei You",
+                "Peiyuan Zong",
+                "Kai Chen",
+                "XiaoFeng Wang",
+                "Xiaojing Liao",
+                "Pan Bian",
+                "Bin Liang"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_133",
+            "title": "SlowFuzz: Automated Domain-Independent Detection of Algorithmic Complexity Vulnerabilities",
+            "authors": [
+                "Theofilos Petsios",
+                "Jason Zhao",
+                "Angelos D. Keromytis",
+                "Suman Jana"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_134",
+            "title": "Checking Open-Source License Violation and 1-day Security Risk at Large Scale",
+            "authors": [
+                "Ruian Duan",
+                "Ashish Bijlani",
+                "Meng Xu",
+                "Taesoo Kim",
+                "Wenke Lee"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_135",
+            "title": "Keep me Updated: An Empirical Study of Third-Party Library Updatability on Android",
+            "authors": [
+                "Erik Derr",
+                "Sven Bugiel",
+                "Sascha Fahl",
+                "Yasemin Acar",
+                "Michael Backes"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_136",
+            "title": "A Large-Scale Empirical Study of Security Patches",
+            "authors": [
+                "Frank Li",
+                "Vern Paxson"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_137",
+            "title": "DEFTL: Implementing Plausibly Deniable Encryption in Flash Translation Layer",
+            "authors": [
+                "Shijie Jia",
+                "Luning Xia",
+                "Bo Chen",
+                "Peng Liu"
+            ],
+            "topics": [
+                "Security",
+                "Storage"
+            ]
+        },
+        {
+            "key": "CCS_17_138",
+            "title": "FlashGuard: Leveraging Intrinsic Flash Properties to Defend Against Encryption Ransomware",
+            "authors": [
+                "Jian Huang",
+                "Jun Xu",
+                "Xinyu Xing",
+                "Peng Liu",
+                "Moinuddin Qureshi"
+            ],
+            "topics": [
+                "Security",
+                "Storage"
+            ]
+        },
+        {
+            "key": "CCS_17_139",
+            "title": "FirmUSB: Vetting USB Device Firmware using Domain Informed Symbolic Execution",
+            "authors": [
+                "Grant Hernandez",
+                "Farhaan Fowze",
+                "Dave Tian",
+                "Tuba Yavuz",
+                "Kevin Butler"
+            ],
+            "topics": [
+                "Security",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "CCS_17_140",
+            "title": "TinyOLE: Efficient Actively Secure Two-Party Computation from Oblivious Linear Function Evaluation",
+            "authors": [
+                "Nico D\u00f6ttling",
+                "Satrajit Ghosh",
+                "Jesper Buus Nielsen",
+                "Tobias Nilges",
+                "Roberto Trifiletti"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_141",
+            "title": "Distributed Measurement with Private Set-Union Cardinality",
+            "authors": [
+                "Ellis Fenske",
+                "Akshaya Mani",
+                "Aaron Johnson",
+                "Micah Sherr"
+            ],
+            "topics": [
+                "Security",
+                "Concurrency"
+            ]
+        },
+        {
+            "key": "CCS_17_142",
+            "title": "Efficient Public Trace-and-Revoke from Standard Assumptions",
+            "authors": [
+                "Shweta Agrawal",
+                "Sanjay Bhattacherjee",
+                "Duong Hieu Phan",
+                "Damien Stehle",
+                "Shota Yamada"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_143",
+            "title": "Designing New Operating Primitives to Improve Fuzzing Performance",
+            "authors": [
+                "Wen Xu",
+                "Sanidhya Kashyap",
+                "Changwoo Min",
+                "Taesoo Kim"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_144",
+            "title": "Directed Greybox Fuzzing",
+            "authors": [
+                "Marcel B\u00f6hme",
+                "Van-Thuan Pham",
+                "Manh-Dung Nguyen",
+                "Abhik Roychoudhury"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_145",
+            "title": "IMF: Inferred Model-based Fuzzer",
+            "authors": [
+                "HyungSeok Han",
+                "Sang Kil Cha"
+            ],
+            "topics": [
+                "Security"
+            ]
+        },
+        {
+            "key": "CCS_17_146",
+            "title": "PtrSplit: Supporting general pointers in automatic program partitioning",
+            "authors": [
+                "Shen Liu",
+                "Gang Tan",
+                "Trent Jaeger"
+            ],
+            "topics": [
+                "Security",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "CCS_17_147",
+            "title": "HexType: Efficient Detection of Type Confusion Errors for C++",
+            "authors": [
+                "Yuseok Jeon",
+                "Priyam Biswas",
+                "Scott Carr",
+                "Byoungyoung Lee",
+                "Mathias Payer"
+            ],
+            "topics": [
+                "Security",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "CCS_17_148",
+            "title": "FreeGuard: A Faster Secure Heap Allocator",
+            "authors": [
+                "Sam Silvestro",
+                "Hongyu Liu",
+                "Corey Crosser",
+                "Zhiqiang Lin",
+                "Tongping Liu"
+            ],
+            "topics": [
+                "Security",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "CCS_17_149",
+            "title": "JITGuard: Hardening Just-in-time Compilers with SGX",
+            "authors": [
+                "Tommaso Frassetto",
+                "David Gens",
+                "Christopher Liebchen",
+                "Ahmad-Reza Sadeghi"
+            ],
+            "topics": [
+                "Security",
+                "Compilers"
+            ]
+        },
+        {
+            "key": "CCS_17_150",
+            "title": "Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX",
+            "authors": [
+                "Wenhao2 Wang",
+                "Guoxing Chen",
+                "Xiaorui Pan",
+                "Yinqian Zhang",
+                "XiaoFeng Wang",
+                "Vincent Bindschaedler",
+                "Haixu Tang",
+                "Carl A. Gunter"
+            ],
+            "topics": [
+                "Security",
+                "Architecture"
+            ]
+        },
+        {
+            "key": "CCS_17_151",
+            "title": "A Formal Foundation for Secure Remote Execution of Enclaves",
+            "authors": [
+                "Pramod Subramanyan",
+                "Rohit Sinha",
+                "Ilia Lebedev",
+                "Srinivas Devadas",
+                "Sanjit Seshia"
+            ],
+            "topics": [
+                "Security"
+            ],
+            "award": true
+        }
+    ]
+}
