@@ -1,5 +1,0 @@
-"0","filenam = paste(""outplot"", filekey, sep = """")"
-"0","filenam = paste(filenam, "".png"", sep = """")"
-"0","ggsave(filenam, height = 7, limitsize = FALSE)"
-"2","Saving 7.29 x 7 in image
-"
